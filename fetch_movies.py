@@ -9,7 +9,7 @@ import requests
 # ==============================
 
 # 每次运行抓多少页
-PAGES_PER_RUN = 100
+PAGES_PER_RUN = 500
 
 # 数据文件
 output_file = "data/movies.json"
