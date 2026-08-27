@@ -54,7 +54,6 @@ for movie in movies:
         "score": movie.get("vod_douban_score"),
 
         "remarks": movie.get("vod_remarks"),
-
         "content": movie.get("vod_content"),
 
         "play_from": movie.get("vod_play_from"),
@@ -66,8 +65,8 @@ for movie in movies:
     result.append(item)
 
 
-# 保存
-output_file = "movies.json"
+# 保存到 data 文件夹
+output_file = "data/movies.json"
 
 with open(output_file, "w", encoding="utf-8") as f:
     json.dump(
