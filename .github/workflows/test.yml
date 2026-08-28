@@ -30,6 +30,9 @@ jobs:
         run: |
           python fetch_movies.py
 
+      - name: 生成首页数据
+        run: python generate_home.py
+
       - name: 提交 movies.json
         run: |
           git config --global user.name "github-actions[bot]"
