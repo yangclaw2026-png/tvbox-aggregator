@@ -462,6 +462,25 @@ for source in sources:
         []
     )
 
+    # ==============================
+    # 调试：打印第一条播放源数据
+    # ==============================
+    
+    if first_movies:
+    
+        print()
+        print("========== API 第一条数据 ==========")
+    
+        print(
+            json.dumps(
+                first_movies[0],
+                ensure_ascii=False,
+                indent=2
+            )
+        )
+    
+        print("===================================")
+    
 
     if not first_movies:
 
