@@ -192,18 +192,6 @@
     "update_time": "2026-08-22 22:42:11"
   },
   {
-    "id": 184,
-    "name": "名侦探柯南 日语",
-    "type": "日本动漫",
-    "category": "动漫,日本动漫,动作,动画,悬疑,惊悚,犯罪",
-    "year": "1996",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20250109-5/18829d083e40e5a4f1760236e2dd5da5.jpg",
-    "score": "9.2",
-    "remarks": "第1270集",
-    "update_time": "2026-08-22 22:40:33"
-  },
-  {
     "id": 145327,
     "name": "山河大道",
     "type": "国产动漫",
@@ -370,18 +358,6 @@
     "score": "5.0",
     "remarks": "第5集",
     "update_time": "2026-08-22 16:37:54"
-  },
-  {
-    "id": 141885,
-    "name": "1999！神秘学对策部（英配版）",
-    "type": "国产动漫",
-    "category": "科幻,动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/7a5fe2856466ae92c3f7e4808184cf31.jpg",
-    "score": "5.0",
-    "remarks": "第5集",
-    "update_time": "2026-08-22 16:35:47"
   },
   {
     "id": 144520,
@@ -598,5 +574,29 @@
     "score": "5.0",
     "remarks": "第8集",
     "update_time": "2026-08-22 11:53:11"
+  },
+  {
+    "id": 138714,
+    "name": "异狱暴君：我的影子能无限进化",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2025",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260706-1/fd1667c67d69accc266882d87f8243f3.jpg",
+    "score": "5.0",
+    "remarks": "第231集",
+    "update_time": "2026-08-22 11:51:10"
+  },
+  {
+    "id": 107091,
+    "name": "亡灵行者！从鱼人地下城开始 动态漫画",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2025",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250927-1/bc22d113536ffde4024b6c2dae500045.jpg",
+    "score": "5.0",
+    "remarks": "第194集",
+    "update_time": "2026-08-22 11:50:30"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 146341,
+    "name": "布衣小子镇山河",
+    "type": "国产剧",
+    "category": "东方,玄幻",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260828-1/a5b639b0ff602a91e7c281fa90006b8a.jpg",
+    "score": "5.0",
+    "remarks": "第12集完结",
+    "update_time": "2026-08-28 15:16:49"
+  },
+  {
     "id": 136188,
     "name": "据称与埃里森·巴伯",
     "type": "欧美剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第8集",
     "update_time": "2026-08-26 22:35:00"
-  },
-  {
-    "id": 137386,
-    "name": "你在夏日之中",
-    "type": "日本剧",
-    "category": "剧情,爱情,同性",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260626-1/5b19553bae7826555770d83538b3e750.jpg",
-    "score": "5.0",
-    "remarks": "第10集",
-    "update_time": "2026-08-26 22:31:50"
   }
 ]

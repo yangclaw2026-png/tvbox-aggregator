@@ -312,18 +312,6 @@
     "update_time": "2026-08-26 18:24:39"
   },
   {
-    "id": 123634,
-    "name": "洛杉矶劫案",
-    "type": "动作片",
-    "category": "剧情,动作,犯罪",
-    "year": "2026",
-    "area": "美国,英国",
-    "poster": "https://dbzy5.com/upload/vod/20260218-1/64b7ae0d8fa6f82a85ab48dcfa86a288.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-26 18:20:49"
-  },
-  {
     "id": 144780,
     "name": "大秦谜案",
     "type": "纪录片",
@@ -598,5 +586,17 @@
     "score": "5.0",
     "remarks": "第21集下",
     "update_time": "2026-08-24 21:43:48"
+  },
+  {
+    "id": 139745,
+    "name": "一城一味·透鲜的滇桂",
+    "type": "纪录片",
+    "category": "纪录片,短片",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260715-1/e1072c4edf3a2044806485346d85b1a1.jpg",
+    "score": "5.0",
+    "remarks": "第13期",
+    "update_time": "2026-08-24 18:27:51"
   }
 ]

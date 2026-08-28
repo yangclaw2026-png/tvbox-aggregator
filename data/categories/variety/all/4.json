@@ -144,18 +144,6 @@
     "update_time": "2026-08-10 23:09:43"
   },
   {
-    "id": 143274,
-    "name": "街头餐厅斗士",
-    "type": "日韩综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "韩国",
-    "poster": "https://dbzy5.com/upload/vod/20260810-1/e2fd18dbf028153d7d24422bdd787883.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-10 22:56:08"
-  },
-  {
     "id": 137325,
     "name": "中餐厅·南洋拾光季",
     "type": "大陆综艺",
@@ -598,5 +586,17 @@
     "score": "5.0",
     "remarks": "第4集完结",
     "update_time": "2026-08-03 12:38:59"
+  },
+  {
+    "id": 141951,
+    "name": "穿越欧洲自然奇境",
+    "type": "大陆综艺",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "德国",
+    "poster": "https://dbzy5.com/upload/vod/20260803-1/f0a8d3e887d38aba9a8c200082a32cb2.jpg",
+    "score": "5.0",
+    "remarks": "第2期",
+    "update_time": "2026-08-03 12:06:04"
   }
 ]

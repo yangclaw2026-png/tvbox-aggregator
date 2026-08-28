@@ -1,29 +1,5 @@
 [
   {
-    "id": 68400,
-    "name": "蓝精灵：寻找神秘村",
-    "type": "动漫电影",
-    "category": "动画,动漫电影",
-    "year": "2017",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20250107-2/2254bddd8860e0b6d38945f87e745074.png",
-    "score": "6.3",
-    "remarks": "正片",
-    "update_time": "2026-08-16 19:02:53"
-  },
-  {
-    "id": 63488,
-    "name": "龙纹身的女孩",
-    "type": "剧情片",
-    "category": "剧情,悬疑,惊悚,犯罪",
-    "year": "2011",
-    "area": "美国,瑞典,挪威",
-    "poster": "https://dbzy5.com/upload/vod/20250107-7/c973ba1ada0a7f8a8d07a5e534b57be9.jpg",
-    "score": "8.1",
-    "remarks": "正片",
-    "update_time": "2026-08-16 19:00:55"
-  },
-  {
     "id": 144130,
     "name": "灵光际会",
     "type": "爱情片",
@@ -192,18 +168,6 @@
     "update_time": "2026-08-15 13:32:40"
   },
   {
-    "id": 126262,
-    "name": "挽救计划 原声版",
-    "type": "剧情片",
-    "category": "剧情,科幻,惊悚",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260323-1/19951ce4bdad8b43e8ee01f9dc92c89d.jpg",
-    "score": "8.5",
-    "remarks": "正片",
-    "update_time": "2026-08-15 13:32:30"
-  },
-  {
     "id": 143915,
     "name": "摇滚夏令营3",
     "type": "喜剧片",
@@ -358,18 +322,6 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-14 15:03:18"
-  },
-  {
-    "id": 136174,
-    "name": "火遮眼（国语版）",
-    "type": "动作片",
-    "category": "动作,犯罪",
-    "year": "2026",
-    "area": "中国香港,中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260611-1/ef4045590d28f163b3d9e7769a3aa56a.jpg",
-    "score": "8.5",
-    "remarks": "正片",
-    "update_time": "2026-08-14 13:28:03"
   },
   {
     "id": 143422,
@@ -598,5 +550,53 @@
     "score": "5.0",
     "remarks": "第245集",
     "update_time": "2026-08-12 17:47:58"
+  },
+  {
+    "id": 140572,
+    "name": "中国八大菜系",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2025",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260723-1/e41a56f079afa4d30eaa71802f44cc39.jpg",
+    "score": "5.0",
+    "remarks": "第16集完结",
+    "update_time": "2026-08-12 17:30:04"
+  },
+  {
+    "id": 143441,
+    "name": "乔布斯",
+    "type": "剧情片",
+    "category": "剧情,传记",
+    "year": "2013",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260812-1/e1f8bf7928788744cb9c0a89d910c3ae.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-12 17:19:20"
+  },
+  {
+    "id": 143451,
+    "name": "女仆日记",
+    "type": "剧情片",
+    "category": "剧情 ，喜剧",
+    "year": "2026",
+    "area": "法国",
+    "poster": "https://dbzy5.com/upload/vod/20260812-1/f076f43aa8f551e572b6cae3e5f4041b.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-12 15:36:46"
+  },
+  {
+    "id": 143450,
+    "name": "黄金大偷运",
+    "type": "纪录片",
+    "category": "纪录片,民国,案件",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260812-1/6841a38417e8ab3079020267fdcf7f08.jpg",
+    "score": "5.0",
+    "remarks": "第2集完结",
+    "update_time": "2026-08-12 15:20:21"
   }
 ]

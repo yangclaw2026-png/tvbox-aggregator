@@ -1,53 +1,5 @@
 [
   {
-    "id": 62437,
-    "name": "绝对统治",
-    "type": "恐怖片",
-    "category": "恐怖",
-    "year": "2016",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20250107-8/c72de40c6dca2e6c35bd6d2d06b95d86.jpg",
-    "score": "6.1",
-    "remarks": "正片",
-    "update_time": "2026-07-31 20:55:28"
-  },
-  {
-    "id": 141680,
-    "name": "坠爱相拥",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2024",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/f56dea3abbdcaa69b49b345b62c8631c.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-31 20:53:31"
-  },
-  {
-    "id": 1685,
-    "name": "荒诞外星迷",
-    "type": "剧情片",
-    "category": "剧情,喜剧,传记,剧情片",
-    "year": "2024",
-    "area": "阿根廷",
-    "poster": "https://dbzy5.com/upload/vod/20250109-4/d44a897df2dc5c55e1c8b592ce48f618.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-31 20:51:45"
-  },
-  {
-    "id": 141678,
-    "name": "幸福是",
-    "type": "剧情片",
-    "category": "剧情,喜剧,爱情",
-    "year": "2024",
-    "area": "南非",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/7ba8d3426ebd012c180bcec624308c9b.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-31 20:50:55"
-  },
-  {
     "id": 141676,
     "name": "泣婴桥",
     "type": "惊悚片",
@@ -598,5 +550,53 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-07-31 14:56:23"
+  },
+  {
+    "id": 141623,
+    "name": "游泳池 2024",
+    "type": "剧情片",
+    "category": "剧情,惊悚",
+    "year": "2024",
+    "area": "冰岛,芬兰",
+    "poster": "https://dbzy5.com/upload/vod/20260731-1/793b8cf4a56ed1cc6a3c3d93b464ae03.jpg",
+    "score": "4.1",
+    "remarks": "正片",
+    "update_time": "2026-07-31 14:52:16"
+  },
+  {
+    "id": 141621,
+    "name": "熊猫闯非洲",
+    "type": "动漫电影",
+    "category": "动画",
+    "year": "2024",
+    "area": "丹麦,荷兰,法国,德国,爱沙尼亚,中国大",
+    "poster": "https://dbzy5.com/upload/vod/20260731-1/612a0a7bd22c82539e663248a30c02c3.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-07-31 14:48:40"
+  },
+  {
+    "id": 141620,
+    "name": "僵尸杀手：大象墓地",
+    "type": "恐怖片",
+    "category": "恐怖",
+    "year": "2014",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260731-1/222e542e717a5a8f4f9c0f71ff2f6ebf.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-07-31 14:45:27"
+  },
+  {
+    "id": 141619,
+    "name": "死者永生",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2024",
+    "area": "德国,美国",
+    "poster": "https://dbzy5.com/upload/vod/20260731-1/e4aaa3d3c6fe49d911bc0cd8fd93f11a.jpg",
+    "score": "6.4",
+    "remarks": "正片",
+    "update_time": "2026-07-31 14:42:16"
   }
 ]

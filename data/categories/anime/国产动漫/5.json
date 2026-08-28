@@ -60,18 +60,6 @@
     "update_time": "2026-08-22 16:37:54"
   },
   {
-    "id": 141885,
-    "name": "1999！神秘学对策部（英配版）",
-    "type": "国产动漫",
-    "category": "科幻,动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/7a5fe2856466ae92c3f7e4808184cf31.jpg",
-    "score": "5.0",
-    "remarks": "第5集",
-    "update_time": "2026-08-22 16:35:47"
-  },
-  {
     "id": 144520,
     "name": "无良系统变向导，我被四个哨兵拿捏了",
     "type": "国产动漫",
@@ -598,5 +586,17 @@
     "score": "5.0",
     "remarks": "第14集",
     "update_time": "2026-08-21 12:02:16"
+  },
+  {
+    "id": 131729,
+    "name": "丧尸末世：重生精神病院开始成神",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260512-1/94d1ccfc82098ac20689ba9f6d922dca.jpg",
+    "score": "5.0",
+    "remarks": "第80集完结",
+    "update_time": "2026-08-21 12:01:18"
   }
 ]

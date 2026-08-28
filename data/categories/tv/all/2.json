@@ -1,5 +1,17 @@
 [
   {
+    "id": 137386,
+    "name": "你在夏日之中",
+    "type": "日本剧",
+    "category": "剧情,爱情,同性",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260626-1/5b19553bae7826555770d83538b3e750.jpg",
+    "score": "5.0",
+    "remarks": "第10集",
+    "update_time": "2026-08-26 22:31:50"
+  },
+  {
     "id": 137350,
     "name": "深夜怪谈会6",
     "type": "韩剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第12集完结",
     "update_time": "2026-08-24 17:14:26"
-  },
-  {
-    "id": 111189,
-    "name": "泰拉玛斯卡：秘社",
-    "type": "欧美剧",
-    "category": "奇幻",
-    "year": "2025",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20251103-1/8e034b687212a7ee0661f90a650b88eb.jpg",
-    "score": "5.0",
-    "remarks": "第6集完结",
-    "update_time": "2026-08-24 16:13:13"
   }
 ]

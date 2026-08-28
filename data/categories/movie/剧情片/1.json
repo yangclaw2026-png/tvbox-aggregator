@@ -552,18 +552,6 @@
     "update_time": "2026-08-15 13:32:40"
   },
   {
-    "id": 126262,
-    "name": "挽救计划 原声版",
-    "type": "剧情片",
-    "category": "剧情,科幻,惊悚",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260323-1/19951ce4bdad8b43e8ee01f9dc92c89d.jpg",
-    "score": "8.5",
-    "remarks": "正片",
-    "update_time": "2026-08-15 13:32:30"
-  },
-  {
     "id": 143908,
     "name": "推理竞技场",
     "type": "剧情片",
@@ -598,5 +586,17 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-14 18:33:51"
+  },
+  {
+    "id": 143831,
+    "name": "别说好运",
+    "type": "剧情片",
+    "category": "剧情,歌舞",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260814-1/182f81d04f92c5a99b1e53f1bd075594.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-14 18:25:06"
   }
 ]

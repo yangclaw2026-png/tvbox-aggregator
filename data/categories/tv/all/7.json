@@ -1,29 +1,5 @@
 [
   {
-    "id": 139146,
-    "name": "守护解放西·精编版",
-    "type": "国产剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260709-1/ad14e5f534b5bd765f89dc8afa5d5a41.jpg",
-    "score": "5.0",
-    "remarks": "第12集完结",
-    "update_time": "2026-08-03 20:25:37"
-  },
-  {
-    "id": 142020,
-    "name": "宴遇簪花缘",
-    "type": "国产剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/7b8edc3ffc6fe808953fc755f07ae6f4.jpg",
-    "score": "5.0",
-    "remarks": "第12集完结",
-    "update_time": "2026-08-03 19:09:57"
-  },
-  {
     "id": 140223,
     "name": "依然的喜事",
     "type": "国产剧",
@@ -70,18 +46,6 @@
     "score": "5.0",
     "remarks": "第8集",
     "update_time": "2026-08-03 16:32:00"
-  },
-  {
-    "id": 141967,
-    "name": "宴遇簪花缘",
-    "type": "国产剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/b943580d4caabc513ee19c88c7977009.jpg",
-    "score": "5.0",
-    "remarks": "第12集完结",
-    "update_time": "2026-08-03 14:14:48"
   },
   {
     "id": 141968,
@@ -250,30 +214,6 @@
     "score": "5.0",
     "remarks": "第25集完结",
     "update_time": "2026-08-01 15:23:08"
-  },
-  {
-    "id": 137856,
-    "name": "非份之罪 粤语版",
-    "type": "香港剧",
-    "category": "剧情,悬疑,犯罪",
-    "year": "2026",
-    "area": "中国香港",
-    "poster": "https://dbzy5.com/upload/vod/20260630-1/76146207b9f612f2bd772455716a50bd.jpg",
-    "score": "5.0",
-    "remarks": "第25集完结",
-    "update_time": "2026-08-01 15:21:33"
-  },
-  {
-    "id": 141707,
-    "name": "来！金来号！ 來！金來號！",
-    "type": "国产剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "中国台湾",
-    "poster": "https://dbzy5.com/upload/vod/20260801-1/207d879b47b330d634a5fa5d77e95069.jpg",
-    "score": "5.0",
-    "remarks": "第1集",
-    "update_time": "2026-08-01 15:17:11"
   },
   {
     "id": 136601,
@@ -502,101 +442,5 @@
     "score": "5.0",
     "remarks": "第61集完结",
     "update_time": "2026-07-30 14:29:50"
-  },
-  {
-    "id": 132814,
-    "name": "转过头帮你擦眼泪 轉過頭幫你擦眼淚",
-    "type": "台湾剧",
-    "category": "同性,奇幻",
-    "year": "2026",
-    "area": "中国台湾",
-    "poster": "https://dbzy5.com/upload/vod/20260521-1/7089f837cad43050248c5b1b4a09ae49.jpg",
-    "score": "0.0",
-    "remarks": "第12集完结",
-    "update_time": "2026-07-29 22:40:14"
-  },
-  {
-    "id": 141464,
-    "name": "愤怒 第一季",
-    "type": "海外剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "葡萄牙",
-    "poster": "https://dbzy5.com/upload/vod/20260729-1/6fcf2e5df9958313802253a6e6fa2bf5.jpg",
-    "score": "5.0",
-    "remarks": "第6集完结",
-    "update_time": "2026-07-29 22:05:23"
-  },
-  {
-    "id": 141458,
-    "name": "终极反击计划",
-    "type": "海外剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "墨西哥",
-    "poster": "https://dbzy5.com/upload/vod/20260729-1/070f45443eed6954426572df2a9f1f13.jpg",
-    "score": "5.0",
-    "remarks": "第20集完结",
-    "update_time": "2026-07-29 21:55:12"
-  },
-  {
-    "id": 141420,
-    "name": "我们的模范学校",
-    "type": "海外剧",
-    "category": "喜剧,剧情",
-    "year": "2026",
-    "area": "印度",
-    "poster": "https://dbzy5.com/upload/vod/20260729-1/0748359edc2974240acc313730251ccc.jpg",
-    "score": "5.0",
-    "remarks": "第7集完结",
-    "update_time": "2026-07-29 18:29:44"
-  },
-  {
-    "id": 141417,
-    "name": "你更愿意选择：生存",
-    "type": "欧美剧",
-    "category": "喜剧,即兴",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260729-1/3c07dc86fed550314bc8396cb156a52d.jpg",
-    "score": "5.0",
-    "remarks": "第6集完结",
-    "update_time": "2026-07-29 18:18:06"
-  },
-  {
-    "id": 141406,
-    "name": "守护：警惕身边的泄密风险",
-    "type": "国产剧",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260729-1/50b39df395d22a8dc697e64cb7626adb.jpg",
-    "score": "5.0",
-    "remarks": "第5集",
-    "update_time": "2026-07-29 16:35:08"
-  },
-  {
-    "id": 139912,
-    "name": "拖车垃圾",
-    "type": "欧美剧",
-    "category": "喜剧,纪录片",
-    "year": "2026",
-    "area": "加拿大",
-    "poster": "https://dbzy5.com/upload/vod/20260718-1/39cc87058e29543138fbbfac38b41a46.jpg",
-    "score": "5.0",
-    "remarks": "第6集完结",
-    "update_time": "2026-07-29 16:16:51"
-  },
-  {
-    "id": 137218,
-    "name": "明天也要上班！",
-    "type": "韩剧",
-    "category": "剧情,爱情",
-    "year": "2026",
-    "area": "韩国",
-    "poster": "https://dbzy5.com/upload/vod/20260624-1/07b4fe346374459b53fb20c0d6ca4d6d.jpg",
-    "score": "5.0",
-    "remarks": "第12集完结",
-    "update_time": "2026-07-29 15:22:42"
   }
 ]

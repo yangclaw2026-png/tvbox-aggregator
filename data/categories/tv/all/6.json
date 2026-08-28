@@ -420,18 +420,6 @@
     "update_time": "2026-08-05 15:57:00"
   },
   {
-    "id": 142307,
-    "name": "扭转死亡时间（国语版）",
-    "type": "泰国剧",
-    "category": "剧情,爱情,悬疑,奇幻",
-    "year": "2024",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/2dbff15d7e5e24263424909a01efe7d7.jpg",
-    "score": "5.0",
-    "remarks": "第13集完结",
-    "update_time": "2026-08-05 15:54:53"
-  },
-  {
     "id": 142275,
     "name": "幽冥教主是公主",
     "type": "国产剧",
@@ -540,18 +528,6 @@
     "update_time": "2026-08-04 20:00:36"
   },
   {
-    "id": 142143,
-    "name": "你的第三",
-    "type": "泰国剧",
-    "category": "爱情,同性",
-    "year": "2026",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/9ee3aece8669090c899c28c51f69418e.jpg",
-    "score": "5.0",
-    "remarks": "第2集",
-    "update_time": "2026-08-04 17:14:17"
-  },
-  {
     "id": 142123,
     "name": "Chat Boy",
     "type": "日本剧",
@@ -598,5 +574,29 @@
     "score": "5.0",
     "remarks": "第8集",
     "update_time": "2026-08-03 21:38:26"
+  },
+  {
+    "id": 139146,
+    "name": "守护解放西·精编版",
+    "type": "国产剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260709-1/ad14e5f534b5bd765f89dc8afa5d5a41.jpg",
+    "score": "5.0",
+    "remarks": "第12集完结",
+    "update_time": "2026-08-03 20:25:37"
+  },
+  {
+    "id": 142020,
+    "name": "宴遇簪花缘",
+    "type": "国产剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260803-1/7b8edc3ffc6fe808953fc755f07ae6f4.jpg",
+    "score": "5.0",
+    "remarks": "第12集完结",
+    "update_time": "2026-08-03 19:09:57"
   }
 ]

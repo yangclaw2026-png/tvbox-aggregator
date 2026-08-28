@@ -1,29 +1,5 @@
 [
   {
-    "id": 144537,
-    "name": "劈柴十年女仙跪地求我收她为徒",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260818-1/f0299623a708b0d543741cb49fb7d2b3.jpg",
-    "score": "5.0",
-    "remarks": "第50集完结",
-    "update_time": "2026-08-18 19:28:22"
-  },
-  {
-    "id": 144538,
-    "name": "万族之劫",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260818-1/a4494fa8e236cd65ce9f93fc4707baec.jpg",
-    "score": "5.0",
-    "remarks": "第30集完结",
-    "update_time": "2026-08-18 19:22:04"
-  },
-  {
     "id": 144403,
     "name": "被系统误判的顶级厉诡",
     "type": "国产动漫",
@@ -166,18 +142,6 @@
     "score": "8.9",
     "remarks": "第13集完结",
     "update_time": "2026-08-17 12:38:44"
-  },
-  {
-    "id": 144201,
-    "name": "海绵宝宝 第十四季 国语版",
-    "type": "欧美动漫",
-    "category": "喜剧,动画,奇幻",
-    "year": "2023",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260817-1/cfebf94e3af36a95e5d5818db8bcec6d.jpg",
-    "score": "8.9",
-    "remarks": "第13集完结",
-    "update_time": "2026-08-17 11:50:04"
   },
   {
     "id": 144199,
@@ -598,5 +562,41 @@
     "score": "5.0",
     "remarks": "第23集",
     "update_time": "2026-08-12 11:42:47"
+  },
+  {
+    "id": 739,
+    "name": "寒冰末日：我屯了千亿物资 动态漫画 第一季",
+    "type": "国产动漫",
+    "category": "奇幻,末日,中国动漫",
+    "year": "2024",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250109-5/29166c2830a6560c27c1c071f41af538.jpg",
+    "score": "5.0",
+    "remarks": "第100集完结",
+    "update_time": "2026-08-12 11:34:36"
+  },
+  {
+    "id": 143421,
+    "name": "古代重工业",
+    "type": "国产动漫",
+    "category": "动画,玄幻,军事,古装",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260812-1/96f4290269f9a1e421880f5927d0cf04.jpg",
+    "score": "5.0",
+    "remarks": "第55集完结",
+    "update_time": "2026-08-12 11:29:10"
+  },
+  {
+    "id": 143336,
+    "name": "河小狸的动物趣闻馆",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260811-1/148703c9e5c425064d31ab9d57244be4.jpg",
+    "score": "5.0",
+    "remarks": "第60集完结",
+    "update_time": "2026-08-11 18:12:52"
   }
 ]

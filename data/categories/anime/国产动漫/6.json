@@ -1,17 +1,5 @@
 [
   {
-    "id": 131729,
-    "name": "丧尸末世：重生精神病院开始成神",
-    "type": "国产动漫",
-    "category": "中国动漫",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260512-1/94d1ccfc82098ac20689ba9f6d922dca.jpg",
-    "score": "5.0",
-    "remarks": "第80集完结",
-    "update_time": "2026-08-21 12:01:18"
-  },
-  {
     "id": 131320,
     "name": "​喵地瓜欢乐蛋仔岛 第三季",
     "type": "国产动漫",
@@ -598,5 +586,17 @@
     "score": "5.0",
     "remarks": "第60集完结",
     "update_time": "2026-08-14 12:00:29"
+  },
+  {
+    "id": 143748,
+    "name": "代管废柴班级，育出满班武神",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260813-1/29514494bf673fa7cbef03faa8e46364.jpg",
+    "score": "5.0",
+    "remarks": "第50集完结",
+    "update_time": "2026-08-13 21:08:34"
   }
 ]

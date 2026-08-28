@@ -12,18 +12,6 @@
     "update_time": "2026-08-26 18:24:39"
   },
   {
-    "id": 123634,
-    "name": "洛杉矶劫案",
-    "type": "动作片",
-    "category": "剧情,动作,犯罪",
-    "year": "2026",
-    "area": "美国,英国",
-    "poster": "https://dbzy5.com/upload/vod/20260218-1/64b7ae0d8fa6f82a85ab48dcfa86a288.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-26 18:20:49"
-  },
-  {
     "id": 144896,
     "name": "怒之杀",
     "type": "动作片",
@@ -142,18 +130,6 @@
     "score": "7.7",
     "remarks": "正片",
     "update_time": "2026-08-14 15:08:14"
-  },
-  {
-    "id": 136174,
-    "name": "火遮眼（国语版）",
-    "type": "动作片",
-    "category": "动作,犯罪",
-    "year": "2026",
-    "area": "中国香港,中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260611-1/ef4045590d28f163b3d9e7769a3aa56a.jpg",
-    "score": "8.5",
-    "remarks": "正片",
-    "update_time": "2026-08-14 13:28:03"
   },
   {
     "id": 143623,
@@ -598,5 +574,29 @@
     "score": "6.5",
     "remarks": "正片",
     "update_time": "2026-07-30 22:29:20"
+  },
+  {
+    "id": 128480,
+    "name": "安昂传奇：最后的气宗",
+    "type": "动作片",
+    "category": "动作,动画,悬疑,奇幻,冒险",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260415-1/ce3f37c15173749d9712469e7503e1ed.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-07-30 13:47:57"
+  },
+  {
+    "id": 141483,
+    "name": "异形征服日",
+    "type": "动作片",
+    "category": "动作,科幻",
+    "year": "2021",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260730-1/c1e7b787192cb5804a933feb880110a2.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-07-30 12:41:01"
   }
 ]

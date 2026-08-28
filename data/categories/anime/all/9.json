@@ -1,41 +1,5 @@
 [
   {
-    "id": 739,
-    "name": "寒冰末日：我屯了千亿物资 动态漫画 第一季",
-    "type": "国产动漫",
-    "category": "奇幻,末日,中国动漫",
-    "year": "2024",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250109-5/29166c2830a6560c27c1c071f41af538.jpg",
-    "score": "5.0",
-    "remarks": "第100集完结",
-    "update_time": "2026-08-12 11:34:36"
-  },
-  {
-    "id": 143421,
-    "name": "古代重工业",
-    "type": "国产动漫",
-    "category": "动画,玄幻,军事,古装",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260812-1/96f4290269f9a1e421880f5927d0cf04.jpg",
-    "score": "5.0",
-    "remarks": "第55集完结",
-    "update_time": "2026-08-12 11:29:10"
-  },
-  {
-    "id": 143336,
-    "name": "河小狸的动物趣闻馆",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260811-1/148703c9e5c425064d31ab9d57244be4.jpg",
-    "score": "5.0",
-    "remarks": "第60集完结",
-    "update_time": "2026-08-11 18:12:52"
-  },
-  {
     "id": 139476,
     "name": "灵御学院：从觉醒开始满级碾压",
     "type": "国产动漫",
@@ -598,5 +562,41 @@
     "score": "5.0",
     "remarks": "第51集完结",
     "update_time": "2026-08-05 11:47:55"
+  },
+  {
+    "id": 142152,
+    "name": "苦修无敌",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260804-1/9ca3063de3d3a8a5fb3dc3a8096f37c0.jpg",
+    "score": "5.0",
+    "remarks": "第20集完结",
+    "update_time": "2026-08-04 21:15:14"
+  },
+  {
+    "id": 142149,
+    "name": "重度强迫症",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260804-1/1ece6ede57016ddca145e3ae9e193f1b.jpg",
+    "score": "5.0",
+    "remarks": "第12集完结",
+    "update_time": "2026-08-04 18:05:43"
+  },
+  {
+    "id": 141206,
+    "name": "派大星秀 第二季（英文版）",
+    "type": "欧美动漫",
+    "category": "动画,喜剧,儿童",
+    "year": "2023",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260728-1/293720c203f5904e01cf4b281b2fa2da.jpg",
+    "score": "5.0",
+    "remarks": "第11集完结",
+    "update_time": "2026-08-03 11:12:47"
   }
 ]

@@ -1,53 +1,5 @@
 [
   {
-    "id": 141934,
-    "name": "内华达之瑰",
-    "type": "剧情片",
-    "category": "剧情,恐怖",
-    "year": "2025",
-    "area": "英国",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/23be59544fd4029445d4effaa7907553.jpg",
-    "score": "6.1",
-    "remarks": "正片",
-    "update_time": "2026-08-02 22:37:55"
-  },
-  {
-    "id": 36331,
-    "name": "魔侠传之唐吉可德",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2010",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250108-39/e62ae3fcace7c936b037182cdc2836e6.jpg",
-    "score": "4.4",
-    "remarks": "正片",
-    "update_time": "2026-08-02 22:37:43"
-  },
-  {
-    "id": 58667,
-    "name": "古剑奇谭之流月昭明",
-    "type": "动作片",
-    "category": "动作,奇幻,古装",
-    "year": "2018",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250107-12/04cd74cf3fafd77b2d1b1157fb19a865.jpg",
-    "score": "4.2",
-    "remarks": "正片",
-    "update_time": "2026-08-02 22:36:43"
-  },
-  {
-    "id": 141939,
-    "name": "抱歉打扰",
-    "type": "喜剧片",
-    "category": "喜剧,奇幻",
-    "year": "2018",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/75a827d602afe5087e8c9b70eeabbe83.jpg",
-    "score": "7.0",
-    "remarks": "正片",
-    "update_time": "2026-08-02 22:35:23"
-  },
-  {
     "id": 141938,
     "name": "恶魔圣地",
     "type": "恐怖片",
@@ -598,5 +550,53 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-02 14:08:46"
+  },
+  {
+    "id": 141883,
+    "name": "宗师叶问 2026",
+    "type": "动作片",
+    "category": "动作",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260802-1/305b8f00037bdc8d65d79eb4efe7e9e0.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-02 13:13:08"
+  },
+  {
+    "id": 141879,
+    "name": "热血篮球之永不放弃",
+    "type": "动作片",
+    "category": "动作,张超,青春",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260802-1/b604f05e87def33e327e974551a3641b.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-02 12:05:04"
+  },
+  {
+    "id": 141878,
+    "name": "将你催眠",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2020",
+    "area": "印度",
+    "poster": "https://dbzy5.com/upload/vod/20260802-1/c96474a966ef0a486a8bcc6bea0192a1.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-02 11:37:03"
+  },
+  {
+    "id": 141208,
+    "name": "吴承恩与《西游记》",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260728-1/938bbb10e15b44aa0da4d19d16b9c376.jpg",
+    "score": "5.0",
+    "remarks": "第4集完结",
+    "update_time": "2026-08-02 11:31:57"
   }
 ]

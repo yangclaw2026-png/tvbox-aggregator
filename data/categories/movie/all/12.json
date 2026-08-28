@@ -1,53 +1,5 @@
 [
   {
-    "id": 141654,
-    "name": "校长有话说",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/ffba180f339cc9ce3fc0f3cae293d97a.jpg",
-    "score": "5.0",
-    "remarks": "第10集",
-    "update_time": "2026-08-01 15:49:11"
-  },
-  {
-    "id": 141643,
-    "name": "去年夏天",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "1969",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/60b87eab99e96bc1b896e126d1102703.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-01 15:49:00"
-  },
-  {
-    "id": 141645,
-    "name": "玩具熊",
-    "type": "剧情片",
-    "category": "剧情,音乐,传记",
-    "year": "2022",
-    "area": "丹麦",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/dc7365597b89f10699d2f364d86ec90d.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-01 15:30:09"
-  },
-  {
-    "id": 141732,
-    "name": "我的人鱼之恋",
-    "type": "爱情片",
-    "category": "爱情,奇幻",
-    "year": "2018",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260801-1/9d6368181ebde5b13569b935edc0262e.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-01 15:26:45"
-  },
-  {
     "id": 141655,
     "name": "勇敢者的摇篮",
     "type": "剧情片",
@@ -598,5 +550,53 @@
     "score": "7.3",
     "remarks": "正片",
     "update_time": "2026-07-31 20:56:26"
+  },
+  {
+    "id": 62437,
+    "name": "绝对统治",
+    "type": "恐怖片",
+    "category": "恐怖",
+    "year": "2016",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20250107-8/c72de40c6dca2e6c35bd6d2d06b95d86.jpg",
+    "score": "6.1",
+    "remarks": "正片",
+    "update_time": "2026-07-31 20:55:28"
+  },
+  {
+    "id": 141680,
+    "name": "坠爱相拥",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2024",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260731-1/f56dea3abbdcaa69b49b345b62c8631c.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-07-31 20:53:31"
+  },
+  {
+    "id": 1685,
+    "name": "荒诞外星迷",
+    "type": "剧情片",
+    "category": "剧情,喜剧,传记,剧情片",
+    "year": "2024",
+    "area": "阿根廷",
+    "poster": "https://dbzy5.com/upload/vod/20250109-4/d44a897df2dc5c55e1c8b592ce48f618.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-07-31 20:51:45"
+  },
+  {
+    "id": 141678,
+    "name": "幸福是",
+    "type": "剧情片",
+    "category": "剧情,喜剧,爱情",
+    "year": "2024",
+    "area": "南非",
+    "poster": "https://dbzy5.com/upload/vod/20260731-1/7ba8d3426ebd012c180bcec624308c9b.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-07-31 20:50:55"
   }
 ]

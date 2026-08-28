@@ -1,5 +1,6 @@
 {
-  "last_page": 1003,
-  "total_pages": 7058,
-  "completed": false
+  "initialized": true,
+  "max_movies": 6000,
+  "initial_pages": 300,
+  "last_update_new_movies": 5
 }

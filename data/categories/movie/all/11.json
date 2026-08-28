@@ -1,53 +1,5 @@
 [
   {
-    "id": 141883,
-    "name": "宗师叶问 2026",
-    "type": "动作片",
-    "category": "动作",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/305b8f00037bdc8d65d79eb4efe7e9e0.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-02 13:13:08"
-  },
-  {
-    "id": 141879,
-    "name": "热血篮球之永不放弃",
-    "type": "动作片",
-    "category": "动作,张超,青春",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/b604f05e87def33e327e974551a3641b.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-02 12:05:04"
-  },
-  {
-    "id": 141878,
-    "name": "将你催眠",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2020",
-    "area": "印度",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/c96474a966ef0a486a8bcc6bea0192a1.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-02 11:37:03"
-  },
-  {
-    "id": 141208,
-    "name": "吴承恩与《西游记》",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260728-1/938bbb10e15b44aa0da4d19d16b9c376.jpg",
-    "score": "5.0",
-    "remarks": "第4集完结",
-    "update_time": "2026-08-02 11:31:57"
-  },
-  {
     "id": 141877,
     "name": "比岩石更硬",
     "type": "纪录片",
@@ -598,5 +550,53 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-01 15:58:45"
+  },
+  {
+    "id": 141654,
+    "name": "校长有话说",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260731-1/ffba180f339cc9ce3fc0f3cae293d97a.jpg",
+    "score": "5.0",
+    "remarks": "第10集",
+    "update_time": "2026-08-01 15:49:11"
+  },
+  {
+    "id": 141643,
+    "name": "去年夏天",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "1969",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260731-1/60b87eab99e96bc1b896e126d1102703.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-01 15:49:00"
+  },
+  {
+    "id": 141645,
+    "name": "玩具熊",
+    "type": "剧情片",
+    "category": "剧情,音乐,传记",
+    "year": "2022",
+    "area": "丹麦",
+    "poster": "https://dbzy5.com/upload/vod/20260731-1/dc7365597b89f10699d2f364d86ec90d.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-01 15:30:09"
+  },
+  {
+    "id": 141732,
+    "name": "我的人鱼之恋",
+    "type": "爱情片",
+    "category": "爱情,奇幻",
+    "year": "2018",
+    "area": "菲律宾",
+    "poster": "https://dbzy5.com/upload/vod/20260801-1/9d6368181ebde5b13569b935edc0262e.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-01 15:26:45"
   }
 ]

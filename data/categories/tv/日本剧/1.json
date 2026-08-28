@@ -516,18 +516,6 @@
     "update_time": "2026-08-21 13:21:23"
   },
   {
-    "id": 144968,
-    "name": "心生",
-    "type": "日本剧",
-    "category": "剧情，爱情",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260820-1/3decc49086e77b453debad4df6335ac9.jpg",
-    "score": "5.0",
-    "remarks": "第7集",
-    "update_time": "2026-08-20 21:25:29"
-  },
-  {
     "id": 138808,
     "name": "怪奇-伊藤润二令人彻夜难眠的奇异故事",
     "type": "日本剧",
@@ -598,5 +586,17 @@
     "score": "5.0",
     "remarks": "第7集",
     "update_time": "2026-08-16 13:04:25"
+  },
+  {
+    "id": 140821,
+    "name": "八神瑛子：上野中央署组织犯罪对策课 八神瑛子",
+    "type": "日本剧",
+    "category": "悬疑,犯罪",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260725-1/74327c9f3f098380f47bdf3672946b47.jpg",
+    "score": "5.0",
+    "remarks": "第5集完结",
+    "update_time": "2026-08-15 21:44:52"
   }
 ]

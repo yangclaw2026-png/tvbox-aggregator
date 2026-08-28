@@ -1,17 +1,5 @@
 [
   {
-    "id": 143748,
-    "name": "代管废柴班级，育出满班武神",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260813-1/29514494bf673fa7cbef03faa8e46364.jpg",
-    "score": "5.0",
-    "remarks": "第50集完结",
-    "update_time": "2026-08-13 21:08:34"
-  },
-  {
     "id": 143760,
     "name": "断电末日重生筑堡求生",
     "type": "国产动漫",
@@ -598,5 +586,17 @@
     "score": "5.0",
     "remarks": "第31集完结",
     "update_time": "2026-08-05 23:05:46"
+  },
+  {
+    "id": 142396,
+    "name": "重生成龙",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/748008a144dd32cbd82eb32855315f2b.jpg",
+    "score": "5.0",
+    "remarks": "第42集完结",
+    "update_time": "2026-08-05 22:40:25"
   }
 ]
