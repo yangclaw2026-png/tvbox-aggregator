@@ -67,13 +67,29 @@ print(f"读取到主影视库：{len(movies)} 部影视")
 # 建立匹配索引
 # ==============================
 
+# 豆瓣 ID 索引
 douban_index = {}
+
+# 名称 + 年份索引
 name_year_index = {}
+
+# 纯名称索引
+name_index = {}
+
+# 重名影片
+duplicate_names = set()
 
 
 for movie in movies:
 
-    douban_id = movie.get("douban_id")
+
+    # --------------------------
+    # 豆瓣 ID
+    # --------------------------
+
+    douban_id = movie.get(
+        "douban_id"
+    )
 
     if douban_id:
 
@@ -82,11 +98,19 @@ for movie in movies:
         ] = movie
 
 
+    # --------------------------
+    # 名称
+    # --------------------------
+
     name = (
         movie.get("name")
         or ""
     ).strip()
 
+
+    # --------------------------
+    # 年份
+    # --------------------------
 
     year = str(
         movie.get("year")
@@ -94,11 +118,49 @@ for movie in movies:
     ).strip()
 
 
-    if name:
+    if not name:
 
-        key = f"{name}|{year}"
+        continue
 
-        name_year_index[key] = movie
+
+    # --------------------------
+    # 名称 + 年份索引
+    # --------------------------
+
+    key = f"{name}|{year}"
+
+    name_year_index[key] = movie
+
+
+    # --------------------------
+    # 纯名称索引
+    #
+    # 如果存在重名，
+    # 后面删除该名称，
+    # 避免错误匹配
+    # --------------------------
+
+    if name in name_index:
+
+        duplicate_names.add(
+            name
+        )
+
+    else:
+
+        name_index[name] = movie
+
+
+# ==============================
+# 删除重名影片
+# ==============================
+
+for name in duplicate_names:
+
+    name_index.pop(
+        name,
+        None
+    )
 
 
 print(
@@ -109,6 +171,16 @@ print(
 print(
     f"建立名称年份索引："
     f"{len(name_year_index)} 条"
+)
+
+print(
+    f"建立纯名称索引："
+    f"{len(name_index)} 条"
+)
+
+print(
+    f"发现重名影片："
+    f"{len(duplicate_names)} 个"
 )
 
 
@@ -243,18 +315,25 @@ def process_movies(
 
 
         # --------------------------
+        # 获取播放源影片名称
+        # --------------------------
+
+        name = (
+            source_movie.get(
+                "vod_name"
+            )
+            or ""
+        ).strip()
+
+
+        # --------------------------
         # 名称 + 年份匹配
+        #
+        # 如果播放源提供年份，
+        # 优先精确匹配
         # --------------------------
 
         if not matched_movie:
-
-            name = (
-                source_movie.get(
-                    "vod_name"
-                )
-                or ""
-            ).strip()
-
 
             year = str(
                 source_movie.get(
@@ -264,10 +343,30 @@ def process_movies(
             ).strip()
 
 
-            key = f"{name}|{year}"
+            if year:
+
+                key = f"{name}|{year}"
+
+                matched_movie = (
+                    name_year_index.get(
+                        key
+                    )
+                )
+
+
+        # --------------------------
+        # 纯名称匹配
+        #
+        # 播放源没有年份时使用
+        # 只匹配唯一名称
+        # --------------------------
+
+        if not matched_movie and name:
 
             matched_movie = (
-                name_year_index.get(key)
+                name_index.get(
+                    name
+                )
             )
 
 
@@ -281,6 +380,10 @@ def process_movies(
 
             continue
 
+
+        # --------------------------
+        # 匹配成功
+        # --------------------------
 
         matched_count += 1
 
@@ -362,6 +465,10 @@ def process_movies(
 
                 break
 
+
+        # --------------------------
+        # 添加播放源
+        # --------------------------
 
         if not exists:
 
@@ -462,25 +569,6 @@ for source in sources:
         []
     )
 
-    # ==============================
-    # 调试：打印第一条播放源数据
-    # ==============================
-    
-    if first_movies:
-    
-        print()
-        print("========== API 第一条数据 ==========")
-    
-        print(
-            json.dumps(
-                first_movies[0],
-                ensure_ascii=False,
-                indent=2
-            )
-        )
-    
-        print("===================================")
-    
 
     if not first_movies:
 
@@ -875,6 +963,7 @@ for source in sources:
 # ==============================
 
 save_movies()
+
 save_progress()
 
 
