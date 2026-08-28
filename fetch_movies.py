@@ -8,20 +8,22 @@ import requests
 # 配置
 # ==============================
 
-# 历史数据阶段，每次抓多少页
-PAGES_PER_RUN = 300
+# 豆瓣源每页数量通常是 20
+# 首次最多抓 300 页
+INITIAL_PAGES = 300
 
-# 增量检测时，最多保存多少个最新 ID
-LATEST_IDS_COUNT = 50
+# 本地影视库最大保留数量
+# 300 页 × 20 部
+MAX_MOVIES = 6000
+
+# 请求间隔
+REQUEST_DELAY = 0.5
 
 # 数据文件
 output_file = "data/movies.json"
 
 # 进度文件
 progress_file = "data/progress.json"
-
-# 请求间隔
-REQUEST_DELAY = 0.5
 
 
 # ==============================
@@ -45,72 +47,16 @@ print(f"正在获取：{primary_source['name']}")
 
 
 # ==============================
-# 读取旧影视数据
+# 请求页面
 # ==============================
-
-if os.path.exists(output_file):
-
-    with open(output_file, "r", encoding="utf-8") as f:
-        old_movies = json.load(f)
-
-    print(f"读取到旧数据：{len(old_movies)} 部影视")
-
-else:
-
-    old_movies = []
-
-    print("没有旧数据，将创建新的影视库")
-
-
-# 用 vod_id 建立索引，避免重复
-movies_dict = {
-    str(movie["id"]): movie
-    for movie in old_movies
-    if movie.get("id") is not None
-}
-
-
-# ==============================
-# 读取抓取进度
-# ==============================
-
-if os.path.exists(progress_file):
-
-    with open(progress_file, "r", encoding="utf-8") as f:
-        progress = json.load(f)
-
-else:
-
-    progress = {}
-
-
-last_page = progress.get("last_page", 0)
-total_pages = progress.get("total_pages", 0)
-completed = progress.get("completed", False)
-
-# 保存上一次检测到的最新影片 ID
-latest_ids = progress.get("latest_ids", [])
-
-
-print(f"当前已抓到第 {last_page} 页")
-print(f"总页数：{total_pages}")
-print(f"历史抓取完成：{completed}")
-
-
-# ==============================
-# 获取第一页
-# ==============================
-
-separator = "&" if "?" in base_url else "?"
-
-first_page_url = f"{base_url}{separator}pg=1"
-
 
 def get_page(page):
 
     separator = "&" if "?" in base_url else "?"
 
     url = f"{base_url}{separator}pg={page}"
+
+    print(f"正在获取第 {page} 页")
 
     response = requests.get(
         url,
@@ -123,38 +69,32 @@ def get_page(page):
 
 
 # ==============================
-# 将源数据转换成影片数据
+# 转换影片数据
 # ==============================
 
 def make_movie_item(movie):
 
     return {
         "id": movie.get("vod_id"),
-
         "name": movie.get("vod_name"),
-
         "type": movie.get("type_name"),
 
         "year": movie.get("vod_year"),
-
         "area": movie.get("vod_area"),
-
         "language": movie.get("vod_lang"),
-
         "category": movie.get("vod_class"),
 
         "poster": movie.get("vod_pic"),
 
         "douban_id": movie.get("vod_douban_id"),
-
         "score": movie.get("vod_douban_score"),
 
         "remarks": movie.get("vod_remarks"),
 
         "content": movie.get("vod_content"),
 
+        # 豆瓣源自己的播放地址也保留
         "play_from": movie.get("vod_play_from"),
-
         "play_url": movie.get("vod_play_url"),
 
         "update_time": movie.get("vod_time")
@@ -162,122 +102,111 @@ def make_movie_item(movie):
 
 
 # ==============================
-# 第一次请求第一页
+# 读取旧影视数据
 # ==============================
 
-print("\n正在检查第 1 页最新数据...")
+if os.path.exists(output_file):
 
-try:
+    with open(
+        output_file,
+        "r",
+        encoding="utf-8"
+    ) as f:
 
-    first_data = get_page(1)
-
-except Exception as e:
-
-    print(f"请求第 1 页失败：{e}")
-
-    exit()
-
-
-first_page_movies = first_data.get("list", [])
-
-if not first_page_movies:
-
-    print("第 1 页没有获取到影视数据。")
-
-    exit()
-
-
-# 获取总页数
-if total_pages == 0:
-
-    try:
-
-        total_pages = int(
-            first_data.get("pagecount", 0)
-        )
-
-    except:
-
-        total_pages = 0
-
-
-print(f"当前总页数：{total_pages}")
-
-
-# 当前第一页最新影片 ID
-current_latest_ids = [
-
-    str(movie.get("vod_id"))
-
-    for movie in first_page_movies[:LATEST_IDS_COUNT]
-
-    if movie.get("vod_id") is not None
-]
-
-
-# ==================================================
-# 第一阶段：历史数据还没有抓完
-# ==================================================
-
-if not completed:
-
-    print("\n================================")
-    print("当前模式：历史数据抓取")
-    print("================================")
-
-
-    start_page = last_page + 1
-
-
-    end_page = min(
-        start_page + PAGES_PER_RUN - 1,
-        total_pages
-    )
-
+        old_movies = json.load(f)
 
     print(
-        f"本次准备抓取："
-        f"第 {start_page} 页 到 第 {end_page} 页"
+        f"读取到旧数据："
+        f"{len(old_movies)} 部影视"
+    )
+
+else:
+
+    old_movies = []
+
+    print(
+        "没有旧数据，"
+        "将进行首次全量抓取"
     )
 
 
-    new_count = 0
-    updated_count = 0
+# ==============================
+# 建立旧数据索引
+# ==============================
+
+old_ids = set()
+
+old_douban_ids = set()
+
+
+for movie in old_movies:
+
+    movie_id = movie.get("id")
+
+    if movie_id:
+
+        old_ids.add(
+            str(movie_id)
+        )
+
+
+    douban_id = movie.get(
+        "douban_id"
+    )
+
+    if douban_id:
+
+        old_douban_ids.add(
+            str(douban_id)
+        )
+
+
+# ==============================
+# 判断首次抓取
+# ==============================
+
+first_run = len(old_movies) == 0
+
+
+# ==============================
+# 首次抓取
+# ==============================
+
+if first_run:
+
+    print()
+    print("==============================")
+    print("首次抓取模式")
+    print(
+        f"最多抓取最新 "
+        f"{INITIAL_PAGES} 页"
+    )
+    print("==============================")
+
+
+    movies_dict = {}
 
 
     for page in range(
-        start_page,
-        end_page + 1
+        1,
+        INITIAL_PAGES + 1
     ):
-
-
-        print(
-            f"\n正在获取第 {page} 页"
-        )
-
 
         try:
 
-            # 第 1 页已经请求过，避免重复请求
-            if page == 1:
-
-                data = first_data
-
-            else:
-
-                data = get_page(page)
-
+            data = get_page(page)
 
         except Exception as e:
 
             print(
-                f"第 {page} 页请求失败：{e}"
+                f"第 {page} 页获取失败："
+                f"{e}"
             )
 
             break
 
 
-        movies = data.get(
+        movie_list = data.get(
             "list",
             []
         )
@@ -285,72 +214,33 @@ if not completed:
 
         print(
             f"第 {page} 页获取到 "
-            f"{len(movies)} 部影视"
+            f"{len(movie_list)} 部影视"
         )
 
 
-        if not movies:
+        if not movie_list:
 
             print(
-                "没有更多数据，停止抓取。"
+                "没有更多数据，"
+                "停止抓取"
             )
-
-            end_page = page - 1
 
             break
 
 
-        for movie in movies:
-
-
-            movie_id = str(
-                movie.get("vod_id")
-            )
-
+        for movie in movie_list:
 
             item = make_movie_item(
                 movie
             )
 
+            movie_id = str(
+                item.get("id")
+            )
 
-            # 判断新增
-            if movie_id not in movies_dict:
-
-                new_count += 1
-
-
-            # 判断更新
-            elif movies_dict[movie_id] != item:
-
-                updated_count += 1
-
-
-            # 保存最新数据
             movies_dict[
                 movie_id
             ] = item
-
-
-        # 每页保存一次进度
-        progress["last_page"] = page
-        progress["total_pages"] = total_pages
-        progress["completed"] = (
-            page >= total_pages
-        )
-
-
-        with open(
-            progress_file,
-            "w",
-            encoding="utf-8"
-        ) as f:
-
-            json.dump(
-                progress,
-                f,
-                ensure_ascii=False,
-                indent=2
-            )
 
 
         time.sleep(
@@ -358,229 +248,353 @@ if not completed:
         )
 
 
-    # 更新最新 ID
-    progress["latest_ids"] = (
-        current_latest_ids
+    # API 最新数据在前
+    result = list(
+        movies_dict.values()
     )
 
 
-# ==================================================
-# 第二阶段：历史抓取已经完成
-# 增量检测
-# ==================================================
-
-else:
-
-    print("\n================================")
-    print("当前模式：增量检测")
-    print("================================")
+    # 按更新时间排序
+    result.sort(
+        key=lambda x:
+        x.get("update_time") or "",
+        reverse=True
+    )
 
 
-    # --------------------------------
-    # 如果没有历史最新 ID
-    # 先初始化
-    # --------------------------------
+    # 限制最大数量
+    result = result[
+        :MAX_MOVIES
+    ]
 
-    if not latest_ids:
+
+    # 保存
+    os.makedirs(
+        "data",
+        exist_ok=True
+    )
+
+
+    with open(
+        output_file,
+        "w",
+        encoding="utf-8"
+    ) as f:
+
+        json.dump(
+            result,
+            f,
+            ensure_ascii=False,
+            indent=2
+        )
+
+
+    # 保存进度
+    progress = {
+
+        "initialized": True,
+
+        "max_movies":
+            MAX_MOVIES,
+
+        "initial_pages":
+            INITIAL_PAGES
+
+    }
+
+
+    with open(
+        progress_file,
+        "w",
+        encoding="utf-8"
+    ) as f:
+
+        json.dump(
+            progress,
+            f,
+            ensure_ascii=False,
+            indent=2
+        )
+
+
+    print()
+    print("==============================")
+    print("首次抓取完成")
+    print(
+        f"当前影视库："
+        f"{len(result)} 部"
+    )
+    print("==============================")
+
+
+    exit()
+
+
+# ==============================
+# 后续增量检测
+# ==============================
+
+print()
+print("==============================")
+print("增量更新模式")
+print("==============================")
+
+
+new_movies = []
+
+found_old_data = False
+
+
+# 先从第一页开始检查
+page = 1
+
+
+while not found_old_data:
+
+    try:
+
+        data = get_page(page)
+
+    except Exception as e:
 
         print(
-            "没有找到历史最新 ID，"
-            "正在初始化增量检测..."
+            f"第 {page} 页获取失败："
+            f"{e}"
         )
 
-
-        progress["latest_ids"] = (
-            current_latest_ids
-        )
+        break
 
 
-        with open(
-            progress_file,
-            "w",
-            encoding="utf-8"
-        ) as f:
+    movie_list = data.get(
+        "list",
+        []
+    )
 
-            json.dump(
-                progress,
-                f,
-                ensure_ascii=False,
-                indent=2
-            )
 
+    print(
+        f"第 {page} 页获取到 "
+        f"{len(movie_list)} 部影视"
+    )
+
+
+    if not movie_list:
 
         print(
-            "增量检测初始化完成。"
+            "没有更多数据"
         )
 
-        exit()
+        break
 
 
-    # --------------------------------
-    # 检查有没有新增
-    # --------------------------------
-
-    new_movies = []
-
-
-    for movie in first_page_movies:
-
+    for movie in movie_list:
 
         movie_id = str(
             movie.get("vod_id")
         )
 
 
+        douban_id = movie.get(
+            "vod_douban_id"
+        )
+
+
+        # --------------------------
+        # 判断是否已经存在
+        # 优先使用豆瓣 ID
+        # --------------------------
+
+        exists = False
+
+
+        if douban_id:
+
+            if (
+                str(douban_id)
+                in old_douban_ids
+            ):
+
+                exists = True
+
+
+        # 如果没有豆瓣 ID
+        # 再使用 vod_id
+        if not exists:
+
+            if (
+                movie_id
+                in old_ids
+            ):
+
+                exists = True
+
+
+        # --------------------------
         # 找到旧数据
-        # 后面的都已经处理过
-        if movie_id in latest_ids:
+        # --------------------------
+
+        if exists:
+
+            found_old_data = True
+
+            print(
+                "发现已有影视数据，"
+                "停止继续抓取"
+            )
 
             break
 
 
-        new_movies.append(
-            movie
-        )
-
-
-    # --------------------------------
-    # 没有新增
-    # --------------------------------
-
-    if not new_movies:
-
-        print(
-            "\n没有检测到新增影视。"
-        )
-
-
-        # 更新最新 ID
-        progress["latest_ids"] = (
-            current_latest_ids
-        )
-
-
-        with open(
-            progress_file,
-            "w",
-            encoding="utf-8"
-        ) as f:
-
-            json.dump(
-                progress,
-                f,
-                ensure_ascii=False,
-                indent=2
-            )
-
-
-        exit()
-
-
-    # --------------------------------
-    # 有新增
-    # --------------------------------
-
-    print(
-        f"\n检测到新增影视："
-        f"{len(new_movies)} 部"
-    )
-
-
-    new_count = 0
-    updated_count = 0
-
-
-    for movie in new_movies:
-
-
-        movie_id = str(
-            movie.get("vod_id")
-        )
-
+        # --------------------------
+        # 新影片
+        # --------------------------
 
         item = make_movie_item(
             movie
         )
 
-
-        if movie_id not in movies_dict:
-
-            new_count += 1
-
-        else:
-
-            updated_count += 1
+        new_movies.append(
+            item
+        )
 
 
-        movies_dict[
-            movie_id
-        ] = item
+    if found_old_data:
+
+        break
 
 
-    # 更新最新 ID
-    progress["latest_ids"] = (
-        current_latest_ids
+    page += 1
+
+
+    time.sleep(
+        REQUEST_DELAY
     )
 
 
 # ==============================
-# 保存影视库
+# 没有新增
 # ==============================
 
-result = list(
-    movies_dict.values()
-)
+if len(new_movies) == 0:
 
+    print()
+    print("==============================")
+    print("没有发现新增影视")
+    print("影视库无需更新")
+    print("==============================")
 
-# 按更新时间倒序
-result.sort(
-
-    key=lambda x:
-        x.get("update_time") or "",
-
-    reverse=True
-)
-
-
-# ==================================================
-# 增量模式下保持影视库大小
-# ==================================================
-
-if completed:
-
-    old_count = len(old_movies)
-
-    new_total = len(result)
-
-
-    # 如果因为新增导致数量增加
-    if new_total > old_count:
-
-
-        remove_count = (
-            new_total - old_count
-        )
-
-
-        print(
-            f"\n本次新增导致影视库增加 "
-            f"{remove_count} 部"
-        )
-
-
-        print(
-            f"删除最旧的 "
-            f"{remove_count} 部影视"
-        )
-
-
-        result = result[
-            :old_count
-        ]
+    exit()
 
 
 # ==============================
-# 保存 movies.json
+# 合并新增影片
+# ==============================
+
+print()
+print(
+    f"发现新增影视："
+    f"{len(new_movies)} 部"
+)
+
+
+# 去重
+new_dict = {}
+
+for movie in new_movies:
+
+    movie_id = str(
+        movie.get("id")
+    )
+
+    new_dict[
+        movie_id
+    ] = movie
+
+
+# 保留旧库
+result = new_movies + old_movies
+
+
+# ==============================
+# 去重
+# ==============================
+
+unique_movies = []
+
+seen_ids = set()
+
+seen_douban_ids = set()
+
+
+for movie in result:
+
+    movie_id = movie.get(
+        "id"
+    )
+
+    douban_id = movie.get(
+        "douban_id"
+    )
+
+
+    # 豆瓣 ID 优先去重
+    if douban_id:
+
+        if (
+            str(douban_id)
+            in seen_douban_ids
+        ):
+
+            continue
+
+
+        seen_douban_ids.add(
+            str(douban_id)
+        )
+
+
+    # vod_id 去重
+    if movie_id:
+
+        if (
+            str(movie_id)
+            in seen_ids
+        ):
+
+            continue
+
+
+        seen_ids.add(
+            str(movie_id)
+        )
+
+
+    unique_movies.append(
+        movie
+    )
+
+
+# ==============================
+# 保持固定容量
+# ==============================
+
+before_count = len(
+    unique_movies
+)
+
+
+result = unique_movies[
+    :MAX_MOVIES
+]
+
+
+removed_count = (
+    before_count
+    - len(result)
+)
+
+
+# ==============================
+# 保存
 # ==============================
 
 with open(
@@ -597,29 +611,21 @@ with open(
     )
 
 
-# ==============================
-# 更新进度
-# ==============================
+# 更新进度文件
+progress = {
 
-progress["last_page"] = (
-    min(
-        last_page + PAGES_PER_RUN,
-        total_pages
-    )
-    if not completed
-    else last_page
-)
+    "initialized": True,
 
+    "max_movies":
+        MAX_MOVIES,
 
-progress["total_pages"] = (
-    total_pages
-)
+    "initial_pages":
+        INITIAL_PAGES,
 
+    "last_update_new_movies":
+        len(new_movies)
 
-# 如果历史抓取完成
-if progress["last_page"] >= total_pages:
-
-    progress["completed"] = True
+}
 
 
 with open(
@@ -640,31 +646,24 @@ with open(
 # 输出结果
 # ==============================
 
-print("\n==============================")
+print()
+print("==============================")
+print("影视库更新完成")
+print("==============================")
 
 print(
-    f"本次新增影视："
-    f"{new_count if 'new_count' in locals() else 0}"
+    f"新增影视："
+    f"{len(new_movies)} 部"
 )
 
 print(
-    f"本次更新影视："
-    f"{updated_count if 'updated_count' in locals() else 0}"
+    f"删除旧影视："
+    f"{removed_count} 部"
 )
 
 print(
-    f"影视库总数："
-    f"{len(result)}"
-)
-
-print(
-    f"当前已抓到第："
-    f"{progress['last_page']} 页"
-)
-
-print(
-    f"是否完成："
-    f"{progress['completed']}"
+    f"当前影视库："
+    f"{len(result)} 部"
 )
 
 print("==============================")
