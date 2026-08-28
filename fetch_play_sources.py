@@ -8,8 +8,8 @@ import requests
 # 配置
 # ==============================
 
-# 每次运行，每个源抓多少页
-PAGES_PER_RUN = 500
+# 每次运行，每个播放源最多检查多少页
+PAGES_PER_RUN = 20
 
 # 主影视库
 movies_file = "data/movies.json"
@@ -36,6 +36,7 @@ sources = [
     if source.get("name") != "豆瓣资源"
 ]
 
+
 print(f"需要处理 {len(sources)} 个播放源")
 
 
@@ -44,11 +45,18 @@ print(f"需要处理 {len(sources)} 个播放源")
 # ==============================
 
 if not os.path.exists(movies_file):
+
     print("找不到 movies.json")
+
     exit()
 
 
-with open(movies_file, "r", encoding="utf-8") as f:
+with open(
+    movies_file,
+    "r",
+    encoding="utf-8"
+) as f:
+
     movies = json.load(f)
 
 
@@ -71,7 +79,10 @@ for movie in movies:
     douban_id = movie.get("douban_id")
 
     if douban_id:
-        douban_index[str(douban_id)] = movie
+
+        douban_index[
+            str(douban_id)
+        ] = movie
 
 
     name = (
@@ -87,9 +98,16 @@ for movie in movies:
 
 
     if name:
+
         key = f"{name}|{year}"
+
         name_year_index[key] = movie
 
+
+print(
+    f"建立豆瓣 ID 索引："
+    f"{len(douban_index)} 条"
+)
 
 print(
     f"建立名称年份索引："
@@ -108,6 +126,7 @@ if os.path.exists(progress_file):
         "r",
         encoding="utf-8"
     ) as f:
+
         progress = json.load(f)
 
 else:
@@ -125,6 +144,253 @@ if "sources" not in progress:
 
 
 # ==============================
+# 保存进度
+# ==============================
+
+def save_progress():
+
+    with open(
+        progress_file,
+        "w",
+        encoding="utf-8"
+    ) as f:
+
+        json.dump(
+            progress,
+            f,
+            ensure_ascii=False,
+            indent=2
+        )
+
+
+# ==============================
+# 保存影视库
+# ==============================
+
+def save_movies():
+
+    with open(
+        movies_file,
+        "w",
+        encoding="utf-8"
+    ) as f:
+
+        json.dump(
+            movies,
+            f,
+            ensure_ascii=False,
+            indent=2
+        )
+
+
+# ==============================
+# 获取页面
+# ==============================
+
+def get_page(base_url, page):
+
+    separator = (
+        "&"
+        if "?" in base_url
+        else "?"
+    )
+
+    url = (
+        f"{base_url}"
+        f"{separator}pg={page}"
+    )
+
+    response = requests.get(
+        url,
+        timeout=30
+    )
+
+    response.raise_for_status()
+
+    return response.json()
+
+
+# ==============================
+# 处理播放数据
+# ==============================
+
+def process_movies(
+    source_name,
+    movie_list
+):
+
+    matched_count = 0
+    unmatched_count = 0
+    new_play_sources = 0
+
+
+    for source_movie in movie_list:
+
+
+        # --------------------------
+        # 先匹配豆瓣 ID
+        # --------------------------
+
+        douban_id = source_movie.get(
+            "vod_douban_id"
+        )
+
+        matched_movie = None
+
+
+        if douban_id:
+
+            matched_movie = douban_index.get(
+                str(douban_id)
+            )
+
+
+        # --------------------------
+        # 豆瓣 ID 匹配不到
+        # 再使用 名称 + 年份
+        # --------------------------
+
+        if not matched_movie:
+
+            name = (
+                source_movie.get(
+                    "vod_name"
+                )
+                or ""
+            ).strip()
+
+
+            year = str(
+                source_movie.get(
+                    "vod_year"
+                )
+                or ""
+            ).strip()
+
+
+            key = f"{name}|{year}"
+
+            matched_movie = (
+                name_year_index.get(key)
+            )
+
+
+        # --------------------------
+        # 仍然匹配不到
+        # --------------------------
+
+        if not matched_movie:
+
+            unmatched_count += 1
+
+            continue
+
+
+        # --------------------------
+        # 匹配成功
+        # --------------------------
+
+        matched_count += 1
+
+
+        if "play_sources" not in matched_movie:
+
+            matched_movie[
+                "play_sources"
+            ] = []
+
+
+        play_sources = matched_movie[
+            "play_sources"
+        ]
+
+
+        play_source = {
+
+            "source":
+                source_name,
+
+            "source_id":
+                source_movie.get(
+                    "vod_id"
+                ),
+
+            "play_from":
+                source_movie.get(
+                    "vod_play_from"
+                ),
+
+            "play_url":
+                source_movie.get(
+                    "vod_play_url"
+                ),
+
+            "remarks":
+                source_movie.get(
+                    "vod_remarks"
+                )
+
+        }
+
+
+        # --------------------------
+        # 检查是否已经存在
+        # --------------------------
+
+        exists = False
+
+
+        for old_source in play_sources:
+
+            if (
+
+                old_source.get("source")
+                == source_name
+
+                and
+
+                str(
+                    old_source.get(
+                        "source_id"
+                    )
+                )
+
+                ==
+
+                str(
+                    source_movie.get(
+                        "vod_id"
+                    )
+                )
+
+            ):
+
+                exists = True
+
+                break
+
+
+        # --------------------------
+        # 添加新播放源
+        # --------------------------
+
+        if not exists:
+
+            play_sources.append(
+                play_source
+            )
+
+            new_play_sources += 1
+
+
+    return (
+        matched_count,
+        unmatched_count,
+        new_play_sources
+    )
+
+
+# ==============================
 # 统计
 # ==============================
 
@@ -139,7 +405,9 @@ total_new_play_sources = 0
 
 for source in sources:
 
+
     source_name = source.get("name")
+
 
     base_url = (
         source.get("detail_api")
@@ -157,13 +425,14 @@ for source in sources:
         continue
 
 
-    print("\n================================")
+    print()
+    print("================================")
     print(f"开始处理：{source_name}")
     print("================================")
 
 
     # ==============================
-    # 当前源进度
+    # 获取当前源进度
     # ==============================
 
     source_progress = progress[
@@ -192,362 +461,195 @@ for source in sources:
     )
 
 
-    if completed:
+    # ==============================
+    # 获取第一页
+    # ==============================
+
+    try:
+
+        print("正在检查第 1 页...")
+
+        first_data = get_page(
+            base_url,
+            1
+        )
+
+
+    except Exception as e:
 
         print(
-            f"{source_name} 已完成，跳过"
+            f"{source_name} 请求失败：{e}"
         )
 
         continue
 
 
+    first_movies = first_data.get(
+        "list",
+        []
+    )
+
+
+    current_total_pages = int(
+        first_data.get(
+            "pagecount",
+            0
+        )
+    )
+
+
+    if not first_movies:
+
+        print(
+            f"{source_name} 没有数据"
+        )
+
+        continue
+
+
+    print(
+        f"当前总页数："
+        f"{current_total_pages}"
+    )
+
+
     # ==============================
-    # 获取第一页和总页数
+    # 首次抓取
     # ==============================
 
     if total_pages == 0:
 
-        print("正在获取第一页和总页数...")
+
+        total_pages = current_total_pages
 
 
-        separator = (
-            "&"
-            if "?" in base_url
-            else "?"
+        start_page = 1
+
+
+        end_page = min(
+            PAGES_PER_RUN,
+            total_pages
         )
 
 
-        first_url = (
-            f"{base_url}"
-            f"{separator}pg=1"
+        print(
+            f"首次抓取："
+            f"{start_page} - {end_page}"
         )
 
 
-        try:
-
-            response = requests.get(
-                first_url,
-                timeout=30
-            )
-
-            response.raise_for_status()
-
-            first_data = response.json()
+        source_matched = 0
+        source_unmatched = 0
+        source_new_play_sources = 0
 
 
-            total_pages = int(
-                first_data.get(
-                    "pagecount",
-                    0
-                )
-            )
+        for page in range(
+            start_page,
+            end_page + 1
+        ):
 
 
-            print(
-                f"总页数：{total_pages}"
-            )
+            try:
+
+                if page == 1:
+
+                    data = first_data
+
+                else:
+
+                    data = get_page(
+                        base_url,
+                        page
+                    )
 
 
-            if total_pages <= 0:
+            except Exception as e:
 
                 print(
-                    "没有获取到有效总页数，跳过"
+                    f"第 {page} 页失败：{e}"
                 )
 
-                continue
+                break
 
 
-            source_progress[
-                "total_pages"
-            ] = total_pages
+            movie_list = data.get(
+                "list",
+                []
+            )
 
-
-        except Exception as e:
 
             print(
-                f"获取第一页失败：{e}"
+                f"[{source_name}] "
+                f"第 {page} 页："
+                f"{len(movie_list)} 条"
             )
 
-            continue
+
+            if not movie_list:
+
+                break
 
 
-    # ==============================
-    # 本次抓取范围
-    # ==============================
-
-    start_page = last_page + 1
-
-
-    end_page = min(
-        start_page + PAGES_PER_RUN - 1,
-        total_pages
-    )
-
-
-    print(
-        f"本次抓取："
-        f"{start_page} - {end_page}"
-    )
-
-
-    source_matched = 0
-    source_unmatched = 0
-    source_new_play_sources = 0
-
-
-    # ==============================
-    # 分页抓取
-    # ==============================
-
-    for page in range(
-        start_page,
-        end_page + 1
-    ):
-
-        separator = (
-            "&"
-            if "?" in base_url
-            else "?"
-        )
-
-
-        url = (
-            f"{base_url}"
-            f"{separator}pg={page}"
-        )
-
-
-        print(
-            f"\n[{source_name}] "
-            f"正在获取第 {page} 页"
-        )
-
-
-        try:
-
-            response = requests.get(
-                url,
-                timeout=30
+            (
+                matched_count,
+                unmatched_count,
+                new_play_sources
+            ) = process_movies(
+                source_name,
+                movie_list
             )
 
-            response.raise_for_status()
 
-            data = response.json()
+            source_matched += matched_count
+            source_unmatched += unmatched_count
+            source_new_play_sources += new_play_sources
 
 
-        except Exception as e:
+            total_matched += matched_count
+            total_unmatched += unmatched_count
+            total_new_play_sources += new_play_sources
 
-            print(
-                f"第 {page} 页请求失败：{e}"
+
+            last_page = page
+
+
+            time.sleep(
+                REQUEST_DELAY
             )
-
-            break
-
-
-        movie_list = data.get(
-            "list",
-            []
-        )
-
-
-        print(
-            f"获取到 "
-            f"{len(movie_list)} 条数据"
-        )
-
-
-        if not movie_list:
-
-            print(
-                "没有更多数据，"
-                "停止当前源"
-            )
-
-            end_page = page - 1
-
-            break
 
 
         # ==============================
-        # 处理当前页
+        # 保存最新 ID
         # ==============================
 
-        for source_movie in movie_list:
+        latest_ids = [
 
-            # --------------------------------
-            # 尝试匹配豆瓣 ID
-            # --------------------------------
-
-            douban_id = source_movie.get(
-                "vod_douban_id"
-            )
-
-
-            matched_movie = None
-
-
-            if douban_id:
-
-                matched_movie = douban_index.get(
-                    str(douban_id)
+            str(
+                movie.get(
+                    "vod_id"
                 )
+            )
+
+            for movie in first_movies
+
+        ]
 
 
-            # --------------------------------
-            # 如果没有豆瓣 ID 匹配
-            # 使用 名称 + 年份
-            # --------------------------------
+        source_progress = {
 
-            if not matched_movie:
+            "last_page":
+                last_page,
 
-                name = (
-                    source_movie.get(
-                        "vod_name"
-                    )
-                    or ""
-                ).strip()
+            "total_pages":
+                total_pages,
 
+            "completed":
+                last_page >= total_pages,
 
-                year = str(
-                    source_movie.get(
-                        "vod_year"
-                    )
-                    or ""
-                ).strip()
+            "latest_ids":
+                latest_ids
 
-
-                key = f"{name}|{year}"
-
-
-                matched_movie = (
-                    name_year_index.get(key)
-                )
-
-
-            # --------------------------------
-            # 没有匹配到
-            # --------------------------------
-
-            if not matched_movie:
-
-                source_unmatched += 1
-                total_unmatched += 1
-
-                continue
-
-
-            # --------------------------------
-            # 匹配成功
-            # --------------------------------
-
-            source_matched += 1
-            total_matched += 1
-
-
-            # 初始化 play_sources
-            if "play_sources" not in matched_movie:
-
-                matched_movie[
-                    "play_sources"
-                ] = []
-
-
-            play_sources = matched_movie[
-                "play_sources"
-            ]
-
-
-            # 当前播放源
-            play_source = {
-
-                "source":
-                    source_name,
-
-                "source_id":
-                    source_movie.get(
-                        "vod_id"
-                    ),
-
-                "play_from":
-                    source_movie.get(
-                        "vod_play_from"
-                    ),
-
-                "play_url":
-                    source_movie.get(
-                        "vod_play_url"
-                    ),
-
-                "remarks":
-                    source_movie.get(
-                        "vod_remarks"
-                    )
-
-            }
-
-
-            # ==============================
-            # 防止重复添加
-            # ==============================
-
-            exists = False
-
-
-            for old_source in play_sources:
-
-                if (
-                    old_source.get("source")
-                    == source_name
-                    and
-                    str(
-                        old_source.get(
-                            "source_id"
-                        )
-                    )
-                    ==
-                    str(
-                        source_movie.get(
-                            "vod_id"
-                        )
-                    )
-                ):
-
-                    exists = True
-
-                    break
-
-
-            if not exists:
-
-                play_sources.append(
-                    play_source
-                )
-
-
-                source_new_play_sources += 1
-
-                total_new_play_sources += 1
-
-
-        # ==============================
-        # 每页保存
-        # ==============================
-
-        source_progress[
-            "last_page"
-        ] = page
-
-
-        source_progress[
-            "total_pages"
-        ] = total_pages
-
-
-        source_progress[
-            "completed"
-        ] = (
-            page >= total_pages
-        )
+        }
 
 
         progress[
@@ -557,115 +659,316 @@ for source in sources:
         ] = source_progress
 
 
-        # 保存影视库
-        with open(
-            movies_file,
-            "w",
-            encoding="utf-8"
-        ) as f:
-
-            json.dump(
-                movies,
-                f,
-                ensure_ascii=False,
-                indent=2
-            )
+        save_movies()
+        save_progress()
 
 
-        # 保存进度
-        with open(
-            progress_file,
-            "w",
-            encoding="utf-8"
-        ) as f:
+    # ==============================
+    # 历史抓取未完成
+    # ==============================
 
-            json.dump(
-                progress,
-                f,
-                ensure_ascii=False,
-                indent=2
-            )
+    elif not completed:
 
 
-        # 请求间隔
-        time.sleep(
-            REQUEST_DELAY
+        # 如果源总页数发生变化
+        total_pages = max(
+            total_pages,
+            current_total_pages
         )
 
 
+        start_page = last_page + 1
+
+
+        end_page = min(
+            start_page + PAGES_PER_RUN - 1,
+            total_pages
+        )
+
+
+        print(
+            f"继续历史抓取："
+            f"{start_page} - {end_page}"
+        )
+
+
+        source_matched = 0
+        source_unmatched = 0
+        source_new_play_sources = 0
+
+
+        for page in range(
+            start_page,
+            end_page + 1
+        ):
+
+
+            try:
+
+                data = get_page(
+                    base_url,
+                    page
+                )
+
+
+            except Exception as e:
+
+                print(
+                    f"第 {page} 页失败：{e}"
+                )
+
+                break
+
+
+            movie_list = data.get(
+                "list",
+                []
+            )
+
+
+            print(
+                f"[{source_name}] "
+                f"第 {page} 页："
+                f"{len(movie_list)} 条"
+            )
+
+
+            if not movie_list:
+
+                break
+
+
+            (
+                matched_count,
+                unmatched_count,
+                new_play_sources
+            ) = process_movies(
+                source_name,
+                movie_list
+            )
+
+
+            source_matched += matched_count
+            source_unmatched += unmatched_count
+            source_new_play_sources += new_play_sources
+
+
+            total_matched += matched_count
+            total_unmatched += unmatched_count
+            total_new_play_sources += new_play_sources
+
+
+            last_page = page
+
+
+            time.sleep(
+                REQUEST_DELAY
+            )
+
+
+        latest_ids = [
+
+            str(
+                movie.get(
+                    "vod_id"
+                )
+            )
+
+            for movie in first_movies
+
+        ]
+
+
+        source_progress.update({
+
+            "last_page":
+                last_page,
+
+            "total_pages":
+                total_pages,
+
+            "completed":
+                last_page >= total_pages,
+
+            "latest_ids":
+                latest_ids
+
+        })
+
+
+        progress[
+            "sources"
+        ][
+            source_name
+        ] = source_progress
+
+
+        save_movies()
+        save_progress()
+
+
     # ==============================
-    # 当前源统计
+    # 历史数据已完成
+    # 只检查新增
     # ==============================
 
-    print("\n--------------------------------")
-
-    print(
-        f"{source_name} 匹配成功："
-        f"{source_matched}"
-    )
+    else:
 
 
-    print(
-        f"{source_name} 未匹配："
-        f"{source_unmatched}"
-    )
+        print(
+            "历史数据已完成，"
+            "开始检查是否有新增..."
+        )
 
 
-    print(
-        f"{source_name} 新增播放源："
-        f"{source_new_play_sources}"
-    )
+        old_latest_ids = (
+            source_progress.get(
+                "latest_ids",
+                []
+            )
+        )
 
 
-    print("--------------------------------")
+        new_movies = []
+
+
+        for movie in first_movies:
+
+
+            movie_id = str(
+                movie.get(
+                    "vod_id"
+                )
+            )
+
+
+            # 已经遇到旧数据
+            # 后面的全部忽略
+            if movie_id in old_latest_ids:
+
+                break
+
+
+            new_movies.append(
+                movie
+            )
+
+
+        # ==============================
+        # 没有新增
+        # ==============================
+
+        if not new_movies:
+
+
+            print(
+                f"{source_name}："
+                "没有新增数据，跳过"
+            )
+
+
+        # ==============================
+        # 有新增
+        # ==============================
+
+        else:
+
+
+            print(
+                f"{source_name}："
+                f"发现 {len(new_movies)} 条新增"
+            )
+
+
+            (
+                matched_count,
+                unmatched_count,
+                new_play_sources
+            ) = process_movies(
+                source_name,
+                new_movies
+            )
+
+
+            total_matched += matched_count
+            total_unmatched += unmatched_count
+            total_new_play_sources += new_play_sources
+
+
+            print(
+                f"匹配成功："
+                f"{matched_count}"
+            )
+
+            print(
+                f"未匹配："
+                f"{unmatched_count}"
+            )
+
+            print(
+                f"新增播放源："
+                f"{new_play_sources}"
+            )
+
+
+        # 更新第一页最新 ID
+        source_progress[
+            "latest_ids"
+        ] = [
+
+            str(
+                movie.get(
+                    "vod_id"
+                )
+            )
+
+            for movie in first_movies
+
+        ]
+
+
+        source_progress[
+            "total_pages"
+        ] = current_total_pages
+
+
+        progress[
+            "sources"
+        ][
+            source_name
+        ] = source_progress
+
+
+        save_movies()
+        save_progress()
 
 
 # ==============================
 # 最终保存
 # ==============================
 
-with open(
-    movies_file,
-    "w",
-    encoding="utf-8"
-) as f:
+save_movies()
 
-    json.dump(
-        movies,
-        f,
-        ensure_ascii=False,
-        indent=2
-    )
-
-
-with open(
-    progress_file,
-    "w",
-    encoding="utf-8"
-) as f:
-
-    json.dump(
-        progress,
-        f,
-        ensure_ascii=False,
-        indent=2
-    )
+save_progress()
 
 
 # ==============================
 # 最终统计
 # ==============================
 
-print("\n================================")
+print()
+print("================================")
 print("全部播放源处理完成")
 print("================================")
 
 print(
-    f"匹配成功总数：{total_matched}"
+    f"匹配成功总数："
+    f"{total_matched}"
 )
 
 print(
-    f"未匹配总数：{total_unmatched}"
+    f"未匹配总数："
+    f"{total_unmatched}"
 )
 
 print(
