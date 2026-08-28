@@ -1,5 +1,6 @@
 import json
 import os
+import shutil
 
 
 # ==============================
@@ -11,6 +12,12 @@ CATEGORIES_FILE = "categories.json"
 OUTPUT_DIR = "data/categories"
 
 PAGE_SIZE = 50
+
+# 每次重新生成前清理旧分类数据
+if os.path.exists(OUTPUT_DIR):
+    shutil.rmtree(OUTPUT_DIR)
+
+os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 
 # ==============================
