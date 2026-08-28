@@ -8,8 +8,8 @@ import requests
 # 配置
 # ==============================
 
-# 每次运行，每个播放源最多检查多少页
-PAGES_PER_RUN = 20
+# 每个播放源首次最多抓多少页
+INITIAL_PAGES = 20
 
 # 主影视库
 movies_file = "data/movies.json"
@@ -67,10 +67,7 @@ print(f"读取到主影视库：{len(movies)} 部影视")
 # 建立匹配索引
 # ==============================
 
-# 豆瓣 ID 索引
 douban_index = {}
-
-# 名称 + 年份索引
 name_year_index = {}
 
 
@@ -116,7 +113,7 @@ print(
 
 
 # ==============================
-# 读取抓取进度
+# 读取进度
 # ==============================
 
 if os.path.exists(progress_file):
@@ -228,7 +225,7 @@ def process_movies(
 
 
         # --------------------------
-        # 先匹配豆瓣 ID
+        # 优先匹配豆瓣 ID
         # --------------------------
 
         douban_id = source_movie.get(
@@ -246,8 +243,7 @@ def process_movies(
 
 
         # --------------------------
-        # 豆瓣 ID 匹配不到
-        # 再使用 名称 + 年份
+        # 名称 + 年份匹配
         # --------------------------
 
         if not matched_movie:
@@ -276,7 +272,7 @@ def process_movies(
 
 
         # --------------------------
-        # 仍然匹配不到
+        # 匹配失败
         # --------------------------
 
         if not matched_movie:
@@ -286,13 +282,10 @@ def process_movies(
             continue
 
 
-        # --------------------------
-        # 匹配成功
-        # --------------------------
-
         matched_count += 1
 
 
+        # 初始化播放源
         if "play_sources" not in matched_movie:
 
             matched_movie[
@@ -334,7 +327,7 @@ def process_movies(
 
 
         # --------------------------
-        # 检查是否已经存在
+        # 防止重复
         # --------------------------
 
         exists = False
@@ -370,10 +363,6 @@ def process_movies(
                 break
 
 
-        # --------------------------
-        # 添加新播放源
-        # --------------------------
-
         if not exists:
 
             play_sources.append(
@@ -391,7 +380,7 @@ def process_movies(
 
 
 # ==============================
-# 统计
+# 总统计
 # ==============================
 
 total_matched = 0
@@ -400,7 +389,7 @@ total_new_play_sources = 0
 
 
 # ==============================
-# 遍历所有播放源
+# 遍历播放源
 # ==============================
 
 for source in sources:
@@ -431,10 +420,7 @@ for source in sources:
     print("================================")
 
 
-    # ==============================
-    # 获取当前源进度
-    # ==============================
-
+    # 当前源进度
     source_progress = progress[
         "sources"
     ].get(
@@ -443,26 +429,14 @@ for source in sources:
     )
 
 
-    last_page = source_progress.get(
-        "last_page",
-        0
-    )
-
-
-    total_pages = source_progress.get(
-        "total_pages",
-        0
-    )
-
-
-    completed = source_progress.get(
-        "completed",
+    initialized = source_progress.get(
+        "initialized",
         False
     )
 
 
     # ==============================
-    # 获取第一页
+    # 请求第一页
     # ==============================
 
     try:
@@ -473,7 +447,6 @@ for source in sources:
             base_url,
             1
         )
-
 
     except Exception as e:
 
@@ -490,14 +463,6 @@ for source in sources:
     )
 
 
-    current_total_pages = int(
-        first_data.get(
-            "pagecount",
-            0
-        )
-    )
-
-
     if not first_movies:
 
         print(
@@ -505,6 +470,14 @@ for source in sources:
         )
 
         continue
+
+
+    current_total_pages = int(
+        first_data.get(
+            "pagecount",
+            0
+        )
+    )
 
 
     print(
@@ -517,24 +490,18 @@ for source in sources:
     # 首次抓取
     # ==============================
 
-    if total_pages == 0:
-
-
-        total_pages = current_total_pages
-
-
-        start_page = 1
+    if not initialized:
 
 
         end_page = min(
-            PAGES_PER_RUN,
-            total_pages
+            INITIAL_PAGES,
+            current_total_pages
         )
 
 
         print(
-            f"首次抓取："
-            f"{start_page} - {end_page}"
+            f"首次抓取最新 "
+            f"1 - {end_page} 页"
         )
 
 
@@ -544,7 +511,7 @@ for source in sources:
 
 
         for page in range(
-            start_page,
+            1,
             end_page + 1
         ):
 
@@ -610,18 +577,12 @@ for source in sources:
             total_new_play_sources += new_play_sources
 
 
-            last_page = page
-
-
             time.sleep(
                 REQUEST_DELAY
             )
 
 
-        # ==============================
-        # 保存最新 ID
-        # ==============================
-
+        # 保存第一页 ID
         latest_ids = [
 
             str(
@@ -637,17 +598,13 @@ for source in sources:
 
         source_progress = {
 
-            "last_page":
-                last_page,
-
-            "total_pages":
-                total_pages,
-
-            "completed":
-                last_page >= total_pages,
+            "initialized": True,
 
             "latest_ids":
-                latest_ids
+                latest_ids,
+
+            "total_pages":
+                current_total_pages
 
         }
 
@@ -659,56 +616,81 @@ for source in sources:
         ] = source_progress
 
 
+        print(
+            f"{source_name} 首次抓取完成"
+        )
+
+        print(
+            f"匹配成功："
+            f"{source_matched}"
+        )
+
+        print(
+            f"未匹配："
+            f"{source_unmatched}"
+        )
+
+        print(
+            f"新增播放源："
+            f"{source_new_play_sources}"
+        )
+
+
         save_movies()
         save_progress()
 
 
     # ==============================
-    # 历史抓取未完成
+    # 后续增量更新
     # ==============================
 
-    elif not completed:
-
-
-        # 如果源总页数发生变化
-        total_pages = max(
-            total_pages,
-            current_total_pages
-        )
-
-
-        start_page = last_page + 1
-
-
-        end_page = min(
-            start_page + PAGES_PER_RUN - 1,
-            total_pages
-        )
+    else:
 
 
         print(
-            f"继续历史抓取："
-            f"{start_page} - {end_page}"
+            "开始检查新增数据..."
         )
 
 
-        source_matched = 0
-        source_unmatched = 0
-        source_new_play_sources = 0
+        old_latest_ids = set(
+            source_progress.get(
+                "latest_ids",
+                []
+            )
+        )
 
 
-        for page in range(
-            start_page,
-            end_page + 1
+        new_movies = []
+
+        found_old_movie = False
+
+        page = 1
+
+
+        # 最多检查当前总页数
+        while (
+
+            page <= current_total_pages
+
+            and
+
+            not found_old_movie
+
         ):
 
 
             try:
 
-                data = get_page(
-                    base_url,
-                    page
-                )
+                if page == 1:
+
+                    data = first_data
+
+                else:
+
+                    data = get_page(
+                        base_url,
+                        page
+                    )
 
 
             except Exception as e:
@@ -726,131 +708,54 @@ for source in sources:
             )
 
 
-            print(
-                f"[{source_name}] "
-                f"第 {page} 页："
-                f"{len(movie_list)} 条"
-            )
-
-
             if not movie_list:
 
                 break
 
 
-            (
-                matched_count,
-                unmatched_count,
-                new_play_sources
-            ) = process_movies(
-                source_name,
-                movie_list
+            print(
+                f"检查第 {page} 页："
+                f"{len(movie_list)} 条"
             )
 
 
-            source_matched += matched_count
-            source_unmatched += unmatched_count
-            source_new_play_sources += new_play_sources
+            for movie in movie_list:
 
 
-            total_matched += matched_count
-            total_unmatched += unmatched_count
-            total_new_play_sources += new_play_sources
+                movie_id = str(
+                    movie.get(
+                        "vod_id"
+                    )
+                )
 
 
-            last_page = page
+                # ----------------------
+                # 碰到旧数据
+                # ----------------------
+
+                if movie_id in old_latest_ids:
+
+                    found_old_movie = True
+
+                    print(
+                        "发现旧数据，"
+                        "停止检查"
+                    )
+
+                    break
+
+
+                # 新数据
+                new_movies.append(
+                    movie
+                )
+
+
+            page += 1
 
 
             time.sleep(
                 REQUEST_DELAY
-            )
-
-
-        latest_ids = [
-
-            str(
-                movie.get(
-                    "vod_id"
-                )
-            )
-
-            for movie in first_movies
-
-        ]
-
-
-        source_progress.update({
-
-            "last_page":
-                last_page,
-
-            "total_pages":
-                total_pages,
-
-            "completed":
-                last_page >= total_pages,
-
-            "latest_ids":
-                latest_ids
-
-        })
-
-
-        progress[
-            "sources"
-        ][
-            source_name
-        ] = source_progress
-
-
-        save_movies()
-        save_progress()
-
-
-    # ==============================
-    # 历史数据已完成
-    # 只检查新增
-    # ==============================
-
-    else:
-
-
-        print(
-            "历史数据已完成，"
-            "开始检查是否有新增..."
-        )
-
-
-        old_latest_ids = (
-            source_progress.get(
-                "latest_ids",
-                []
-            )
-        )
-
-
-        new_movies = []
-
-
-        for movie in first_movies:
-
-
-            movie_id = str(
-                movie.get(
-                    "vod_id"
-                )
-            )
-
-
-            # 已经遇到旧数据
-            # 后面的全部忽略
-            if movie_id in old_latest_ids:
-
-                break
-
-
-            new_movies.append(
-                movie
             )
 
 
@@ -863,12 +768,12 @@ for source in sources:
 
             print(
                 f"{source_name}："
-                "没有新增数据，跳过"
+                "没有新增数据"
             )
 
 
         # ==============================
-        # 有新增
+        # 处理新增
         # ==============================
 
         else:
@@ -911,7 +816,10 @@ for source in sources:
             )
 
 
-        # 更新第一页最新 ID
+        # ==============================
+        # 更新最新第一页 ID
+        # ==============================
+
         source_progress[
             "latest_ids"
         ] = [
@@ -948,7 +856,6 @@ for source in sources:
 # ==============================
 
 save_movies()
-
 save_progress()
 
 
