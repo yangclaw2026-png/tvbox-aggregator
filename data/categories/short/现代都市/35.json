@@ -1,5 +1,29 @@
 [
   {
+    "id": 136661,
+    "name": "我捡了个千亿大佬",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260615-1/9528875f28321a2fa215cc6d36cc9bbf.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-02 21:09:26"
+  },
+  {
+    "id": 136660,
+    "name": "公司裁员，不知我是技术天花板",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260615-1/d71d5b891fd9bc40569fbf8e2586f3ce.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-02 21:08:49"
+  },
+  {
     "id": 136658,
     "name": "神瞳狂少：送外卖撞出个千亿老婆",
     "type": "现代都市",
@@ -574,29 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-02 19:26:44"
-  },
-  {
-    "id": 141794,
-    "name": "长兄守家记",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260801-1/1fc34bdf2e7e53a3dd8f0c5ab98140ec.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-02 19:20:21"
-  },
-  {
-    "id": 141796,
-    "name": "枭雄崛起，从打工仔到江湖大佬",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260801-1/77849a034f47497901467186b43543f7.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-02 19:12:01"
   }
 ]
