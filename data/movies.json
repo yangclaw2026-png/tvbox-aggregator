@@ -1204,6 +1204,13 @@
         "play_from": "snm3u8",
         "play_url": null,
         "remarks": "更新至04集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 156182,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第8集"
       }
     ]
   },
@@ -4699,6 +4706,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "正片"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 153841,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "HD中字"
       }
     ]
   },
@@ -13360,6 +13374,13 @@
         "play_from": "lzm3u8",
         "play_url": null,
         "remarks": "HD"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 153843,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "HD中字"
       }
     ]
   },
@@ -21257,6 +21278,13 @@
         "play_from": "snm3u8",
         "play_url": null,
         "remarks": "更新至13集"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 148417,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至第13集"
       }
     ]
   },
@@ -27166,7 +27194,16 @@
     "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">本季以“6城寻鲜之旅”为⾏动主线，杜绝扫店的美⻝介绍，深度聚焦“家乡鲜味”这⼀核⼼味觉体验，深⼊挖掘滇桂味道的三层内涵：</span><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">⻝材之鲜：追溯⻝物源头，记录⻝材从⼭海到餐桌的本真历程。</span><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">⼿艺之鲜：拆解“锁鲜秘技”，呈现对抗⼯业化速⻝的传统匠⼼。</span><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">⼈情之鲜：捕捉街巷烟⽕，讲述守鲜、传鲜的⼿艺⼈们交织着坚守与温情的代际故事。</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01期$https://vodcnd16.ajupf.com/20260713/uHXVigQE/index.m3u8#第02期$https://vodcnd16.ajupf.com/20260716/mYN20lQg/index.m3u8#第03期$https://vodcnd16.ajupf.com/20260720/xbbf9rnP/index.m3u8#第04期$https://vodcnd16.ajupf.com/20260723/xiprvDSP/index.m3u8#第05期$https://vodcnd16.ajupf.com/20260727/BZgqrqo4/index.m3u8#第06期$https://vodcnd16.ajupf.com/20260731/qVopuvEh/index.m3u8#第07期$https://vodcnd16.ajupf.com/20260803/8GYbzmsF/index.m3u8#第08期$https://vodcnd17.ajupf.com/20260810/Mghf8OJO/index.m3u8#第09期$https://vodcnd17.ajupf.com/20260810/icQm4RYE/index.m3u8#第10期$https://vodcnd17.ajupf.com/20260816/CICguqIg/index.m3u8#第11期$https://vodcnd16.ajupf.com/20260823/8aQs9IvO/index.m3u8#第12期$https://vodcnd16.ajupf.com/20260823/QyM8F53Z/index.m3u8#第13集$https://vodcnd17.ajupf.com/20260824/PRjqK3YM/index.m3u8$$$第01期$https://vodcnd16.ajupf.com/share/zohSh8FZnS#第02期$https://vodcnd16.ajupf.com/share/6kP9oVJn3O#第03期$https://vodcnd16.ajupf.com/share/s0HUv5BoAj#第04期$https://vodcnd16.ajupf.com/share/2RO4Mgh9eh#第05期$https://vodcnd16.ajupf.com/share/qMZVFtw8YB#第06期$https://vodcnd16.ajupf.com/share/TKaUCcLbBY#第07期$https://vodcnd16.ajupf.com/share/hyrZHY1PwY#第08期$https://vodcnd17.ajupf.com/share/of540xtnQH#第09期$https://vodcnd17.ajupf.com/share/PR45Scd7d7#第10期$https://vodcnd17.ajupf.com/share/zEqnQyHnmk#第11期$https://vodcnd16.ajupf.com/share/8ZfgPDGe0E#第12期$https://vodcnd16.ajupf.com/share/2oLyBm5sGu#第13集$https://vodcnd17.ajupf.com/share/aoH0ekxOe3",
-    "update_time": "2026-08-24 18:27:51"
+    "update_time": "2026-08-24 18:27:51",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 140113,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第14集"
+      }
+    ]
   },
   {
     "id": 145660,
@@ -28460,7 +28497,44 @@
     "content": "<p><span style=\"text-wrap-mode: wrap; color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">月落和亚晨是一对双胞胎兄妹，他们在一个与世隔绝的深山小村落里出生，被称为“分隔夜与昼的双子”。他们拥有获得特殊力量的资格，一场围绕他们的双使战斗也随之展开。</span><span style=\"text-wrap-mode: wrap; color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">双使是一种成对的存在，被人类冠以“幽灵”、“怪物”、“怪兽”或“异形”等各种各样的称呼。它们并非人人可见，各自拥有不同的外表、性格和能力。每对双使都有一个与之缔结契约的主子，而指挥它们的主子被称为“双使师”。</span><span style=\"text-wrap-mode: wrap; color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">许多大人在双胞兄妹开始懂事前就暗中操纵，试图夺取他们的力量，因此月落和亚晨在年幼时就被迫分离。本作故事以兄妹俩的重逢展开序幕。</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd13.ajupf.com/20260405/cvJARWGp/index.m3u8#第02集$https://vodcnd15.ajupf.com/20260412/ZU5RY0T0/index.m3u8#第03集$https://vodcnd13.ajupf.com/20260418/u5rk7pSt/index.m3u8#第04集$https://vodcnd13.ajupf.com/20260425/hgaFLiDj/index.m3u8#第05集$https://vodcnd15.ajupf.com/20260511/M3KqYcAG/index.m3u8#第06集$https://vodcnd15.ajupf.com/20260601/0C31UtKk/index.m3u8#第07集$https://vodcnd15.ajupf.com/20260601/ldb91h2P/index.m3u8#第08集$https://vodcnd15.ajupf.com/20260601/KR0ykcmx/index.m3u8#第09集$https://vodcnd15.ajupf.com/20260602/itu9Tlmr/index.m3u8#第10集$https://vodcnd15.ajupf.com/20260609/dGLdsSwN/index.m3u8#第11集$https://vodcnd15.ajupf.com/20260615/e9Tc80ZW/index.m3u8#第12集$https://vodcnd15.ajupf.com/20260705/KZOEocSH/index.m3u8#第13集$https://vodcnd15.ajupf.com/20260708/o2lFGSz7/index.m3u8#第14集$https://vodcnd16.ajupf.com/20260713/ZenHwr3Y/index.m3u8#第15集$https://vodcnd16.ajupf.com/20260719/wTmWffIs/index.m3u8#第16集$https://vodcnd16.ajupf.com/20260803/uQfcfEzv/index.m3u8#第17集$https://vodcnd16.ajupf.com/20260803/iUI5CgmV/index.m3u8#第18集$https://vodcnd16.ajupf.com/20260812/3S2xZNAZ/index.m3u8#第19集$https://vodcnd16.ajupf.com/20260824/GaqJU0DE/index.m3u8#第20集$https://vodcnd16.ajupf.com/20260824/mf1cqvFL/index.m3u8$$$第01集$https://vodcnd13.ajupf.com/share/bkcpN1IdRA#第02集$https://vodcnd15.ajupf.com/share/gdH9Jl5Rne#第03集$https://vodcnd13.ajupf.com/share/3hU1rTAnr8#第04集$https://vodcnd13.ajupf.com/share/kPS3tkI2Fl#第05集$https://vodcnd15.ajupf.com/share/5Oa9lbsjhC#第06集$https://vodcnd15.ajupf.com/share/jpHSxFwEjz#第07集$https://vodcnd15.ajupf.com/share/G8LAlzof33#第08集$https://vodcnd15.ajupf.com/share/BiqTAah6u1#第09集$https://vodcnd15.ajupf.com/share/fhGItPPtuk#第10集$https://vodcnd15.ajupf.com/share/9wAKJakikK#第11集$https://vodcnd15.ajupf.com/share/V1rvSi3hNX#第12集$https://vodcnd15.ajupf.com/share/CKJWzo9ViP#第13集$https://vodcnd15.ajupf.com/share/KpljJB94e5#第14集$https://vodcnd16.ajupf.com/share/aKAKz5f0H7#第15集$https://vodcnd16.ajupf.com/share/nngmU2yWsW#第16集$https://vodcnd16.ajupf.com/share/udlHRiuJ3M#第17集$https://vodcnd16.ajupf.com/share/HCTMZQQE5T#第18集$https://vodcnd16.ajupf.com/share/ws8lDkaBPy#第19集$https://vodcnd16.ajupf.com/share/fudAlAWAKc#第20集$https://vodcnd16.ajupf.com/share/gFx2TV5Yda",
-    "update_time": "2026-08-24 13:44:15"
+    "update_time": "2026-08-24 13:44:15",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 172333,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第21集"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 144084,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第21集"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 132987,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至第21集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 140409,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第21集"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 107941,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第21集"
+      }
+    ]
   },
   {
     "id": 145539,
@@ -28809,7 +28883,23 @@
     "content": "<p>故事讲述高中好友陈志伟（李国毅 饰）、罗冠豪（姚淳耀 饰）、魏欣妤（蔡亘晏 饰），十多年后在一场重大绑架案中，以警察与被害人身份重逢。当年闪耀的青春回忆与真挚友情不在，取而代之的是陌生与谎言。随着陈志伟侦办这场不单纯的绑架案，企图帮助魏欣妤救回先生邱隆泰（黄迪扬 饰），却一步步陷入歹徒的计谋。一场精心策画的复仇，同时揭开十八岁那年三人心中深藏的真相。《成名在望》由汤昇荣监制，第一季导演是罗安得、第二季是导演陈冠仲，共14集。第一季讲述三个疏远的高中好友因一起绑架案重聚，却意外揭开一个更深层、更危险的秘密。第二季讲述他们已经向现实妥协，能否通过权力获得救赎，还是会进一步沉沦于权力的掌控之中？</p><p><br/></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.ajupf.com/20260727/2XXcQicj/index.m3u8#第02集$https://vodcnd16.ajupf.com/20260727/MEUkUI1k/index.m3u8#第03集$https://vodcnd17.ajupf.com/20260802/Pxgtsem5/index.m3u8#第04集$https://vodcnd17.ajupf.com/20260802/9W28lBOW/index.m3u8#第05集$https://vodcnd16.ajupf.com/20260809/nD8NU9O7/index.m3u8#第06集$https://vodcnd16.ajupf.com/20260809/IuXX6nBB/index.m3u8#第07集$https://vodcnd16.ajupf.com/20260818/wzAKYNcu/index.m3u8#第08集$https://vodcnd16.ajupf.com/20260818/9jmaysiy/index.m3u8#第09集$https://vodcnd17.ajupf.com/20260824/Fqdu6EYA/index.m3u8#第10集$https://vodcnd17.ajupf.com/20260824/rFk83tcp/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/5nsvqrehwD#第02集$https://vodcnd16.ajupf.com/share/K5I4gEl3MR#第03集$https://vodcnd17.ajupf.com/share/QsQpapoRGL#第04集$https://vodcnd17.ajupf.com/share/p4eZHDB7eW#第05集$https://vodcnd16.ajupf.com/share/9HN198Q9fy#第06集$https://vodcnd16.ajupf.com/share/l2oRNk3Wv9#第07集$https://vodcnd16.ajupf.com/share/OuRyj0QqEk#第08集$https://vodcnd16.ajupf.com/share/K1PyWYmSza#第09集$https://vodcnd17.ajupf.com/share/hkp8zLy0B6#第10集$https://vodcnd17.ajupf.com/share/6Dx5DEWupY",
-    "update_time": "2026-08-24 12:39:19"
+    "update_time": "2026-08-24 12:39:19",
+    "play_sources": [
+      {
+        "source": "量子资源",
+        "source_id": 148160,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至第12集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 154407,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第12集"
+      }
+    ]
   },
   {
     "id": 141961,
@@ -29052,6 +29142,13 @@
         "source": "暴风资源",
         "source_id": 156769,
         "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第04集"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 151028,
+        "play_from": "lzm3u8",
         "play_url": null,
         "remarks": "更新至第04集"
       }
@@ -31540,7 +31637,30 @@
     "content": "<p>1910年代，由大日本帝国陆军设立的学校——陆军栖凤中学。这是一个为获取可用于军事的超常力量而收集、研究超自然现象的特殊机构。栖凤中学三年级学生岩元胡堂奉军部指令，奔赴全国各地进行调查。然而他所到之处，总会出现拥有特殊能力的“能力者”……！等待着岩元的各种怪奇事件与“能力者”们。向这些“能力者”递出前往学园的“推荐信”的岩元，其真正的意图究竟是……？怪奇与超自然现象，以及“能力者”的存在——揭开他们时代帷幕的浪漫奇谭，就此开幕！</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd15.ajupf.com/20260710/nmsdhdd1/index.m3u8#第02集$https://vodcnd15.ajupf.com/20260711/ae468i2m/index.m3u8#第03集$https://vodcnd16.ajupf.com/20260719/t3ILadAR/index.m3u8#第04集$https://vodcnd16.ajupf.com/20260726/zvU2t8rs/index.m3u8#第05集$https://vodcnd17.ajupf.com/20260802/wsJchvs2/index.m3u8#第06集$https://vodcnd16.ajupf.com/20260809/vJSo5uea/index.m3u8#第07集$https://vodcnd16.ajupf.com/20260816/mhOiQDPi/index.m3u8#第08集$https://vodcnd16.ajupf.com/20260822/RRROinj3/index.m3u8$$$第01集$https://vodcnd15.ajupf.com/share/Sh1rpj0crB#第02集$https://vodcnd15.ajupf.com/share/SBMybjQRJ3#第03集$https://vodcnd16.ajupf.com/share/mQKhtGn7dP#第04集$https://vodcnd16.ajupf.com/share/HVJfs3qgU2#第05集$https://vodcnd17.ajupf.com/share/qZLdiJTvbc#第06集$https://vodcnd16.ajupf.com/share/iF6CqRQIwF#第07集$https://vodcnd16.ajupf.com/share/q0ygEuT10i#第08集$https://vodcnd16.ajupf.com/share/FaVJeqMABy",
-    "update_time": "2026-08-23 18:01:57"
+    "update_time": "2026-08-23 18:01:57",
+    "play_sources": [
+      {
+        "source": "量子资源",
+        "source_id": 144966,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至第09集"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 150032,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "更新至09集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 151493,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第9集"
+      }
+    ]
   },
   {
     "id": 138524,
@@ -31557,7 +31677,37 @@
     "content": "<p>作为忍者后裔被祖父抚养长大、拥有与动物对话能力的高中生·我妻二郎，某日在森林中遇见了受伤倒地的黑猫·罗睺。看似普通的黑猫罗睺，其真实身份竟是曾被称为“黑色凶星”的传说级怪物？！企图利用罗睺强大力量的怪物暗影悄然逼近……与此同时，负责监视与清除怪物的国家秘密组织“公仪隐密局”也介入其中。在各方势力围绕罗睺之力展开激烈角逐的漩涡中，二郎与罗睺所展现的“觉悟”究竟是——由怪物与少年相遇开启的“忍”之战，此刻正式拉开帷幕——！！！</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd15.ajupf.com/20260710/bEnYkQt8/index.m3u8#第02集$https://vodcnd15.ajupf.com/20260712/UH01bYlS/index.m3u8#第03集$https://vodcnd16.ajupf.com/20260719/oeNxZVLa/index.m3u8#第04集$https://vodcnd16.ajupf.com/20260726/lIaO9auQ/index.m3u8#第05集$https://vodcnd17.ajupf.com/20260802/hfxT20zW/index.m3u8#第06集$https://vodcnd16.ajupf.com/20260808/YMmuOBxE/index.m3u8#第07集$https://vodcnd16.ajupf.com/20260816/8Q3ci25M/index.m3u8#第08集$https://vodcnd16.ajupf.com/20260823/YgSWoxPT/index.m3u8$$$第01集$https://vodcnd15.ajupf.com/share/crv0q6zEBY#第02集$https://vodcnd15.ajupf.com/share/yAdyVhpd5T#第03集$https://vodcnd16.ajupf.com/share/xTru7auIX4#第04集$https://vodcnd16.ajupf.com/share/LhEBvUULbJ#第05集$https://vodcnd17.ajupf.com/share/zE0snKLFBS#第06集$https://vodcnd16.ajupf.com/share/GJXNMS2Zmx#第07集$https://vodcnd16.ajupf.com/share/0TBYDbEQp5#第08集$https://vodcnd16.ajupf.com/share/0AqSbpRPrV",
-    "update_time": "2026-08-23 17:59:19"
+    "update_time": "2026-08-23 17:59:19",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 138873,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第9集"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 144945,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至第09集"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 150031,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "更新至09集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 151491,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第09集"
+      }
+    ]
   },
   {
     "id": 139632,
@@ -31574,7 +31724,16 @@
     "content": "<p>鸣神流星，职业尼特。蛰居在家沉迷游戏度日，实际上却在某个不为人知的世界曾担任魔王！而此刻找上门来的，竟是当年击败流星的勇者，如今已成为女高中生的花织米蒂娅……与米蒂娅重逢后，流星从尼特摇身一变，作为御剑女子高等学校的教师重返社会。但那所学校，竟是米蒂娅就读的学园！在和平世界转生后，再度相遇的两人，恋爱序幕就此拉开！？</p><p><br/></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd15.ajupf.com/20260712/3LfAQGYy/index.m3u8#第02集$https://vodcnd16.ajupf.com/20260719/Xfoc2uMy/index.m3u8#第03集$https://vodcnd16.ajupf.com/20260726/zocJGjjs/index.m3u8#第04集$https://vodcnd17.ajupf.com/20260802/ZLliXCIS/index.m3u8#第05集$https://vodcnd16.ajupf.com/20260809/tCEh6iMK/index.m3u8#第06集$https://vodcnd16.ajupf.com/20260816/Cx1ZWJPn/index.m3u8#第07集$https://vodcnd16.ajupf.com/20260823/TB2wpFKO/index.m3u8$$$第01集$https://vodcnd15.ajupf.com/share/33jEi3j6Eg#第02集$https://vodcnd16.ajupf.com/share/j390IYOX35#第03集$https://vodcnd16.ajupf.com/share/XRlIOcANg6#第04集$https://vodcnd17.ajupf.com/share/NsmhZW6Ppr#第05集$https://vodcnd16.ajupf.com/share/NW58m2bsaX#第06集$https://vodcnd16.ajupf.com/share/L1D8c1WQYo#第07集$https://vodcnd16.ajupf.com/share/HQutZoRUaS",
-    "update_time": "2026-08-23 17:57:14"
+    "update_time": "2026-08-23 17:57:14",
+    "play_sources": [
+      {
+        "source": "量子资源",
+        "source_id": 145566,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至第08集"
+      }
+    ]
   },
   {
     "id": 138380,
@@ -31591,7 +31750,37 @@
     "content": "<p>在深邃的森林深处，一只会喷火的龙，与一群能操纵魔法的猫咪一同生活着。这只在出生前便失去亲生父母的龙，被一只偶然相遇的母猫抚养长大。对猫咪们而言，它只是只能在天空飞翔、会吐出火焰的「有点特别的猫」，迎接进了家族之中。生活在森林中的猫咪们，各自拥有截然不同的个性与生活方式。龙仿佛是为了报答母猫的恩情，始终陪伴在森林里的猫咪们身边，并守护着它们。猫咪们亲昵地称呼它为「翅膀大叔」。而在人类眼中，这只龙则被敬畏地称为——猫龙……</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.ajupf.com/20260713/ia2HcMHQ/index.m3u8#第02集$https://vodcnd15.ajupf.com/20260705/wZBSyWg8/index.m3u8#第03集$https://vodcnd16.ajupf.com/20260805/ae9Vyfbm/index.m3u8#第04集$https://vodcnd16.ajupf.com/20260806/8WFPq4NY/index.m3u8#第05集$https://vodcnd16.ajupf.com/20260812/1d9kLe6g/index.m3u8#第06集$https://vodcnd16.ajupf.com/20260817/J8Aqg6ew/index.m3u8#第07集$https://vodcnd16.ajupf.com/20260809/Q2NYSAjE/index.m3u8#第08集$https://vodcnd16.ajupf.com/20260816/Dj4aTQPn/index.m3u8#第09集$https://vodcnd16.ajupf.com/20260823/q1liqdRD/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/FINFpY6B1H#第02集$https://vodcnd15.ajupf.com/share/Dbu9Z6ajwc#第03集$https://vodcnd16.ajupf.com/share/IMvz7UlXfu#第04集$https://vodcnd16.ajupf.com/share/lDenezOkLz#第05集$https://vodcnd16.ajupf.com/share/FExAwI7VR0#第06集$https://vodcnd16.ajupf.com/share/kd6clXgEcR#第07集$https://vodcnd16.ajupf.com/share/Zvrs3pJDgC#第08集$https://vodcnd16.ajupf.com/share/DXd3Qtw8aZ#第09集$https://vodcnd16.ajupf.com/share/C9JHMFBgAm",
-    "update_time": "2026-08-23 17:52:00"
+    "update_time": "2026-08-23 17:52:00",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 138729,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第10集"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 143653,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至第10集"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 149409,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "更新至10集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 150132,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第10集"
+      }
+    ]
   },
   {
     "id": 127204,
@@ -33098,7 +33287,16 @@
     "content": "<p>世界大战后，一群突然现身的妖怪帮助日本复兴，他们由此站在了权力顶端。妖怪们偶尔会在人类里挑选“新娘”，被选上的人会获得无上的荣耀，只因妖怪一辈子只认定一个人。柚子的妹妹作为狐妖的新娘，在家受尽宠爱，柚子本人却因此饱受家人的欺凌。忍无可忍的柚子离家出走，没想到路上遇到一位强大的鬼，告诉她你是我的新娘。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd15.ajupf.com/20260705/aPFiqyAj/index.m3u8#第02集$https://vodcnd15.ajupf.com/20260712/CbLtlUv1/index.m3u8#第03集$https://vodcnd16.ajupf.com/20260719/BSenmH49/index.m3u8#第04集$https://vodcnd16.ajupf.com/20260726/5Uwaj6z2/index.m3u8#第05集$https://vodcnd17.ajupf.com/20260802/MJXblBLJ/index.m3u8#第06集$https://vodcnd16.ajupf.com/20260809/p7hINzx0/index.m3u8#第07集$https://vodcnd16.ajupf.com/20260816/aGLOsieE/index.m3u8#第08集$https://vodcnd16.ajupf.com/20260823/F5ad0tHe/index.m3u8$$$第01集$https://vodcnd15.ajupf.com/share/LpaYcGvWkf#第02集$https://vodcnd15.ajupf.com/share/qUqnk5Htbd#第03集$https://vodcnd16.ajupf.com/share/sjyJN9mzrD#第04集$https://vodcnd16.ajupf.com/share/BBgbQjbCU9#第05集$https://vodcnd17.ajupf.com/share/jw8DRHDLwW#第06集$https://vodcnd16.ajupf.com/share/vJxIt0P1b3#第07集$https://vodcnd16.ajupf.com/share/PxNlibmrtm#第08集$https://vodcnd16.ajupf.com/share/Gj8GqotppF",
-    "update_time": "2026-08-23 14:39:09"
+    "update_time": "2026-08-23 14:39:09",
+    "play_sources": [
+      {
+        "source": "量子资源",
+        "source_id": 144968,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至第09集"
+      }
+    ]
   },
   {
     "id": 139758,
@@ -33115,7 +33313,37 @@
     "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">大学考试在即的高中三年级生武宫夏辉（深田龙生饰），在经历失恋与学业低迷的双重打击后，被姐姐介绍与她的男友小早川苍太（浮所飞贵饰）一起学习补习。原本对完美温柔的苍太心生反感的夏辉，却逐渐被他的笑容与温柔举动吸引，意外萌生出不该存在的心意——对“姐姐的男友”的禁忌恋情由此展开。在矛盾与自我挣扎中，少年迎来属于夏天的成长与初恋。</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.ajupf.com/20260713/kqWBJ6UK/index.m3u8#第02集$https://vodcnd16.ajupf.com/20260719/NCvptPNc/index.m3u8#第03集$https://vodcnd16.ajupf.com/20260726/FkZYMImG/index.m3u8#第04集$https://vodcnd16.ajupf.com/20260802/9rZ2qPKh/index.m3u8#第05集$https://vodcnd16.ajupf.com/20260809/G7UiyJDt/index.m3u8#第06集$https://vodcnd16.ajupf.com/20260816/5UaBczpv/index.m3u8#第07集$https://vodcnd16.ajupf.com/20260823/OaqvJGw2/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/QMFexztaUb#第02集$https://vodcnd16.ajupf.com/share/qEWghnriVJ#第03集$https://vodcnd16.ajupf.com/share/3euCMySSfX#第04集$https://vodcnd16.ajupf.com/share/nIiWGB2bmP#第05集$https://vodcnd16.ajupf.com/share/0Y2nXA805w#第06集$https://vodcnd16.ajupf.com/share/Dqe5T317Zx#第07集$https://vodcnd16.ajupf.com/share/2PHCyFFskJ",
-    "update_time": "2026-08-23 14:36:41"
+    "update_time": "2026-08-23 14:36:41",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 170640,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第8集"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 151934,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第8集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 152104,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第8集"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 116275,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第8集"
+      }
+    ]
   },
   {
     "id": 145380,
@@ -33149,7 +33377,16 @@
     "content": "<p>在看什么啊，GEL BOY，是在想念彼此吗？当两对情侣——‘CHIAN（Pipe Monthapoom）’ - ‘FOU4MOD（New Chayapak）’以及 ‘BAABIN（PJ Mahidol）’ - ‘BUA（Leon Zeck）’公开宣布关系、正式出柜、确认恋爱之后他们变成了自己偶像的“头号粉丝”，甚至可以说是“追星式恋人”（fanboy/fangirl自己的对象）但如果只是“追男/女朋友”还算好，问题是他们居然也在追别的艺人——那谁才会在他们心里回归时成为“第一本命（main）”呢？同时介绍‘GELZ（Pheem Weerawit）’ - ‘BABY（Mai Nattapat）’这对搭档将制造“粉黑大战级别”的混乱，时间线彻底爆炸真CP、假CP（船/同人CP）全部搅在一起准备迎接 iQIYI 原创系列爱情剧《GELBOYS 2：陷入“追星式恋人”状态》在暹罗广场的氛围中，带着熟悉的 Z 世代青春流行文化气息</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.ajupf.com/20260809/xWrQzhsd/index.m3u8#第02集$https://vodcnd16.ajupf.com/20260816/Sq1eM0eC/index.m3u8#第03集$https://vodcnd16.ajupf.com/20260823/6R1MiQPx/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/z5lBduxhMX#第02集$https://vodcnd16.ajupf.com/share/dTT2zoGJ29#第03集$https://vodcnd16.ajupf.com/share/n9lUvRSKgv",
-    "update_time": "2026-08-23 14:33:11"
+    "update_time": "2026-08-23 14:33:11",
+    "play_sources": [
+      {
+        "source": "暴风资源",
+        "source_id": 156770,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第04集"
+      }
+    ]
   },
   {
     "id": 145378,
@@ -33225,6 +33462,41 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第9集"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 172331,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第10集"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 150735,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第10集"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 144969,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至第10集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 151496,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第10集"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 115078,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第10集"
       }
     ]
   },
@@ -33374,7 +33646,37 @@
     "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">年轻的百万继承人Achima再次与童年时期的死敌Kaprao相逢。在两人的关系中，一方如同炽热的火焰，另一方如同让火烧得更猛的油，她们的关系会像曾经一样再次破裂，还是擦出爱的火花？</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd15.ajupf.com/20260712/UcsFxsYN/index.m3u8#第02集$https://vodcnd16.ajupf.com/20260721/gQWfAnES/index.m3u8#第03集$https://vodcnd16.ajupf.com/20260726/tAo5ULMi/index.m3u8#第04集$https://vodcnd17.ajupf.com/20260801/nN3wWr88/index.m3u8#第05集$https://vodcnd16.ajupf.com/20260808/hq7yOXkc/index.m3u8#第06集$https://vodcnd16.ajupf.com/20260815/hpuk2EXg/index.m3u8#第07集$https://vodcnd16.ajupf.com/20260823/IebG2M7X/index.m3u8$$$第01集$https://vodcnd15.ajupf.com/share/JyfipAJivP#第02集$https://vodcnd16.ajupf.com/share/LhYujwM1Wv#第03集$https://vodcnd16.ajupf.com/share/44nzkG32t3#第04集$https://vodcnd17.ajupf.com/share/O2lYOjMeIa#第05集$https://vodcnd16.ajupf.com/share/jvxMIqf4HO#第06集$https://vodcnd16.ajupf.com/share/wCkNjCW0iu#第07集$https://vodcnd16.ajupf.com/share/wqTr34EwY8",
-    "update_time": "2026-08-23 14:06:34"
+    "update_time": "2026-08-23 14:06:34",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 170102,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第8集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 151396,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第8集完结"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 151923,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "完结"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 115739,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第8集完结"
+      }
+    ]
   },
   {
     "id": 145374,
@@ -34020,6 +34322,13 @@
         "play_from": "snm3u8",
         "play_url": null,
         "remarks": "更新至06集"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 148158,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至第06集"
       }
     ]
   },
@@ -34038,7 +34347,23 @@
     "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">一段跨越不同阶层与身份的恋情。一方唯有自己的荣誉，另一方则关乎王室血统</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.ajupf.com/20260809/4xXvZRS6/index.m3u8#第02集$https://vodcnd16.ajupf.com/20260809/TzKT2Y0y/index.m3u8#第03集$https://vodcnd16.ajupf.com/20260809/EYsHf82L/index.m3u8#第04集$https://vodcnd16.ajupf.com/20260809/tjBBxakX/index.m3u8#第05集$https://vodcnd16.ajupf.com/20260809/g5PMV6ma/index.m3u8#第06集$https://vodcnd16.ajupf.com/20260809/PDfIiFpb/index.m3u8#第07集$https://vodcnd17.ajupf.com/20260801/R44FYpwg/index.m3u8#第08集$https://vodcnd16.ajupf.com/20260808/KdiHfSps/index.m3u8#第09集$https://vodcnd16.ajupf.com/20260815/2INk2tcK/index.m3u8#第10集$https://vodcnd16.ajupf.com/20260822/Z3LdKIVJ/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/1uJQ2jTKVA#第02集$https://vodcnd16.ajupf.com/share/OvV6UTWGaI#第03集$https://vodcnd16.ajupf.com/share/xcHCsfRdAL#第04集$https://vodcnd16.ajupf.com/share/EtXgUOPmIw#第05集$https://vodcnd16.ajupf.com/share/H3ifVJsm3o#第06集$https://vodcnd16.ajupf.com/share/sVyZK5d3CM#第07集$https://vodcnd17.ajupf.com/share/F3eW2S94n0#第08集$https://vodcnd16.ajupf.com/share/VfbI1XrPXA#第09集$https://vodcnd16.ajupf.com/share/NXvjhSIQoH#第10集$https://vodcnd16.ajupf.com/share/snHBet264m",
-    "update_time": "2026-08-23 00:10:52"
+    "update_time": "2026-08-23 00:10:52",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 168168,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第11集完结"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 148817,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "完结"
+      }
+    ]
   },
   {
     "id": 139633,
@@ -34396,6 +34721,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第1271集"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 183,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第1271集"
       }
     ]
   },
@@ -34499,7 +34831,16 @@
     "content": "<p>本剧改编自大町テラス同名漫画，描绘了过着不满足日常生活的已婚男女以“美味”为契机相互吸引的爱情故事。身为料理讲师的泽田多树，对料理毫无兴趣、从不夸赞好吃的丈夫感到空虚。另一方面，杂志编辑斋藤礼，面对家中持续吃冷冻食品的日子，以及希望让讨厌蔬菜的女儿吃上自己亲手做的料理却得不到妻子理解而感到焦急。这样一对在饮食方面得不到满足的已婚男女，通过工作相遇，一起做饭，一起享用，彼此填补着内心的空缺。“只是一起吃顿饭。再进一步便是地狱——”</p><p><br style=\"white-space: normal;\"/></p><p><br/></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd15.ajupf.com/20260707/iIUUd6sX/index.m3u8#第02集$https://vodcnd15.ajupf.com/20260711/AcCETq56/index.m3u8#第03集$https://vodcnd16.ajupf.com/20260719/ohh0NywS/index.m3u8#第04集$https://vodcnd16.ajupf.com/20260725/OnFYK45o/index.m3u8#第05集$https://vodcnd16.ajupf.com/20260802/uxOzVPYP/index.m3u8#第06集$https://vodcnd16.ajupf.com/20260808/0Y8rz0vW/index.m3u8#第07集$https://vodcnd16.ajupf.com/20260816/Ts1O4URq/index.m3u8#第08集$https://vodcnd16.ajupf.com/20260822/wgljuHfS/index.m3u8$$$第01集$https://vodcnd15.ajupf.com/share/dBY9sMTOPF#第02集$https://vodcnd15.ajupf.com/share/ZKIpCrsc4n#第03集$https://vodcnd16.ajupf.com/share/Ez250lvc7G#第04集$https://vodcnd16.ajupf.com/share/9I84RMyipI#第05集$https://vodcnd16.ajupf.com/share/b8z18WgUdl#第06集$https://vodcnd16.ajupf.com/share/7OjTT8yJCw#第07集$https://vodcnd16.ajupf.com/share/Iup2mD0gFX#第08集$https://vodcnd16.ajupf.com/share/pJ7wtLEp7X",
-    "update_time": "2026-08-22 22:34:50"
+    "update_time": "2026-08-22 22:34:50",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 139164,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第9集"
+      }
+    ]
   },
   {
     "id": 145362,
@@ -34669,7 +35010,16 @@
     "content": "<p>改编自ぱんぷきん同名原作，故事以在小公寓里过着新婚生活的公司职员・野村纮为中心展开。在与妻子冴吵架时，他与搬来隔壁的白石美子相遇，日常生活由此开始发生巨大变化。美子几乎每天都会来帮忙做家务和照顾病人，纮对这位无私奉献的美子渐渐产生安心感，然而美子实际上是一位自称“16岁美少女”的61岁女性。对纮一见钟情的她，为了得到纮而采取各种行动。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd15.ajupf.com/20260704/7tEaPCei/index.m3u8#第02集$https://vodcnd15.ajupf.com/20260711/kGWeY9Ky/index.m3u8#第03集$https://vodcnd16.ajupf.com/20260718/nRKDlOXN/index.m3u8#第04集$https://vodcnd16.ajupf.com/20260725/ZPekEUdb/index.m3u8#第05集$https://vodcnd16.ajupf.com/20260802/9m7LjdH3/index.m3u8#第06集$https://vodcnd16.ajupf.com/20260808/YDYTSB32/index.m3u8#第07集$https://vodcnd16.ajupf.com/20260815/bZjW3atN/index.m3u8#第08集$https://vodcnd16.ajupf.com/20260822/OJ3yBKDI/index.m3u8$$$第01集$https://vodcnd15.ajupf.com/share/u5zTuci5c7#第02集$https://vodcnd15.ajupf.com/share/1I3f9QYgx9#第03集$https://vodcnd16.ajupf.com/share/NXQKSwRYjo#第04集$https://vodcnd16.ajupf.com/share/pdZD2JRTNW#第05集$https://vodcnd16.ajupf.com/share/6jK7GMBd9x#第06集$https://vodcnd16.ajupf.com/share/MDALthJ7eo#第07集$https://vodcnd16.ajupf.com/share/9S0tAWnl78#第08集$https://vodcnd16.ajupf.com/share/4PObOsDbHD",
-    "update_time": "2026-08-22 22:23:50"
+    "update_time": "2026-08-22 22:23:50",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 138864,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第9集"
+      }
+    ]
   },
   {
     "id": 145256,
@@ -36615,6 +36965,34 @@
         "play_from": "lzm3u8",
         "play_url": null,
         "remarks": "更新至第07集"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 172338,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第7集"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 152338,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第7集"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 151569,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "更新至07集"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 116680,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第7集"
       }
     ]
   },
@@ -37455,6 +37833,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第7集"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 146688,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至第07集"
       }
     ]
   },
@@ -37630,6 +38015,13 @@
         "play_from": "gsyun,gsm3u8",
         "play_url": "",
         "remarks": "第8集"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 145559,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至第08集"
       }
     ]
   },
@@ -41185,7 +41577,16 @@
     "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">吉玛是一位年轻的母亲，她独自抚养着女儿，住在自己长大的房子里。她发现自己竟然可以进入“异灵世界”，更可怕的是，她拥有一种能力，可以将那个世界里栖息的恐怖生物带回现实世界</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "抢先版$https://vodcnd16.ajupf.com/20260821/Lyein5NF/index.m3u8$$$抢先版$https://vodcnd16.ajupf.com/share/fsv08yuA4z",
-    "update_time": "2026-08-21 20:35:22"
+    "update_time": "2026-08-21 20:35:22",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 145506,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "抢先版"
+      }
+    ]
   },
   {
     "id": 145130,
@@ -55564,6 +55965,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第4集"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 152746,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
@@ -62723,7 +63131,23 @@
     "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; text-wrap-mode: wrap; background-color: #FFFFFF;\">官方宣布第4季</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd13.ajupf.com/20260404/bxvNjvag/index.m3u8#第02集$https://vodcnd15.ajupf.com/20260411/ckFTA4V5/index.m3u8#第03集$https://vodcnd15.ajupf.com/20260418/gimk5ucx/index.m3u8#第04集$https://vodcnd13.ajupf.com/20260425/Ty2jCG0Z/index.m3u8#第05集$https://vodcnd15.ajupf.com/20260510/0C0edfh6/index.m3u8#第06集$https://vodcnd15.ajupf.com/20260510/xTvOOi6a/index.m3u8#第07集$https://vodcnd15.ajupf.com/20260519/G11UFKEg/index.m3u8#第08集$https://vodcnd15.ajupf.com/20260525/oIRrAl7H/index.m3u8#第09集$https://vodcnd15.ajupf.com/20260531/LIiDlLki/index.m3u8#第10集$https://vodcnd15.ajupf.com/20260607/Z2CnrkuP/index.m3u8#第11集$https://vodcnd15.ajupf.com/20260614/JP5t22Cc/index.m3u8#第12集$https://vodcnd15.ajupf.com/20260705/LJazKQrX/index.m3u8#第13集$https://vodcnd15.ajupf.com/20260628/pmnRAaRW/index.m3u8#第14集$https://vodcnd15.ajupf.com/20260705/5PU9dV1p/index.m3u8#第15集$https://vodcnd15.ajupf.com/20260711/Z8I4p0H7/index.m3u8#第16集$https://vodcnd16.ajupf.com/20260719/kZLL264N/index.m3u8#第17集$https://vodcnd16.ajupf.com/20260726/gpau7OmQ/index.m3u8#第18集$https://vodcnd16.ajupf.com/20260801/v60brFrg/index.m3u8#第19集$https://vodcnd16.ajupf.com/20260815/zrfESKy9/index.m3u8$$$第01集$https://vodcnd13.ajupf.com/share/7TWgZ7fEZv#第02集$https://vodcnd15.ajupf.com/share/WXJGK9DGA2#第03集$https://vodcnd15.ajupf.com/share/wYNZK7LnAl#第04集$https://vodcnd13.ajupf.com/share/7jWDMPG3e0#第05集$https://vodcnd15.ajupf.com/share/Gj4bSqBBaF#第06集$https://vodcnd15.ajupf.com/share/aa9XRpxJPX#第07集$https://vodcnd15.ajupf.com/share/2DLQhyx4e1#第08集$https://vodcnd15.ajupf.com/share/raWlBQa6bf#第09集$https://vodcnd15.ajupf.com/share/1Qa54OiP5h#第10集$https://vodcnd15.ajupf.com/share/FPOCzCvV9P#第11集$https://vodcnd15.ajupf.com/share/0D3ND6siH2#第12集$https://vodcnd15.ajupf.com/share/PaC8qPZU3W#第13集$https://vodcnd15.ajupf.com/share/Ccbve9yIBr#第14集$https://vodcnd15.ajupf.com/share/w3K9ceOIg0#第15集$https://vodcnd15.ajupf.com/share/CwZgukY6f8#第16集$https://vodcnd16.ajupf.com/share/egQzaBDAQY#第17集$https://vodcnd16.ajupf.com/share/exq9ljlrpN#第18集$https://vodcnd16.ajupf.com/share/j9vSY0nO69#第19集$https://vodcnd16.ajupf.com/share/Q7hxojWVFg",
-    "update_time": "2026-08-15 21:02:01"
+    "update_time": "2026-08-15 21:02:01",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 127628,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第20集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 140403,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第20集"
+      }
+    ]
   },
   {
     "id": 141495,
