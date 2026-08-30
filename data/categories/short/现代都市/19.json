@@ -1,5 +1,17 @@
 [
   {
+    "id": 144164,
+    "name": "一品狂龙",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260816-1/7eaede0492b8378456bf1a19517553d8.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-16 20:39:07"
+  },
+  {
     "id": 144163,
     "name": "假千金人脉干翻全场",
     "type": "现代都市",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-16 14:53:42"
-  },
-  {
-    "id": 144057,
-    "name": "鹤归：玄学大佬她下山后飒爆了",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260816-1/53dd2a11bd3e0d070dbe36e2e23172a9.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-16 14:51:41"
   }
 ]

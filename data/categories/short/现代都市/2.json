@@ -1,5 +1,17 @@
 [
   {
+    "id": 146142,
+    "name": "金丹背后",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260827-1/f5e25caab200a250310f949acc95ee9c.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-27 21:52:59"
+  },
+  {
     "id": 146144,
     "name": "日薪五万守皇陵，千古英灵听我令",
     "type": "现代都市",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-27 17:52:20"
-  },
-  {
-    "id": 146230,
-    "name": "爱人请批示",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260827-1/63e237cea725d1ab69e0f2324761f2e7.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-27 17:48:21"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 139745,
+    "name": "一城一味·透鲜的滇桂",
+    "type": "纪录片",
+    "category": "纪录片,短片",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260715-1/e1072c4edf3a2044806485346d85b1a1.jpg",
+    "score": "5.0",
+    "remarks": "第13期",
+    "update_time": "2026-08-24 18:27:51"
+  },
+  {
     "id": 140050,
     "name": "西区帮派",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-21 11:28:37"
-  },
-  {
-    "id": 145012,
-    "name": "履带战车",
-    "type": "战争片",
-    "category": "战争",
-    "year": "2026",
-    "area": "英国",
-    "poster": "https://dbzy5.com/upload/vod/20260820-1/4d512990f5332fa1c13a57721eeda3b4.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-21 00:04:52"
   }
 ]

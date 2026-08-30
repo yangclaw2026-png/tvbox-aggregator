@@ -1,5 +1,17 @@
 [
   {
+    "id": 140612,
+    "name": "初心如炬，微光终成星河",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260723-1/23d35792a0744100795e97421f985c7f.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-02 20:25:27"
+  },
+  {
     "id": 140611,
     "name": "厨神从乡下来",
     "type": "现代都市",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-01 22:44:08"
-  },
-  {
-    "id": 141831,
-    "name": "错爱之后，我夺回一切",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260801-1/77802d7af4e2b0c75f98d437048636d8.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-01 22:43:45"
   }
 ]

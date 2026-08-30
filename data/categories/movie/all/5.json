@@ -1,5 +1,17 @@
 [
   {
+    "id": 143450,
+    "name": "黄金大偷运",
+    "type": "纪录片",
+    "category": "纪录片,民国,案件",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260812-1/6841a38417e8ab3079020267fdcf7f08.jpg",
+    "score": "5.0",
+    "remarks": "第2集完结",
+    "update_time": "2026-08-12 15:20:21"
+  },
+  {
     "id": 127376,
     "name": "时装",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-07 18:27:06"
-  },
-  {
-    "id": 142657,
-    "name": "出走 哥哥的彼界",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2025",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260807-1/87159382a059a5a0d2a7935de42f32ed.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-07 16:57:48"
   }
 ]

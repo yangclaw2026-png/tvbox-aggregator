@@ -1,5 +1,17 @@
 [
   {
+    "id": 143831,
+    "name": "别说好运",
+    "type": "剧情片",
+    "category": "剧情,歌舞",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260814-1/182f81d04f92c5a99b1e53f1bd075594.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-14 18:25:06"
+  },
+  {
     "id": 143820,
     "name": "托尼 2026",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-05 15:18:47"
-  },
-  {
-    "id": 142306,
-    "name": "世外",
-    "type": "剧情片",
-    "category": "动画",
-    "year": "2025",
-    "area": "中国香港",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/c6763c212a4ecc29d4d34d221f72c214.jpg",
-    "score": "7.0",
-    "remarks": "正片",
-    "update_time": "2026-08-05 15:15:10"
   }
 ]

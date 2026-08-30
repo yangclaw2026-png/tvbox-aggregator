@@ -1,5 +1,17 @@
 [
   {
+    "id": 145012,
+    "name": "履带战车",
+    "type": "战争片",
+    "category": "战争",
+    "year": "2026",
+    "area": "英国",
+    "poster": "https://dbzy5.com/upload/vod/20260820-1/4d512990f5332fa1c13a57721eeda3b4.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-21 00:04:52"
+  },
+  {
     "id": 145024,
     "name": "汀士满路",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "6.3",
     "remarks": "正片",
     "update_time": "2026-08-16 19:02:53"
-  },
-  {
-    "id": 63488,
-    "name": "龙纹身的女孩",
-    "type": "剧情片",
-    "category": "剧情,悬疑,惊悚,犯罪",
-    "year": "2011",
-    "area": "美国,瑞典,挪威",
-    "poster": "https://dbzy5.com/upload/vod/20250107-7/c973ba1ada0a7f8a8d07a5e534b57be9.jpg",
-    "score": "8.1",
-    "remarks": "正片",
-    "update_time": "2026-08-16 19:00:55"
   }
 ]

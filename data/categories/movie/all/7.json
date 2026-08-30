@@ -1,5 +1,17 @@
 [
   {
+    "id": 142318,
+    "name": "出自：伊斯科的达马格斯故事",
+    "type": "惊悚片",
+    "category": "惊悚",
+    "year": "2021",
+    "area": "菲律宾",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/9ef24dce5d538af60248144b8b6a01db.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-05 15:56:39"
+  },
+  {
     "id": 142317,
     "name": "审判 2015",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-04 18:16:09"
-  },
-  {
-    "id": 142141,
-    "name": "写写爱",
-    "type": "喜剧片",
-    "category": "喜剧,爱情",
-    "year": "2019",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/fa8ddc7511c470b27431edd371d42c51.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-04 18:15:05"
   }
 ]

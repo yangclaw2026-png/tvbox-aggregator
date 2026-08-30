@@ -1,5 +1,17 @@
 [
   {
+    "id": 146230,
+    "name": "爱人请批示",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260827-1/63e237cea725d1ab69e0f2324761f2e7.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-27 17:48:21"
+  },
+  {
     "id": 146163,
     "name": "零下 70℃：被总师老爹宠上天",
     "type": "现代都市",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-26 21:48:48"
-  },
-  {
-    "id": 146086,
-    "name": "失忆后的顾先生又甜又野",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260826-1/ea7c33e7cc84d0d4e935bd6ae35cab94.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-26 21:46:35"
   }
 ]

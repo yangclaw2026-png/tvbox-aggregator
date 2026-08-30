@@ -1,5 +1,17 @@
 [
   {
+    "id": 142657,
+    "name": "出走 哥哥的彼界",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2025",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260807-1/87159382a059a5a0d2a7935de42f32ed.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-07 16:57:48"
+  },
+  {
     "id": 142656,
     "name": "鸡肉帝国：快餐阴谋",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-05 16:01:25"
-  },
-  {
-    "id": 142318,
-    "name": "出自：伊斯科的达马格斯故事",
-    "type": "惊悚片",
-    "category": "惊悚",
-    "year": "2021",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/9ef24dce5d538af60248144b8b6a01db.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-05 15:56:39"
   }
 ]
