@@ -1,5 +1,17 @@
 [
   {
+    "id": 145627,
+    "name": "紫荆楼：伐罪",
+    "type": "国产剧",
+    "category": "奇幻,冒险",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260824-1/6962e6982fa9eabbb1532515f4a3fa58.jpg",
+    "score": "5.0",
+    "remarks": "第12集完结",
+    "update_time": "2026-08-24 17:14:26"
+  },
+  {
     "id": 111189,
     "name": "泰拉玛斯卡：秘社",
     "type": "欧美剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第6集",
     "update_time": "2026-08-22 14:37:29"
-  },
-  {
-    "id": 140814,
-    "name": "大唐少年天行传",
-    "type": "国产剧",
-    "category": "剧情,悬疑,古装",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260725-1/c0f55657a2720568c4cbc24b3268e91a.jpg",
-    "score": "5.0",
-    "remarks": "第20集完结",
-    "update_time": "2026-08-22 13:58:15"
   }
 ]

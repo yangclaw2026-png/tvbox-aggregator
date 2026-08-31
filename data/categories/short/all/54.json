@@ -1,5 +1,17 @@
 [
   {
+    "id": 143216,
+    "name": "月薪三千的我误闯天家",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260810-1/ff94a40b670cbaed983590b8e290b7c3.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-10 20:38:47"
+  },
+  {
     "id": 143212,
     "name": "永世长青",
     "type": "古装仙侠",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-10 16:16:06"
-  },
-  {
-    "id": 143102,
-    "name": "帝心惟卿：深宫定乾坤",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260810-1/9b0443b0f843dae1e56860ca72b0774d.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-10 16:12:43"
   }
 ]

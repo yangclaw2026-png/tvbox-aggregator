@@ -1,5 +1,17 @@
 [
   {
+    "id": 138999,
+    "name": "35岁，现在恋爱什么的也太不现实了",
+    "type": "日本剧",
+    "category": "剧情,爱情",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260708-1/63f6a5f5a7e91bbdd23cbc36d13f9d29.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-26 22:35:00"
+  },
+  {
     "id": 137386,
     "name": "你在夏日之中",
     "type": "日本剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第8集完结",
     "update_time": "2026-08-24 17:34:13"
-  },
-  {
-    "id": 145627,
-    "name": "紫荆楼：伐罪",
-    "type": "国产剧",
-    "category": "奇幻,冒险",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260824-1/6962e6982fa9eabbb1532515f4a3fa58.jpg",
-    "score": "5.0",
-    "remarks": "第12集完结",
-    "update_time": "2026-08-24 17:14:26"
   }
 ]

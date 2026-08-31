@@ -1,5 +1,17 @@
 [
   {
+    "id": 140814,
+    "name": "大唐少年天行传",
+    "type": "国产剧",
+    "category": "剧情,悬疑,古装",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260725-1/c0f55657a2720568c4cbc24b3268e91a.jpg",
+    "score": "5.0",
+    "remarks": "第20集完结",
+    "update_time": "2026-08-22 13:58:15"
+  },
+  {
     "id": 140045,
     "name": "直到T恤干透",
     "type": "日本剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第12集完结",
     "update_time": "2026-08-18 16:18:37"
-  },
-  {
-    "id": 142122,
-    "name": "时光旅行老爸",
-    "type": "日本剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/b5e77c9c1c76b3bf05b59e470b915bb8.jpg",
-    "score": "5.0",
-    "remarks": "第3集",
-    "update_time": "2026-08-18 14:51:12"
   }
 ]

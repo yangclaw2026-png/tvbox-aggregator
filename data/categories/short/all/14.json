@@ -1,5 +1,17 @@
 [
   {
+    "id": 145667,
+    "name": "一剑斩古神，那人是我爹",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260824-1/8961c32695c3c678d21c5363addff64a.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-24 21:42:34"
+  },
+  {
     "id": 145666,
     "name": "失业后被甩，系统助我赢在新途",
     "type": "现代都市",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-23 22:56:06"
-  },
-  {
-    "id": 145523,
-    "name": "我一条蛇，教出一群魔头很合理吧",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260823-1/afe428d9e658ebfe2651b9c8c1515df8.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-23 22:55:09"
   }
 ]

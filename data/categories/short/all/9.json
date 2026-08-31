@@ -1,5 +1,17 @@
 [
   {
+    "id": 145816,
+    "name": "侠左，剑右",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260825-1/1e12f6a346f2a58adf176257ebd3b325.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-25 22:36:07"
+  },
+  {
     "id": 145812,
     "name": "夜色正浓",
     "type": "现代都市",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-25 22:05:37"
-  },
-  {
-    "id": 145894,
-    "name": "尹心坏坏之少逼逼歪歪，反派火力全开第四季",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260825-1/8028ed0ab34a318cf7e6351601949205.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-25 22:04:02"
   }
 ]

@@ -1,5 +1,83 @@
 [
   {
+    "id": 147046,
+    "name": "囧徒之预演告别",
+    "type": "国产剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "language": "汉语普通话",
+    "category": "剧情,喜剧",
+    "poster": "https://dbzy5.com/upload/vod/20260831-1/2bfe19edc2521fd08bc9f52492c1ac2d.jpg",
+    "douban_id": 36448068,
+    "score": "5.0",
+    "remarks": "第3集",
+    "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">方浩文（贾冰 饰）的笔是欢喜市最廉价的武器，写不出最畅销的书，却能刺穿最荒诞的现实。女企业家金芙蓉（孔令美 饰）的赏识让他一朝成名，又在拒绝求爱后跌落云端。一场醉酒坠楼，一场“自杀”闹剧，将他推上流量时代的风口浪尖——前经纪人（闫佩伦 饰）怂恿他“用死亡换销量”翻红网络。而狂热书粉别凡（田嘉瑞 饰）的出现，彻底打乱了这场精心策划的直播骗局，“囧徒”组合由此诞生——过气作家带着中二粉丝开启“求生不得求死不能”的疯癫之旅。</span></p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01集$https://vodcnd17.ajupf.com/20260831/ipKDgeaw/index.m3u8#第02集$https://vodcnd17.ajupf.com/20260831/Ftem32Z3/index.m3u8#第03集$https://vodcnd17.ajupf.com/20260831/OPYndGhp/index.m3u8$$$第01集$https://vodcnd17.ajupf.com/share/l25AVNGKE4#第02集$https://vodcnd17.ajupf.com/share/plXXGsj2BF#第03集$https://vodcnd17.ajupf.com/share/UfLGX8FeUc",
+    "update_time": "2026-08-31 20:52:43",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 217321,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第04集"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 193197,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第04集"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 147385,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第3集"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 155145,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至第04集"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 154002,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "更新至04集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 160622,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第4集"
+      }
+    ]
+  },
+  {
+    "id": 147052,
+    "name": "全村求我回头，我反手捐车给山区",
+    "type": "现代都市",
+    "year": "2026",
+    "area": "中国大陆",
+    "language": "汉语普通话",
+    "category": "短剧",
+    "poster": "https://dbzy5.com/upload/vod/20260831-1/4bd401b4501b58b4331ac202db266b7f.jpg",
+    "douban_id": 0,
+    "score": "0.0",
+    "remarks": "全集完结",
+    "content": "<p>被全村嫌弃的 ” 赔钱货 ” 暴富归来，所有人排队求原谅 —— 结果她转头把豪车捐给了山区小学 。 这部 AI 制作短剧把 ” 打脸 ” 玩出了格局，AI 生成的乡村场景真实感十足，女主的反击不是撒钱羞辱，而是用行动证明：你的认可，老娘早就不稀罕了 。 从被逐出村到以德报怨又绝不圣母，这剧爽点密集又让人心头一热，看完只想给编剧和 AI 都点个赞 。</p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "全集完结$https://vodcnd17.ajupf.com/20260814/bp7iXPjO/index.m3u8#$$$全集完结$https://vodcnd17.ajupf.com/share/NS8D95lWUV#",
+    "update_time": "2026-08-31 20:50:07"
+  },
+  {
     "id": 146788,
     "name": "分床合爱2",
     "type": "剧情片",
@@ -5904,6 +5982,13 @@
         "play_from": "hnm3u8",
         "play_url": null,
         "remarks": "第19集"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 169043,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第20集"
       }
     ]
   },
@@ -11920,6 +12005,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第21集"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 142987,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第23集"
       }
     ]
   },
@@ -13045,6 +13137,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第39集"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 144939,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第42集"
       }
     ]
   },
@@ -14050,7 +14149,16 @@
     "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; text-wrap-mode: wrap; background-color: #FFFFFF;\">《毛雪汪》是一档以原生朋友关系为切入点的场景化真人秀综艺节目。节目以友情为纽带，以“毛雪汪之家”为主要拍摄场景，讲述每周在这里相聚的毛不易、李雪琴和他们朋友之间真实有趣的故事，在嬉笑中撕开生活日常的现状，展现当下年轻人丰富的青春生活和精神世界，记录真实的成长。节目常年周更播出，为城市中努力打拼的年轻人带来陪伴和情绪上的健康疗愈。</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01期$https://vodcnd09.ajupf.com/20250114/Q0U608Sv/index.m3u8#第02期$https://vodcnd09.ajupf.com/20250114/07UTRMUu/index.m3u8#第03期$https://vodcnd09.ajupf.com/20250114/vzuHHo3t/index.m3u8#第04期$https://vodcnd09.ajupf.com/20250114/4NAHMfV8/index.m3u8#第05期$https://vodcnd09.ajupf.com/20250114/yWcFYfVL/index.m3u8#第06期$https://vodcnd09.ajupf.com/20250114/Y48Ahpca/index.m3u8#第07期$https://vodcnd09.ajupf.com/20250114/cpBolXB3/index.m3u8#第08期$https://vodcnd09.ajupf.com/20250114/STdD3MwF/index.m3u8#第09期$https://vodcnd09.ajupf.com/20250114/PW3TxPja/index.m3u8#第10期$https://vodcnd09.ajupf.com/20250114/isdE1f9Z/index.m3u8#第11期$https://vodcnd09.ajupf.com/20250114/JWZT5Kng/index.m3u8#第12期$https://vodcnd09.ajupf.com/20250114/gASHEihw/index.m3u8#第13期$https://vodcnd09.ajupf.com/20250114/hMJw1Y4k/index.m3u8#第14期$https://vodcnd09.ajupf.com/20250114/vc8f505M/index.m3u8#第15期$https://vodcnd09.ajupf.com/20250114/FLI8rgG9/index.m3u8#第16期$https://vodcnd09.ajupf.com/20250114/xTOOybEY/index.m3u8#第17期$https://vodcnd09.ajupf.com/20250114/ZegwbGII/index.m3u8#第18期$https://vodcnd09.ajupf.com/20250114/tixHjHhw/index.m3u8#第19期$https://vodcnd09.ajupf.com/20250114/OsiNvj2l/index.m3u8#第20期$https://vodcnd09.ajupf.com/20250114/hX0ziB2Q/index.m3u8#第21期$https://vodcnd09.ajupf.com/20250114/nLXuLGrU/index.m3u8#第22期$https://vodcnd09.ajupf.com/20250114/rMTKXPLj/index.m3u8#第23期$https://vodcnd09.ajupf.com/20250114/pS0yQYh5/index.m3u8#第24期$https://vodcnd09.ajupf.com/20250114/TK53hEl5/index.m3u8#第25期$https://vodcnd09.ajupf.com/20250114/0ci4Fa5L/index.m3u8#第26期$https://vodcnd09.ajupf.com/20250114/iNFkGJO7/index.m3u8#第27期$https://vodcnd09.ajupf.com/20250114/JHB9L3wA/index.m3u8#第28期$https://vodcnd09.ajupf.com/20250114/PFzsxqp9/index.m3u8#第29期$https://vodcnd09.ajupf.com/20250114/bvHI3x3O/index.m3u8#第30期$https://vodcnd09.ajupf.com/20250114/lsAs8qH8/index.m3u8#第31期$https://vodcnd09.ajupf.com/20250114/NaPsT4HR/index.m3u8#第32期$https://vodcnd09.ajupf.com/20250114/9fPO5VaT/index.m3u8#第33期$https://vodcnd09.ajupf.com/20250114/c8O65ajV/index.m3u8#第34期$https://vodcnd09.ajupf.com/20250114/Emh3QpVU/index.m3u8#第35期$https://vodcnd09.ajupf.com/20250114/ZyO4Zzhy/index.m3u8#第36期$https://vodcnd09.ajupf.com/20250114/q0RSLB9k/index.m3u8#第37期$https://vodcnd09.ajupf.com/20250114/BVvDNXNM/index.m3u8#第38期$https://vodcnd09.ajupf.com/20250114/PeEBhp5D/index.m3u8#第39期$https://vodcnd09.ajupf.com/20250114/1BkW3qYt/index.m3u8#第40期$https://vodcnd09.ajupf.com/20250114/Zg8n7VDc/index.m3u8#第41期$https://vodcnd09.ajupf.com/20250114/auLdpDwq/index.m3u8#第42期$https://vodcnd09.ajupf.com/20250114/neRhjmRa/index.m3u8#第43期$https://vodcnd09.ajupf.com/20250114/Gw9qbxUa/index.m3u8#第44期$https://vodcnd09.ajupf.com/20250114/NhQWIgEo/index.m3u8#第45期$https://vodcnd09.ajupf.com/20250114/mIvORYqJ/index.m3u8#第46期$https://vodcnd09.ajupf.com/20250114/w6R137mn/index.m3u8#第47期$https://vodcnd09.ajupf.com/20250114/kGXYHXvR/index.m3u8#第48期$https://vodcnd09.ajupf.com/20250114/YGZ0x4wc/index.m3u8#第49期$https://vodcnd09.ajupf.com/20250114/vgvd0A9R/index.m3u8#第50期$https://vodcnd09.ajupf.com/20250114/1Ws5qBBm/index.m3u8#第51期$https://vodcnd09.ajupf.com/20250114/NgRbzg1w/index.m3u8#第52期$https://vodcnd09.ajupf.com/20250114/Xy460EY5/index.m3u8#第53期$https://vodcnd09.ajupf.com/20250114/u4D5o9zU/index.m3u8#第54期$https://vodcnd09.ajupf.com/20250114/6cgXdqm7/index.m3u8#第55期$https://vodcnd09.ajupf.com/20250114/hzs28D8U/index.m3u8#第56期$https://vodcnd09.ajupf.com/20250114/Bw5Hszr5/index.m3u8#第57期$https://vodcnd09.ajupf.com/20250114/qd84OJ3R/index.m3u8#第58期$https://vodcnd09.ajupf.com/20250114/7a0wK3G5/index.m3u8#第59期$https://vodcnd09.ajupf.com/20250114/ClwJpvHj/index.m3u8#第60期$https://vodcnd09.ajupf.com/20250114/htOsJB6X/index.m3u8#第61期$https://vodcnd09.ajupf.com/20250114/pW3tYy6T/index.m3u8#第62期$https://vodcnd09.ajupf.com/20250114/FwroPQFZ/index.m3u8#第63期$https://vodcnd09.ajupf.com/20250114/xo85OqmJ/index.m3u8#第64期$https://vodcnd09.ajupf.com/20250114/YbxjlKWV/index.m3u8#第65期$https://vodcnd09.ajupf.com/20250114/7pjbQXXX/index.m3u8#第66期$https://vodcnd09.ajupf.com/20250114/dMN1chsF/index.m3u8#第67期$https://vodcnd09.ajupf.com/20250114/qCp3dnBa/index.m3u8#第68期$https://vodcnd09.ajupf.com/20250114/rmcj1YHY/index.m3u8#第69期$https://vodcnd09.ajupf.com/20250114/Cphqv9Ja/index.m3u8#第70期$https://vodcnd09.ajupf.com/20250114/MJUBbC3H/index.m3u8#第71期$https://vodcnd09.ajupf.com/20250114/AqzIQjgL/index.m3u8#第72期$https://vodcnd09.ajupf.com/20250114/016UV2Et/index.m3u8#第73期$https://vodcnd09.ajupf.com/20250114/nKSSHHJ1/index.m3u8#第74期$https://vodcnd09.ajupf.com/20250114/GfuHJXTH/index.m3u8#第75期$https://vodcnd09.ajupf.com/20250114/xUEl3Bpi/index.m3u8#第76期$https://vodcnd09.ajupf.com/20250114/a11U5qrC/index.m3u8#第77期$https://vodcnd09.ajupf.com/20250114/XOS4G9u0/index.m3u8#第78期$https://vodcnd09.ajupf.com/20250114/djQLjs91/index.m3u8#第78期$https://vodcnd09.ajupf.com/20250114/6nZhRZfM/index.m3u8#第79期$https://vodcnd09.ajupf.com/20250114/JJ8d88nj/index.m3u8#第79期$https://vodcnd09.ajupf.com/20250114/2LNoLKRS/index.m3u8#第80期$https://vodcnd09.ajupf.com/20250114/NtcsfOH1/index.m3u8#第81期$https://vodcnd09.ajupf.com/20250114/5alhTwKI/index.m3u8#第82期$https://vodcnd09.ajupf.com/20250114/vkxwtRQQ/index.m3u8#第83期$https://vodcnd09.ajupf.com/20250114/tVSiS7Ho/index.m3u8#第84期$https://vodcnd09.ajupf.com/20250114/7ZlyGu6R/index.m3u8#第85期$https://vodcnd09.ajupf.com/20250114/4t0lOCF5/index.m3u8#第86期$https://vodcnd09.ajupf.com/20250114/YulXRyjG/index.m3u8#第87期$https://vodcnd09.ajupf.com/20250114/M8yVUMVP/index.m3u8#第88期$https://vodcnd09.ajupf.com/20250114/yX1gUMwd/index.m3u8#第89期$https://vodcnd09.ajupf.com/20250114/cSonKfND/index.m3u8#第90期$https://vodcnd09.ajupf.com/20250114/88sJvF5C/index.m3u8#第91期$https://vodcnd09.ajupf.com/20250114/ldB2JVnv/index.m3u8#第92期$https://vodcnd09.ajupf.com/20250114/tHe6imuT/index.m3u8#第93期$https://vodcnd09.ajupf.com/20250114/K80nDtfR/index.m3u8#第94期$https://vodcnd09.ajupf.com/20250114/BWBmsXY9/index.m3u8#第95期$https://vodcnd09.ajupf.com/20250114/b5DGnC1K/index.m3u8#第96期$https://vodcnd09.ajupf.com/20250114/kaeu5pmY/index.m3u8#第97期$https://vodcnd09.ajupf.com/20250114/RuAgwNzU/index.m3u8#第98期$https://vodcnd09.ajupf.com/20250114/21iZRAYD/index.m3u8#第99期$https://vodcnd09.ajupf.com/20250114/zjfoWIL6/index.m3u8#第109期$https://vodcnd09.ajupf.com/20250108/SpsxeCep/index.m3u8#第110期$https://vodcnd03.ajupf.com/20250421/PaJ1lSWc/index.m3u8#第20250422期汪子问问问$https://vodcnd03.ajupf.com/20250422/ZLAsibPv/index.m3u8#第20250423期$https://vodcnd03.ajupf.com/20250423/c8ZKtUEF/index.m3u8#第111期$https://vodcnd14.ajupf.com/20250428/C6th8J1Z/index.m3u8#第20250429期超长尊享版$https://vodcnd03.ajupf.com/20250429/IjwaWe0D/index.m3u8#第20250430期汪子问问问$https://vodcnd14.ajupf.com/20250430/RAV3vyjY/index.m3u8#第112期$https://vodcnd03.ajupf.com/20250505/bni4isNO/index.m3u8#第20250506期超长尊享版$https://vodcnd03.ajupf.com/20250506/bQgQXhVF/index.m3u8#第20250507期汪子问问问$https://vodcnd03.ajupf.com/20250507/m55egHMr/index.m3u8#第113期$https://vodcnd03.ajupf.com/20250512/Aam6lmOp/index.m3u8#第20250513期超长尊享版$https://vodcnd03.ajupf.com/20250514/nQ9shVr0/index.m3u8#第20250514期汪子问问问$https://vodcnd03.ajupf.com/20250514/OA6YoaHR/index.m3u8#第20250515期毛毛雪琴re《五哈》爆笑连连$https://vodcnd03.ajupf.com/20250515/Pd1SVyQQ/index.m3u8#第114期$https://vodcnd01.ajupf.com/20250519/MwDWBrtW/index.m3u8#第20250520期超长尊享版$https://vodcnd01.ajupf.com/20250520/V3TZtQ69/index.m3u8#第20250521期汪子问问问$https://vodcnd01.ajupf.com/20250521/qfthXQqN/index.m3u8#第115期$https://vodcnd01.ajupf.com/20250526/RUt3zKQw/index.m3u8#第20250527期超长尊享版$https://vodcnd10.ajupf.com/20250527/tcZdsmuT/index.m3u8#第20250528期汪子问问问$https://vodcnd10.ajupf.com/20250528/VUZokl1U/index.m3u8#第116期$https://vodcnd00.ajupf.com/20250602/deI5as0Z/index.m3u8#第116期加更$https://vodcnd00.ajupf.com/20250602/dUz9aLt5/index.m3u8#第20250603期超长尊享版$https://vodcnd11.ajupf.com/20250604/A6f6xdtx/index.m3u8#第20250604期汪子问问问$https://vodcnd11.ajupf.com/20250604/hYwnnvR3/index.m3u8#第20250605期高甜预警毛毛雪琴看折腰一秒红温$https://vodcnd11.ajupf.com/20250605/zlGOE8c6/index.m3u8#第117期$https://vodcnd11.ajupf.com/20250609/qTCT5EKm/index.m3u8#第117期加更$https://vodcnd11.ajupf.com/20250609/aXMk65bL/index.m3u8#第20250610期超长尊享版$https://vodcnd11.ajupf.com/20250610/tGo7Kf1t/index.m3u8#第20250611期汪子问问问$https://vodcnd11.ajupf.com/20250611/oFlxiU45/index.m3u8#第20250612期陷入热恋王安宇说看自己吻戏很羞耻$https://vodcnd11.ajupf.com/20250612/FBrTkfvV/index.m3u8#第118期$https://vodcnd11.ajupf.com/20250616/LC17lCUx/index.m3u8#第118期加更$https://vodcnd11.ajupf.com/20250616/EWzfELSs/index.m3u8#第20250617期超长尊享版$https://vodcnd11.ajupf.com/20250617/ct87C8fh/index.m3u8#第20250619期特别加更$https://vodcnd11.ajupf.com/20250619/CyPoVZYG/index.m3u8#第20250623期$https://vodcnd11.ajupf.com/20250623/xPLXntRn/index.m3u8#第119期$https://vodcnd11.ajupf.com/20250623/OMir3dI8/index.m3u8#第119期加更$https://vodcnd11.ajupf.com/20250623/kCapbhBb/index.m3u8#第20250624期超长尊享版$https://vodcnd11.ajupf.com/20250624/qgYzMocl/index.m3u8#第20250625期$https://vodcnd11.ajupf.com/20250708/50fAyVKg/index.m3u8#第20250701期尊享版$https://vodcnd11.ajupf.com/20250708/ibnKtwbV/index.m3u8#第20250707期特辑$https://vodcnd11.ajupf.com/20250708/JGFC123g/index.m3u8#第20250714期$https://vodcnd11.ajupf.com/20250714/cZpXbwro/index.m3u8#第20250714期加更$https://vodcnd11.ajupf.com/20250714/ZYv7UG2H/index.m3u8#第20250716期$https://vodcnd11.ajupf.com/20250716/bRx0DouK/index.m3u8#第20250721期$https://vodcnd11.ajupf.com/20250721/c5vRp8Mu/index.m3u8#第20250721期加更版$https://vodcnd11.ajupf.com/20250721/yLocsoIO/index.m3u8#第20250723期$https://vodcnd11.ajupf.com/20250723/WbQquLrY/index.m3u8#第20250728期$https://vodcnd11.ajupf.com/20250729/2iYs4wJN/index.m3u8#第20250728期加更版$https://vodcnd11.ajupf.com/20250729/8ROzdFDM/index.m3u8#第20250729期尊享版$https://vodcnd11.ajupf.com/20250729/IGgQOY6o/index.m3u8#第20250730期$https://vodcnd10.ajupf.com/20250730/YuWR0GPI/index.m3u8#第123期$https://vodcnd11.ajupf.com/20250804/CwoniH83/index.m3u8#第123期加更$https://vodcnd11.ajupf.com/20250804/nu7WYVUz/index.m3u8#第20250805期尊享版$https://vodcnd10.ajupf.com/20250806/CDKEcIK5/index.m3u8#第20250806期$https://vodcnd10.ajupf.com/20250806/xrH7HYo2/index.m3u8#第20250811期$https://vodcnd10.ajupf.com/20250812/X9VhELFT/index.m3u8#第20250811期加更版$https://vodcnd10.ajupf.com/20250812/rWMGe7k6/index.m3u8#第20250812期尊享版$https://vodcnd10.ajupf.com/20250812/xZtoFDIt/index.m3u8#第20250813期$https://vodcnd10.ajupf.com/20250814/mjPwt6VG/index.m3u8#第20250818期$https://vodcnd11.ajupf.com/20250818/yp1sDx5B/index.m3u8#第20250818期加更版$https://vodcnd10.ajupf.com/20250818/ZO48EawK/index.m3u8#第20250819期尊享版$https://vodcnd10.ajupf.com/20250819/xi38y89P/index.m3u8#第20250820期$https://vodcnd10.ajupf.com/20250820/iYDRTKYW/index.m3u8#第126期：王玉雯欧阳娣娣聊地球录制爆笑幕后$https://vodcnd10.ajupf.com/20250825/aQzkwKaJ/index.m3u8#第20250826期$https://vodcnd10.ajupf.com/20250827/ErBe6osp/index.m3u8#第20250827期$https://vodcnd10.ajupf.com/20250827/3gt7iC5d/index.m3u8#第20250901期加更版$https://vodcnd10.ajupf.com/20250902/sTpyvqJ9/index.m3u8#第20250901期$https://vodcnd10.ajupf.com/20250902/L4jmkzaq/index.m3u8#第20250902期尊享版$https://vodcnd10.ajupf.com/20250902/0N34sJzi/index.m3u8#第20250903期$https://vodcnd11.ajupf.com/20250903/dSxJ1wpN/index.m3u8#第20250908期$https://vodcnd10.ajupf.com/20250909/AuXfQwpX/index.m3u8#第20250908期加更版$https://vodcnd10.ajupf.com/20250909/BBPV570Q/index.m3u8#第20250909期尊享版$https://vodcnd11.ajupf.com/20250910/WSkpNQUW/index.m3u8#第20250910期$https://vodcnd10.ajupf.com/20250911/4TalONSh/index.m3u8#第20250915期加更版$https://vodcnd09.ajupf.com/20250916/RAa02ONR/index.m3u8#第20250915期$https://vodcnd09.ajupf.com/20250916/b9n8v7kT/index.m3u8#第20250916期超长尊享版$https://vodcnd10.ajupf.com/20250916/wIQL31nR/index.m3u8#第20250923期尊享版$https://vodcnd10.ajupf.com/20250924/QzaNtktp/index.m3u8#第20251013期$https://vodcnd08.ajupf.com/20251013/FX6zfDP4/index.m3u8#第20251020期加更版$https://vodcnd08.ajupf.com/20251021/k24rMlRD/index.m3u8#第20251020期$https://vodcnd08.ajupf.com/20251021/tvPo7Gup/index.m3u8#第20251027期加更版$https://vodcnd08.ajupf.com/20251028/mfLGTrni/index.m3u8#第20251028期超长尊享版$https://vodcnd08.ajupf.com/20251028/sYDFF1BP/index.m3u8#第20251029期汪子问问问$https://vodcnd08.ajupf.com/20251029/FJBOx9vN/index.m3u8#第20251103期加更版$https://vodcnd09.ajupf.com/20251104/7gwXXkmf/index.m3u8#第20251103期$https://vodcnd09.ajupf.com/20251104/7qX5kRrY/index.m3u8#第20251105期$https://vodcnd09.ajupf.com/20251105/6CS7jr1V/index.m3u8#第20251110期加更版$https://vodcnd09.ajupf.com/20251110/7LvCmLPG/index.m3u8#第20251110期$https://vodcnd09.ajupf.com/20251110/UwkvBQBx/index.m3u8#第20251111期尊享版$https://vodcnd08.ajupf.com/20251112/36IvfRaf/index.m3u8#第20251112期$https://vodcnd08.ajupf.com/20251113/3Zx00XRq/index.m3u8#第20251117期$https://vodcnd08.ajupf.com/20251118/rcInDpTS/index.m3u8#第20251118期尊享版$https://vodcnd08.ajupf.com/20251119/7TQ90Pwa/index.m3u8#第20251124期加更版$https://vodcnd08.ajupf.com/20251124/mgMwQjnj/index.m3u8#第20251124期$https://vodcnd08.ajupf.com/20251124/6LoWjUmP/index.m3u8#第20251125期尊享版$https://vodcnd08.ajupf.com/20251125/NFZe8kDS/index.m3u8#第20251126期$https://vodcnd13.ajupf.com/20251126/jdTgD6cR/index.m3u8#第20251201期$https://vodcnd13.ajupf.com/20251201/4qaPvLxT/index.m3u8#第20251202期超长尊享版$https://vodcnd12.ajupf.com/20251202/Xzey1czM/index.m3u8#第20251203期汪子问问问$https://vodcnd13.ajupf.com/20251203/sP3J61S8/index.m3u8#20251208第137期$https://vodcnd13.ajupf.com/20251208/c9RwVrOH/index.m3u8#第20251208期加更版$https://vodcnd13.ajupf.com/20251208/zJFma0Sd/index.m3u8#第20251209期超长尊享版$https://vodcnd13.ajupf.com/20251209/6QHIpTh3/index.m3u8#第20251210期汪子问问问$https://vodcnd13.ajupf.com/20251210/hNZZWqbY/index.m3u8#20251216第106期$https://vodcnd13.ajupf.com/20251216/lRZSJZAB/index.m3u8#20251216第106期加更$https://vodcnd13.ajupf.com/20251216/u2qRwS9V/index.m3u8#第20251218期超长尊享版$https://vodcnd13.ajupf.com/20251217/NttQdcTt/index.m3u8#20251222第139期$https://vodcnd13.ajupf.com/20251222/6pli9EFu/index.m3u8#20251222第139期加更$https://vodcnd13.ajupf.com/20251222/4IdMY5h8/index.m3u8#第20251223期超长尊享版$https://vodcnd12.ajupf.com/20251223/NcrIrQIx/index.m3u8#第20251224期汪子问问问$https://vodcnd12.ajupf.com/20251224/XcQ3mYsq/index.m3u8#第20251225期特别加更$https://vodcnd14.ajupf.com/20251225/qXAEnsBy/index.m3u8#第20251230期尊享版$https://vodcnd12.ajupf.com/20251231/JVWrFPNm/index.m3u8#第20260505期超长尊享$https://vodcnd15.ajupf.com/20260505/qPmu6Io0/index.m3u8#第20260506期毛毛雪琴测评李白小夜灯$https://vodcnd15.ajupf.com/20260506/ybXs9Z0M/index.m3u8#第20260513期购物车$https://vodcnd15.ajupf.com/20260513/MA6d63Ns/index.m3u8#20250518第144期$https://vodcnd15.ajupf.com/20260518/HwOFNDLo/index.m3u8#第20260519期超长尊享版$https://vodcnd15.ajupf.com/20260519/v1DYI6xs/index.m3u8#第20260520期$https://vodcnd15.ajupf.com/20260521/Ic6fpysU/index.m3u8#20260525第145期$https://vodcnd15.ajupf.com/20260525/CEIkBROb/index.m3u8#20260525第145期加更$https://vodcnd15.ajupf.com/20260525/VY3AUWAJ/index.m3u8#第20260526期$https://vodcnd15.ajupf.com/20260526/3joGdS9V/index.m3u8#第20260527期朋友圈篇$https://vodcnd15.ajupf.com/20260527/wAi28eg2/index.m3u8#第20260527期购物车$https://vodcnd15.ajupf.com/20260527/aq5evb63/index.m3u8#20260601第146期$https://vodcnd15.ajupf.com/20260601/ZuBaTu8N/index.m3u8#20260601第146期加更$https://vodcnd15.ajupf.com/20260601/HfvGrULW/index.m3u8#第20260602期超长尊享版$https://vodcnd15.ajupf.com/20260602/uHoSdty9/index.m3u8#第20260603期$https://vodcnd15.ajupf.com/20260603/uT57L1lO/index.m3u8#20260608第147期$https://vodcnd15.ajupf.com/20260608/4zhOeflJ/index.m3u8#20260608第147期加更$https://vodcnd15.ajupf.com/20260608/9JtPre27/index.m3u8#第20260609期超长尊享版$https://vodcnd15.ajupf.com/20260609/fAzxtAw2/index.m3u8#第20260610期购物车$https://vodcnd15.ajupf.com/20260610/ZuFaemlk/index.m3u8#20260615第148$https://vodcnd15.ajupf.com/20260615/0ogRuAvP/index.m3u8#20260615第148期加更$https://vodcnd15.ajupf.com/20260615/g5gwXRc1/index.m3u8#第20260616期超长尊享版$https://vodcnd15.ajupf.com/20260616/udWFu4P5/index.m3u8#第20260622期特辑$https://vodcnd15.ajupf.com/20260622/0o7yCUyE/index.m3u8#第20260623期超长尊享版$https://vodcnd15.ajupf.com/20260624/XxYAdWM6/index.m3u8#第20260624期购物车$https://vodcnd15.ajupf.com/20260625/x1ePVo0U/index.m3u8#20260803第149期：舒淇白举纲彭楚粤老友重聚 $https://vodcnd17.ajupf.com/20260803/ZjgNfrvo/index.m3u8#20260803第149期加更$https://vodcnd17.ajupf.com/20260803/J4okUhfs/index.m3u8#第20260804期$https://vodcnd16.ajupf.com/20260804/lpgWCzb1/index.m3u8#第20260805期购物车$https://vodcnd17.ajupf.com/20260805/SAKtfRaM/index.m3u8#第20260805期特别联动$https://vodcnd17.ajupf.com/20260805/8VqsdFmJ/index.m3u8#第20260810期$https://vodcnd16.ajupf.com/20260811/F0QCmJPe/index.m3u8#第20260810期加更$https://vodcnd16.ajupf.com/20260811/gfXlRYzI/index.m3u8#第20260811期超长尊享版$https://vodcnd16.ajupf.com/20260811/VKC5UJLp/index.m3u8#第20260812期$https://vodcnd17.ajupf.com/20260813/mZz4PwjL/index.m3u8#20260817第151期$https://vodcnd17.ajupf.com/20260817/h0fKa4RC/index.m3u8#20260817第151期加更$https://vodcnd17.ajupf.com/20260817/258YWiFs/index.m3u8#第20260818期超长尊享版$https://vodcnd17.ajupf.com/20260818/lrvi0CuV/index.m3u8#第20260819期汪子问问问$https://vodcnd16.ajupf.com/20260819/7IPxbnT3/index.m3u8#20260824第152期$https://vodcnd17.ajupf.com/20260824/OJLuWneN/index.m3u8#20260824第152期加更$https://vodcnd17.ajupf.com/20260824/sybV7NO7/index.m3u8#第20260825期超长尊享版$https://vodcnd16.ajupf.com/20260825/jJJ7SmDO/index.m3u8#第20260826期$https://vodcnd17.ajupf.com/20260826/Dtv8iITy/index.m3u8#$$$第01期$https://vodcnd09.ajupf.com/share/BfzB28meze#第02期$https://vodcnd09.ajupf.com/share/Nqjv71IVNq#第03期$https://vodcnd09.ajupf.com/share/6KMbb00mGo#第04期$https://vodcnd09.ajupf.com/share/B78WP6MPgk#第05期$https://vodcnd09.ajupf.com/share/o0g6kgClL3#第06期$https://vodcnd09.ajupf.com/share/7ejN1KjJmq#第07期$https://vodcnd09.ajupf.com/share/zeJpjjxGLy#第08期$https://vodcnd09.ajupf.com/share/YZG1PD9P16#第09期$https://vodcnd09.ajupf.com/share/URJ9mIKbH8#第10期$https://vodcnd09.ajupf.com/share/Rh9RIcBlQS#第11期$https://vodcnd09.ajupf.com/share/rarG0I47kq#第12期$https://vodcnd09.ajupf.com/share/JdGo5Ai6GR#第13期$https://vodcnd09.ajupf.com/share/latEgVCE86#第14期$https://vodcnd09.ajupf.com/share/QLIq7vSswF#第15期$https://vodcnd09.ajupf.com/share/OkSH2MSOMg#第16期$https://vodcnd09.ajupf.com/share/DR6vkPKY0U#第17期$https://vodcnd09.ajupf.com/share/aGDS8erz4G#第18期$https://vodcnd09.ajupf.com/share/aSt4S1FM6p#第19期$https://vodcnd09.ajupf.com/share/C12hAEliZC#第20期$https://vodcnd09.ajupf.com/share/rVnx74un8d#第21期$https://vodcnd09.ajupf.com/share/pEIjfHyR1R#第22期$https://vodcnd09.ajupf.com/share/XIXU7fxzx7#第23期$https://vodcnd09.ajupf.com/share/wwezQKsZ7I#第24期$https://vodcnd09.ajupf.com/share/8FMc5KQR7S#第25期$https://vodcnd09.ajupf.com/share/1Q50fledN2#第26期$https://vodcnd09.ajupf.com/share/PhQoaDKiMN#第27期$https://vodcnd09.ajupf.com/share/Aeu7d3IaW6#第28期$https://vodcnd09.ajupf.com/share/11Zsw2gVAG#第29期$https://vodcnd09.ajupf.com/share/7AaKBx6zbA#第30期$https://vodcnd09.ajupf.com/share/2MUOhAXjSM#第31期$https://vodcnd09.ajupf.com/share/AbuXE8T6Og#第32期$https://vodcnd09.ajupf.com/share/lzibVO2rVr#第33期$https://vodcnd09.ajupf.com/share/cwefP1QeUJ#第34期$https://vodcnd09.ajupf.com/share/gZUT8qVVmw#第35期$https://vodcnd09.ajupf.com/share/kSKPVkfkFL#第36期$https://vodcnd09.ajupf.com/share/hx0hYeRte0#第37期$https://vodcnd09.ajupf.com/share/xDpIavhs7D#第38期$https://vodcnd09.ajupf.com/share/RqUv3bUUB6#第39期$https://vodcnd09.ajupf.com/share/1isRgWALdx#第40期$https://vodcnd09.ajupf.com/share/iDyn6cZLbV#第41期$https://vodcnd09.ajupf.com/share/KykKCyKsrz#第42期$https://vodcnd09.ajupf.com/share/dR4BYRwv2I#第43期$https://vodcnd09.ajupf.com/share/7kpkDAR187#第44期$https://vodcnd09.ajupf.com/share/lyTBPfF552#第45期$https://vodcnd09.ajupf.com/share/KUPHc1iOjZ#第46期$https://vodcnd09.ajupf.com/share/rDcq0KzXO3#第47期$https://vodcnd09.ajupf.com/share/zB1mWsf45k#第48期$https://vodcnd09.ajupf.com/share/MGs58RaaRV#第49期$https://vodcnd09.ajupf.com/share/wdwh7aXNj5#第50期$https://vodcnd09.ajupf.com/share/Sk9MDs54LE#第51期$https://vodcnd09.ajupf.com/share/NAi60LISQm#第52期$https://vodcnd09.ajupf.com/share/8CHBfL7rlY#第53期$https://vodcnd09.ajupf.com/share/uNo6wVbZT8#第54期$https://vodcnd09.ajupf.com/share/Zt9FpfsIAI#第55期$https://vodcnd09.ajupf.com/share/Qn9QzHOyHc#第56期$https://vodcnd09.ajupf.com/share/cCtUfKaLYR#第57期$https://vodcnd09.ajupf.com/share/cjSinLX6xc#第58期$https://vodcnd09.ajupf.com/share/tcco35kTYs#第59期$https://vodcnd09.ajupf.com/share/UAYdLmnjsx#第60期$https://vodcnd09.ajupf.com/share/XMgdqXvZ2X#第61期$https://vodcnd09.ajupf.com/share/99rNJmgRdb#第62期$https://vodcnd09.ajupf.com/share/jAXhQeRr3U#第63期$https://vodcnd09.ajupf.com/share/XaXgE0d62t#第64期$https://vodcnd09.ajupf.com/share/zWBNlf0caI#第65期$https://vodcnd09.ajupf.com/share/4HYp0XmJhe#第66期$https://vodcnd09.ajupf.com/share/OkOlTRTVK1#第67期$https://vodcnd09.ajupf.com/share/EgVFfORDzp#第68期$https://vodcnd09.ajupf.com/share/hO2wTaUqWt#第69期$https://vodcnd09.ajupf.com/share/aJznBuraIL#第70期$https://vodcnd09.ajupf.com/share/DlUteRha7o#第71期$https://vodcnd09.ajupf.com/share/8uVUiwR4P7#第72期$https://vodcnd09.ajupf.com/share/pVqlllWWSE#第73期$https://vodcnd09.ajupf.com/share/kB6JwvXMr8#第74期$https://vodcnd09.ajupf.com/share/v8yNhzmCsV#第75期$https://vodcnd09.ajupf.com/share/SCDjtwU0GM#第76期$https://vodcnd09.ajupf.com/share/cUsbRneDul#第77期$https://vodcnd09.ajupf.com/share/iyg5VuzudS#第78期$https://vodcnd09.ajupf.com/share/WiAbpSCDFk#第78期$https://vodcnd09.ajupf.com/share/nqvyrI2fGB#第79期$https://vodcnd09.ajupf.com/share/F3XFM8JBIt#第79期$https://vodcnd09.ajupf.com/share/Yc7t1tcKTL#第80期$https://vodcnd09.ajupf.com/share/0h8qdP7gfS#第81期$https://vodcnd09.ajupf.com/share/u5q8QwJHV0#第82期$https://vodcnd09.ajupf.com/share/SVn5XHdvOM#第83期$https://vodcnd09.ajupf.com/share/SlqFtYk4nF#第84期$https://vodcnd09.ajupf.com/share/uB4VJAZ5kA#第85期$https://vodcnd09.ajupf.com/share/z2dgS9KR2Q#第86期$https://vodcnd09.ajupf.com/share/CNf9XvmlH5#第87期$https://vodcnd09.ajupf.com/share/6Wde9l16wr#第88期$https://vodcnd09.ajupf.com/share/zClm784ftl#第89期$https://vodcnd09.ajupf.com/share/qxu1CqfqP5#第90期$https://vodcnd09.ajupf.com/share/CkpNDoSva7#第91期$https://vodcnd09.ajupf.com/share/vrt3uN3IgB#第92期$https://vodcnd09.ajupf.com/share/cKcVPLWyFd#第93期$https://vodcnd09.ajupf.com/share/ijRB9oSJ3A#第94期$https://vodcnd09.ajupf.com/share/VV2V2eR4tP#第95期$https://vodcnd09.ajupf.com/share/lRK0MlsVLC#第96期$https://vodcnd09.ajupf.com/share/QL3yBqk75d#第97期$https://vodcnd09.ajupf.com/share/HgKl6aFG7s#第98期$https://vodcnd09.ajupf.com/share/lHsgxA0jTa#第99期$https://vodcnd09.ajupf.com/share/E5PLJ3CL7u#第109期$https://vodcnd09.ajupf.com/share/S8vIEjzzvW#第110期$https://vodcnd03.ajupf.com/share/EC6nRrqgdY#第20250422期汪子问问问$https://vodcnd03.ajupf.com/share/SH7aOrJp4d#第20250423期$https://vodcnd03.ajupf.com/share/HpzMyq5HwE#第111期$https://vodcnd14.ajupf.com/share/wHeRazQQJS#第20250429期超长尊享版$https://vodcnd03.ajupf.com/share/Ov6u9Kgutl#第20250430期汪子问问问$https://vodcnd14.ajupf.com/share/s3IBrM821F#第112期$https://vodcnd03.ajupf.com/share/jovja05vZx#第20250506期超长尊享版$https://vodcnd03.ajupf.com/share/ly7Zw30Ftb#第20250507期汪子问问问$https://vodcnd03.ajupf.com/share/zgj15bTCdx#第113期$https://vodcnd03.ajupf.com/share/qpnndRPMRU#第20250513期超长尊享版$https://vodcnd03.ajupf.com/share/o80GCBPLlL#第20250514期汪子问问问$https://vodcnd03.ajupf.com/share/reGaKLYIDJ#第20250515期毛毛雪琴re《五哈》爆笑连连$https://vodcnd03.ajupf.com/share/LZOjW748Rq#第114期$https://vodcnd01.ajupf.com/share/QGXNpuUQvw#第20250520期超长尊享版$https://vodcnd01.ajupf.com/share/ym2zwcBZnx#第20250521期汪子问问问$https://vodcnd01.ajupf.com/share/voEw40eYII#第115期$https://vodcnd01.ajupf.com/share/Cq6I8Athx8#第20250527期超长尊享版$https://vodcnd10.ajupf.com/share/DEBMCXSvI9#第20250528期汪子问问问$https://vodcnd10.ajupf.com/share/yDjlIGRHrP#第116期$https://vodcnd00.ajupf.com/share/FPLra3jJl3#第116期加更$https://vodcnd00.ajupf.com/share/Y5FfcCNs7G#第20250603期超长尊享版$https://vodcnd11.ajupf.com/share/gtsX3ZldMY#第20250604期汪子问问问$https://vodcnd11.ajupf.com/share/0vQZlGOzoq#第20250605期高甜预警毛毛雪琴看折腰一秒红温$https://vodcnd11.ajupf.com/share/aeQUtf1KGw#第117期$https://vodcnd11.ajupf.com/share/zX1NBJrKXV#第117期加更$https://vodcnd11.ajupf.com/share/Q2snt4Zc6K#第20250610期超长尊享版$https://vodcnd11.ajupf.com/share/HPaZOxwsti#第20250611期汪子问问问$https://vodcnd11.ajupf.com/share/gET0B05vJG#第20250612期陷入热恋王安宇说看自己吻戏很羞耻$https://vodcnd11.ajupf.com/share/GTkhMrJ15b#第118期$https://vodcnd11.ajupf.com/share/5fUhSWDkxU#第118期加更$https://vodcnd11.ajupf.com/share/Mr1b2L2H5u#第20250617期超长尊享版$https://vodcnd11.ajupf.com/share/oBuM0rpjHl#第20250619期特别加更$https://vodcnd11.ajupf.com/share/P5VAvmFaSB#第20250623期$https://vodcnd11.ajupf.com/share/J59ICTfXZj#第119期$https://vodcnd11.ajupf.com/share/znykO4odNu#第119期加更$https://vodcnd11.ajupf.com/share/NqfTTLu6Yz#第20250624期超长尊享版$https://vodcnd11.ajupf.com/share/lEWmmx22uG#第20250625期$https://vodcnd11.ajupf.com/share/KnrY67CNE4#第20250701期尊享版$https://vodcnd11.ajupf.com/share/F4uV2T8CTk#第20250707期特辑$https://vodcnd11.ajupf.com/share/VkZDgxsGDm#第20250714期$https://vodcnd11.ajupf.com/share/woPKpWNDJz#第20250714期加更$https://vodcnd11.ajupf.com/share/XoTVT1jDa6#第20250716期$https://vodcnd11.ajupf.com/share/AcYdV1QSNE#第20250721期$https://vodcnd11.ajupf.com/share/X0zggxUk5Y#第20250721期加更版$https://vodcnd11.ajupf.com/share/zU2iBUqjZF#第20250723期$https://vodcnd11.ajupf.com/share/j72EZW2XDX#第20250728期$https://vodcnd11.ajupf.com/share/QPjue4Wg5U#第20250728期加更版$https://vodcnd11.ajupf.com/share/GYqQ5iicpM#第20250729期尊享版$https://vodcnd11.ajupf.com/share/ySltMEsyLc#第20250730期$https://vodcnd10.ajupf.com/share/jTgBojIRtt#第123期$https://vodcnd11.ajupf.com/share/BVAIgg63xv#第123期加更$https://vodcnd11.ajupf.com/share/NJ7Vt61MRO#第20250805期尊享版$https://vodcnd10.ajupf.com/share/xiAw6vcHpd#第20250806期$https://vodcnd10.ajupf.com/share/0ZkcRlBvsK#第20250811期$https://vodcnd10.ajupf.com/share/UjrVVj71id#第20250811期加更版$https://vodcnd10.ajupf.com/share/9PL7hUPNVh#第20250812期尊享版$https://vodcnd10.ajupf.com/share/xnvpCWv7oa#第20250813期$https://vodcnd10.ajupf.com/share/8uG7cmHzOc#第20250818期$https://vodcnd11.ajupf.com/share/8bB7y1Vpni#第20250818期加更版$https://vodcnd10.ajupf.com/share/kTGQLN9CZp#第20250819期尊享版$https://vodcnd10.ajupf.com/share/SSGtlzT6KF#第20250820期$https://vodcnd10.ajupf.com/share/YNgle2eHoL#第126期：王玉雯欧阳娣娣聊地球录制爆笑幕后$https://vodcnd10.ajupf.com/share/BqePI56wFS#第20250826期$https://vodcnd10.ajupf.com/share/6DrUG7TTJ1#第20250827期$https://vodcnd10.ajupf.com/share/Ivksvgyk0H#第20250901期加更版$https://vodcnd10.ajupf.com/share/Hs8wn0VVl0#第20250901期$https://vodcnd10.ajupf.com/share/lTzYtHNBZG#第20250902期尊享版$https://vodcnd10.ajupf.com/share/22PGE5onR6#第20250903期$https://vodcnd11.ajupf.com/share/sdbvx0DLcr#第20250908期$https://vodcnd10.ajupf.com/share/02wrppVlyK#第20250908期加更版$https://vodcnd10.ajupf.com/share/X3xgXGRKZs#第20250909期尊享版$https://vodcnd11.ajupf.com/share/Zy7ozXppM7#第20250910期$https://vodcnd10.ajupf.com/share/FqjkyhuThs#第20250915期加更版$https://vodcnd09.ajupf.com/share/sMmJKybFXy#第20250915期$https://vodcnd09.ajupf.com/share/xbhqfclYW6#第20250916期超长尊享版$https://vodcnd10.ajupf.com/share/YUc5uhimxA#第20250923期尊享版$https://vodcnd10.ajupf.com/share/iUV8wDXJV7#第20251013期$https://vodcnd08.ajupf.com/share/s9WE0zXH8z#第20251020期加更版$https://vodcnd08.ajupf.com/share/CZRs9nl9GX#第20251020期$https://vodcnd08.ajupf.com/share/HqJzsFjVDQ#第20251027期加更版$https://vodcnd08.ajupf.com/share/I9CMC9E6F6#第20251028期超长尊享版$https://vodcnd08.ajupf.com/share/e6P12lOYEc#第20251029期汪子问问问$https://vodcnd08.ajupf.com/share/2YjOcbXPrr#第20251103期加更版$https://vodcnd09.ajupf.com/share/JN7gjPdQqz#第20251103期$https://vodcnd09.ajupf.com/share/A9mEq6KAMH#第20251105期$https://vodcnd09.ajupf.com/share/fp1sJzyOTX#第20251110期加更版$https://vodcnd09.ajupf.com/share/I1mucCre4q#第20251110期$https://vodcnd09.ajupf.com/share/01gqYyxhmQ#第20251111期尊享版$https://vodcnd08.ajupf.com/share/ea7pNBuOSQ#第20251112期$https://vodcnd08.ajupf.com/share/PBACb2txxk#第20251117期$https://vodcnd08.ajupf.com/share/KpxgpNSmKu#第20251118期尊享版$https://vodcnd08.ajupf.com/share/PImGTBhAB1#第20251124期加更版$https://vodcnd08.ajupf.com/share/VZe1l4cvDP#第20251124期$https://vodcnd08.ajupf.com/share/e8AuQz5cCn#第20251125期尊享版$https://vodcnd08.ajupf.com/share/ngL4n9QPqy#第20251126期$https://vodcnd13.ajupf.com/share/r0GslMCD2b#第20251201期$https://vodcnd13.ajupf.com/share/awQKGlzgxf#第20251202期超长尊享版$https://vodcnd12.ajupf.com/share/Qm27O5QrVE#第20251203期汪子问问问$https://vodcnd13.ajupf.com/share/3JLPSUqMXe#20251208第137期$https://vodcnd13.ajupf.com/share/1FcpqOBTfu#第20251208期加更版$https://vodcnd13.ajupf.com/share/sEzdTJ7kG1#第20251209期超长尊享版$https://vodcnd13.ajupf.com/share/MIwr4Y0j3u#第20251210期汪子问问问$https://vodcnd13.ajupf.com/share/BLBOcY94HQ#20251216第106期$https://vodcnd13.ajupf.com/share/wBA8RhmRXI#20251216第106期加更$https://vodcnd13.ajupf.com/share/6456rgatCX#第20251218期超长尊享版$https://vodcnd13.ajupf.com/share/615QTca0iU#20251222第139期$https://vodcnd13.ajupf.com/share/yOVvx4XBqd#20251222第139期加更$https://vodcnd13.ajupf.com/share/Y7eRozHs2V#第20251223期超长尊享版$https://vodcnd12.ajupf.com/share/Y9juHYU96F#第20251224期汪子问问问$https://vodcnd12.ajupf.com/share/J4Gwdqe8Gw#第20251225期特别加更$https://vodcnd14.ajupf.com/share/19A6AwzNvf#第20251230期尊享版$https://vodcnd12.ajupf.com/share/e0UbaaM1Re#第20260505期超长尊享$https://vodcnd15.ajupf.com/share/uzTHJ26ePb#第20260506期毛毛雪琴测评李白小夜灯$https://vodcnd15.ajupf.com/share/foGf5vli39#第20260513期购物车$https://vodcnd15.ajupf.com/share/ejG7fmJlWx#20250518第144期$https://vodcnd15.ajupf.com/share/Z8xNWXtPQL#第20260519期超长尊享版$https://vodcnd15.ajupf.com/share/vQ0wOd3QDj#第20260520期$https://vodcnd15.ajupf.com/share/pcjPs5ZKDn#20260525第145期$https://vodcnd15.ajupf.com/share/4SZM7TpBfP#20260525第145期加更$https://vodcnd15.ajupf.com/share/6qinU5WACT#第20260526期$https://vodcnd15.ajupf.com/share/4ALpJrQBcg#第20260527期朋友圈篇$https://vodcnd15.ajupf.com/share/vptmk3hmZr#第20260527期购物车$https://vodcnd15.ajupf.com/share/ivFy074lQg#20260601第146期$https://vodcnd15.ajupf.com/share/mcZdt64uop#20260601第146期加更$https://vodcnd15.ajupf.com/share/GrTXDzVzbZ#第20260602期超长尊享版$https://vodcnd15.ajupf.com/share/5iRuvcSdKK#第20260603期$https://vodcnd15.ajupf.com/share/4kY7vFEpQY#20260608第147期$https://vodcnd15.ajupf.com/share/RRsCzVmI4N#20260608第147期加更$https://vodcnd15.ajupf.com/share/P8aNiERKbL#第20260609期超长尊享版$https://vodcnd15.ajupf.com/share/tKvcJ2v8Af#第20260610期购物车$https://vodcnd15.ajupf.com/share/C4sXhQ6JiX#20260615第148$https://vodcnd15.ajupf.com/share/n5oQjSx8qt#20260615第148期加更$https://vodcnd15.ajupf.com/share/zebskfJF6r#第20260616期超长尊享版$https://vodcnd15.ajupf.com/share/4lU0rvjJdF#第20260622期特辑$https://vodcnd15.ajupf.com/share/sqxHpGMFtA#第20260623期超长尊享版$https://vodcnd15.ajupf.com/share/lC5wUeMWSV#第20260624期购物车$https://vodcnd15.ajupf.com/share/B8SYosm9TM#20260803第149期：舒淇白举纲彭楚粤老友重聚 $https://vodcnd17.ajupf.com/share/ADi0qZ11uQ#20260803第149期加更$https://vodcnd17.ajupf.com/share/vEOPZgWnn4#第20260804期$https://vodcnd16.ajupf.com/share/qx3VbCWtdR#第20260805期购物车$https://vodcnd17.ajupf.com/share/Z24nc71qcD#第20260805期特别联动$https://vodcnd17.ajupf.com/share/tKphlrYw99#第20260810期$https://vodcnd16.ajupf.com/share/TjApzPsBd7#第20260810期加更$https://vodcnd16.ajupf.com/share/iPN2T65z1Y#第20260811期超长尊享版$https://vodcnd16.ajupf.com/share/D0la3BHpwW#第20260812期$https://vodcnd17.ajupf.com/share/nmIx76mFMC#20260817第151期$https://vodcnd17.ajupf.com/share/dTgn87Foeu#20260817第151期加更$https://vodcnd17.ajupf.com/share/yTrihG0IFG#第20260818期超长尊享版$https://vodcnd17.ajupf.com/share/KmpJEbPIqQ#第20260819期汪子问问问$https://vodcnd16.ajupf.com/share/aA8G79p4Gn#20260824第152期$https://vodcnd17.ajupf.com/share/zxSAmtKQRa#20260824第152期加更$https://vodcnd17.ajupf.com/share/1E27p8GHhd#第20260825期超长尊享版$https://vodcnd16.ajupf.com/share/bqvQzoxJbz#第20260826期$https://vodcnd17.ajupf.com/share/eGi0JxQal3",
-    "update_time": "2026-08-26 22:09:27"
+    "update_time": "2026-08-26 22:09:27",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 70660,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "20260831第153期"
+      }
+    ]
   },
   {
     "id": 146096,
@@ -15154,6 +15262,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至20260831(风暴进行时)"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 146186,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第20260831期"
       }
     ]
   },
@@ -16915,7 +17030,16 @@
     "content": "<p>暂无简介</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd13.ajupf.com/20260411/hLhelZky/index.m3u8#第02集$https://vodcnd13.ajupf.com/20260411/IS6dDQ0P/index.m3u8#第03集$https://vodcnd15.ajupf.com/20260418/VIOCGuJj/index.m3u8#第04集$https://vodcnd15.ajupf.com/20260418/KUUwL1k0/index.m3u8#第05集$https://vodcnd13.ajupf.com/20260425/fXffC9LP/index.m3u8#第06集$https://vodcnd13.ajupf.com/20260502/k4AsSSbr/index.m3u8#第07集$https://vodcnd16.ajupf.com/20260818/IgRoSHN3/index.m3u8#第08集$https://vodcnd16.ajupf.com/20260826/krkfThSU/index.m3u8$$$第01集$https://vodcnd13.ajupf.com/share/61MnhrTy3x#第02集$https://vodcnd13.ajupf.com/share/JvPaYldN9q#第03集$https://vodcnd15.ajupf.com/share/eRvDEqmMT0#第04集$https://vodcnd15.ajupf.com/share/lMttVIyX9Y#第05集$https://vodcnd13.ajupf.com/share/okWEV9SM3m#第06集$https://vodcnd13.ajupf.com/share/EeTjoqtzAb#第07集$https://vodcnd16.ajupf.com/share/2p3DmgxJQh#第08集$https://vodcnd16.ajupf.com/share/RF574GB6vH",
-    "update_time": "2026-08-26 14:28:18"
+    "update_time": "2026-08-26 14:28:18",
+    "play_sources": [
+      {
+        "source": "索尼资源",
+        "source_id": 144146,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "更新至21集"
+      }
+    ]
   },
   {
     "id": 139152,
@@ -17719,6 +17843,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第25集"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 112378,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至第25集"
       }
     ]
   },
@@ -17764,6 +17895,13 @@
         "source": "速播资源",
         "source_id": 156210,
         "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第12集"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 143401,
+        "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第12集"
       }
@@ -17874,6 +18012,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第12集"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 141708,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第12集"
       }
     ]
   },
@@ -19416,6 +19561,20 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至HD"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 192683,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "正片"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 146259,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "抢先版"
       }
     ]
   },
@@ -21674,6 +21833,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第13集"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 135936,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第12集"
       }
     ]
   },
@@ -22053,6 +22219,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第20260829期"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 153360,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "超长营业第4期"
       }
     ]
   },
@@ -24140,7 +24313,44 @@
     "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; text-wrap-mode: wrap; background-color: #FFFFFF;\">某一天，地球上出现了不明来由的RR病毒，将世界卷入灾难之中。受到感染的动物变异成为可怕的怪兽，大举入侵，人类面临毁灭之际筑起了围墙，成立基地市作为人类最后的堡垒。人类在这一段时间经历的磨难，被称为“大涅槃时期”。在极端的生存环境下，人类的体能也在逐渐地进步发展，尚武之风兴起，人类的身体素质相比以前有了质的飞越。而这其中的佼佼者，被称为“武者”。 18岁的罗峰也梦想着成为其中的一员。此时的他即将高考，正面临着人生十字路口的抉择，却不料怪兽的一次袭击影响了他的人生轨迹。在强大怪兽的威胁之下，市内居民面临危险，军方却束手无策。唯有一名武者挺身而出，保卫了基地市的安全。罗峰被武者的强大所感染，暗自立下成为武者以保护所爱之人的决心。这是一切的开始，罗峰武者之路的起点，也拉开了他传奇人生的序幕。 罗峰立志成为武者，前路却并不平坦，他首先要面对的便是外部环境无形中对他施加的影响。罗峰家庭条件不佳，生活拮据，父母无法给予他更多帮助，只能依靠自己的努力。最终，在不断的艰苦磨砺下，罗峰不断发掘自身潜能，得到了能力提升和自我价值的认可。不仅如此，罗峰不仅扛起了供养家庭的重担，还为了守护人类家园、为了人类更好的生存与发展，与其他正义的武者们一起，联手对付凶恶怪兽。在末日绝境之下，罗峰与其他武者们能否击退怪兽、成功守护人类世界？</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd03.ajupf.com/20250123/EiowSWm2/index.m3u8#第02集$https://vodcnd03.ajupf.com/20250123/0OhmczuZ/index.m3u8#第03集$https://vodcnd03.ajupf.com/20250123/tbybKxqo/index.m3u8#第04集$https://vodcnd03.ajupf.com/20250123/BIM3TO3N/index.m3u8#第05集$https://vodcnd03.ajupf.com/20250123/p4za9DwS/index.m3u8#第06集$https://vodcnd03.ajupf.com/20250123/IUV6eYF2/index.m3u8#第07集$https://vodcnd03.ajupf.com/20250123/WnKgmP2P/index.m3u8#第08集$https://vodcnd03.ajupf.com/20250123/HLU9lsot/index.m3u8#第09集$https://vodcnd03.ajupf.com/20250123/UZVnbBxT/index.m3u8#第10集$https://vodcnd03.ajupf.com/20250123/3v1y2Td8/index.m3u8#第11集$https://vodcnd03.ajupf.com/20250123/8ziJJylO/index.m3u8#第12集$https://vodcnd03.ajupf.com/20250123/1OkcdkMn/index.m3u8#第13集$https://vodcnd03.ajupf.com/20250123/MBE8QiCn/index.m3u8#第14集$https://vodcnd03.ajupf.com/20250123/iEXgR2Ny/index.m3u8#第15集$https://vodcnd03.ajupf.com/20250123/qkB72uwC/index.m3u8#第16集$https://vodcnd03.ajupf.com/20250123/xBSoIpHE/index.m3u8#第17集$https://vodcnd03.ajupf.com/20250123/ale8G422/index.m3u8#第18集$https://vodcnd03.ajupf.com/20250123/oCu5lEj0/index.m3u8#第19集$https://vodcnd03.ajupf.com/20250123/4SHD1HNZ/index.m3u8#第20集$https://vodcnd03.ajupf.com/20250123/vNkgpYfJ/index.m3u8#第21集$https://vodcnd03.ajupf.com/20250123/npGEbH9G/index.m3u8#第22集$https://vodcnd03.ajupf.com/20250123/0G8blmQY/index.m3u8#第23集$https://vodcnd03.ajupf.com/20250123/nGv97BIO/index.m3u8#第24集$https://vodcnd03.ajupf.com/20250123/hGHjB0JO/index.m3u8#第25集$https://vodcnd03.ajupf.com/20250123/mZLmdAWm/index.m3u8#第26集$https://vodcnd03.ajupf.com/20250123/KgNq444i/index.m3u8#第27集$https://vodcnd03.ajupf.com/20250123/c2pBddN4/index.m3u8#第28集$https://vodcnd03.ajupf.com/20250123/SdmxDXeE/index.m3u8#第29集$https://vodcnd03.ajupf.com/20250123/jwlN5OgY/index.m3u8#第30集$https://vodcnd03.ajupf.com/20250123/aWw68iBP/index.m3u8#第31集$https://vodcnd03.ajupf.com/20250123/Mt9A8f5L/index.m3u8#第32集$https://vodcnd03.ajupf.com/20250123/BLnlGvRi/index.m3u8#第33集$https://vodcnd03.ajupf.com/20250123/Urq6ltch/index.m3u8#第34集$https://vodcnd03.ajupf.com/20250123/B9QOsRtP/index.m3u8#第35集$https://vodcnd03.ajupf.com/20250123/otcs6Kx9/index.m3u8#第36集$https://vodcnd03.ajupf.com/20250123/Cs4Xst1p/index.m3u8#第37集$https://vodcnd03.ajupf.com/20250123/xI8GNjoD/index.m3u8#第38集$https://vodcnd03.ajupf.com/20250123/lfOXfSg2/index.m3u8#第39集$https://vodcnd03.ajupf.com/20250123/ygZsURah/index.m3u8#第40集$https://vodcnd03.ajupf.com/20250123/TOjt3z1Q/index.m3u8#第41集$https://vodcnd03.ajupf.com/20250123/fWQDmPfI/index.m3u8#第42集$https://vodcnd03.ajupf.com/20250123/3KC7G3gf/index.m3u8#第43集$https://vodcnd03.ajupf.com/20250123/SBujquKr/index.m3u8#第44集$https://vodcnd03.ajupf.com/20250123/zGD2sDi0/index.m3u8#第45集$https://vodcnd03.ajupf.com/20250123/RbGpuAmX/index.m3u8#第46集$https://vodcnd03.ajupf.com/20250123/uh2IrWY1/index.m3u8#第47集$https://vodcnd03.ajupf.com/20250123/95ePCTkJ/index.m3u8#第48集$https://vodcnd03.ajupf.com/20250123/iLeTZ7sm/index.m3u8#第49集$https://vodcnd03.ajupf.com/20250123/Ygxq8rGL/index.m3u8#第50集$https://vodcnd03.ajupf.com/20250123/v8OQ2HLk/index.m3u8#第51集$https://vodcnd03.ajupf.com/20250123/cKkT1NcU/index.m3u8#第52集$https://vodcnd03.ajupf.com/20250123/KU9D8sQt/index.m3u8#第53集$https://vodcnd03.ajupf.com/20250123/UCtLCtFD/index.m3u8#第54集$https://vodcnd03.ajupf.com/20250123/GdKiCOKE/index.m3u8#第55集$https://vodcnd03.ajupf.com/20250123/GzINZmLN/index.m3u8#第56集$https://vodcnd03.ajupf.com/20250123/hzSb2lcj/index.m3u8#第57集$https://vodcnd03.ajupf.com/20250123/w0xsTSWN/index.m3u8#第58集$https://vodcnd03.ajupf.com/20250123/NjESl42M/index.m3u8#第59集$https://vodcnd03.ajupf.com/20250123/Al4sNSO0/index.m3u8#第60集$https://vodcnd03.ajupf.com/20250123/JrMr2qxI/index.m3u8#第61集$https://vodcnd03.ajupf.com/20250123/mteIOxbE/index.m3u8#第62集$https://vodcnd03.ajupf.com/20250123/BcQvfKHQ/index.m3u8#第63集$https://vodcnd03.ajupf.com/20250123/NoPd8xhZ/index.m3u8#第64集$https://vodcnd03.ajupf.com/20250123/yc3ImDeU/index.m3u8#第65集$https://vodcnd03.ajupf.com/20250123/YaYZQthy/index.m3u8#第66集$https://vodcnd03.ajupf.com/20250123/ZNPXw7h3/index.m3u8#第67集$https://vodcnd03.ajupf.com/20250123/kxOOpwil/index.m3u8#第68集$https://vodcnd03.ajupf.com/20250123/6NkekAXH/index.m3u8#第69集$https://vodcnd03.ajupf.com/20250123/FhJZQJCi/index.m3u8#第70集$https://vodcnd03.ajupf.com/20250123/9Z94RcgP/index.m3u8#第71集$https://vodcnd03.ajupf.com/20250123/dqmYY5oT/index.m3u8#第72集$https://vodcnd03.ajupf.com/20250123/pkHyn3Mu/index.m3u8#第73集$https://vodcnd03.ajupf.com/20250123/whJqCRnc/index.m3u8#第74集$https://vodcnd03.ajupf.com/20250123/buLyQ7G9/index.m3u8#第75集$https://vodcnd03.ajupf.com/20250123/AkcQ6Aua/index.m3u8#第76集$https://vodcnd03.ajupf.com/20250123/c3i5cWnF/index.m3u8#第77集$https://vodcnd03.ajupf.com/20250123/92SypAbq/index.m3u8#第78集$https://vodcnd03.ajupf.com/20250123/lxEeqc8U/index.m3u8#第79集$https://vodcnd03.ajupf.com/20250123/mdMyrAx3/index.m3u8#第80集$https://vodcnd03.ajupf.com/20250123/jHjNvGsP/index.m3u8#第81集$https://vodcnd03.ajupf.com/20250123/9TKA2erB/index.m3u8#第82集$https://vodcnd03.ajupf.com/20250123/YkYCuk0e/index.m3u8#第83集$https://vodcnd03.ajupf.com/20250123/guVYC6jH/index.m3u8#第84集$https://vodcnd03.ajupf.com/20250123/y1pMYgvY/index.m3u8#第85集$https://vodcnd03.ajupf.com/20250123/uk9laq1R/index.m3u8#第86集$https://vodcnd03.ajupf.com/20250123/vuQhkQtd/index.m3u8#第87集$https://vodcnd03.ajupf.com/20250123/8X03KEBY/index.m3u8#第88集$https://vodcnd03.ajupf.com/20250123/9PZ6MnxD/index.m3u8#第89集$https://vodcnd03.ajupf.com/20250123/7CLt04dE/index.m3u8#第90集$https://vodcnd03.ajupf.com/20250123/DD74ebJO/index.m3u8#第91集$https://vodcnd03.ajupf.com/20250123/ndWzOKZT/index.m3u8#第92集$https://vodcnd03.ajupf.com/20250123/OjnWt1m6/index.m3u8#第93集$https://vodcnd03.ajupf.com/20250123/pYDxX2nd/index.m3u8#第94集$https://vodcnd03.ajupf.com/20250123/2Hh3v7Z0/index.m3u8#第95集$https://vodcnd03.ajupf.com/20250123/45wfWFo0/index.m3u8#第96集$https://vodcnd03.ajupf.com/20250123/k4iA7LS3/index.m3u8#第97集$https://vodcnd03.ajupf.com/20250123/XQ0vGw3c/index.m3u8#第98集$https://vodcnd03.ajupf.com/20250123/sQZGI9so/index.m3u8#第99集$https://vodcnd03.ajupf.com/20250123/xUvVOUMk/index.m3u8#第100集$https://vodcnd03.ajupf.com/20250123/b1ds8HKS/index.m3u8#第101集$https://vodcnd03.ajupf.com/20250123/MjCYJz0a/index.m3u8#第102集$https://vodcnd03.ajupf.com/20250123/D2LGUVc5/index.m3u8#第103集$https://vodcnd03.ajupf.com/20250123/7MIfR2sX/index.m3u8#第104集$https://vodcnd03.ajupf.com/20250123/QrpayxOa/index.m3u8#第105集$https://vodcnd03.ajupf.com/20250123/LT2rLHTg/index.m3u8#第106集$https://vodcnd03.ajupf.com/20250123/4sWEnMYc/index.m3u8#第107集$https://vodcnd03.ajupf.com/20250123/aurcHR55/index.m3u8#第108集$https://vodcnd03.ajupf.com/20250123/jnqGS20W/index.m3u8#第109集$https://vodcnd03.ajupf.com/20250123/v5O8KgfH/index.m3u8#第110集$https://vodcnd03.ajupf.com/20250123/1Bzixu5t/index.m3u8#第111集$https://vodcnd03.ajupf.com/20250123/skw2bWR3/index.m3u8#第112集$https://vodcnd03.ajupf.com/20250123/vJvi0L2b/index.m3u8#第113集$https://vodcnd03.ajupf.com/20250123/KUc4val3/index.m3u8#第114集$https://vodcnd03.ajupf.com/20250123/HcJBSuy3/index.m3u8#第115集$https://vodcnd03.ajupf.com/20250123/TeLFx8Rj/index.m3u8#第116集$https://vodcnd03.ajupf.com/20250123/LvGfkrQy/index.m3u8#第117集$https://vodcnd03.ajupf.com/20250123/7OYgoneJ/index.m3u8#第118集$https://vodcnd03.ajupf.com/20250123/ER1hp5B3/index.m3u8#第119集$https://vodcnd03.ajupf.com/20250123/AjcLsYKm/index.m3u8#第120集$https://vodcnd03.ajupf.com/20250123/gEYWed2t/index.m3u8#第121集$https://vodcnd03.ajupf.com/20250123/Fzyuc7wB/index.m3u8#第122集$https://vodcnd03.ajupf.com/20250123/0GqgLdaX/index.m3u8#第123集$https://vodcnd03.ajupf.com/20250123/sABtkPPY/index.m3u8#第124集$https://vodcnd03.ajupf.com/20250123/u0qUoH4m/index.m3u8#第125集$https://vodcnd03.ajupf.com/20250123/gupxbGjE/index.m3u8#第126集$https://vodcnd03.ajupf.com/20250123/j974vpU9/index.m3u8#第127集$https://vodcnd03.ajupf.com/20250123/xy1fjo3p/index.m3u8#第128集$https://vodcnd03.ajupf.com/20250123/qEAzjY2l/index.m3u8#第129集$https://vodcnd03.ajupf.com/20250123/lFUzB1kK/index.m3u8#第130集$https://vodcnd03.ajupf.com/20250123/vPA2n2Hu/index.m3u8#第131集$https://vodcnd09.ajupf.com/20250108/iIUmY2i2/index.m3u8#第132集$https://vodcnd09.ajupf.com/20250108/cfapfmn5/index.m3u8#第133集$https://vodcnd09.ajupf.com/20250108/QYRbasX1/index.m3u8#第134集$https://vodcnd09.ajupf.com/20250108/IXzauQAZ/index.m3u8#第135集$https://vodcnd09.ajupf.com/20250108/dzi2AbWu/index.m3u8#第136集$https://vodcnd09.ajupf.com/20250108/Cgy4qt4a/index.m3u8#第137集$https://vodcnd09.ajupf.com/20250108/jxl8RjXv/index.m3u8#第138集$https://vodcnd09.ajupf.com/20250108/nNGgW9jx/index.m3u8#第139集$https://vodcnd09.ajupf.com/20250108/1sDO4v4x/index.m3u8#第140集$https://vodcnd09.ajupf.com/20250108/osGKYKje/index.m3u8#第141集$https://vodcnd09.ajupf.com/20250108/CH0DWT2z/index.m3u8#第142集$https://vodcnd09.ajupf.com/20250108/E3eNiZxz/index.m3u8#第143集$https://vodcnd09.ajupf.com/20250108/lzGgDxEh/index.m3u8#第144集$https://vodcnd09.ajupf.com/20250108/dblw7mAG/index.m3u8#第145集$https://vodcnd09.ajupf.com/20250108/732E3SxZ/index.m3u8#第146集$https://vodcnd09.ajupf.com/20250108/lZdtQnDb/index.m3u8#第147集$https://vodcnd09.ajupf.com/20250108/P5eyVQXF/index.m3u8#第148集$https://vodcnd09.ajupf.com/20250108/sSwsAG0H/index.m3u8#第149集$https://vodcnd09.ajupf.com/20250108/dY4OVuYv/index.m3u8#第150集$https://vodcnd09.ajupf.com/20250108/2LbnVLvn/index.m3u8#第151集$https://vodcnd09.ajupf.com/20250108/xCq59drR/index.m3u8#第152集$https://vodcnd09.ajupf.com/20250108/0iiOMm7r/index.m3u8#第153集$https://vodcnd04.ajupf.com/20250125/Fni8eGtL/index.m3u8#第154集$https://vodcnd04.ajupf.com/20250125/veVbt9KG/index.m3u8#第155集$https://vodcnd04.ajupf.com/20250125/sDFnqVwo/index.m3u8#第156集$https://vodcnd04.ajupf.com/20250127/TPZNGf9d/index.m3u8#第157集$https://vodcnd04.ajupf.com/20250203/6hELjshD/index.m3u8#第158集$https://vodcnd12.ajupf.com/20250210/XbvMS9F3/index.m3u8#第159集$https://vodcnd12.ajupf.com/20250217/eUexuXx6/index.m3u8#第160集$https://vodcnd13.ajupf.com/20250224/AMMTlJKd/index.m3u8#第161集$https://vodcnd14.ajupf.com/20250303/rzAr8MXj/index.m3u8#第162集$https://vodcnd05.ajupf.com/20250310/jeTuu9q0/index.m3u8#第163集$https://vodcnd04.ajupf.com/20250317/qmmvQ8ZB/index.m3u8#第164集$https://vodcnd04.ajupf.com/20250324/PegpI34k/index.m3u8#第165集$https://vodcnd04.ajupf.com/20250331/36o3Pyev/index.m3u8#第166集$https://vodcnd04.ajupf.com/20250407/Y1GbgTfw/index.m3u8#第167集$https://vodcnd01.ajupf.com/20250414/2d4xC2CI/index.m3u8#第168集$https://vodcnd09.ajupf.com/20250525/bTTLxbRP/index.m3u8#第169集$https://vodcnd09.ajupf.com/20250525/ib5IynEO/index.m3u8#第170集$https://vodcnd09.ajupf.com/20250525/SXppGlCc/index.m3u8#第171集$https://vodcnd09.ajupf.com/20250525/q038zKbi/index.m3u8#第172集$https://vodcnd09.ajupf.com/20250525/A7NDBlAa/index.m3u8#第173集$https://vodcnd10.ajupf.com/20250526/K1SETeJA/index.m3u8#第174集$https://vodcnd00.ajupf.com/20250602/p3hcHcc9/index.m3u8#第175集$https://vodcnd11.ajupf.com/20250609/44xJZEN6/index.m3u8#第176集$https://vodcnd11.ajupf.com/20250616/HgorskRv/index.m3u8#第177集$https://vodcnd11.ajupf.com/20250623/Fx5jL4QZ/index.m3u8#第178集$https://vodcnd11.ajupf.com/20250630/16IUavLA/index.m3u8#第179集$https://vodcnd11.ajupf.com/20250707/bv04eB26/index.m3u8#第180集$https://vodcnd11.ajupf.com/20250714/Cjmc0Flo/index.m3u8#第181集$https://vodcnd11.ajupf.com/20250721/5Ej2GBQ4/index.m3u8#第182集$https://vodcnd11.ajupf.com/20250728/mRRyAQFE/index.m3u8#第183集$https://vodcnd10.ajupf.com/20250804/WYi9sjE8/index.m3u8#第184集$https://vodcnd11.ajupf.com/20250811/oUKFOgfW/index.m3u8#第185集$https://vodcnd10.ajupf.com/20250818/z6IEa95e/index.m3u8#第186集$https://vodcnd10.ajupf.com/20250825/WEnSVKGB/index.m3u8#第187集$https://vodcnd11.ajupf.com/20250901/QjCbnVRC/index.m3u8#第188集$https://vodcnd11.ajupf.com/20250908/iX50c6Vz/index.m3u8#第189集$https://vodcnd09.ajupf.com/20250916/OFW5yVRk/index.m3u8#第190集$https://vodcnd10.ajupf.com/20250922/zSbmAN4J/index.m3u8#第191集$https://vodcnd09.ajupf.com/20250929/rjEh3s8l/index.m3u8#第192集$https://vodcnd09.ajupf.com/20251006/r6xpCVub/index.m3u8#第193集$https://vodcnd08.ajupf.com/20251013/yCZwgucl/index.m3u8#第194集$https://vodcnd08.ajupf.com/20251020/RwWgN6q5/index.m3u8#第195集$https://vodcnd08.ajupf.com/20251027/8eF0EMdV/index.m3u8#第196集$https://vodcnd09.ajupf.com/20251103/F22Exes9/index.m3u8#第197集$https://vodcnd09.ajupf.com/20251110/VAyW0E3z/index.m3u8#第198集$https://vodcnd08.ajupf.com/20251117/niwHwTmh/index.m3u8#第199集$https://vodcnd08.ajupf.com/20251124/zHyAkHGY/index.m3u8#第200集$https://vodcnd13.ajupf.com/20251201/Bg29u0qx/index.m3u8#第201集$https://vodcnd13.ajupf.com/20251208/Qqj58VdK/index.m3u8#第202集$https://vodcnd13.ajupf.com/20251215/kS8jEwBZ/index.m3u8#第203集$https://vodcnd14.ajupf.com/20251222/zDaQcrbM/index.m3u8#第204集$https://vodcnd13.ajupf.com/20251229/XMBygSEO/index.m3u8#第205集$https://vodcnd14.ajupf.com/20260105/ZxQMoGVT/index.m3u8#第206集$https://vodcnd13.ajupf.com/20260112/RQlQtwV0/index.m3u8#第207集$https://vodcnd14.ajupf.com/20260119/6TeBVVwl/index.m3u8#第208集$https://vodcnd14.ajupf.com/20260126/RI1bHcin/index.m3u8#第209集$https://vodcnd13.ajupf.com/20260202/VjQOUiLS/index.m3u8#第210集$https://vodcnd14.ajupf.com/20260209/lRZ1jedn/index.m3u8#第211集$https://vodcnd13.ajupf.com/20260216/3NYq5A4v/index.m3u8#第212集$https://vodcnd13.ajupf.com/20260223/6DgkqTzP/index.m3u8#第213集$https://vodcnd13.ajupf.com/20260302/XdRAid09/index.m3u8#第214集$https://vodcnd13.ajupf.com/20260309/W2LeWEg5/index.m3u8#第215集$https://vodcnd13.ajupf.com/20260316/InYdR79u/index.m3u8#第216集$https://vodcnd13.ajupf.com/20260323/alRWHf6p/index.m3u8#第217集$https://vodcnd13.ajupf.com/20260330/mWwkpm3S/index.m3u8#第218集$https://vodcnd14.ajupf.com/20260406/aZNxQ2QQ/index.m3u8#第219集$https://vodcnd15.ajupf.com/20260413/UYYAqkSy/index.m3u8#第220集$https://vodcnd13.ajupf.com/20260420/pojlJkYf/index.m3u8#第221集$https://vodcnd13.ajupf.com/20260427/3WDOgnar/index.m3u8#第222集$https://vodcnd13.ajupf.com/20260504/v6Fv7THt/index.m3u8#第223集$https://vodcnd15.ajupf.com/20260525/pEFClSvt/index.m3u8#第224集$https://vodcnd15.ajupf.com/20260518/284kPjmZ/index.m3u8#第225集$https://vodcnd15.ajupf.com/20260525/GdXMzmDX/index.m3u8#第226集$https://vodcnd15.ajupf.com/20260601/KXsYfTNO/index.m3u8#第227集$https://vodcnd15.ajupf.com/20260608/rU93bsa3/index.m3u8#第228集$https://vodcnd15.ajupf.com/20260615/vrfxRl5R/index.m3u8#第229集$https://vodcnd15.ajupf.com/20260622/pg2rTlxl/index.m3u8#第230集$https://vodcnd15.ajupf.com/20260630/IkSwIR3i/index.m3u8#第231集$https://vodcnd15.ajupf.com/20260707/A8CFTsOF/index.m3u8#第232集$https://vodcnd16.ajupf.com/20260713/JLRKPs3n/index.m3u8#第233集$https://vodcnd16.ajupf.com/20260720/Mwl72Civ/index.m3u8#第234集$https://vodcnd16.ajupf.com/20260728/hAikW9Xi/index.m3u8#第235集$https://vodcnd16.ajupf.com/20260804/RddylMq4/index.m3u8#第236集$https://vodcnd17.ajupf.com/20260812/SlK2MFL0/index.m3u8#第237集$https://vodcnd16.ajupf.com/20260818/X7qbkNCY/index.m3u8#第238集$https://vodcnd16.ajupf.com/20260825/DSxuGuLs/index.m3u8#$$$第01集$https://vodcnd03.ajupf.com/share/IRVIvUPGvT#第02集$https://vodcnd03.ajupf.com/share/oH9FaZ2bef#第03集$https://vodcnd03.ajupf.com/share/V8ukPb1Ywv#第04集$https://vodcnd03.ajupf.com/share/BzHR2SDH71#第05集$https://vodcnd03.ajupf.com/share/VVetGLxNhH#第06集$https://vodcnd03.ajupf.com/share/G9OIKhp0Cv#第07集$https://vodcnd03.ajupf.com/share/mHM10bFwny#第08集$https://vodcnd03.ajupf.com/share/5OQT2SQFhY#第09集$https://vodcnd03.ajupf.com/share/uOcf9cMVbl#第10集$https://vodcnd03.ajupf.com/share/3uguPpt8X2#第11集$https://vodcnd03.ajupf.com/share/LMnDfqcrxa#第12集$https://vodcnd03.ajupf.com/share/uzSSKMjRW6#第13集$https://vodcnd03.ajupf.com/share/2DxflvQ7Hj#第14集$https://vodcnd03.ajupf.com/share/5W18jFbDfi#第15集$https://vodcnd03.ajupf.com/share/SXeMxOWH7o#第16集$https://vodcnd03.ajupf.com/share/x0iLcDLp9P#第17集$https://vodcnd03.ajupf.com/share/SpkoWS7i0m#第18集$https://vodcnd03.ajupf.com/share/2Rb54bYBA1#第19集$https://vodcnd03.ajupf.com/share/oedkCOuDgn#第20集$https://vodcnd03.ajupf.com/share/psFNjrSwHj#第21集$https://vodcnd03.ajupf.com/share/gdzNbIozyg#第22集$https://vodcnd03.ajupf.com/share/1EwywRL75O#第23集$https://vodcnd03.ajupf.com/share/HvfmKAJqcs#第24集$https://vodcnd03.ajupf.com/share/ZdrOCHejxG#第25集$https://vodcnd03.ajupf.com/share/nhgBisVgJr#第26集$https://vodcnd03.ajupf.com/share/ZsRamoIkSB#第27集$https://vodcnd03.ajupf.com/share/ONfchX5I0F#第28集$https://vodcnd03.ajupf.com/share/7gyCW3SL5k#第29集$https://vodcnd03.ajupf.com/share/jx5HFpmVRz#第30集$https://vodcnd03.ajupf.com/share/gfQdoBNIs0#第31集$https://vodcnd03.ajupf.com/share/AAozio82V8#第32集$https://vodcnd03.ajupf.com/share/wqqN9mEsLL#第33集$https://vodcnd03.ajupf.com/share/O9YgHVQD8w#第34集$https://vodcnd03.ajupf.com/share/Nb6YtnvhYf#第35集$https://vodcnd03.ajupf.com/share/nPgg6PXAIw#第36集$https://vodcnd03.ajupf.com/share/A4aBvsUhLB#第37集$https://vodcnd03.ajupf.com/share/Xd4DiWNfZj#第38集$https://vodcnd03.ajupf.com/share/WXj7mngtwy#第39集$https://vodcnd03.ajupf.com/share/2RbNkbIwGk#第40集$https://vodcnd03.ajupf.com/share/xs10g9QLon#第41集$https://vodcnd03.ajupf.com/share/BskTJgfzcH#第42集$https://vodcnd03.ajupf.com/share/vMYLAnu2Hj#第43集$https://vodcnd03.ajupf.com/share/vCsFLSm50n#第44集$https://vodcnd03.ajupf.com/share/O6RZCi7fbh#第45集$https://vodcnd03.ajupf.com/share/g1GsaIgwDE#第46集$https://vodcnd03.ajupf.com/share/dC4hvEC81p#第47集$https://vodcnd03.ajupf.com/share/iWeGGitVsb#第48集$https://vodcnd03.ajupf.com/share/mp8dbtcAgx#第49集$https://vodcnd03.ajupf.com/share/X42iP1z5t1#第50集$https://vodcnd03.ajupf.com/share/Vrf0t9RdkX#第51集$https://vodcnd03.ajupf.com/share/pvzwX9nanu#第52集$https://vodcnd03.ajupf.com/share/3vG8Gd6Wf3#第53集$https://vodcnd03.ajupf.com/share/aoalxLAZOR#第54集$https://vodcnd03.ajupf.com/share/aRUh7igYbo#第55集$https://vodcnd03.ajupf.com/share/aXuhu6UCBI#第56集$https://vodcnd03.ajupf.com/share/ifoaQUKNYE#第57集$https://vodcnd03.ajupf.com/share/8nxmU8XklD#第58集$https://vodcnd03.ajupf.com/share/Yf1zadF172#第59集$https://vodcnd03.ajupf.com/share/niq2CGzGT8#第60集$https://vodcnd03.ajupf.com/share/COxsmgDpEG#第61集$https://vodcnd03.ajupf.com/share/nUUjDs4AQR#第62集$https://vodcnd03.ajupf.com/share/xhRNSBLwdb#第63集$https://vodcnd03.ajupf.com/share/o1CFBEm0NC#第64集$https://vodcnd03.ajupf.com/share/cxJErE7itS#第65集$https://vodcnd03.ajupf.com/share/a0jHBfJggK#第66集$https://vodcnd03.ajupf.com/share/M6426Rj7SJ#第67集$https://vodcnd03.ajupf.com/share/mBMs7JtQhB#第68集$https://vodcnd03.ajupf.com/share/vPhSLT2Qui#第69集$https://vodcnd03.ajupf.com/share/yufAaT5Obo#第70集$https://vodcnd03.ajupf.com/share/8FXUvIEPUf#第71集$https://vodcnd03.ajupf.com/share/Wu8PcUPcTn#第72集$https://vodcnd03.ajupf.com/share/3CmUa8hwui#第73集$https://vodcnd03.ajupf.com/share/JkMJdnddRG#第74集$https://vodcnd03.ajupf.com/share/jj3bkOAVkv#第75集$https://vodcnd03.ajupf.com/share/JzBGwspN89#第76集$https://vodcnd03.ajupf.com/share/WGC9mT3k5i#第77集$https://vodcnd03.ajupf.com/share/cK4BJd1LQj#第78集$https://vodcnd03.ajupf.com/share/iOv6VJYfnK#第79集$https://vodcnd03.ajupf.com/share/e7OsnwSz3q#第80集$https://vodcnd03.ajupf.com/share/MVITv1lG5R#第81集$https://vodcnd03.ajupf.com/share/QmzKUYtcrP#第82集$https://vodcnd03.ajupf.com/share/KgsLwYHA5Q#第83集$https://vodcnd03.ajupf.com/share/LUBtBxXZRI#第84集$https://vodcnd03.ajupf.com/share/u57D34xri0#第85集$https://vodcnd03.ajupf.com/share/px1i7VEgsS#第86集$https://vodcnd03.ajupf.com/share/gl1ZbPEYTL#第87集$https://vodcnd03.ajupf.com/share/iksf7zZJa7#第88集$https://vodcnd03.ajupf.com/share/6ipOlHNVtQ#第89集$https://vodcnd03.ajupf.com/share/j4dDKQuSYL#第90集$https://vodcnd03.ajupf.com/share/Ay8W3ziwiY#第91集$https://vodcnd03.ajupf.com/share/LhlRJbRkPl#第92集$https://vodcnd03.ajupf.com/share/ytix1xy9PZ#第93集$https://vodcnd03.ajupf.com/share/Mt9uYdvjeM#第94集$https://vodcnd03.ajupf.com/share/xmUvGgusyn#第95集$https://vodcnd03.ajupf.com/share/TytZ8cRl8X#第96集$https://vodcnd03.ajupf.com/share/RX2YwjHFSg#第97集$https://vodcnd03.ajupf.com/share/RkwdNNtBbo#第98集$https://vodcnd03.ajupf.com/share/ZALPmQatp2#第99集$https://vodcnd03.ajupf.com/share/08af18N11O#第100集$https://vodcnd03.ajupf.com/share/cq935Vyfdi#第101集$https://vodcnd03.ajupf.com/share/HCq6LfLkEQ#第102集$https://vodcnd03.ajupf.com/share/WhFLvQ6wwJ#第103集$https://vodcnd03.ajupf.com/share/g1s71M689c#第104集$https://vodcnd03.ajupf.com/share/UBeA77q5Qd#第105集$https://vodcnd03.ajupf.com/share/5P2ZNikTBU#第106集$https://vodcnd03.ajupf.com/share/w94zOc4pgK#第107集$https://vodcnd03.ajupf.com/share/jOOvGhYB7Y#第108集$https://vodcnd03.ajupf.com/share/v3zbLeFNWP#第109集$https://vodcnd03.ajupf.com/share/I9q3QaV9pv#第110集$https://vodcnd03.ajupf.com/share/ycujrNv1wF#第111集$https://vodcnd03.ajupf.com/share/ofhfnXe6uW#第112集$https://vodcnd03.ajupf.com/share/hXG70C0f3b#第113集$https://vodcnd03.ajupf.com/share/zHPogmIlxr#第114集$https://vodcnd03.ajupf.com/share/DdunGVIZq4#第115集$https://vodcnd03.ajupf.com/share/1ytIdmTuue#第116集$https://vodcnd03.ajupf.com/share/6EmroPE62n#第117集$https://vodcnd03.ajupf.com/share/c5Ht8yDRUv#第118集$https://vodcnd03.ajupf.com/share/383YTBve5K#第119集$https://vodcnd03.ajupf.com/share/03NEXe0cX4#第120集$https://vodcnd03.ajupf.com/share/PIo9JEHkUH#第121集$https://vodcnd03.ajupf.com/share/ElS8hLdPG7#第122集$https://vodcnd03.ajupf.com/share/6hgCRlZRjb#第123集$https://vodcnd03.ajupf.com/share/UYDblfRirE#第124集$https://vodcnd03.ajupf.com/share/DbB4QPu6Fs#第125集$https://vodcnd03.ajupf.com/share/SKD4fJaQvn#第126集$https://vodcnd03.ajupf.com/share/4HFqyvCu36#第127集$https://vodcnd03.ajupf.com/share/PokWL44Bsc#第128集$https://vodcnd03.ajupf.com/share/1qJC0LhpcO#第129集$https://vodcnd03.ajupf.com/share/MqAIbZymE2#第130集$https://vodcnd03.ajupf.com/share/E6IDMUaF7M#第131集$https://vodcnd09.ajupf.com/share/ffYxCnbGxY#第132集$https://vodcnd09.ajupf.com/share/3qr7vppT4c#第133集$https://vodcnd09.ajupf.com/share/W12sSM8laG#第134集$https://vodcnd09.ajupf.com/share/DV3JfIqiD5#第135集$https://vodcnd09.ajupf.com/share/p2jixt58DT#第136集$https://vodcnd09.ajupf.com/share/zWeiNChKeT#第137集$https://vodcnd09.ajupf.com/share/iP9vVSv0AS#第138集$https://vodcnd09.ajupf.com/share/KSz1b2uzAZ#第139集$https://vodcnd09.ajupf.com/share/sVd6HLdi8p#第140集$https://vodcnd09.ajupf.com/share/IaLOdbTZMy#第141集$https://vodcnd09.ajupf.com/share/D09bDgqIQM#第142集$https://vodcnd09.ajupf.com/share/qvIBm9V7e9#第143集$https://vodcnd09.ajupf.com/share/PTIfFTSBWa#第144集$https://vodcnd09.ajupf.com/share/izwUDcExLl#第145集$https://vodcnd09.ajupf.com/share/4So4JTxAZO#第146集$https://vodcnd09.ajupf.com/share/k3fGxLE6OR#第147集$https://vodcnd09.ajupf.com/share/YFMVvZJ9um#第148集$https://vodcnd09.ajupf.com/share/pPDFQiuEFI#第149集$https://vodcnd09.ajupf.com/share/a7uw5v5Oys#第150集$https://vodcnd09.ajupf.com/share/fwhLkvJCjv#第151集$https://vodcnd09.ajupf.com/share/XKX8vzMwRU#第152集$https://vodcnd09.ajupf.com/share/bLcH28csga#第153集$https://vodcnd04.ajupf.com/share/i6uL8Zf0ir#第154集$https://vodcnd04.ajupf.com/share/FS6g8GReyZ#第155集$https://vodcnd04.ajupf.com/share/BcMif9oBgv#第156集$https://vodcnd04.ajupf.com/share/0lDLsobEez#第157集$https://vodcnd04.ajupf.com/share/0LfX8p4eqd#第158集$https://vodcnd12.ajupf.com/share/aWMZqvK4AW#第159集$https://vodcnd12.ajupf.com/share/fxLVR5m2kh#第160集$https://vodcnd13.ajupf.com/share/ZUb32cP9zl#第161集$https://vodcnd14.ajupf.com/share/8GxuMvKq8H#第162集$https://vodcnd05.ajupf.com/share/EwgLYQh3oZ#第163集$https://vodcnd04.ajupf.com/share/dbKCzM0dGW#第164集$https://vodcnd04.ajupf.com/share/9BEXwtVMF1#第165集$https://vodcnd04.ajupf.com/share/lii2mSjuao#第166集$https://vodcnd04.ajupf.com/share/0SNMacPUPy#第167集$https://vodcnd01.ajupf.com/share/M3wvmoFr0B#第168集$https://vodcnd09.ajupf.com/share/FmAz4GOKNq#第169集$https://vodcnd09.ajupf.com/share/HOqsbbgm2E#第170集$https://vodcnd09.ajupf.com/share/IqWPC0wbBy#第171集$https://vodcnd09.ajupf.com/share/H1tR6p508P#第172集$https://vodcnd09.ajupf.com/share/bLSDVspJIE#第173集$https://vodcnd10.ajupf.com/share/yR8ZlNzqaB#第174集$https://vodcnd00.ajupf.com/share/6Z0aysspMv#第175集$https://vodcnd11.ajupf.com/share/VpynbtmEZC#第176集$https://vodcnd11.ajupf.com/share/G6BMU2XsCn#第177集$https://vodcnd11.ajupf.com/share/KguG1Bcqgh#第178集$https://vodcnd11.ajupf.com/share/A3dK6NN5xw#第179集$https://vodcnd11.ajupf.com/share/jzgYa4Vdw1#第180集$https://vodcnd11.ajupf.com/share/u3Vx3Rl2Zu#第181集$https://vodcnd11.ajupf.com/share/ZRMy7l6opC#第182集$https://vodcnd11.ajupf.com/share/NEiQYDS3zg#第183集$https://vodcnd10.ajupf.com/share/xNyIAaxDQY#第184集$https://vodcnd11.ajupf.com/share/VktAwMLJFH#第185集$https://vodcnd10.ajupf.com/share/GVhjhZFuSS#第186集$https://vodcnd10.ajupf.com/share/APlleO77dz#第187集$https://vodcnd11.ajupf.com/share/0EqZ0JJ08y#第188集$https://vodcnd11.ajupf.com/share/p0jOeJborZ#第189集$https://vodcnd09.ajupf.com/share/UZPhgZ7scT#第190集$https://vodcnd10.ajupf.com/share/X9cvszDKEB#第191集$https://vodcnd09.ajupf.com/share/yp6wyhsg7n#第192集$https://vodcnd09.ajupf.com/share/qAf72LvJXN#第193集$https://vodcnd08.ajupf.com/share/KJwipHznQ9#第194集$https://vodcnd08.ajupf.com/share/NSGEI1ggMT#第195集$https://vodcnd08.ajupf.com/share/rHNtz052Im#第196集$https://vodcnd09.ajupf.com/share/7OTmu1FE0z#第197集$https://vodcnd09.ajupf.com/share/gimnqf6JDN#第198集$https://vodcnd08.ajupf.com/share/vCrnAFJFDb#第199集$https://vodcnd08.ajupf.com/share/iRx4fd95wX#第200集$https://vodcnd13.ajupf.com/share/iPXwpOEMYT#第201集$https://vodcnd13.ajupf.com/share/eCZLFa2J6y#第202集$https://vodcnd13.ajupf.com/share/CJ8ABCix6r#第203集$https://vodcnd14.ajupf.com/share/72ySz8wwwD#第204集$https://vodcnd13.ajupf.com/share/ZtO2Wowc5L#第205集$https://vodcnd14.ajupf.com/share/or13Z4594n#第206集$https://vodcnd13.ajupf.com/share/afVF0mzGRd#第207集$https://vodcnd14.ajupf.com/share/Nv3mPH4DIU#第208集$https://vodcnd14.ajupf.com/share/29YWwjJHIS#第209集$https://vodcnd13.ajupf.com/share/7iB0gz3dUg#第210集$https://vodcnd14.ajupf.com/share/C0P9pH5wAl#第211集$https://vodcnd13.ajupf.com/share/q9sMOzugPd#第212集$https://vodcnd13.ajupf.com/share/o0ndqvCtuC#第213集$https://vodcnd13.ajupf.com/share/CTnb7wyy62#第214集$https://vodcnd13.ajupf.com/share/x6WOCRCoBQ#第215集$https://vodcnd13.ajupf.com/share/BLWmkXhXji#第216集$https://vodcnd13.ajupf.com/share/cMAeA4yueL#第217集$https://vodcnd13.ajupf.com/share/9wCYRg8kFf#第218集$https://vodcnd14.ajupf.com/share/fx71foyhfG#第219集$https://vodcnd15.ajupf.com/share/f06FePhc33#第220集$https://vodcnd13.ajupf.com/share/766Lr8cjFv#第221集$https://vodcnd13.ajupf.com/share/YN3IRJovsk#第222集$https://vodcnd13.ajupf.com/share/8H8JoNlJKM#第223集$https://vodcnd15.ajupf.com/share/i53jpw58Q5#第224集$https://vodcnd15.ajupf.com/share/0VnkdaHUD5#第225集$https://vodcnd15.ajupf.com/share/etTctF3DNZ#第226集$https://vodcnd15.ajupf.com/share/upDKovZKTr#第227集$https://vodcnd15.ajupf.com/share/SJz9EkUrb8#第228集$https://vodcnd15.ajupf.com/share/IdnBV9u927#第229集$https://vodcnd15.ajupf.com/share/SAuxifFfoZ#第230集$https://vodcnd15.ajupf.com/share/K9ewivvhP9#第231集$https://vodcnd15.ajupf.com/share/vODVuck2wf#第232集$https://vodcnd16.ajupf.com/share/nQ3zq8ZdYg#第233集$https://vodcnd16.ajupf.com/share/R7geT2b5aA#第234集$https://vodcnd16.ajupf.com/share/7Ps34vq0oF#第235集$https://vodcnd16.ajupf.com/share/UGl7wJ1Roi#第236集$https://vodcnd17.ajupf.com/share/5kQjho4XVD#第237集$https://vodcnd16.ajupf.com/share/TSIMZwrlGL#第238集$https://vodcnd16.ajupf.com/share/PasYjeGAYx#",
-    "update_time": "2026-08-25 12:41:31"
+    "update_time": "2026-08-25 12:41:31",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 172271,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第239集"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 141787,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第239集"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 22639,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至第239集"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 35030,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "更新至239集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 34671,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第239集"
+      }
+    ]
   },
   {
     "id": 247,
@@ -24190,7 +24400,16 @@
     "content": "<p>七位最具代表性的“真爱主妇”即将开启一场前所未有的闺蜜之旅，她们将游历橙县、比佛利山庄、亚特兰大、迈阿密和纽约。据传，每到一处，都会有更多“真爱主妇”历史上的老面孔加入这场狂欢，重温那些经典时刻，并带来意想不到的惊喜。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.ajupf.com/20260825/tXgtlarQ/index.m3u8#第02集$https://vodcnd16.ajupf.com/20260825/NmPjJMEY/index.m3u8#第03集$https://vodcnd16.ajupf.com/20260825/v7KJUtr1/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/8tKyXtLoHv#第02集$https://vodcnd16.ajupf.com/share/i3Qdfw1sNh#第03集$https://vodcnd16.ajupf.com/share/OnS5bYN59y",
-    "update_time": "2026-08-25 12:39:47"
+    "update_time": "2026-08-25 12:39:47",
+    "play_sources": [
+      {
+        "source": "暴风资源",
+        "source_id": 160626,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第4集"
+      }
+    ]
   },
   {
     "id": 145706,
@@ -24608,6 +24827,13 @@
         "play_from": "lzm3u8",
         "play_url": null,
         "remarks": "已完结"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 150190,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "全8集+番外"
       }
     ]
   },
@@ -26916,6 +27142,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第6集"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 152599,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第6集"
       }
     ]
   },
@@ -26934,7 +27167,16 @@
     "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">国内首部蚝油美食文化纪录片。以“鲜味”为线索，系统梳理蚝油与中国饮食文化的深厚渊源</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.ajupf.com/20260812/d6M4g7IE/index.m3u8#第02集$https://vodcnd17.ajupf.com/20260818/0JYaUNuD/index.m3u8#第03集$https://vodcnd16.ajupf.com/20260824/St4QUwBB/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/oeI8Bkg7wu#第02集$https://vodcnd17.ajupf.com/share/W6rAIWVgnn#第03集$https://vodcnd16.ajupf.com/share/4okSa8vzqI",
-    "update_time": "2026-08-24 21:44:28"
+    "update_time": "2026-08-24 21:44:28",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 143868,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第4集"
+      }
+    ]
   },
   {
     "id": 145680,
@@ -27053,7 +27295,44 @@
     "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">FBI探员爱丽丝·布莱克（埃米·罗森 饰）深入追查神秘女性连环杀手（洛拉·佩蒂克鲁 饰）。每一次接近真相，都更靠近失控边缘。当正义开始动摇，谁才是真正的猎人？</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.ajupf.com/20260804/SHLyono7/index.m3u8#第02集$https://vodcnd16.ajupf.com/20260804/7efvXsY4/index.m3u8#第03集$https://vodcnd16.ajupf.com/20260804/ln1R3UiH/index.m3u8#第04集$https://vodcnd16.ajupf.com/20260804/1rT2pdpT/index.m3u8#第05集$https://vodcnd17.ajupf.com/20260817/Xu3i7w0B/index.m3u8#第06集$https://vodcnd17.ajupf.com/20260811/1sHCmlMu/index.m3u8#第07集$https://vodcnd16.ajupf.com/20260824/jgsXWL8A/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/gM3y2kEkom#第02集$https://vodcnd16.ajupf.com/share/TADbjG22Aq#第03集$https://vodcnd16.ajupf.com/share/6t0STVcGk0#第04集$https://vodcnd16.ajupf.com/share/BaNe0nsqEZ#第05集$https://vodcnd17.ajupf.com/share/o512qxLmuD#第06集$https://vodcnd17.ajupf.com/share/xw3Q5q3jOe#第07集$https://vodcnd16.ajupf.com/share/Aio5aHr4w9",
-    "update_time": "2026-08-24 21:16:37"
+    "update_time": "2026-08-24 21:16:37",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 171324,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第8集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 152618,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第8集完结"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 141528,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第8集完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 148587,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 151691,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "全8集"
+      }
+    ]
   },
   {
     "id": 145696,
@@ -27442,6 +27721,20 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第9集"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 139163,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第9集"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 150187,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "更新至09集"
       }
     ]
   },
@@ -27482,6 +27775,20 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第3集"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 192105,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第3集"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 144737,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第3集"
       }
     ]
   },
@@ -27590,6 +27897,20 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至20260829"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 153590,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第260829期"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 119601,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第20260829期"
       }
     ]
   },
@@ -27608,7 +27929,16 @@
     "content": "<p>暂无简介</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd15.ajupf.com/20260607/XMDfCWsO/index.m3u8#第02集$https://vodcnd15.ajupf.com/20260614/CQaZlwxa/index.m3u8#第03集$https://vodcnd15.ajupf.com/20260621/rcZoSYX5/index.m3u8#第04集$https://vodcnd15.ajupf.com/20260628/az4pCTwQ/index.m3u8#第05集$https://vodcnd15.ajupf.com/20260705/j36EdeBg/index.m3u8#第06集$https://vodcnd15.ajupf.com/20260712/XUDqQ48C/index.m3u8#第07集$https://vodcnd16.ajupf.com/20260719/c3P89ZlX/index.m3u8#第08集$https://vodcnd16.ajupf.com/20260726/Zz0xlaKB/index.m3u8#第09集$https://vodcnd17.ajupf.com/20260803/UkPyI2El/index.m3u8#第10集$https://vodcnd16.ajupf.com/20260809/J5Y60y28/index.m3u8#第11集$https://vodcnd16.ajupf.com/20260817/IclrwuR8/index.m3u8#第12集$https://vodcnd17.ajupf.com/20260824/SQK5HBk3/index.m3u8$$$第01集$https://vodcnd15.ajupf.com/share/OX4DHZ7vXO#第02集$https://vodcnd15.ajupf.com/share/3tmlQ8d1D1#第03集$https://vodcnd15.ajupf.com/share/Rn6d5NxplW#第04集$https://vodcnd15.ajupf.com/share/dMdQPPS7wy#第05集$https://vodcnd15.ajupf.com/share/Eis8zKsrnA#第06集$https://vodcnd15.ajupf.com/share/PMBf2obYa5#第07集$https://vodcnd16.ajupf.com/share/ACyPujuEEr#第08集$https://vodcnd16.ajupf.com/share/bcfnvmkXov#第09集$https://vodcnd17.ajupf.com/share/gH3B1BHdEY#第10集$https://vodcnd16.ajupf.com/share/yZrThOo6UV#第11集$https://vodcnd16.ajupf.com/share/cqLQgVUwBO#第12集$https://vodcnd17.ajupf.com/share/5dhiEG9sJp",
-    "update_time": "2026-08-24 19:04:09"
+    "update_time": "2026-08-24 19:04:09",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 135668,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第13集"
+      }
+    ]
   },
   {
     "id": 14017,
@@ -27642,7 +27972,16 @@
     "content": "<p>暂无简介</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd17.ajupf.com/20260803/yTjIjNub/index.m3u8#第02集$https://vodcnd17.ajupf.com/20260812/lUGJKgKt/index.m3u8#第03集$https://vodcnd16.ajupf.com/20260817/Ia5UvTe2/index.m3u8#第04集$https://vodcnd17.ajupf.com/20260824/DkReLPG2/index.m3u8$$$第01集$https://vodcnd17.ajupf.com/share/LoodaKTjS2#第02集$https://vodcnd17.ajupf.com/share/V2FL1uXMsR#第03集$https://vodcnd16.ajupf.com/share/zjPNQU8WKc#第04集$https://vodcnd17.ajupf.com/share/QU8WCs9i5Y",
-    "update_time": "2026-08-24 18:56:17"
+    "update_time": "2026-08-24 18:56:17",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 142351,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第5期"
+      }
+    ]
   },
   {
     "id": 145665,
@@ -27850,6 +28189,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第18集"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 168994,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第19集"
       }
     ]
   },
@@ -28158,7 +28504,16 @@
     "content": "<p>据情报师消息：《#无职转生～到了异世界就拿出真本事～#》第二季&amp;第三季制作决定！</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.ajupf.com/20260717/ZHBsF5uV/index.m3u8#第02集$https://vodcnd16.ajupf.com/20260717/8FdcQzPD/index.m3u8#第03集$https://vodcnd16.ajupf.com/20260808/bXUT8ngG/index.m3u8#第04集$https://vodcnd16.ajupf.com/20260808/CbNyCdYZ/index.m3u8#第05集$https://vodcnd16.ajupf.com/20260808/fAlmPkP5/index.m3u8#第06集$https://vodcnd16.ajupf.com/20260823/v2wMeQKz/index.m3u8#第07集$https://vodcnd16.ajupf.com/20260823/8Rnk0Xwa/index.m3u8#第08集$https://vodcnd16.ajupf.com/20260821/OFecEVU4/index.m3u8#第09集$https://vodcnd16.ajupf.com/20260824/VFChslHt/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/SJVDSuT9EV#第02集$https://vodcnd16.ajupf.com/share/i4ONJUjEKe#第03集$https://vodcnd16.ajupf.com/share/OrZDh6nZOw#第04集$https://vodcnd16.ajupf.com/share/143aGqATUa#第05集$https://vodcnd16.ajupf.com/share/Wye0asvjiF#第06集$https://vodcnd16.ajupf.com/share/kzhuFz6xcd#第07集$https://vodcnd16.ajupf.com/share/0anXN6uoHE#第08集$https://vodcnd16.ajupf.com/share/yt3Qrys22j#第09集$https://vodcnd16.ajupf.com/share/CtZllzrJHc",
-    "update_time": "2026-08-24 16:24:05"
+    "update_time": "2026-08-24 16:24:05",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 138872,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第10集"
+      }
+    ]
   },
   {
     "id": 145603,
@@ -28192,7 +28547,16 @@
     "content": "",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "20260824第1期：男女嘉宾初见手信传情$https://vodcnd16.ajupf.com/20260824/731B1ZmX/index.m3u8$$$20260824第1期：男女嘉宾初见手信传情$https://vodcnd16.ajupf.com/share/jxKckzyXxu",
-    "update_time": "2026-08-24 16:20:24"
+    "update_time": "2026-08-24 16:20:24",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 145944,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "20260831第2期"
+      }
+    ]
   },
   {
     "id": 111189,
@@ -28234,6 +28598,20 @@
         "play_from": "lzm3u8",
         "play_url": null,
         "remarks": "更新至20260831期"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 192601,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第2期"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 145940,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第20260831期"
       }
     ]
   },
@@ -28274,6 +28652,27 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至20260830"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 177558,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第260830期"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 153587,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第260830期"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 119602,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第20260830期"
       }
     ]
   },
@@ -28292,7 +28691,16 @@
     "content": "<p>斗罗大陆3龙王传说故事结束一万年后，冰化了，斗罗联邦科考队在极北之地科考时发现了一个有着金银双色花纹的蛋，用仪器探察之后，发现里面居然有生命体征，赶忙将其带回研究所进行孵化。蛋孵化出来了，可孵出来的却是一个婴儿，和人类一模一样的婴儿，一个蛋生的孩子。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd08.ajupf.com/20251029/kivK1P7Y/index.m3u8#第02集$https://vodcnd08.ajupf.com/20251029/zPAPVSjV/index.m3u8#第03集$https://vodcnd08.ajupf.com/20251029/P7PlSMpc/index.m3u8#第04集$https://vodcnd08.ajupf.com/20251029/YU77Lfs9/index.m3u8#第05集$https://vodcnd08.ajupf.com/20251029/f7tcbvcZ/index.m3u8#第06集$https://vodcnd08.ajupf.com/20251029/l1qIMP8N/index.m3u8#第07集$https://vodcnd08.ajupf.com/20251029/xYQytnT9/index.m3u8#第08集$https://vodcnd08.ajupf.com/20251029/ljCTT7ds/index.m3u8#第09集$https://vodcnd08.ajupf.com/20251029/PGJtazgP/index.m3u8#第10集$https://vodcnd08.ajupf.com/20251029/d6jVocuW/index.m3u8#第11集$https://vodcnd08.ajupf.com/20251029/PgmZNCaP/index.m3u8#第12集$https://vodcnd08.ajupf.com/20251029/IqMTToqc/index.m3u8#第13集$https://vodcnd08.ajupf.com/20251029/mugxJoU6/index.m3u8#第14集$https://vodcnd08.ajupf.com/20251029/KmlFR9ZG/index.m3u8#第15集$https://vodcnd08.ajupf.com/20251029/eGv9qpxE/index.m3u8#第16集$https://vodcnd08.ajupf.com/20251029/AqAkKm48/index.m3u8#第17集$https://vodcnd08.ajupf.com/20251029/NKSul8p1/index.m3u8#第18集$https://vodcnd08.ajupf.com/20251029/DXxpvsKb/index.m3u8#第19集$https://vodcnd08.ajupf.com/20251029/dNjYotJS/index.m3u8#第20集$https://vodcnd08.ajupf.com/20251029/TMJU9rwP/index.m3u8#第21集$https://vodcnd08.ajupf.com/20251029/WpHf0TsL/index.m3u8#第22集$https://vodcnd08.ajupf.com/20251029/lu31DGa7/index.m3u8#第23集$https://vodcnd08.ajupf.com/20251029/GLdL2fvt/index.m3u8#第24集$https://vodcnd08.ajupf.com/20251029/27YiyFTl/index.m3u8#第25集$https://vodcnd08.ajupf.com/20251029/YHFz9xNw/index.m3u8#第26集$https://vodcnd08.ajupf.com/20251029/JqBFhODp/index.m3u8#第27集$https://vodcnd08.ajupf.com/20251029/Qp4qmL5y/index.m3u8#第28集$https://vodcnd08.ajupf.com/20251029/oWqBFgc9/index.m3u8#第29集$https://vodcnd08.ajupf.com/20251029/W8YxAiEb/index.m3u8#第30集$https://vodcnd08.ajupf.com/20251029/rrH93YYV/index.m3u8#第31集$https://vodcnd08.ajupf.com/20251029/zFaBQY1r/index.m3u8#第32集$https://vodcnd08.ajupf.com/20251029/SUWjQHxO/index.m3u8#第33集$https://vodcnd08.ajupf.com/20251029/UgJ8CwLQ/index.m3u8#第34集$https://vodcnd08.ajupf.com/20251029/3JUELyi9/index.m3u8#第35集$https://vodcnd08.ajupf.com/20251029/YXcLEup8/index.m3u8#第36集$https://vodcnd08.ajupf.com/20251029/AFw3Objs/index.m3u8#第37集$https://vodcnd08.ajupf.com/20251029/cUKQw1q3/index.m3u8#第38集$https://vodcnd08.ajupf.com/20251029/kO2FjJJi/index.m3u8#第39集$https://vodcnd08.ajupf.com/20251029/CULwf5oS/index.m3u8#第40集$https://vodcnd08.ajupf.com/20251029/80KSo4WQ/index.m3u8#第41集$https://vodcnd08.ajupf.com/20251029/sdEESGfz/index.m3u8#第42集$https://vodcnd08.ajupf.com/20251029/61lIQ2wS/index.m3u8#第43集$https://vodcnd08.ajupf.com/20251029/BuLQFbqf/index.m3u8#第44集$https://vodcnd08.ajupf.com/20251029/oQBYmPFK/index.m3u8#第45集$https://vodcnd08.ajupf.com/20251029/mYcn5Tm9/index.m3u8#第46集$https://vodcnd08.ajupf.com/20251029/BYq0FBVd/index.m3u8#第47集$https://vodcnd08.ajupf.com/20251029/R0yKBZqY/index.m3u8#第48集$https://vodcnd08.ajupf.com/20251029/OiW4PmSl/index.m3u8#第49集$https://vodcnd08.ajupf.com/20251029/8edZDb2l/index.m3u8#第50集$https://vodcnd08.ajupf.com/20251029/6XC0do1w/index.m3u8#第51集$https://vodcnd08.ajupf.com/20251029/cfSkr3Ee/index.m3u8#第52集$https://vodcnd08.ajupf.com/20251029/ah3ACUo2/index.m3u8#第53集$https://vodcnd08.ajupf.com/20251029/6Rbi9ZMA/index.m3u8#第54集$https://vodcnd08.ajupf.com/20251029/a2PzDJ2X/index.m3u8#第55集$https://vodcnd08.ajupf.com/20251029/CgJdFXza/index.m3u8#第56集$https://vodcnd08.ajupf.com/20251029/1j19KU6C/index.m3u8#第57集$https://vodcnd08.ajupf.com/20251029/c6BTNUq3/index.m3u8#第58集$https://vodcnd08.ajupf.com/20251029/kFeARYqd/index.m3u8#第59集$https://vodcnd08.ajupf.com/20251029/ITabs1P8/index.m3u8#第60集$https://vodcnd08.ajupf.com/20251029/PWo2l5xZ/index.m3u8#第61集$https://vodcnd08.ajupf.com/20251029/Jj1hiG9j/index.m3u8#第62集$https://vodcnd08.ajupf.com/20251029/7RJnRVK9/index.m3u8#第63集$https://vodcnd08.ajupf.com/20251029/i10l2Fsw/index.m3u8#第64集$https://vodcnd08.ajupf.com/20251029/wXh2HigI/index.m3u8#第65集$https://vodcnd08.ajupf.com/20251029/pJWuq5ay/index.m3u8#第66集$https://vodcnd08.ajupf.com/20251029/IUX8MQn5/index.m3u8#第67集$https://vodcnd08.ajupf.com/20251029/uEWlJHGg/index.m3u8#第68集$https://vodcnd08.ajupf.com/20251029/xaG7dZtr/index.m3u8#第69集$https://vodcnd08.ajupf.com/20251029/fjEXSbhJ/index.m3u8#第70集$https://vodcnd08.ajupf.com/20251029/jTbfzZDf/index.m3u8#第71集$https://vodcnd08.ajupf.com/20251029/kfEPt6i1/index.m3u8#第72集$https://vodcnd08.ajupf.com/20251029/829sRRTz/index.m3u8#第73集$https://vodcnd08.ajupf.com/20251029/1ucSH25m/index.m3u8#第74集$https://vodcnd08.ajupf.com/20251029/XbfSAFNZ/index.m3u8#第75集$https://vodcnd08.ajupf.com/20251029/bQn7j0AE/index.m3u8#第76集$https://vodcnd08.ajupf.com/20251029/V8on2q80/index.m3u8#第77集$https://vodcnd08.ajupf.com/20251029/JBzMyMOz/index.m3u8#第78集$https://vodcnd08.ajupf.com/20251029/CIruQgnk/index.m3u8#第79集$https://vodcnd08.ajupf.com/20251029/JAqKP33n/index.m3u8#第80集$https://vodcnd08.ajupf.com/20251029/Af4ajxKz/index.m3u8#第81集$https://vodcnd08.ajupf.com/20251029/PTNEP4I2/index.m3u8#第82集$https://vodcnd08.ajupf.com/20251029/Kx3z3Zkf/index.m3u8#第83集$https://vodcnd08.ajupf.com/20251029/D3hnTwnZ/index.m3u8#第84集$https://vodcnd08.ajupf.com/20251029/8XHR3Tgr/index.m3u8#第85集$https://vodcnd08.ajupf.com/20251029/sDN5cCDu/index.m3u8#第86集$https://vodcnd08.ajupf.com/20251029/KvHqIvu7/index.m3u8#第87集$https://vodcnd08.ajupf.com/20251029/sOgQIq35/index.m3u8#第88集$https://vodcnd08.ajupf.com/20251029/iOBuNEZL/index.m3u8#第89集$https://vodcnd08.ajupf.com/20251029/bLJjxqhy/index.m3u8#第90集$https://vodcnd08.ajupf.com/20251029/ax0DZhS4/index.m3u8#第91集$https://vodcnd08.ajupf.com/20251029/A6YaBYYk/index.m3u8#第92集$https://vodcnd08.ajupf.com/20251029/e0oD4FmN/index.m3u8#第93集$https://vodcnd08.ajupf.com/20251029/Nx5vHst5/index.m3u8#第94集$https://vodcnd08.ajupf.com/20251029/yh31pjay/index.m3u8#第95集$https://vodcnd08.ajupf.com/20251029/ZFKfZtxi/index.m3u8#第96集$https://vodcnd08.ajupf.com/20251029/UjDS4WC5/index.m3u8#第97集$https://vodcnd08.ajupf.com/20251029/9APhj8ju/index.m3u8#第98集$https://vodcnd08.ajupf.com/20251029/DK1uDqRM/index.m3u8#第99集$https://vodcnd08.ajupf.com/20251029/F3KiN1WZ/index.m3u8#第100集$https://vodcnd08.ajupf.com/20251029/oqaEjKIn/index.m3u8#第101集$https://vodcnd08.ajupf.com/20251029/5lv8lbk8/index.m3u8#第102集$https://vodcnd08.ajupf.com/20251029/Ur827l1g/index.m3u8#第103集$https://vodcnd08.ajupf.com/20251029/hTlJfwkA/index.m3u8#第104集$https://vodcnd08.ajupf.com/20251029/BgDYmaTG/index.m3u8#第105集$https://vodcnd08.ajupf.com/20251029/1Rl52AeM/index.m3u8#第106集$https://vodcnd08.ajupf.com/20251029/sK3Lb3Nw/index.m3u8#第107集$https://vodcnd08.ajupf.com/20251029/ynzWNKCg/index.m3u8#第108集$https://vodcnd08.ajupf.com/20251029/3qpldEz6/index.m3u8#第109集$https://vodcnd08.ajupf.com/20251029/K75LtRn8/index.m3u8#第110集$https://vodcnd08.ajupf.com/20251029/fsHQOkuq/index.m3u8#第111集$https://vodcnd08.ajupf.com/20251029/hOCALgGV/index.m3u8#第112集$https://vodcnd08.ajupf.com/20251029/36TI3HHj/index.m3u8#第113集$https://vodcnd08.ajupf.com/20251029/v0ECkYmX/index.m3u8#第114集$https://vodcnd08.ajupf.com/20251029/UffVY4P4/index.m3u8#第115集$https://vodcnd08.ajupf.com/20251029/5TAQJkSx/index.m3u8#第116集$https://vodcnd08.ajupf.com/20251029/n3Ieb9oJ/index.m3u8#第117集$https://vodcnd08.ajupf.com/20251029/FxNwGMoM/index.m3u8#第118集$https://vodcnd08.ajupf.com/20251029/N1xdAmt9/index.m3u8#第119集$https://vodcnd08.ajupf.com/20251029/vTbAH2RB/index.m3u8#第120集$https://vodcnd08.ajupf.com/20251029/NkTmOnpN/index.m3u8#第121集$https://vodcnd08.ajupf.com/20251029/nnMrs3VL/index.m3u8#第122集$https://vodcnd08.ajupf.com/20251029/bHfzA7tm/index.m3u8#第123集$https://vodcnd08.ajupf.com/20251029/wGnAO12d/index.m3u8#第124集$https://vodcnd08.ajupf.com/20251029/86ZdCxT2/index.m3u8#第125集$https://vodcnd08.ajupf.com/20251029/DVCKpxn6/index.m3u8#第126集$https://vodcnd08.ajupf.com/20251029/r5CKYjEH/index.m3u8#第127集$https://vodcnd08.ajupf.com/20251029/ugfZx6OS/index.m3u8#第128集$https://vodcnd08.ajupf.com/20251029/o1Rsaai1/index.m3u8#第129集$https://vodcnd08.ajupf.com/20251029/BJNDbmT6/index.m3u8#第130集$https://vodcnd08.ajupf.com/20251029/awHehIAq/index.m3u8#第131集$https://vodcnd08.ajupf.com/20251029/gTJ8fMRu/index.m3u8#第132集$https://vodcnd08.ajupf.com/20251029/D02l9ZtV/index.m3u8#第133集$https://vodcnd08.ajupf.com/20251029/l44g44KE/index.m3u8#第134集$https://vodcnd08.ajupf.com/20251029/bgCWnhdo/index.m3u8#第135集$https://vodcnd08.ajupf.com/20251029/KHimKxKd/index.m3u8#第136集$https://vodcnd08.ajupf.com/20251029/TktpFg8B/index.m3u8#第137集$https://vodcnd08.ajupf.com/20251029/Dw8fWAH7/index.m3u8#第138集$https://vodcnd08.ajupf.com/20251029/nkM5Wx9X/index.m3u8#第139集$https://vodcnd08.ajupf.com/20251029/vuGw9Z1v/index.m3u8#第140集$https://vodcnd08.ajupf.com/20251029/ZbVbnJDF/index.m3u8#第141集$https://vodcnd08.ajupf.com/20251029/0qm8t067/index.m3u8#第142集$https://vodcnd08.ajupf.com/20251029/dx5hxJrE/index.m3u8#第143集$https://vodcnd08.ajupf.com/20251029/IxcUYi3h/index.m3u8#第144集$https://vodcnd08.ajupf.com/20251029/5GtPd6bs/index.m3u8#第145集$https://vodcnd08.ajupf.com/20251029/yLxREMYb/index.m3u8#第146集$https://vodcnd08.ajupf.com/20251029/48m6jcOM/index.m3u8#第147集$https://vodcnd08.ajupf.com/20251029/BbWLcO53/index.m3u8#第148集$https://vodcnd08.ajupf.com/20251029/TMNcyHmQ/index.m3u8#第149集$https://vodcnd08.ajupf.com/20251029/ngYOHxd7/index.m3u8#第150集$https://vodcnd08.ajupf.com/20251029/y9GCvQy4/index.m3u8#第151集$https://vodcnd08.ajupf.com/20251029/jZptbqQn/index.m3u8#第152集$https://vodcnd08.ajupf.com/20251029/vV7eFrJP/index.m3u8#第153集$https://vodcnd08.ajupf.com/20251029/0UcZGoxb/index.m3u8#第154集$https://vodcnd08.ajupf.com/20251029/txubPEDS/index.m3u8#第155集$https://vodcnd08.ajupf.com/20251029/C59qphou/index.m3u8#第156集$https://vodcnd08.ajupf.com/20251029/8wYLahmF/index.m3u8#第157集$https://vodcnd08.ajupf.com/20251029/DkcfVV6q/index.m3u8#第158集$https://vodcnd09.ajupf.com/20251110/A0FOeDmK/index.m3u8#第159集$https://vodcnd08.ajupf.com/20251116/Wt7fl27H/index.m3u8#第160集$https://vodcnd09.ajupf.com/20251118/CRrdh0wL/index.m3u8#第161集$https://vodcnd08.ajupf.com/20251125/YZl2jqvc/index.m3u8#第162集$https://vodcnd13.ajupf.com/20251202/NtcxJLp9/index.m3u8#第163集$https://vodcnd08.ajupf.com/20251209/SFVC075Y/index.m3u8#第164集$https://vodcnd13.ajupf.com/20251216/QKQytZba/index.m3u8#第165集$https://vodcnd13.ajupf.com/20251223/vm4RzSVl/index.m3u8#第166集$https://vodcnd13.ajupf.com/20251230/suMqL8Go/index.m3u8#第167集$https://vodcnd14.ajupf.com/20260106/lJ6CKG4M/index.m3u8#第168集$https://vodcnd14.ajupf.com/20260113/x7U7jIGA/index.m3u8#第169集$https://vodcnd13.ajupf.com/20260120/RthnwpIZ/index.m3u8#第170集$https://vodcnd12.ajupf.com/20260127/JnWXkylU/index.m3u8#第171集$https://vodcnd13.ajupf.com/20260203/klS8ENgA/index.m3u8#第172集$https://vodcnd14.ajupf.com/20260210/WlZEqZ30/index.m3u8#第173集$https://vodcnd13.ajupf.com/20260217/jfa38519/index.m3u8#第174集$https://vodcnd13.ajupf.com/20260217/WNKGIJFh/index.m3u8#第175集$https://vodcnd13.ajupf.com/20260224/kYoLSJQX/index.m3u8#第176集$https://vodcnd13.ajupf.com/20260317/QEIubk7M/index.m3u8#第177集$https://vodcnd14.ajupf.com/20260317/tncZ3gRq/index.m3u8#第178集$https://vodcnd14.ajupf.com/20260324/bGZMRQW8/index.m3u8#第179集$https://vodcnd14.ajupf.com/20260331/s6qRJ9fq/index.m3u8#第180集$https://vodcnd14.ajupf.com/20260407/ePGxM57J/index.m3u8#第181集$https://vodcnd15.ajupf.com/20260414/0GJRVqwS/index.m3u8#第182集$https://vodcnd15.ajupf.com/20260428/HvAyAFpC/index.m3u8#第183集$https://vodcnd15.ajupf.com/20260428/3uNj6lwL/index.m3u8#第184集$https://vodcnd15.ajupf.com/20260518/7xQBCxiD/index.m3u8#第185集$https://vodcnd15.ajupf.com/20260518/ZKWaoIBZ/index.m3u8#第186集$https://vodcnd15.ajupf.com/20260519/U3eBYDpt/index.m3u8#第187集$https://vodcnd15.ajupf.com/20260525/zUKDSEcg/index.m3u8#第188集$https://vodcnd15.ajupf.com/20260601/4soxDNrX/index.m3u8#第189集$https://vodcnd15.ajupf.com/20260601/IJAxt9BZ/index.m3u8#第190集$https://vodcnd15.ajupf.com/20260608/32rJDwzD/index.m3u8#第191集$https://vodcnd15.ajupf.com/20260615/oe34nJvc/index.m3u8#第192集$https://vodcnd15.ajupf.com/20260629/6fc9uXsl/index.m3u8#第193集$https://vodcnd15.ajupf.com/20260629/KjcJtRZP/index.m3u8#第194集$https://vodcnd15.ajupf.com/20260706/aSavzU52/index.m3u8#第195集$https://vodcnd16.ajupf.com/20260713/xAlyGRnk/index.m3u8#第196集$https://vodcnd16.ajupf.com/20260720/GQvZMarA/index.m3u8#第197集$https://vodcnd16.ajupf.com/20260727/p7s5khPX/index.m3u8#第198集$https://vodcnd16.ajupf.com/20260803/2bI2MQre/index.m3u8#第199集$https://vodcnd17.ajupf.com/20260817/TfV2cXKp/index.m3u8#第200集$https://vodcnd17.ajupf.com/20260817/hrUn9KnI/index.m3u8#第201集$https://vodcnd17.ajupf.com/20260824/StPNnXOY/index.m3u8$$$第01集$https://vodcnd08.ajupf.com/share/XSLMSwl4zz#第02集$https://vodcnd08.ajupf.com/share/yGAnG9gzeK#第03集$https://vodcnd08.ajupf.com/share/KpChRE71wo#第04集$https://vodcnd08.ajupf.com/share/LLQQQhadUp#第05集$https://vodcnd08.ajupf.com/share/o5yDHNbVaQ#第06集$https://vodcnd08.ajupf.com/share/EdqK7cCfTd#第07集$https://vodcnd08.ajupf.com/share/qj2epZkEk6#第08集$https://vodcnd08.ajupf.com/share/SxWBOE7mrN#第09集$https://vodcnd08.ajupf.com/share/dcNxFBMtNz#第10集$https://vodcnd08.ajupf.com/share/dWZKJR7oZH#第11集$https://vodcnd08.ajupf.com/share/7Pk4RTIoKz#第12集$https://vodcnd08.ajupf.com/share/ceaIex4ovk#第13集$https://vodcnd08.ajupf.com/share/Yw50ezCN5L#第14集$https://vodcnd08.ajupf.com/share/3J0bZai6Q8#第15集$https://vodcnd08.ajupf.com/share/yNVeDo7ANy#第16集$https://vodcnd08.ajupf.com/share/eLRYsd0T3k#第17集$https://vodcnd08.ajupf.com/share/QoRNMuwKhJ#第18集$https://vodcnd08.ajupf.com/share/qX0myOMWl0#第19集$https://vodcnd08.ajupf.com/share/L1pIHce1uK#第20集$https://vodcnd08.ajupf.com/share/C1djF3zaOi#第21集$https://vodcnd08.ajupf.com/share/ZfxxCF7kpF#第22集$https://vodcnd08.ajupf.com/share/67Jani1sWZ#第23集$https://vodcnd08.ajupf.com/share/bRTwne1Yw9#第24集$https://vodcnd08.ajupf.com/share/ZGnY6JySLH#第25集$https://vodcnd08.ajupf.com/share/PBeFICxem7#第26集$https://vodcnd08.ajupf.com/share/Xz0p0QkWNT#第27集$https://vodcnd08.ajupf.com/share/pCIVncTXpS#第28集$https://vodcnd08.ajupf.com/share/v1PegSjEOc#第29集$https://vodcnd08.ajupf.com/share/Ij05jokGOL#第30集$https://vodcnd08.ajupf.com/share/zGzPky81em#第31集$https://vodcnd08.ajupf.com/share/LLSOVmXxpQ#第32集$https://vodcnd08.ajupf.com/share/zpZ4BkPQzS#第33集$https://vodcnd08.ajupf.com/share/2w1T3KEYrL#第34集$https://vodcnd08.ajupf.com/share/kcqEfLLUVQ#第35集$https://vodcnd08.ajupf.com/share/ezlTMhSeyK#第36集$https://vodcnd08.ajupf.com/share/LDCivdpCYg#第37集$https://vodcnd08.ajupf.com/share/pAvR9K3qCl#第38集$https://vodcnd08.ajupf.com/share/SUfatzUHFO#第39集$https://vodcnd08.ajupf.com/share/Fy2tWPBZHk#第40集$https://vodcnd08.ajupf.com/share/RqKNi9J0Am#第41集$https://vodcnd08.ajupf.com/share/qbM3GXvh7H#第42集$https://vodcnd08.ajupf.com/share/Jylt5nXoSe#第43集$https://vodcnd08.ajupf.com/share/aXagyE3RPs#第44集$https://vodcnd08.ajupf.com/share/pz88Pgb0Fg#第45集$https://vodcnd08.ajupf.com/share/8AWs9dBpWe#第46集$https://vodcnd08.ajupf.com/share/muQj2YGmBu#第47集$https://vodcnd08.ajupf.com/share/fuFJmp5Zvj#第48集$https://vodcnd08.ajupf.com/share/dYpFnZakng#第49集$https://vodcnd08.ajupf.com/share/OTM50vtJRq#第50集$https://vodcnd08.ajupf.com/share/a5aajgdmOM#第51集$https://vodcnd08.ajupf.com/share/uvnuSA6Adz#第52集$https://vodcnd08.ajupf.com/share/xbS2fvOCyp#第53集$https://vodcnd08.ajupf.com/share/7u5x3cBEdz#第54集$https://vodcnd08.ajupf.com/share/VCVxuOEn2c#第55集$https://vodcnd08.ajupf.com/share/L5IJ2nDzM1#第56集$https://vodcnd08.ajupf.com/share/jX0mL3E80M#第57集$https://vodcnd08.ajupf.com/share/qFRseGYF83#第58集$https://vodcnd08.ajupf.com/share/4tyHTEvoqt#第59集$https://vodcnd08.ajupf.com/share/oj9GBVnYDx#第60集$https://vodcnd08.ajupf.com/share/LnXWVWDDCz#第61集$https://vodcnd08.ajupf.com/share/WYw2Sh7FVZ#第62集$https://vodcnd08.ajupf.com/share/l6emu1LT3i#第63集$https://vodcnd08.ajupf.com/share/wY4Z9pnjMB#第64集$https://vodcnd08.ajupf.com/share/8J2hp90wrr#第65集$https://vodcnd08.ajupf.com/share/tcOYYweSZk#第66集$https://vodcnd08.ajupf.com/share/wtAT0zUIjq#第67集$https://vodcnd08.ajupf.com/share/8hT4U0gtme#第68集$https://vodcnd08.ajupf.com/share/eyA6TcqCkE#第69集$https://vodcnd08.ajupf.com/share/ztQfHMzpmk#第70集$https://vodcnd08.ajupf.com/share/AEs24zi6pz#第71集$https://vodcnd08.ajupf.com/share/ChpA93oUkW#第72集$https://vodcnd08.ajupf.com/share/Y00IgA7vUD#第73集$https://vodcnd08.ajupf.com/share/9YMnsfPIo3#第74集$https://vodcnd08.ajupf.com/share/nn3safR9Tn#第75集$https://vodcnd08.ajupf.com/share/9XLmy6DRoU#第76集$https://vodcnd08.ajupf.com/share/H6Wkxe5kSB#第77集$https://vodcnd08.ajupf.com/share/M9FIG5qh08#第78集$https://vodcnd08.ajupf.com/share/sY6SY2j3Cs#第79集$https://vodcnd08.ajupf.com/share/CDqQvi9rz7#第80集$https://vodcnd08.ajupf.com/share/0rwj2wjdaV#第81集$https://vodcnd08.ajupf.com/share/vXWFijHVj1#第82集$https://vodcnd08.ajupf.com/share/QZvZMQn9FS#第83集$https://vodcnd08.ajupf.com/share/YjEmTsXcoI#第84集$https://vodcnd08.ajupf.com/share/jCA2zTyuyI#第85集$https://vodcnd08.ajupf.com/share/Fg1F9k3Iz0#第86集$https://vodcnd08.ajupf.com/share/PWHatjrelL#第87集$https://vodcnd08.ajupf.com/share/5XIjbRBNEq#第88集$https://vodcnd08.ajupf.com/share/fHV3tGS7TR#第89集$https://vodcnd08.ajupf.com/share/60Ss0djYeS#第90集$https://vodcnd08.ajupf.com/share/pIkHqTetru#第91集$https://vodcnd08.ajupf.com/share/QpLCALjsHc#第92集$https://vodcnd08.ajupf.com/share/pAG94x0uzH#第93集$https://vodcnd08.ajupf.com/share/3uOihps3KB#第94集$https://vodcnd08.ajupf.com/share/NV0QRVGu7P#第95集$https://vodcnd08.ajupf.com/share/6RrywIlrsG#第96集$https://vodcnd08.ajupf.com/share/BWqYuXSAdW#第97集$https://vodcnd08.ajupf.com/share/weMK0X5A8p#第98集$https://vodcnd08.ajupf.com/share/5tb1pdguEq#第99集$https://vodcnd08.ajupf.com/share/Vc2MbMTACY#第100集$https://vodcnd08.ajupf.com/share/RomdpiLRcU#第101集$https://vodcnd08.ajupf.com/share/ZTnKSsScLB#第102集$https://vodcnd08.ajupf.com/share/1nv8rNMlUA#第103集$https://vodcnd08.ajupf.com/share/6a1RjPSIIR#第104集$https://vodcnd08.ajupf.com/share/6R63PSn4GI#第105集$https://vodcnd08.ajupf.com/share/J4cYK6IF7c#第106集$https://vodcnd08.ajupf.com/share/rEepJhs1ry#第107集$https://vodcnd08.ajupf.com/share/NeSrlrH0L2#第108集$https://vodcnd08.ajupf.com/share/flfUmpTfYG#第109集$https://vodcnd08.ajupf.com/share/x26VZhRKVz#第110集$https://vodcnd08.ajupf.com/share/oRpiE9gQDo#第111集$https://vodcnd08.ajupf.com/share/Hf1eEaPQMx#第112集$https://vodcnd08.ajupf.com/share/4yWHCTJuKc#第113集$https://vodcnd08.ajupf.com/share/CD8UijiM4n#第114集$https://vodcnd08.ajupf.com/share/8aVigz9Qvs#第115集$https://vodcnd08.ajupf.com/share/jzofeSToxQ#第116集$https://vodcnd08.ajupf.com/share/cqzUUcOSHP#第117集$https://vodcnd08.ajupf.com/share/yGbYV1GsYj#第118集$https://vodcnd08.ajupf.com/share/7L1MxCj8W3#第119集$https://vodcnd08.ajupf.com/share/0l5IHik9gy#第120集$https://vodcnd08.ajupf.com/share/TtZ8bBjzjo#第121集$https://vodcnd08.ajupf.com/share/7nUHTJP2hr#第122集$https://vodcnd08.ajupf.com/share/jPMkCUuh0i#第123集$https://vodcnd08.ajupf.com/share/bCZN63eJfu#第124集$https://vodcnd08.ajupf.com/share/QagB1fxaa9#第125集$https://vodcnd08.ajupf.com/share/xYbSoF69eo#第126集$https://vodcnd08.ajupf.com/share/2fMXmz3kFG#第127集$https://vodcnd08.ajupf.com/share/WYsLrBsPMW#第128集$https://vodcnd08.ajupf.com/share/LXKf1zMF6C#第129集$https://vodcnd08.ajupf.com/share/rcqLUl0rpu#第130集$https://vodcnd08.ajupf.com/share/7VB3o0EOop#第131集$https://vodcnd08.ajupf.com/share/TkqAOeIxmh#第132集$https://vodcnd08.ajupf.com/share/e1nZGsj2a0#第133集$https://vodcnd08.ajupf.com/share/TI5gcBHKRw#第134集$https://vodcnd08.ajupf.com/share/NECH7Sgz5E#第135集$https://vodcnd08.ajupf.com/share/TnVhI1tSOU#第136集$https://vodcnd08.ajupf.com/share/HXSlsTSJ7A#第137集$https://vodcnd08.ajupf.com/share/3F1kv7emeC#第138集$https://vodcnd08.ajupf.com/share/f34xVFSyRj#第139集$https://vodcnd08.ajupf.com/share/XmkQE3EXtp#第140集$https://vodcnd08.ajupf.com/share/jGy9DcjDBC#第141集$https://vodcnd08.ajupf.com/share/NAaaADnzY4#第142集$https://vodcnd08.ajupf.com/share/8MKz4xua8F#第143集$https://vodcnd08.ajupf.com/share/v9ISfcTRv7#第144集$https://vodcnd08.ajupf.com/share/ltZAVDq7pX#第145集$https://vodcnd08.ajupf.com/share/OEV4reOq0E#第146集$https://vodcnd08.ajupf.com/share/CsUn7jkx5q#第147集$https://vodcnd08.ajupf.com/share/bkdnB7HqrJ#第148集$https://vodcnd08.ajupf.com/share/z6634qaYTt#第149集$https://vodcnd08.ajupf.com/share/SIEU1fVmGi#第150集$https://vodcnd08.ajupf.com/share/uDFgLmGLqs#第151集$https://vodcnd08.ajupf.com/share/U7RAnTGnlF#第152集$https://vodcnd08.ajupf.com/share/A17aMQ3s5i#第153集$https://vodcnd08.ajupf.com/share/Hw28kdEVHo#第154集$https://vodcnd08.ajupf.com/share/5nDBZCknrB#第155集$https://vodcnd08.ajupf.com/share/PQsEgwxuRz#第156集$https://vodcnd08.ajupf.com/share/DQflXQjftb#第157集$https://vodcnd08.ajupf.com/share/874LtYKsUm#第158集$https://vodcnd09.ajupf.com/share/DbF6f1ksiE#第159集$https://vodcnd08.ajupf.com/share/MKryFMHhh0#第160集$https://vodcnd09.ajupf.com/share/LRSLTBUMk5#第161集$https://vodcnd08.ajupf.com/share/YY6w8ozgHG#第162集$https://vodcnd13.ajupf.com/share/X5QLgoOSDJ#第163集$https://vodcnd08.ajupf.com/share/Fks580crxZ#第164集$https://vodcnd13.ajupf.com/share/lLTNR7IwGF#第165集$https://vodcnd13.ajupf.com/share/YyaKJFemKw#第166集$https://vodcnd13.ajupf.com/share/fPofePchuG#第167集$https://vodcnd14.ajupf.com/share/PjCSsmMgZo#第168集$https://vodcnd14.ajupf.com/share/nymRiHNTlf#第169集$https://vodcnd13.ajupf.com/share/AXXhnpCLuH#第170集$https://vodcnd12.ajupf.com/share/kwjJT9ad7s#第171集$https://vodcnd13.ajupf.com/share/nysW76rcyW#第172集$https://vodcnd14.ajupf.com/share/JQyvk1d3yp#第173集$https://vodcnd13.ajupf.com/share/Cz4tu12wCw#第174集$https://vodcnd13.ajupf.com/share/MB35fa1rUi#第175集$https://vodcnd13.ajupf.com/share/IJG6sV6c0a#第176集$https://vodcnd13.ajupf.com/share/6Glfa62JqL#第177集$https://vodcnd14.ajupf.com/share/A9sugaEu10#第178集$https://vodcnd14.ajupf.com/share/U5KrUTqRnb#第179集$https://vodcnd14.ajupf.com/share/vhPTxFKQRF#第180集$https://vodcnd14.ajupf.com/share/EJs1RpfRNe#第181集$https://vodcnd15.ajupf.com/share/9Th8xEMfOv#第182集$https://vodcnd15.ajupf.com/share/4Oy1vPwjQf#第183集$https://vodcnd15.ajupf.com/share/tveaSESnIp#第184集$https://vodcnd15.ajupf.com/share/JeFAVmLC1A#第185集$https://vodcnd15.ajupf.com/share/mZmPpDirCe#第186集$https://vodcnd15.ajupf.com/share/NcJ0mfcXGY#第187集$https://vodcnd15.ajupf.com/share/EL2R6Pp3Cx#第188集$https://vodcnd15.ajupf.com/share/9xod2wavET#第189集$https://vodcnd15.ajupf.com/share/pjh3O8vv8M#第190集$https://vodcnd15.ajupf.com/share/uiNhhwKLZn#第191集$https://vodcnd15.ajupf.com/share/yIcW5LLgvg#第192集$https://vodcnd15.ajupf.com/share/dAidr6A4AF#第193集$https://vodcnd15.ajupf.com/share/4oEJtspxY4#第194集$https://vodcnd15.ajupf.com/share/yzACgSwmMD#第195集$https://vodcnd16.ajupf.com/share/qWTQaRfpZC#第196集$https://vodcnd16.ajupf.com/share/0fXHLyCuJL#第197集$https://vodcnd16.ajupf.com/share/hzLABcXsOY#第198集$https://vodcnd16.ajupf.com/share/hG1Oj5EuSu#第199集$https://vodcnd17.ajupf.com/share/ByXaBBxoYn#第200集$https://vodcnd17.ajupf.com/share/u4ysj0KYnJ#第201集$https://vodcnd17.ajupf.com/share/0dqveujUD7",
-    "update_time": "2026-08-24 15:52:57"
+    "update_time": "2026-08-24 15:52:57",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 19806,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第202集"
+      }
+    ]
   },
   {
     "id": 136580,
@@ -28380,6 +28788,13 @@
         "source": "速播资源",
         "source_id": 115835,
         "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第8集"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 140213,
+        "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第8集"
       }
@@ -28553,7 +28968,23 @@
     "content": "<p><span style=\"text-wrap-mode: wrap;\">天津卫视职场服务类节目，全国首档真人秀招聘节目，各大名企高管现场招聘。</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第20260506期$https://vodcnd15.ajupf.com/20260506/efsl4yBc/index.m3u8#第20260510期$https://vodcnd15.ajupf.com/20260512/odFnqsE2/index.m3u8#第20260518期$https://vodcnd15.ajupf.com/20260518/t9rat9Zh/index.m3u8#第20260524期$https://vodcnd15.ajupf.com/20260525/RtBYkz8v/index.m3u8#第20260531期$https://vodcnd15.ajupf.com/20260601/cDNCS9ru/index.m3u8#第20260608期$https://vodcnd15.ajupf.com/20260609/WHAzeIa0/index.m3u8#第20260614期$https://vodcnd15.ajupf.com/20260615/k9Jf4Sh3/index.m3u8#第20260621期$https://vodcnd15.ajupf.com/20260622/DqfrB95w/index.m3u8#第20260629期$https://vodcnd15.ajupf.com/20260630/KW9yCEiq/index.m3u8#第20260706期$https://vodcnd15.ajupf.com/20260706/4pfS7GrB/index.m3u8#第20260712期$https://vodcnd16.ajupf.com/20260713/gjAAaaS9/index.m3u8#第20260719期$https://vodcnd16.ajupf.com/20260720/gIMMaCnw/index.m3u8#第20260726期$https://vodcnd16.ajupf.com/20260727/L5YncB51/index.m3u8#第20260802期$https://vodcnd16.ajupf.com/20260803/G8TG0Jgv/index.m3u8#第20260809期$https://vodcnd17.ajupf.com/20260810/KEsLEA5s/index.m3u8#第20260816期$https://vodcnd17.ajupf.com/20260817/k6SqJHnU/index.m3u8#第20260823期$https://vodcnd16.ajupf.com/20260824/BRXqEPq9/index.m3u8$$$第20260506期$https://vodcnd15.ajupf.com/share/BZpYovkSD9#第20260510期$https://vodcnd15.ajupf.com/share/Pkna2Lr58d#第20260518期$https://vodcnd15.ajupf.com/share/KCqXJarX9M#第20260524期$https://vodcnd15.ajupf.com/share/AV4Gntu7Ul#第20260531期$https://vodcnd15.ajupf.com/share/ik5lnCkrsg#第20260608期$https://vodcnd15.ajupf.com/share/M4SqHVsCRl#第20260614期$https://vodcnd15.ajupf.com/share/0xM655sAGZ#第20260621期$https://vodcnd15.ajupf.com/share/LUCNJs2C74#第20260629期$https://vodcnd15.ajupf.com/share/44a8n48Eph#第20260706期$https://vodcnd15.ajupf.com/share/pqVFOsp8bQ#第20260712期$https://vodcnd16.ajupf.com/share/6UkXaDGIT3#第20260719期$https://vodcnd16.ajupf.com/share/30mH4jtB9o#第20260726期$https://vodcnd16.ajupf.com/share/B9QXa0PXOd#第20260802期$https://vodcnd16.ajupf.com/share/nYfrq1yZio#第20260809期$https://vodcnd17.ajupf.com/share/2Mth0BbjeZ#第20260816期$https://vodcnd17.ajupf.com/share/P6RijD5ppr#第20260823期$https://vodcnd16.ajupf.com/share/R2RrPy2mpA",
-    "update_time": "2026-08-24 15:06:47"
+    "update_time": "2026-08-24 15:06:47",
+    "play_sources": [
+      {
+        "source": "红牛资源",
+        "source_id": 153451,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第20260830期"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 132099,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第20260830期"
+      }
+    ]
   },
   {
     "id": 145583,
@@ -28706,7 +29137,16 @@
     "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">筷子，东方餐桌上的默契搭档，两根木条的相遇，便开启了一场风味之旅。纪录片《筷意东南亚》聚焦于中国与东南亚的美食，以“筷”为桨，从中国出发，向着东南亚，奔赴一场食趣之约。一路所见，不止是食材被点化成诗，更是工具背后，蕴藏的匠心与欢愉。</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd17.ajupf.com/20260803/N8PaKuc4/index.m3u8#第02集$https://vodcnd17.ajupf.com/20260810/oYoFJvxS/index.m3u8#第03集$https://vodcnd16.ajupf.com/20260817/fSSonkIf/index.m3u8#第04集$https://vodcnd16.ajupf.com/20260824/6jqIhYxO/index.m3u8$$$第01集$https://vodcnd17.ajupf.com/share/m0JQgRawF5#第02集$https://vodcnd17.ajupf.com/share/KRCrKPWAEj#第03集$https://vodcnd16.ajupf.com/share/5omv17i3TB#第04集$https://vodcnd16.ajupf.com/share/as4zzhChQZ",
-    "update_time": "2026-08-24 14:33:42"
+    "update_time": "2026-08-24 14:33:42",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 142305,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第5集"
+      }
+    ]
   },
   {
     "id": 145570,
@@ -29356,7 +29796,16 @@
     "content": "<p>『雏宫』——那是为了培养下一任妃子，召集了五大家公主们的宫殿。被认为下一任皇后呼声很高的，像蝴蝶一样美丽的虚弱的雏女玲琳，被嫉妒她的雏女慧月替换了身体！突然，玲琳被周围人嫌弃，变成了被称为鼠姬的满是雀斑的慧月的样子。无法相信，被一直以来对她温柔相待的人们所蔑视，被置于恶劣的环境中……。「不气喘，不昏厥……多么健康的身体啊！好羡慕……」谁都羡慕的玲琳，是一直与“死”战斗而磨练出钢铁般意志的少女——！？大逆转的后宫换身传，堂堂开幕！</p><p><br/></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.ajupf.com/20260720/ltOqPUTJ/index.m3u8#第02集$https://vodcnd16.ajupf.com/20260726/DrcJPVN5/index.m3u8#第03集$https://vodcnd16.ajupf.com/20260729/S9Q5p0ln/index.m3u8#第04集$https://vodcnd16.ajupf.com/20260804/sO1HJ8G2/index.m3u8#第05集$https://vodcnd16.ajupf.com/20260823/ogpibqys/index.m3u8#第06集$https://vodcnd16.ajupf.com/20260823/cqRNtdL5/index.m3u8#第07集$https://vodcnd16.ajupf.com/20260824/ZHS3QgWa/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/JSdCVHhh6A#第02集$https://vodcnd16.ajupf.com/share/3tZtI59nu2#第03集$https://vodcnd16.ajupf.com/share/E8zZ82hkaF#第04集$https://vodcnd16.ajupf.com/share/3aOLO2NLes#第05集$https://vodcnd16.ajupf.com/share/9oeaXipgOc#第06集$https://vodcnd16.ajupf.com/share/mkVYoGCvnG#第07集$https://vodcnd16.ajupf.com/share/yUD8K8VLVX",
-    "update_time": "2026-08-24 13:27:23"
+    "update_time": "2026-08-24 13:27:23",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 140407,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第8集"
+      }
+    ]
   },
   {
     "id": 145548,
@@ -29571,6 +30020,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第21集"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 128423,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第21集"
       }
     ]
   },
@@ -29631,6 +30087,20 @@
         "play_from": "lzm3u8",
         "play_url": null,
         "remarks": "更新至第22集"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 144090,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第22集"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 127706,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第22集"
       }
     ]
   },
@@ -29683,7 +30153,16 @@
     "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">《金石探文明》入选中央广播电视总台央视综合频道2026年精品节目片单，该片单于2025年12月16日在京发布。节目兼具思想深度、艺术高度与情感温度，旨在展现新时代新征程的壮阔气象与精神风貌。</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01期$https://vodcnd15.ajupf.com/20260706/JvbJqfu5/index.m3u8#第02期$https://vodcnd15.ajupf.com/20260706/1XxJ47nY/index.m3u8#第03期$https://vodcnd15.ajupf.com/20260706/Gqybiz4e/index.m3u8#第04期$https://vodcnd15.ajupf.com/20260706/cggLyAR3/index.m3u8#第05期$https://vodcnd15.ajupf.com/20260706/Bf6U9OfR/index.m3u8#第06期$https://vodcnd15.ajupf.com/20260706/WLrCF1we/index.m3u8#第07期$https://vodcnd15.ajupf.com/20260706/5r1oYXuV/index.m3u8#第08期$https://vodcnd15.ajupf.com/20260706/UT2qJkZ3/index.m3u8#第09期$https://vodcnd15.ajupf.com/20260706/lDyABJTA/index.m3u8#第10期$https://vodcnd15.ajupf.com/20260706/03FwKzZo/index.m3u8#第11期$https://vodcnd15.ajupf.com/20260706/TaUdze2J/index.m3u8#第12期$https://vodcnd15.ajupf.com/20260706/aGjU6geM/index.m3u8#第13集$https://vodcnd17.ajupf.com/20260816/koeuR1ml/index.m3u8#第14集$https://vodcnd17.ajupf.com/20260816/4KR8zIq8/index.m3u8#第15集$https://vodcnd16.ajupf.com/20260823/X94J6R51/index.m3u8#第16集$https://vodcnd16.ajupf.com/20260823/2wrtLaPs/index.m3u8$$$第01期$https://vodcnd15.ajupf.com/share/gMq1R9ze13#第02期$https://vodcnd15.ajupf.com/share/XdXN8VQeA2#第03期$https://vodcnd15.ajupf.com/share/IttHw0fdRq#第04期$https://vodcnd15.ajupf.com/share/mpxMLY61YG#第05期$https://vodcnd15.ajupf.com/share/9l82EzQ8u5#第06期$https://vodcnd15.ajupf.com/share/F27qdUw2M7#第07期$https://vodcnd15.ajupf.com/share/6yho47SZXl#第08期$https://vodcnd15.ajupf.com/share/xpbptU7MUC#第09期$https://vodcnd15.ajupf.com/share/l7Tc3pe37V#第10期$https://vodcnd15.ajupf.com/share/uDMxTD0j92#第11期$https://vodcnd15.ajupf.com/share/RPw9ifsbmf#第12期$https://vodcnd15.ajupf.com/share/uu1idaanid#第13集$https://vodcnd17.ajupf.com/share/94M8wwQCoR#第14集$https://vodcnd17.ajupf.com/share/jtfrPciSZX#第15集$https://vodcnd16.ajupf.com/share/LgVKcazQsX#第16集$https://vodcnd16.ajupf.com/share/LySzbvAOIJ",
-    "update_time": "2026-08-24 12:45:02"
+    "update_time": "2026-08-24 12:45:02",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 139150,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第18集"
+      }
+    ]
   },
   {
     "id": 141094,
@@ -29816,6 +30295,20 @@
         "play_from": "snm3u8",
         "play_url": null,
         "remarks": "更新至06集"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 152554,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第6集"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 141530,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第6集"
       }
     ]
   },
@@ -29956,7 +30449,16 @@
     "content": "<p>Running Man是韩国SBS电视台周末娱乐节目《星期天真好》新的版块，是韩国著名主持人刘在石自“家族诞生”第一季结束后时隔五个月接手的SBS新艺能节目，作为刘在石的SBS艺能节目回归之作，running man致力于打造一个不同于过去real variety的新型态娱乐节目。可以说是SBS赌上自尊心的新艺能节目。2010年7月11日起作为‘星期日真好-1部’播放。 节目通过组队游戏获取金币或running ball 最后决定胜者，输的一队将接受惩罚。节目由刘在石，池石镇，HAHA，金钟国，Gary姜熙健，宋智孝，李光洙等搞笑性、艺能性极高的艺人主持。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第220717期$https://vodcnd01.ajupf.com/20241203/7ip3as5L/index.m3u8#第230827期$https://vodcnd02.ajupf.com/20241226/6sKIFqEd/index.m3u8#第220828期$https://vodcnd01.ajupf.com/20241125/DzuxmjWt/index.m3u8#第220904期$https://vodcnd01.ajupf.com/20241219/INnWIzRJ/index.m3u8#第220918期$https://vodcnd01.ajupf.com/20241206/En6lB6vj/index.m3u8#第220925期$https://vodcnd01.ajupf.com/20241206/k0ihfzm2/index.m3u8#第221002期$https://vodcnd01.ajupf.com/20241217/yblh1dP8/index.m3u8#第221009期$https://vodcnd01.ajupf.com/20241206/lGiv8s65/index.m3u8#第221016期$https://vodcnd01.ajupf.com/20241206/DWm2CFI7/index.m3u8#第221023期$https://vodcnd01.ajupf.com/20241206/FLCmlWYF/index.m3u8#第221127期$https://vodcnd01.ajupf.com/20241212/HUoxqWlg/index.m3u8#第221205期$https://vodcnd01.ajupf.com/20241210/ewYNHLEx/index.m3u8#第221218期$https://vodcnd01.ajupf.com/20241213/N7NFv76V/index.m3u8#第230122期$https://vodcnd01.ajupf.com/20241216/ezZ6Ewm4/index.m3u8#第230212期$https://vodcnd01.ajupf.com/20241219/iTvblFmr/index.m3u8#第230226期$https://vodcnd11.ajupf.com/20241221/3XiacDrV/index.m3u8#第230730期$https://vodcnd03.ajupf.com/20241225/p4XPM2Ce/index.m3u8#第230402期$https://vodcnd01.ajupf.com/20241226/yEtAA930/index.m3u8#第230417期$https://vodcnd01.ajupf.com/20241223/wToSggPq/index.m3u8#第231112期$https://vodcnd03.ajupf.com/20241227/o9DOjfBC/index.m3u8#第241117期$https://vodcnd06.ajupf.com/20250118/tvSOmcxO/index.m3u8#第20260125期$https://vodcnd14.ajupf.com/20260126/mtdrvmmo/index.m3u8#第20260222期$https://vodcnd13.ajupf.com/20260223/cB6y8fvr/index.m3u8#第20260301期$https://vodcnd13.ajupf.com/20260302/dvhBpkVc/index.m3u8#第20260308期$https://vodcnd13.ajupf.com/20260309/jSHFnyLC/index.m3u8#第20260315期$https://vodcnd14.ajupf.com/20260316/ODP6ZkeD/index.m3u8#第20260322期$https://vodcnd13.ajupf.com/20260323/Ik1vydLN/index.m3u8#第20260329期$https://vodcnd14.ajupf.com/20260330/2tfMg4Z6/index.m3u8#第20260405期$https://vodcnd14.ajupf.com/20260406/YCxbXi2J/index.m3u8#第20260412期$https://vodcnd14.ajupf.com/20260413/LWGMVnq4/index.m3u8#第20260419期$https://vodcnd13.ajupf.com/20260420/DGYuyObj/index.m3u8#第20260426期$https://vodcnd15.ajupf.com/20260427/0ihfDOKx/index.m3u8#第20260503期$https://vodcnd13.ajupf.com/20260504/LprjTVhw/index.m3u8#第20260510期$https://vodcnd13.ajupf.com/20260511/ybWL6P0p/index.m3u8#第20260517期$https://vodcnd15.ajupf.com/20260518/Ki8DsAHE/index.m3u8#第20260524期$https://vodcnd15.ajupf.com/20260525/1qk0g8qZ/index.m3u8#第20260531期$https://vodcnd15.ajupf.com/20260601/8XLae4XW/index.m3u8#第20260607期$https://vodcnd15.ajupf.com/20260608/DUIRtGVe/index.m3u8#第20260614期$https://vodcnd15.ajupf.com/20260615/1A3GT0uu/index.m3u8#第20260621期$https://vodcnd15.ajupf.com/20260622/BF45mUet/index.m3u8#第20260628期$https://vodcnd15.ajupf.com/20260629/EMX6vEjU/index.m3u8#第20260705期$https://vodcnd15.ajupf.com/20260706/KwueJFUP/index.m3u8#第20260712期$https://vodcnd16.ajupf.com/20260713/JnDW6LSs/index.m3u8#第20260719期$https://vodcnd16.ajupf.com/20260720/T50yDl8G/index.m3u8#第20260726期$https://vodcnd16.ajupf.com/20260727/n2qGuoXm/index.m3u8#第20260802期$https://vodcnd16.ajupf.com/20260803/SbNt1EAM/index.m3u8#第20260809期$https://vodcnd16.ajupf.com/20260810/MwzqMc3n/index.m3u8#第20260816期$https://vodcnd16.ajupf.com/20260817/qApQZBHv/index.m3u8#第20260823期$https://vodcnd16.ajupf.com/20260824/1h7qQZ7R/index.m3u8#$$$第230827期$https://vodcnd02.ajupf.com/share/jeWbMUV5HR#第220828期$https://vodcnd01.ajupf.com/share/MYkQawk3Kr#第220904期$https://vodcnd01.ajupf.com/share/Kkdzy77FjO#第220918期$https://vodcnd01.ajupf.com/share/Ugg93TTQAI#第220925期$https://vodcnd01.ajupf.com/share/PXrFmwSkV0#第221002期$https://vodcnd01.ajupf.com/share/y93HyITfUL#第221009期$https://vodcnd01.ajupf.com/share/OkxlC6qkdZ#第221016期$https://vodcnd01.ajupf.com/share/9Nsbenjcnb#第221023期$https://vodcnd01.ajupf.com/share/Wz9DamcAC9#第221127期$https://vodcnd01.ajupf.com/share/LNyAdgrecc#第221218期$https://vodcnd01.ajupf.com/share/03sgAUM1d4#第230122期$https://vodcnd01.ajupf.com/share/gGnBC2EZG7#第230129期$https://vodcnd11.ajupf.com/share/YWS1AQMVKX#第230212期$https://vodcnd01.ajupf.com/share/NJRXNclBht#第230205期$https://vodcnd01.ajupf.com/share/4TvABKvav1#第230226期$https://vodcnd11.ajupf.com/share/YugL4fwkYx#第230312期$https://vodcnd03.ajupf.com/share/cOY5usy3UK#第230730期$https://vodcnd03.ajupf.com/share/TkpEo6vr31#第230402期$https://vodcnd01.ajupf.com/share/3Pe0cr658S#第230417期$https://vodcnd01.ajupf.com/share/WRfZaC7E5h#第230604期$https://vodcnd02.ajupf.com/share/QkosYNluHA#第231112期$https://vodcnd03.ajupf.com/share/I8MNYAnDGW#第241117期$https://vodcnd06.ajupf.com/share/vTEBwzkWLx#第20260125期$https://vodcnd14.ajupf.com/share/YTgB0jzKVA#第20260222期$https://vodcnd13.ajupf.com/share/DkDX7VI814#第20260301期$https://vodcnd13.ajupf.com/share/3Hgojeusab#第20260308期$https://vodcnd13.ajupf.com/share/ThpLU3dUPH#第20260315期$https://vodcnd14.ajupf.com/share/uC5EL2IDqM#第20260322期$https://vodcnd13.ajupf.com/share/nc0qF41uci#第20260329期$https://vodcnd14.ajupf.com/share/Yruly5eCJe#第20260405期$https://vodcnd14.ajupf.com/share/F5Y3adqJna#第20260412期$https://vodcnd14.ajupf.com/share/0OHUyyTcRo#第20260419期$https://vodcnd13.ajupf.com/share/QKnrAC912q#第20260426期$https://vodcnd15.ajupf.com/share/SGeodurDfZ#第20260503期$https://vodcnd13.ajupf.com/share/WHIZYvtLrv#第20260510期$https://vodcnd13.ajupf.com/share/3OfIlj4APj#第20260517期$https://vodcnd15.ajupf.com/share/g82VrYoUPA#第20260524期$https://vodcnd15.ajupf.com/share/Jw3Y5xLyZU#第20260531期$https://vodcnd15.ajupf.com/share/xBirag66JO#第20260607期$https://vodcnd15.ajupf.com/share/QC1tJ6cTUb#第20260614期$https://vodcnd15.ajupf.com/share/y3bFvYXptc#第20260621期$https://vodcnd15.ajupf.com/share/D42xekOozk#第20260628期$https://vodcnd15.ajupf.com/share/NC7GvPTwHq#第20260705期$https://vodcnd15.ajupf.com/share/SdQSsxS3BR#第20260712期$https://vodcnd16.ajupf.com/share/C7yJjNsttF#第20260719期$https://vodcnd16.ajupf.com/share/XrcOXSUuGX#第20260726期$https://vodcnd16.ajupf.com/share/ricO6X7PgM#第20260802期$https://vodcnd16.ajupf.com/share/FoRzTMuSUq#第20260809期$https://vodcnd16.ajupf.com/share/t2TIbTjI3h#第20260816期$https://vodcnd16.ajupf.com/share/Eb0sEArLRj#第20260823期$https://vodcnd16.ajupf.com/share/NOgIjidXkM#",
-    "update_time": "2026-08-24 12:20:43"
+    "update_time": "2026-08-24 12:20:43",
+    "play_sources": [
+      {
+        "source": "红牛资源",
+        "source_id": 153588,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第260830期"
+      }
+    ]
   },
   {
     "id": 141952,
@@ -30172,6 +30674,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第9集"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 139007,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第9集"
       }
     ]
   },
@@ -30190,7 +30699,16 @@
     "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">~~改编自小说《你的第三》（ที่สามของเธอ）</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.ajupf.com/20260803/w5HHd5BY/index.m3u8#第02集$https://vodcnd16.ajupf.com/20260803/8cpW0Skn/index.m3u8#第03集$https://vodcnd16.ajupf.com/20260810/ccM36CSY/index.m3u8#第04集$https://vodcnd16.ajupf.com/20260817/2Bwt5vM7/index.m3u8#第05集$https://vodcnd16.ajupf.com/20260824/PTriout6/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/k48FU2dkhR#第02集$https://vodcnd16.ajupf.com/share/NGBcpyo9c5#第03集$https://vodcnd16.ajupf.com/share/Ydk4b11kmA#第04集$https://vodcnd16.ajupf.com/share/tBKb69dQN1#第05集$https://vodcnd16.ajupf.com/share/sy5yQ1sn4J",
-    "update_time": "2026-08-24 12:04:50"
+    "update_time": "2026-08-24 12:04:50",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 142303,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第5集"
+      }
+    ]
   },
   {
     "id": 144204,
@@ -30236,6 +30754,13 @@
         "play_from": "snm3u8",
         "play_url": null,
         "remarks": "更新至03集"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 144544,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第3集"
       }
     ]
   },
@@ -30415,6 +30940,13 @@
         "play_from": "subm3u8,subyun",
         "play_url": null,
         "remarks": "艾格赫德前半总集篇"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 2108,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第1176集"
       }
     ]
   },
@@ -30542,6 +31074,13 @@
         "source": "速播资源",
         "source_id": 117376,
         "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第7集"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 142286,
+        "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第7集"
       }
@@ -30991,6 +31530,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第20260830期"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 153591,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第86期"
       }
     ]
   },
@@ -31024,6 +31570,13 @@
         "play_from": "lzm3u8",
         "play_url": null,
         "remarks": "更新至20260830期"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 153454,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第6期"
       }
     ]
   },
@@ -31593,6 +32146,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第9集"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 139681,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第9集"
       }
     ]
   },
@@ -31645,7 +32205,16 @@
     "content": "<p>某个黄昏时分，我遇见了专门恐吓人类的幽灵妖怪集团“怪奇组”的组长メチャ子。明明我比普通人还要怕鬼六倍，却莫名其妙地卷入了帮怪奇组东山再起的麻烦事里……在我身边，接连不断地发生着似可怕又不可怕的怪奇事件！搞笑恐怖，搞笑恐怖。前所未见的怪诞搞笑剧，此刻开演！</p><p><br/></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd15.ajupf.com/20260710/6PPO6S0V/index.m3u8#第02集$https://vodcnd16.ajupf.com/20260720/pSSTVxIo/index.m3u8#第03集$https://vodcnd16.ajupf.com/20260720/pSSTVxIo/index.m3u8#第04集$https://vodcnd16.ajupf.com/20260727/KfrsOm9z/index.m3u8#第05集$https://vodcnd16.ajupf.com/20260803/S4KlEA0E/index.m3u8#第06集$https://vodcnd16.ajupf.com/20260810/yq0zKFsf/index.m3u8#第07集$https://vodcnd16.ajupf.com/20260816/JjuHYl1G/index.m3u8#第08集$https://vodcnd16.ajupf.com/20260823/uAYr5BEr/index.m3u8$$$第01集$https://vodcnd15.ajupf.com/share/Ivx1DY4ylL#第02集$https://vodcnd16.ajupf.com/share/kUQtsyNzGM#第03集$https://vodcnd16.ajupf.com/share/kUQtsyNzGM#第04集$https://vodcnd16.ajupf.com/share/btgL7PkjPD#第05集$https://vodcnd16.ajupf.com/share/jgeD2FXuHH#第06集$https://vodcnd16.ajupf.com/share/ENjmjF9Tli#第07集$https://vodcnd16.ajupf.com/share/9ORsNsPjpg#第08集$https://vodcnd16.ajupf.com/share/dqVA5ZWGZU",
-    "update_time": "2026-08-23 22:24:37"
+    "update_time": "2026-08-23 22:24:37",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 139687,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第9集"
+      }
+    ]
   },
   {
     "id": 145518,
@@ -33405,6 +33974,20 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第22集"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 127641,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第22集"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 143272,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "更新至22集"
       }
     ]
   },
@@ -33511,6 +34094,13 @@
         "play_from": "snm3u8",
         "play_url": null,
         "remarks": "更新至31集"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 123354,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第31集"
       }
     ]
   },
@@ -50708,7 +51298,23 @@
     "content": "<p>暂无简介</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260704/503zdtyo/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/vKzDvpkWZk",
-    "update_time": "2026-08-20 14:38:17"
+    "update_time": "2026-08-20 14:38:17",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 217277,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "全集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 193154,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 144683,
@@ -50725,7 +51331,23 @@
     "content": "<p>暂无简介</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260704/dcIciBp0/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/xkmHq4TE36",
-    "update_time": "2026-08-20 14:37:47"
+    "update_time": "2026-08-20 14:37:47",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 217282,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "全集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 193158,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 144679,
@@ -50742,7 +51364,23 @@
     "content": "<p>暂无简介</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260704/zsQ2LwXt/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/VFQmPJiLVb",
-    "update_time": "2026-08-20 14:37:16"
+    "update_time": "2026-08-20 14:37:16",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 217293,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "全集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 193168,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 144650,
@@ -50759,7 +51397,23 @@
     "content": "<p>暂无简介</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260704/iOmsxpXP/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/o1N97Eho9O",
-    "update_time": "2026-08-20 14:36:39"
+    "update_time": "2026-08-20 14:36:39",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 217274,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "全集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 193149,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 144646,
@@ -50776,7 +51430,23 @@
     "content": "<p>暂无简介</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260704/ien6e9R2/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/4oVvTTzcRU",
-    "update_time": "2026-08-20 14:36:05"
+    "update_time": "2026-08-20 14:36:05",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 217286,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "全集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 193162,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 144644,
@@ -50793,7 +51463,23 @@
     "content": "<p>暂无简介</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260704/KwGEvA1N/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/aNSesqMib4",
-    "update_time": "2026-08-20 14:35:32"
+    "update_time": "2026-08-20 14:35:32",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 217280,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "全集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 193156,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 144642,
@@ -50810,7 +51496,23 @@
     "content": "<p>暂无简介</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260704/6FbCIyCL/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/KEmtK4c4rd",
-    "update_time": "2026-08-20 14:35:01"
+    "update_time": "2026-08-20 14:35:01",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 217283,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "全集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 193159,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 144638,
@@ -60541,7 +61243,30 @@
     "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; text-wrap-mode: wrap; background-color: #FFFFFF;\">韩国KBS电视台综艺节目，也是该台Happy Sunday的长寿环节之一。标榜真实野生道路真人秀，描绘6个男人横冲直撞背包旅行的旅行综艺节目。</span><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; text-wrap-mode: wrap; background-color: #FFFFFF;\">该节目于2007年8月5日开播，2019年3月两天一夜第三季结束后，于2019年12月8日播出第四季。</span><br/><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; text-wrap-mode: wrap; background-color: #FFFFFF;\">节目每周日下午6点30分（韩国时间）播出。</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第230514期$https://vodcnd09.ajupf.com/20250221/1J1F7IRb/index.m3u8#第230521期$https://vodcnd09.ajupf.com/20250221/dqoJQElg/index.m3u8#第230528期$https://vodcnd09.ajupf.com/20250221/vjl9SK9h/index.m3u8#第230604期$https://vodcnd02.ajupf.com/20241224/M5VS4Z81/index.m3u8#第230611期$https://vodcnd14.ajupf.com/20250221/qBq5WtJF/index.m3u8#第230618期$https://vodcnd14.ajupf.com/20250221/M618iRzq/index.m3u8#第230625期$https://vodcnd09.ajupf.com/20250221/tPxdpE9a/index.m3u8#第230702期$https://vodcnd09.ajupf.com/20250221/i16cDD5Y/index.m3u8#第230709期$https://vodcnd09.ajupf.com/20250221/0CsneTKv/index.m3u8#第230730期$https://vodcnd09.ajupf.com/20250221/6jrz9cH9/index.m3u8#第230806期$https://vodcnd09.ajupf.com/20250221/uBij9CCA/index.m3u8#第230813期$https://vodcnd09.ajupf.com/20250221/0GmI656j/index.m3u8#第230820期$https://vodcnd09.ajupf.com/20250221/ZsqDChul/index.m3u8#第230827期$https://vodcnd09.ajupf.com/20250221/4POgR6nn/index.m3u8#第230903期$https://vodcnd09.ajupf.com/20250221/7N6Yh8LA/index.m3u8#第230910期$https://vodcnd09.ajupf.com/20250221/UkSxRrtw/index.m3u8#第230924期$https://vodcnd09.ajupf.com/20250221/uBWDcmEm/index.m3u8#第231029期$https://vodcnd09.ajupf.com/20250221/15xtiHln/index.m3u8#第231126期$https://vodcnd09.ajupf.com/20250221/aa9WDhIX/index.m3u8#第231203期$https://vodcnd09.ajupf.com/20250221/4OPjvSTx/index.m3u8#第231217期$https://vodcnd09.ajupf.com/20250221/BOlzbQYv/index.m3u8#第231224期$https://vodcnd09.ajupf.com/20250221/4qHqSO8O/index.m3u8#第231231期$https://vodcnd09.ajupf.com/20250221/l8XFAmMU/index.m3u8#第240107期$https://vodcnd09.ajupf.com/20250221/dQjby9I5/index.m3u8#第240114期$https://vodcnd09.ajupf.com/20250221/O07DVTb6/index.m3u8#第240121期$https://vodcnd09.ajupf.com/20250221/3v06sIP9/index.m3u8#第240128期$https://vodcnd09.ajupf.com/20250221/IAcaZz8R/index.m3u8#第240204期$https://vodcnd09.ajupf.com/20250221/wfJqVCX6/index.m3u8#第20250720期$https://vodcnd11.ajupf.com/20250721/oJIdoU4A/index.m3u8#第20250727期$https://vodcnd11.ajupf.com/20250728/yaYCs7Tx/index.m3u8#第20250803期$https://vodcnd10.ajupf.com/20250804/HzneyBfR/index.m3u8#第20250810期$https://vodcnd10.ajupf.com/20250811/bE6Du2Np/index.m3u8#第20250817期$https://vodcnd11.ajupf.com/20250818/Zo5F20Uc/index.m3u8#第20250824期$https://vodcnd10.ajupf.com/20250825/8DeTMOuN/index.m3u8#第20250831期$https://vodcnd11.ajupf.com/20250901/mCOiSfMj/index.m3u8#第20250907期$https://vodcnd09.ajupf.com/20250915/upJNVykj/index.m3u8#第20250914期$https://vodcnd09.ajupf.com/20250915/PdeaYg0q/index.m3u8#第20250921期$https://vodcnd10.ajupf.com/20250922/Il5VHJSU/index.m3u8#第20250927期$https://vodcnd09.ajupf.com/20250930/ollBiM3W/index.m3u8#第20251005期$https://vodcnd09.ajupf.com/20251006/LHUXtInG/index.m3u8#第20251012期$https://vodcnd08.ajupf.com/20251013/6oARlxHD/index.m3u8#第20251019期$https://vodcnd09.ajupf.com/20251021/i6HomGTP/index.m3u8#第20251026期$https://vodcnd08.ajupf.com/20251028/YmajPvt0/index.m3u8#第20251102期$https://vodcnd09.ajupf.com/20251103/fVGCElQx/index.m3u8#第20251109期$https://vodcnd09.ajupf.com/20251111/9s8xIeCv/index.m3u8#第20251116期$https://vodcnd09.ajupf.com/20251117/6V6PVp2l/index.m3u8#第20251123期$https://vodcnd12.ajupf.com/20251125/oIOofJfQ/index.m3u8#第20251130期$https://vodcnd13.ajupf.com/20251202/e9NyfRVr/index.m3u8#第20251207期$https://vodcnd13.ajupf.com/20251208/r8EhAPq3/index.m3u8#第20251214期$https://vodcnd13.ajupf.com/20251222/IYIZLcZ8/index.m3u8#第20251221期$https://vodcnd13.ajupf.com/20251222/l6KOkLzx/index.m3u8#第20251228期$https://vodcnd13.ajupf.com/20251229/PxT8OudV/index.m3u8#第20260104期$https://vodcnd13.ajupf.com/20260106/vpqjdiYz/index.m3u8#第20260111期$https://vodcnd13.ajupf.com/20260112/eMobFKcs/index.m3u8#第20260118期$https://vodcnd13.ajupf.com/20260119/oKB7OkMX/index.m3u8#第20260125期$https://vodcnd14.ajupf.com/20260126/jEAiWBIF/index.m3u8#第20260201期$https://vodcnd13.ajupf.com/20260202/zq8VaI2r/index.m3u8#第20260208期$https://vodcnd14.ajupf.com/20260209/nOJX48tv/index.m3u8#第20260215期$https://vodcnd14.ajupf.com/20260216/zqAiYSGm/index.m3u8#第20260222期$https://vodcnd13.ajupf.com/20260223/E9Yi04jR/index.m3u8#第20260315期$https://vodcnd13.ajupf.com/20260316/XBEr5a88/index.m3u8#第20260322期$https://vodcnd13.ajupf.com/20260323/o9NXKfCU/index.m3u8#第20260329期$https://vodcnd13.ajupf.com/20260330/MHktIrMV/index.m3u8#第20260405期$https://vodcnd14.ajupf.com/20260406/jqauFZ28/index.m3u8#第20260412期$https://vodcnd15.ajupf.com/20260413/zr0R89E2/index.m3u8#第20260426期$https://vodcnd15.ajupf.com/20260427/cN8tfJ2u/index.m3u8#第20260503期$https://vodcnd15.ajupf.com/20260504/Qp410HYc/index.m3u8#第20260510期$https://vodcnd13.ajupf.com/20260511/Xlm7Nob8/index.m3u8#第20260517期$https://vodcnd15.ajupf.com/20260518/s8TGgFe6/index.m3u8#第20260524期$https://vodcnd15.ajupf.com/20260525/At5LhwHR/index.m3u8#第20260531期$https://vodcnd15.ajupf.com/20260601/1RiMOkJP/index.m3u8#第20260607期$https://vodcnd15.ajupf.com/20260608/dKHLBLu8/index.m3u8#第20260614期$https://vodcnd15.ajupf.com/20260615/AcfHxpUu/index.m3u8#第20260621期$https://vodcnd15.ajupf.com/20260622/hhppY5sF/index.m3u8#第20260628期$https://vodcnd15.ajupf.com/20260629/iGSj4gqp/index.m3u8#第20260705期$https://vodcnd15.ajupf.com/20260706/ngCi92CC/index.m3u8#第20260712期$https://vodcnd16.ajupf.com/20260713/vhu5izQq/index.m3u8#第20260719期$https://vodcnd16.ajupf.com/20260720/g24jnZRF/index.m3u8#第20260726期$https://vodcnd16.ajupf.com/20260727/JKMhzsOo/index.m3u8#第20260802期$https://vodcnd16.ajupf.com/20260803/fhE16Fv8/index.m3u8#第20260809期$https://vodcnd16.ajupf.com/20260810/cpvrwyB6/index.m3u8#第20260816期$https://vodcnd16.ajupf.com/20260817/RcdVXdXm/index.m3u8$$$第230514期$https://vodcnd09.ajupf.com/share/wRrCrfHBz3#第230521期$https://vodcnd09.ajupf.com/share/tVMCviF3mp#第230528期$https://vodcnd09.ajupf.com/share/wu0wkeNogv#第230604期$https://vodcnd02.ajupf.com/share/y2rNLysxPe#第230611期$https://vodcnd14.ajupf.com/share/1NlIXCm0iU#第230618期$https://vodcnd14.ajupf.com/share/V0rmBRqvIQ#第230625期$https://vodcnd09.ajupf.com/share/1bOFIydfNf#第230702期$https://vodcnd09.ajupf.com/share/tuoM3c4Kmy#第230709期$https://vodcnd09.ajupf.com/share/6UcURKK5tm#第230730期$https://vodcnd09.ajupf.com/share/E3YXttk0tE#第230806期$https://vodcnd09.ajupf.com/share/4l2ryhXqI0#第230813期$https://vodcnd09.ajupf.com/share/7tOUdpTPoy#第230820期$https://vodcnd09.ajupf.com/share/mAD5vb2MHv#第230827期$https://vodcnd09.ajupf.com/share/mqBNBQNM14#第230903期$https://vodcnd09.ajupf.com/share/bGWisi6U1j#第230910期$https://vodcnd09.ajupf.com/share/sX4UeRTjkm#第230924期$https://vodcnd09.ajupf.com/share/78ALybnEDJ#第231029期$https://vodcnd09.ajupf.com/share/Np3HfivBkH#第231126期$https://vodcnd09.ajupf.com/share/oDKJTv1Xp3#第231203期$https://vodcnd09.ajupf.com/share/EO4ouAiTcV#第231217期$https://vodcnd09.ajupf.com/share/98lOLow7pm#第231224期$https://vodcnd09.ajupf.com/share/tG4cu4rDk5#第231231期$https://vodcnd09.ajupf.com/share/Iw6CO6GWZJ#第240107期$https://vodcnd09.ajupf.com/share/Gn0Y0ej2QO#第240114期$https://vodcnd09.ajupf.com/share/mFAdQJhz7n#第240121期$https://vodcnd09.ajupf.com/share/aRXO7rEJaY#第240128期$https://vodcnd09.ajupf.com/share/IhnikaKF4K#第240204期$https://vodcnd09.ajupf.com/share/C6u1Pfnmlq#第20250720期$https://vodcnd11.ajupf.com/share/10cGNyUT5Z#第20250727期$https://vodcnd11.ajupf.com/share/WlUIi5aw7n#第20250803期$https://vodcnd10.ajupf.com/share/gx2UH7DKAk#第20250810期$https://vodcnd10.ajupf.com/share/CjjraB03d5#第20250817期$https://vodcnd11.ajupf.com/share/fuSPXR6qGm#第20250824期$https://vodcnd10.ajupf.com/share/0cJ5toNSLH#第20250831期$https://vodcnd11.ajupf.com/share/EXeo0Ag5kv#第20250907期$https://vodcnd09.ajupf.com/share/DTny7JFJqU#第20250914期$https://vodcnd09.ajupf.com/share/M4qtwqOyde#第20250921期$https://vodcnd10.ajupf.com/share/PSTVl9puhZ#第20250927期$https://vodcnd09.ajupf.com/share/1JamnAyAP4#第20251005期$https://vodcnd09.ajupf.com/share/telyX2I0mB#第20251012期$https://vodcnd08.ajupf.com/share/NFZtbTOPgI#第20251019期$https://vodcnd09.ajupf.com/share/oFDxIU6YuX#第20251026期$https://vodcnd08.ajupf.com/share/VQIDniV0Mi#第20251102期$https://vodcnd09.ajupf.com/share/axp3HnoxWo#第20251109期$https://vodcnd09.ajupf.com/share/NpU5jB3QH6#第20251116期$https://vodcnd09.ajupf.com/share/xBfLMQMG3E#第20251123期$https://vodcnd12.ajupf.com/share/f7FS5ZRxig#第20251130期$https://vodcnd13.ajupf.com/share/2g8QikD5BZ#第20251207期$https://vodcnd13.ajupf.com/share/Y1Vf9SR8VP#第20251214期$https://vodcnd13.ajupf.com/share/g4GzXwXxcw#第20251221期$https://vodcnd13.ajupf.com/share/fnFlitHYDK#第20251228期$https://vodcnd13.ajupf.com/share/qaGiNIaZKR#第20260104期$https://vodcnd13.ajupf.com/share/kpXySZiOlo#第20260111期$https://vodcnd13.ajupf.com/share/bo3S20T96W#第20260118期$https://vodcnd13.ajupf.com/share/d9k55ZDfnv#第20260125期$https://vodcnd14.ajupf.com/share/JfFbdnS4W1#第20260201期$https://vodcnd13.ajupf.com/share/wLLdKKCnGT#第20260208期$https://vodcnd14.ajupf.com/share/AuNNXE8rpy#第20260215期$https://vodcnd14.ajupf.com/share/baB5akbkrI#第20260222期$https://vodcnd13.ajupf.com/share/moHd5FFjm8#第20260315期$https://vodcnd13.ajupf.com/share/nLUqOQn8xq#第20260322期$https://vodcnd13.ajupf.com/share/soHmJvj1kH#第20260329期$https://vodcnd13.ajupf.com/share/0j1h07OPnF#第20260405期$https://vodcnd14.ajupf.com/share/Q2sghv9vD7#第20260412期$https://vodcnd15.ajupf.com/share/HFoLKgqNdZ#第20260426期$https://vodcnd15.ajupf.com/share/yY0PnEvl1n#第20260503期$https://vodcnd15.ajupf.com/share/7N7GkVfMPj#第20260510期$https://vodcnd13.ajupf.com/share/vQKPSC3LBt#第20260517期$https://vodcnd15.ajupf.com/share/8YCePDs8nd#第20260524期$https://vodcnd15.ajupf.com/share/GO1YstsXp0#第20260531期$https://vodcnd15.ajupf.com/share/Rv1AE62CXj#第20260607期$https://vodcnd15.ajupf.com/share/tHRm6U9NaQ#第20260614期$https://vodcnd15.ajupf.com/share/k6THEOSb9B#第20260621期$https://vodcnd15.ajupf.com/share/kpjykFdBo2#第20260628期$https://vodcnd15.ajupf.com/share/q0viCPWIXI#第20260705期$https://vodcnd15.ajupf.com/share/0M2pCPK7Tr#第20260712期$https://vodcnd16.ajupf.com/share/HuN7vdN69A#第20260719期$https://vodcnd16.ajupf.com/share/q14MJLJyfk#第20260726期$https://vodcnd16.ajupf.com/share/f0qILUVA1D#第20260802期$https://vodcnd16.ajupf.com/share/UPxGBzjZTi#第20260809期$https://vodcnd16.ajupf.com/share/At2FN9Zart#第20260816期$https://vodcnd16.ajupf.com/share/xuNVqnHfzU",
-    "update_time": "2026-08-17 17:27:08"
+    "update_time": "2026-08-17 17:27:08",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 177557,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第260830期"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 153586,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第260830期"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 857,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第20260830期"
+      }
+    ]
   },
   {
     "id": 144335,
@@ -67133,7 +67858,16 @@
     "content": "<p>一只来自前男友的千纸鹤，一座由他记忆构成的奇幻岛屿，一只失忆的兔子，一些被蒙住，关于分离与相爱的痕迹。影片改编自晋江文学城小说《去你的岛》。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "正片$https://vodcnd17.ajupf.com/20260814/ae1eeJo3/index.m3u8#$$$正片$https://vodcnd17.ajupf.com/share/TKDUFdBJ2w#",
-    "update_time": "2026-08-14 21:44:36"
+    "update_time": "2026-08-14 21:44:36",
+    "play_sources": [
+      {
+        "source": "索尼资源",
+        "source_id": 154000,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "TC国语"
+      }
+    ]
   },
   {
     "id": 143883,
@@ -75191,7 +75925,23 @@
     "content": "<p>暴雪天微服出访的楚渊，偶然发现流放官员陆长风所建黑石堡，堡内地暖、温室、平价医馆等工业设施让他惊叹。二人查出首辅联合总兵垄断煤炭、制造京城煤荒的阴谋，总兵随即率军围城灭口，楚渊与掌握工业基建、心怀百姓的陆长风联手，共抗奸佞大军。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd17.ajupf.com/20260812/6wEfaD40/index.m3u8#第02集$https://vodcnd17.ajupf.com/20260812/XxwzB2sG/index.m3u8#第03集$https://vodcnd17.ajupf.com/20260812/xJ2erwAy/index.m3u8#第04集$https://vodcnd17.ajupf.com/20260812/DL5MzjOp/index.m3u8#第05集$https://vodcnd17.ajupf.com/20260812/Ayar7SwJ/index.m3u8#第06集$https://vodcnd17.ajupf.com/20260812/WDrEXAgP/index.m3u8#第07集$https://vodcnd17.ajupf.com/20260812/nXu74xSy/index.m3u8#第08集$https://vodcnd17.ajupf.com/20260812/TdE24zK5/index.m3u8#第09集$https://vodcnd17.ajupf.com/20260812/AW8YK8zu/index.m3u8#第10集$https://vodcnd17.ajupf.com/20260812/0tOq4DtW/index.m3u8#第11集$https://vodcnd17.ajupf.com/20260812/bdotfuzj/index.m3u8#第12集$https://vodcnd17.ajupf.com/20260812/yPIWOAie/index.m3u8#第13集$https://vodcnd17.ajupf.com/20260812/edJOh18Z/index.m3u8#第14集$https://vodcnd17.ajupf.com/20260812/v8cxF3Xr/index.m3u8#第15集$https://vodcnd17.ajupf.com/20260812/O78FwpOa/index.m3u8#第16集$https://vodcnd17.ajupf.com/20260812/6tjTOEfN/index.m3u8#第17集$https://vodcnd17.ajupf.com/20260812/kCqqiYGd/index.m3u8#第18集$https://vodcnd17.ajupf.com/20260812/SZQMHolm/index.m3u8#第19集$https://vodcnd17.ajupf.com/20260812/FA70vl8S/index.m3u8#第20集$https://vodcnd17.ajupf.com/20260812/bzsKs57i/index.m3u8#第21集$https://vodcnd17.ajupf.com/20260812/95aXXErA/index.m3u8#第22集$https://vodcnd17.ajupf.com/20260812/LrQDO4qa/index.m3u8#第23集$https://vodcnd17.ajupf.com/20260812/AWhA85P3/index.m3u8#第24集$https://vodcnd17.ajupf.com/20260812/3tdK5le9/index.m3u8#第25集$https://vodcnd17.ajupf.com/20260812/qCqCTOna/index.m3u8#第26集$https://vodcnd17.ajupf.com/20260812/r4H1mJaX/index.m3u8#第27集$https://vodcnd17.ajupf.com/20260812/YcJq7r9M/index.m3u8#第28集$https://vodcnd17.ajupf.com/20260812/PmRDHgLy/index.m3u8#第29集$https://vodcnd17.ajupf.com/20260812/ewddiTF3/index.m3u8#第30集$https://vodcnd17.ajupf.com/20260812/9XdljL43/index.m3u8#第31集$https://vodcnd17.ajupf.com/20260812/SfxoXbu4/index.m3u8#第32集$https://vodcnd17.ajupf.com/20260812/hqd7DwDn/index.m3u8#第33集$https://vodcnd17.ajupf.com/20260812/jrFFtqaD/index.m3u8#第34集$https://vodcnd17.ajupf.com/20260812/Pf8CUnWC/index.m3u8#第35集$https://vodcnd17.ajupf.com/20260812/rU1RN0cy/index.m3u8#第36集$https://vodcnd17.ajupf.com/20260812/GtnCYRXg/index.m3u8#第37集$https://vodcnd17.ajupf.com/20260812/DN2lKDX9/index.m3u8#第38集$https://vodcnd17.ajupf.com/20260812/UKkaRnqy/index.m3u8#第39集$https://vodcnd17.ajupf.com/20260812/r0QbD9VT/index.m3u8#第40集$https://vodcnd17.ajupf.com/20260812/QPUcECrE/index.m3u8#第41集$https://vodcnd17.ajupf.com/20260812/3SmqadUy/index.m3u8#第42集$https://vodcnd17.ajupf.com/20260812/eR8Hz4di/index.m3u8#第43集$https://vodcnd17.ajupf.com/20260812/e3o1ufzN/index.m3u8#第44集$https://vodcnd17.ajupf.com/20260812/XsIkbIGe/index.m3u8#第45集$https://vodcnd17.ajupf.com/20260812/wl1B36Rc/index.m3u8#第46集$https://vodcnd17.ajupf.com/20260812/FW3rMplt/index.m3u8#第47集$https://vodcnd17.ajupf.com/20260812/lU21yJ8r/index.m3u8#第48集$https://vodcnd17.ajupf.com/20260812/AdXJNrO2/index.m3u8#第49集$https://vodcnd17.ajupf.com/20260812/JuRJbfbB/index.m3u8#第50集$https://vodcnd17.ajupf.com/20260812/fTqYOJV6/index.m3u8#第51集$https://vodcnd17.ajupf.com/20260812/d3OSx2QO/index.m3u8#第52集$https://vodcnd17.ajupf.com/20260812/xPIzE1Ai/index.m3u8#第53集$https://vodcnd17.ajupf.com/20260812/O8QEnglt/index.m3u8#第54集$https://vodcnd17.ajupf.com/20260812/R8f7wFdR/index.m3u8#第55集$https://vodcnd17.ajupf.com/20260812/9oihfVME/index.m3u8$$$第01集$https://vodcnd17.ajupf.com/share/Hg0fSpHAHw#第02集$https://vodcnd17.ajupf.com/share/RBMQmizb6Z#第03集$https://vodcnd17.ajupf.com/share/6HgJOMiP8R#第04集$https://vodcnd17.ajupf.com/share/n6nF2RcPpU#第05集$https://vodcnd17.ajupf.com/share/TdorHw7qOP#第06集$https://vodcnd17.ajupf.com/share/GSc7mCzXjK#第07集$https://vodcnd17.ajupf.com/share/He74NeHbsO#第08集$https://vodcnd17.ajupf.com/share/6kBkY3j9ZO#第09集$https://vodcnd17.ajupf.com/share/4kD8nZCvHA#第10集$https://vodcnd17.ajupf.com/share/oAq2OOB6o1#第11集$https://vodcnd17.ajupf.com/share/SnPNJ19X4R#第12集$https://vodcnd17.ajupf.com/share/pDfgoQ64xv#第13集$https://vodcnd17.ajupf.com/share/JtTTDjSfBc#第14集$https://vodcnd17.ajupf.com/share/t5foLH4WJ2#第15集$https://vodcnd17.ajupf.com/share/4vUEOrEmWq#第16集$https://vodcnd17.ajupf.com/share/pfShtJRFZ7#第17集$https://vodcnd17.ajupf.com/share/0R26bbf3bU#第18集$https://vodcnd17.ajupf.com/share/FRfrMkeHA7#第19集$https://vodcnd17.ajupf.com/share/AAfBpSXi59#第20集$https://vodcnd17.ajupf.com/share/KCizCIlcfM#第21集$https://vodcnd17.ajupf.com/share/iAoVfreEaQ#第22集$https://vodcnd17.ajupf.com/share/lqh56Url47#第23集$https://vodcnd17.ajupf.com/share/uOw5RWRtM8#第24集$https://vodcnd17.ajupf.com/share/LGEHnes4iN#第25集$https://vodcnd17.ajupf.com/share/wXemilmw63#第26集$https://vodcnd17.ajupf.com/share/GBPYnHTdS8#第27集$https://vodcnd17.ajupf.com/share/gd9HcssqXn#第28集$https://vodcnd17.ajupf.com/share/f7CMi5NmzL#第29集$https://vodcnd17.ajupf.com/share/W35HLKVGJt#第30集$https://vodcnd17.ajupf.com/share/N3HEC1mcMs#第31集$https://vodcnd17.ajupf.com/share/WVePgvnVHy#第32集$https://vodcnd17.ajupf.com/share/qqwgfqyoZM#第33集$https://vodcnd17.ajupf.com/share/VucRuHl7JS#第34集$https://vodcnd17.ajupf.com/share/sZT6EWUUWr#第35集$https://vodcnd17.ajupf.com/share/NcwoWSfOk9#第36集$https://vodcnd17.ajupf.com/share/6HyzghTMrc#第37集$https://vodcnd17.ajupf.com/share/ocNDOdFwua#第38集$https://vodcnd17.ajupf.com/share/uEK8oL8Mvm#第39集$https://vodcnd17.ajupf.com/share/V6JN48Ph9M#第40集$https://vodcnd17.ajupf.com/share/JWH3IWMPOU#第41集$https://vodcnd17.ajupf.com/share/rvD0jPeDGK#第42集$https://vodcnd17.ajupf.com/share/ns6mRvRxCA#第43集$https://vodcnd17.ajupf.com/share/48etWuW8K3#第44集$https://vodcnd17.ajupf.com/share/AT2Msv7DMl#第45集$https://vodcnd17.ajupf.com/share/wjLLyMnft5#第46集$https://vodcnd17.ajupf.com/share/xy7b3zerH2#第47集$https://vodcnd17.ajupf.com/share/Kig2VUcziK#第48集$https://vodcnd17.ajupf.com/share/xA2meNHoMl#第49集$https://vodcnd17.ajupf.com/share/JjRnHA7NUk#第50集$https://vodcnd17.ajupf.com/share/ZgzC4mskJ1#第51集$https://vodcnd17.ajupf.com/share/RTlMHNwwgv#第52集$https://vodcnd17.ajupf.com/share/HwJL9RH97y#第53集$https://vodcnd17.ajupf.com/share/49gMfhCeuT#第54集$https://vodcnd17.ajupf.com/share/7Dz4ERHarG#第55集$https://vodcnd17.ajupf.com/share/JV5Hf45DT3",
-    "update_time": "2026-08-12 11:29:10"
+    "update_time": "2026-08-12 11:29:10",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 217292,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第55集已完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 193169,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第55集已完结"
+      }
+    ]
   },
   {
     "id": 142274,
@@ -87060,7 +87810,16 @@
     "content": "<p>暂无简介</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260630/QJroXR8B/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/P3kAqRvD28",
-    "update_time": "2026-08-08 16:33:34"
+    "update_time": "2026-08-08 16:33:34",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 143156,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 142814,
@@ -91625,7 +92384,16 @@
     "content": "<p><span style=\"color: #222222; font-family: -apple-system, BlinkMacSystemFont, \">实力派女星黎昭遭人暗算遭遇车祸，醒来竟魂穿成一只落魄流浪萨摩耶，机缘巧合被顶流影帝沈韫救下收养，偏偏沈韫可以听懂这只小狗的话。化名狗蛋的黎昭跟着沈韫参加宠物综艺意外爆红，成全网人气萌宠。平日里她和影帝嬉笑拌闹，悄悄收集陆知遥顶替金帆奖、谋害自己的证据，途中救助流浪小动物、找到好闺蜜江笙，一步步揭穿黑幕，最终洗清冤屈，拿回本该属于自己的一切。</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260710/6HA5NT8l/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/T0CD1Vm3wp",
-    "update_time": "2026-08-06 21:04:44"
+    "update_time": "2026-08-06 21:04:44",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 142790,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 142448,
@@ -94158,7 +94926,16 @@
     "content": "<p><span style=\"color: #222222; font-family: -apple-system, BlinkMacSystemFont, \">现代闺蜜周时灵、方知夏穿越成相府双千金，双双入宫成了皇帝的冷宫妃嫔。二人无心宫斗争宠，反倒在深宫寻乐，方知夏撩上“普通带刀侍卫”，周时灵倒追白净羞涩的“小太监”，花式主动闹出不少笑话，还当着“小太监”的面吐槽皇帝身有隐疾。中秋宫宴后身份接连曝光——“侍卫”是当朝大将军萧若风，“小太监”正是天子萧宸瑾。二人慌忙收拾细软连夜跑路，却被正主当场抓包。最终各自收获顶配良缘，甜闹收场。 集数：48集</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260710/RZYDTGER/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/8ugldQI08S",
-    "update_time": "2026-08-05 22:17:19"
+    "update_time": "2026-08-05 22:17:19",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 142726,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 142385,
@@ -97150,7 +97927,23 @@
     "content": "<section style=\"box-sizing: border-box; color: rgb(35, 35, 35); font-family: -apple-system, BlinkMacSystemFont, \"><p style=\"box-sizing: border-box; margin: 0px;\">儿时落魄街头，叶流萤被孟婉婷救下，从此两人相依为命。多年后，孟婉婷的夫君顾长卿金榜题名，叶流萤陪她入宫迎接，本以为好日子终于来了。谁料，迎接她们的，是雍贵妃的屠刀。孟婉婷一家满门惨死，叶流萤亲眼目睹，却无力回天。撕碎软弱，她决然踏入宫门。不为荣华，不为君恩，只为索命。步步为营，她终于逼近仇人。可就在刀锋抵上雍贵妃咽喉的那一刻，一个真相击碎了她所有认知——真正害死姐姐一家的，另有其人。</p></section><p><br/></p><section style=\"box-sizing: border-box; color: rgb(35, 35, 35); font-family: -apple-system, BlinkMacSystemFont, \"></section><p><br/></p><p><br/></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260704/F5h1v3Qi/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/kIbcULp6S1",
-    "update_time": "2026-08-04 22:10:49"
+    "update_time": "2026-08-04 22:10:49",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 217288,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "全集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 193166,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 142192,
@@ -97167,7 +97960,23 @@
     "content": "<section style=\"box-sizing: border-box; color: rgb(35, 35, 35); font-family: -apple-system, BlinkMacSystemFont, \"><p style=\"box-sizing: border-box; margin: 0px;\">商贾之女苏绵绵为捡美男漏，奉旨嫁给传闻残疾失语的祁王。婚后她脑洞大开，花式解读王爷举止，凭超强钞能力和机灵头脑，花式打脸绿茶前任、贪心族人与各方反派。一路经商拓业、化解重重危机、玩转京城商圈，和伪装蛰伏的祁王默契配合，携手稳住家业、收获圆满人生。</p></section><p><br/></p><section style=\"box-sizing: border-box; color: rgb(35, 35, 35); font-family: -apple-system, BlinkMacSystemFont, \"></section><p><br/></p><p><br/></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260704/f9TZu3xE/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/BdTbdbJtKx",
-    "update_time": "2026-08-04 22:10:01"
+    "update_time": "2026-08-04 22:10:01",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 217284,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "全集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 193160,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 142189,
@@ -97184,7 +97993,23 @@
     "content": "<p><span style=\"color: #222222; font-family: -apple-system, BlinkMacSystemFont, \">讲述侯府嫡女沈明昭前世被退婚、夺嫁妆、害母惨死，重生回退婚当天后，不再隐忍退让，而是用清醒、毒舌和层层布局，把三皇子、庶妹、继母及其背后的朝堂势力逐个反杀的故事。故事以“退婚当天重生”为开局，从侯府宅斗一路推进到嫁妆案、沈母旧案、宫宴刺杀、军饷贪腐、伪造婚书、赐婚逼迫与终局翻案。</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260704/tFEOJ6ZD/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/AhQzT7heoc",
-    "update_time": "2026-08-04 22:09:02"
+    "update_time": "2026-08-04 22:09:02",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 217275,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "全集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 193150,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 142247,
@@ -97524,7 +98349,23 @@
     "content": "<p style=\"margin: 0px 0px 1em; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; font-size: 18px; line-height: inherit; font-family: Arial, sans-serif; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; vertical-align: baseline; color: rgb(102, 102, 102); white-space: normal; background-color: rgb(255, 255, 255);\">AI制作的古风玄幻短剧来了！龙族至尊为寻命定之人降世结契，凡间少女误触上古禁制，一朝绑定甩不脱的宿命纠缠。AI生成的东方奇幻美学令人惊艳，从深海龙宫到人间烟火，每一帧都美得像壁纸。当冷傲龙王遇上倔强女主，先婚后爱、身份反转、神魔博弈层层加码，甜虐交织根本停不下来，追就完事！</p><p><br/></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260704/Rt2FlmNG/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/mWupCHphMU",
-    "update_time": "2026-08-04 21:15:14"
+    "update_time": "2026-08-04 21:15:14",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 217294,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "全集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 193171,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 142064,
@@ -105172,6 +106013,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "完结"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 142222,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第8集完结"
       }
     ]
   },
@@ -115776,39 +116624,5 @@
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.ajupf.com/20260730/206Nr0sU/index.m3u8#第02集$https://vodcnd16.ajupf.com/20260730/e9J9jQyF/index.m3u8#第03集$https://vodcnd16.ajupf.com/20260730/iswmQzpY/index.m3u8#第04集$https://vodcnd16.ajupf.com/20260730/dHfhssUi/index.m3u8#第05集$https://vodcnd16.ajupf.com/20260730/VDig5IIr/index.m3u8#第06集$https://vodcnd16.ajupf.com/20260730/62dpQYRX/index.m3u8#第07集$https://vodcnd16.ajupf.com/20260730/ncorN4HW/index.m3u8#第08集$https://vodcnd16.ajupf.com/20260730/HnK5Y9I8/index.m3u8#第09集$https://vodcnd16.ajupf.com/20260730/2ECUEQlg/index.m3u8#第10集$https://vodcnd16.ajupf.com/20260730/BRi0nosT/index.m3u8#第11集$https://vodcnd16.ajupf.com/20260730/yjsoopAY/index.m3u8#第12集$https://vodcnd16.ajupf.com/20260730/HqWPFKrQ/index.m3u8#第13集$https://vodcnd16.ajupf.com/20260730/MSlGLo4C/index.m3u8#第14集$https://vodcnd16.ajupf.com/20260730/vgnAsaNv/index.m3u8#第15集$https://vodcnd16.ajupf.com/20260730/SHnkapa5/index.m3u8#第16集$https://vodcnd16.ajupf.com/20260730/PSAOFmC4/index.m3u8#第17集$https://vodcnd16.ajupf.com/20260730/J5o2bvzd/index.m3u8#第18集$https://vodcnd16.ajupf.com/20260730/uDI2Z40q/index.m3u8#第19集$https://vodcnd16.ajupf.com/20260730/K6qJxgIz/index.m3u8#第20集$https://vodcnd16.ajupf.com/20260730/oqvdJtyQ/index.m3u8#第21集$https://vodcnd16.ajupf.com/20260730/hxiMURyt/index.m3u8#第22集$https://vodcnd16.ajupf.com/20260730/Uvfyiloe/index.m3u8#第23集$https://vodcnd16.ajupf.com/20260730/fWY2nGC8/index.m3u8#第24集$https://vodcnd16.ajupf.com/20260730/vn6GUPgz/index.m3u8#第25集$https://vodcnd16.ajupf.com/20260730/n0GYwkcr/index.m3u8#第26集$https://vodcnd16.ajupf.com/20260730/vm5RG2vH/index.m3u8#第27集$https://vodcnd16.ajupf.com/20260730/SSQzhl17/index.m3u8#第28集$https://vodcnd16.ajupf.com/20260730/ypMC7gZU/index.m3u8#第29集$https://vodcnd16.ajupf.com/20260730/KN96InnX/index.m3u8#第30集$https://vodcnd16.ajupf.com/20260730/KlhdKSCX/index.m3u8#第31集$https://vodcnd16.ajupf.com/20260730/3Nur1N3H/index.m3u8#第32集$https://vodcnd16.ajupf.com/20260730/RQLAr9Go/index.m3u8#第33集$https://vodcnd16.ajupf.com/20260730/YPzTTRcm/index.m3u8#第34集$https://vodcnd16.ajupf.com/20260730/1TZ2q3Ot/index.m3u8#第35集$https://vodcnd16.ajupf.com/20260730/3dwBy5RL/index.m3u8#第36集$https://vodcnd16.ajupf.com/20260730/FgXaz8gX/index.m3u8#第37集$https://vodcnd16.ajupf.com/20260730/0MoVH7pm/index.m3u8#第38集$https://vodcnd16.ajupf.com/20260730/3aPgIJy0/index.m3u8#第39集$https://vodcnd16.ajupf.com/20260730/MAWL7Glm/index.m3u8#第40集$https://vodcnd16.ajupf.com/20260730/RouHOdNv/index.m3u8#第41集$https://vodcnd16.ajupf.com/20260730/6qcantDU/index.m3u8#第42集$https://vodcnd16.ajupf.com/20260730/srlLvH4W/index.m3u8#第43集$https://vodcnd16.ajupf.com/20260730/5y6cXjWv/index.m3u8#第44集$https://vodcnd16.ajupf.com/20260730/N6xnRIjJ/index.m3u8#第45集$https://vodcnd16.ajupf.com/20260730/41V4uIwM/index.m3u8#第46集$https://vodcnd16.ajupf.com/20260730/2gS18XVe/index.m3u8#第47集$https://vodcnd16.ajupf.com/20260730/kFrGEh1x/index.m3u8#第48集$https://vodcnd16.ajupf.com/20260730/oglBfAys/index.m3u8#第49集$https://vodcnd16.ajupf.com/20260730/zX7c1z1b/index.m3u8#第50集$https://vodcnd16.ajupf.com/20260730/NA4E8hCS/index.m3u8#第51集$https://vodcnd16.ajupf.com/20260730/jAAKv6xl/index.m3u8#第52集$https://vodcnd16.ajupf.com/20260730/NcfaerXe/index.m3u8#第53集$https://vodcnd16.ajupf.com/20260730/XPmiHysi/index.m3u8#第54集$https://vodcnd16.ajupf.com/20260730/eP4UF66w/index.m3u8#第55集$https://vodcnd16.ajupf.com/20260730/RTB469fk/index.m3u8#第56集$https://vodcnd16.ajupf.com/20260730/XjV7nQem/index.m3u8#第57集$https://vodcnd16.ajupf.com/20260730/NkH3VoR4/index.m3u8#第58集$https://vodcnd16.ajupf.com/20260730/JBC0Kseo/index.m3u8#第59集$https://vodcnd16.ajupf.com/20260730/kSGecBVC/index.m3u8#第60集$https://vodcnd16.ajupf.com/20260730/FKtqB127/index.m3u8#第61集$https://vodcnd16.ajupf.com/20260730/cqL1ADVT/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/xZiCT1RSwt#第02集$https://vodcnd16.ajupf.com/share/NPXr6a0mcW#第03集$https://vodcnd16.ajupf.com/share/SGHfIJslkb#第04集$https://vodcnd16.ajupf.com/share/PwJwjgeYYp#第05集$https://vodcnd16.ajupf.com/share/g4ysP9ryOc#第06集$https://vodcnd16.ajupf.com/share/mtfudwOjhR#第07集$https://vodcnd16.ajupf.com/share/E0DQHCA1If#第08集$https://vodcnd16.ajupf.com/share/YKJJbFpUwW#第09集$https://vodcnd16.ajupf.com/share/N155R4KqtF#第10集$https://vodcnd16.ajupf.com/share/V1p2CGfLmp#第11集$https://vodcnd16.ajupf.com/share/mIl6rZQsAv#第12集$https://vodcnd16.ajupf.com/share/2JME7cDMIS#第13集$https://vodcnd16.ajupf.com/share/gW4Z7Ps0wC#第14集$https://vodcnd16.ajupf.com/share/z25ymmbDNK#第15集$https://vodcnd16.ajupf.com/share/9CSQ6aOUDB#第16集$https://vodcnd16.ajupf.com/share/HWvlNhBm97#第17集$https://vodcnd16.ajupf.com/share/yijNEctvjx#第18集$https://vodcnd16.ajupf.com/share/1ZVFHO5knE#第19集$https://vodcnd16.ajupf.com/share/tpmguWFe7f#第20集$https://vodcnd16.ajupf.com/share/R8hjZDXv4D#第21集$https://vodcnd16.ajupf.com/share/thiuQfCptb#第22集$https://vodcnd16.ajupf.com/share/dHM6G147Lj#第23集$https://vodcnd16.ajupf.com/share/YyI7gKar4S#第24集$https://vodcnd16.ajupf.com/share/Wyi9WoW1uI#第25集$https://vodcnd16.ajupf.com/share/0j7UpSQPma#第26集$https://vodcnd16.ajupf.com/share/kuKODpP4T5#第27集$https://vodcnd16.ajupf.com/share/4KWx4p7dEI#第28集$https://vodcnd16.ajupf.com/share/CTTmDTE5di#第29集$https://vodcnd16.ajupf.com/share/NWRx6jDvAu#第30集$https://vodcnd16.ajupf.com/share/mokrhWNqgx#第31集$https://vodcnd16.ajupf.com/share/XUq22himv4#第32集$https://vodcnd16.ajupf.com/share/y1hLfyt0QF#第33集$https://vodcnd16.ajupf.com/share/EgFr1VU9E6#第34集$https://vodcnd16.ajupf.com/share/iQGdLgNq0X#第35集$https://vodcnd16.ajupf.com/share/yRUKtEA2ss#第36集$https://vodcnd16.ajupf.com/share/GB6W1PlAgM#第37集$https://vodcnd16.ajupf.com/share/Qbe2Beq9Gf#第38集$https://vodcnd16.ajupf.com/share/3GA4GTbMrO#第39集$https://vodcnd16.ajupf.com/share/DWdqKYaCI4#第40集$https://vodcnd16.ajupf.com/share/xLQwQUDvOQ#第41集$https://vodcnd16.ajupf.com/share/F2ZxxKLHKo#第42集$https://vodcnd16.ajupf.com/share/kibIB0AYA4#第43集$https://vodcnd16.ajupf.com/share/VY5yLyMI1q#第44集$https://vodcnd16.ajupf.com/share/Z2lDbTYxN2#第45集$https://vodcnd16.ajupf.com/share/BOOgLnuiBd#第46集$https://vodcnd16.ajupf.com/share/YI7rzkq8Qi#第47集$https://vodcnd16.ajupf.com/share/iIqHcXdVLY#第48集$https://vodcnd16.ajupf.com/share/WZrdcM72Qr#第49集$https://vodcnd16.ajupf.com/share/G7VmJjNcPN#第50集$https://vodcnd16.ajupf.com/share/iGcs4Z9OAV#第51集$https://vodcnd16.ajupf.com/share/jERE7EQIh5#第52集$https://vodcnd16.ajupf.com/share/9ZH2TLAA0H#第53集$https://vodcnd16.ajupf.com/share/Ju0OttXfOs#第54集$https://vodcnd16.ajupf.com/share/j5hOtDjri7#第55集$https://vodcnd16.ajupf.com/share/4haz6lOOUN#第56集$https://vodcnd16.ajupf.com/share/ymn0Xb2GPN#第57集$https://vodcnd16.ajupf.com/share/6ImZeRCQVL#第58集$https://vodcnd16.ajupf.com/share/qODwE4vyjY#第59集$https://vodcnd16.ajupf.com/share/x8YyvCJJcB#第60集$https://vodcnd16.ajupf.com/share/7cNeXtQXw8#第61集$https://vodcnd16.ajupf.com/share/TXaNs7tFcJ",
     "update_time": "2026-07-30 14:29:50"
-  },
-  {
-    "id": 141133,
-    "name": "国术：每日结算，从黄包车夫开始",
-    "type": "古装仙侠",
-    "year": "2026",
-    "area": "中国大陆",
-    "language": "汉语普通话",
-    "category": "短剧",
-    "poster": "https://dbzy5.com/upload/vod/20260727-1/dc2b8a8c5f67abf987db0a5ddaf60540.jpg",
-    "douban_id": 0,
-    "score": "0.0",
-    "remarks": "全集完结",
-    "content": "<p>暂无简介</p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "全集完结$https://vodcnd15.ajupf.com/20260612/h9vXL5hs/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/H5cuLi1Y3G",
-    "update_time": "2026-07-30 14:23:57"
-  },
-  {
-    "id": 141132,
-    "name": "绝世邪医",
-    "type": "现代都市",
-    "year": "2026",
-    "area": "中国大陆",
-    "language": "汉语普通话",
-    "category": "短剧",
-    "poster": "https://dbzy5.com/upload/vod/20260727-1/30824bcf9a9e1bfc65407f5525bb149a.jpg",
-    "douban_id": 0,
-    "score": "0.0",
-    "remarks": "全集完结",
-    "content": "<p><span style=\"color: #666666; font-family: Arial, sans-serif; font-size: 18px; background-color: #FFFFFF;\">身怀绝世医术的他，低调隐居都市，却因一场意外卷入豪门恩怨。孙虎城将主角的沉稳与霸气演绎得淋漓尽致，朱艺莉则诠释了坚韧独立的女性形象。在这部神医题材短剧中，看他如何用针药逆天改命，救治疑难杂症，同时智斗权贵，揭开惊天阴谋。剧情跌宕起伏，既有悬壶济世的温情，又有降维打击的爽快，每一集都让人欲罢不能，绝对是近期不可错过的医疗爽剧佳作！</span></p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "全集完结$https://vodcnd16.ajupf.com/20260723/fGqbuOUF/index.m3u8$$$全集完结$https://vodcnd16.ajupf.com/share/AEhcSMkdUm",
-    "update_time": "2026-07-30 14:20:28"
   }
 ]

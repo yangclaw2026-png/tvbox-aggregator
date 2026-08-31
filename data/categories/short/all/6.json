@@ -1,5 +1,17 @@
 [
   {
+    "id": 131016,
+    "name": "帝王的掌心娃娃",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260827-1/66200a4db9dcdd1ee906a92b501a1b4f.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-27 13:04:14"
+  },
+  {
     "id": 146124,
     "name": "远居豪宅不如近守温情",
     "type": "现代都市",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-26 21:46:00"
-  },
-  {
-    "id": 144634,
-    "name": "重回婚约日，丢开侯爷我做权妃",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260819-1/f2fdf473ad75585e5957fb28c3921734.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-26 21:44:48"
   }
 ]

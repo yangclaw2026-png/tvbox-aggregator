@@ -1,5 +1,17 @@
 [
   {
+    "id": 143840,
+    "name": "学霸的投喂日记",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260814-1/2da258a1dbe53c66ecc7dbeaad7c70cf.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-14 19:30:49"
+  },
+  {
     "id": 143839,
     "name": "三世轮回愿长乐",
     "type": "古装仙侠",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-13 22:23:43"
-  },
-  {
-    "id": 143716,
-    "name": "将军，好马不吃回头草",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260813-1/956d14e39bf6610c17b797df0e2b3470.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-13 22:22:48"
   }
 ]

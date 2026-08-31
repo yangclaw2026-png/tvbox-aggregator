@@ -1,5 +1,17 @@
 [
   {
+    "id": 146230,
+    "name": "爱人请批示",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260827-1/63e237cea725d1ab69e0f2324761f2e7.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-27 17:48:21"
+  },
+  {
     "id": 146187,
     "name": "我只是个厨子怎么成大能了",
     "type": "古装仙侠",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第43集",
     "update_time": "2026-08-27 13:09:04"
-  },
-  {
-    "id": 131016,
-    "name": "帝王的掌心娃娃",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260827-1/66200a4db9dcdd1ee906a92b501a1b4f.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-27 13:04:14"
   }
 ]

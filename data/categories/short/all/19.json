@@ -1,5 +1,17 @@
 [
   {
+    "id": 145344,
+    "name": "喜事天降哥哥宠我上天",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260822-1/3a4852c074c3a3daed74b4ea18b248f5.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-22 21:32:30"
+  },
+  {
     "id": 145343,
     "name": "无敌出关即巅峰：我的弟子皆仙尊第二季",
     "type": "古装仙侠",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-22 15:31:43"
-  },
-  {
-    "id": 145234,
-    "name": "假千金带崽发家致富",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260822-1/1b87df864b17d9a99fa93702bea86bca.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-22 15:04:04"
   }
 ]

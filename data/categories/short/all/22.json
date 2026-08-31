@@ -1,5 +1,17 @@
 [
   {
+    "id": 145139,
+    "name": "我在求生游戏中当杂货铺 NPC",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260821-1/9391f4103c52a7b59ee0d8ed0845da11.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-21 21:53:40"
+  },
+  {
     "id": 145138,
     "name": "凡尘造化棒",
     "type": "古装仙侠",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-21 17:03:23"
-  },
-  {
-    "id": 145114,
-    "name": "失语五年的我一开口，他们全慌了",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260821-1/9417bf13991be19af5993fc52798a22e.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-21 16:57:01"
   }
 ]

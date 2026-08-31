@@ -1,5 +1,17 @@
 [
   {
+    "id": 147046,
+    "name": "囧徒之预演告别",
+    "type": "国产剧",
+    "category": "剧情,喜剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260831-1/2bfe19edc2521fd08bc9f52492c1ac2d.jpg",
+    "score": "5.0",
+    "remarks": "第3集",
+    "update_time": "2026-08-31 20:52:43"
+  },
+  {
     "id": 146341,
     "name": "布衣小子镇山河",
     "type": "国产剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第25集",
     "update_time": "2026-08-20 11:32:41"
-  },
-  {
-    "id": 144611,
-    "name": "予你远方",
-    "type": "国产剧",
-    "category": "剧情",
-    "year": "2006",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260819-1/f26ed38fb2bdaad900a4e6195a50d4b7.jpg",
-    "score": "5.0",
-    "remarks": "第22集完结",
-    "update_time": "2026-08-19 23:02:42"
   }
 ]
