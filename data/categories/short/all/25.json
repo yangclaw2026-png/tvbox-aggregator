@@ -1,5 +1,17 @@
 [
   {
+    "id": 144988,
+    "name": "自成骄阳",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260820-1/a7abd0386a7cdaf187f29e6927a6728a.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-20 22:03:44"
+  },
+  {
     "id": 144987,
     "name": "守得住工地，看得透人心",
     "type": "现代都市",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-20 20:26:54"
-  },
-  {
-    "id": 144865,
-    "name": "囚王的人间烟火",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260820-1/8586766de71b07d963b5326a3336c465.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-20 20:26:09"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 143430,
+    "name": "战神的小狐妃",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260812-1/9d8d145d79ee868ba481750c97aadeca.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-12 13:27:54"
+  },
+  {
     "id": 143429,
     "name": "尹心坏坏之少逼逼歪，反派火力全开第三季",
     "type": "现代都市",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-11 21:35:34"
-  },
-  {
-    "id": 143366,
-    "name": "晚晚传 第二季",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260811-1/9ad85274f104fbf287cdd0b05bc8bab2.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-11 20:47:54"
   }
 ]

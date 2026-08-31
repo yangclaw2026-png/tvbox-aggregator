@@ -1,5 +1,17 @@
 [
   {
+    "id": 145895,
+    "name": "红伞之下",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260825-1/9dcec7d4779034c66476b122792e515b.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-25 22:05:37"
+  },
+  {
     "id": 145894,
     "name": "尹心坏坏之少逼逼歪歪，反派火力全开第四季",
     "type": "现代都市",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-25 18:18:01"
-  },
-  {
-    "id": 145769,
-    "name": "独占星光",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260825-1/c1cddb5111d3fa64102e81194e1aecf2.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-25 18:14:50"
   }
 ]

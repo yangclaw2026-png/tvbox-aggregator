@@ -1,5 +1,17 @@
 [
   {
+    "id": 144272,
+    "name": "三代微光，终成暖阳",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260817-1/9021887b9eef0795bfb8a47f4191d9cd.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-17 14:58:27"
+  },
+  {
     "id": 144270,
     "name": "逆袭八零，靠山暴富",
     "type": "现代都市",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-16 20:55:13"
-  },
-  {
-    "id": 144173,
-    "name": "被裁员后，我带走 88 亿大单",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260816-1/8765ce5983d204e940bc1222682e37dd.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-16 20:52:37"
   }
 ]

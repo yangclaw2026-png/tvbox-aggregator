@@ -1,5 +1,17 @@
 [
   {
+    "id": 142411,
+    "name": "重回激情年代，我组建神奇动物连",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/745b308db26564a5a80fc879215d1618.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-05 22:50:21"
+  },
+  {
     "id": 142410,
     "name": "狂龙赘婿！揽冷妻夜巡",
     "type": "现代都市",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-05 21:19:47"
-  },
-  {
-    "id": 142240,
-    "name": "蛮力药膳少女与隐世病弱世子",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/aaa26d56f96b0c1a5921cb8e8217c66f.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-05 21:06:26"
   }
 ]
