@@ -1,5 +1,17 @@
 [
   {
+    "id": 967,
+    "name": "无上神帝 第四季",
+    "type": "国产动漫",
+    "category": "动作,动画,奇幻",
+    "year": "2023",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250109-5/8e7fddd868fb9ad93ecb779a391247bc.jpg",
+    "score": "5.0",
+    "remarks": "第634集",
+    "update_time": "2026-08-24 13:50:25"
+  },
+  {
     "id": 127208,
     "name": "黄泉的使者",
     "type": "日本动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第58集",
     "update_time": "2026-08-23 13:23:51"
-  },
-  {
-    "id": 139735,
-    "name": "邪魔墨然",
-    "type": "国产动漫",
-    "category": "动作,动画,惊悚,奇幻",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260715-1/10c046c308f3c119ba8f888a7a57a9e9.jpg",
-    "score": "5.0",
-    "remarks": "第20集",
-    "update_time": "2026-08-23 13:03:02"
   }
 ]

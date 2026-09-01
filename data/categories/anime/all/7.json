@@ -1,5 +1,17 @@
 [
   {
+    "id": 112298,
+    "name": "技能无限增幅，爽得我不想当辅助了！",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2025",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20251113-1/b38f8cb6ea4788b0af7dc27ecfe6900f.jpg",
+    "score": "5.0",
+    "remarks": "第112集",
+    "update_time": "2026-08-22 11:55:01"
+  },
+  {
     "id": 139899,
     "name": "择日飞升",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第26集完结",
     "update_time": "2026-08-19 11:33:45"
-  },
-  {
-    "id": 142639,
-    "name": "小猪佩奇 第十二季 中文配音",
-    "type": "国产动漫",
-    "category": "动画,少儿",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260807-1/c043a53e53440840a6cdbc6a62adc382.jpg",
-    "score": "5.0",
-    "remarks": "第26集完结",
-    "update_time": "2026-08-19 11:33:03"
   }
 ]

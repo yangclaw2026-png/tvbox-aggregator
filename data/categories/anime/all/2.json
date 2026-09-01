@@ -1,5 +1,17 @@
 [
   {
+    "id": 142646,
+    "name": "从乱葬岗到幽冥之主",
+    "type": "国产动漫",
+    "category": "动作,动画,奇幻,古装",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260807-1/ef17e0ee625d9bf6b40b7a662767fe8d.jpg",
+    "score": "5.0",
+    "remarks": "第21集",
+    "update_time": "2026-08-27 11:37:31"
+  },
+  {
     "id": 144777,
     "name": "我的同学是美人鱼2之泡泡宝石",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第8集",
     "update_time": "2026-08-26 14:26:46"
-  },
-  {
-    "id": 138989,
-    "name": "无自觉圣女今天也无意识地释放力量",
-    "type": "日本动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260708-1/d1db821cb8b1570e516503264e24736c.jpg",
-    "score": "5.0",
-    "remarks": "第9集",
-    "update_time": "2026-08-26 14:25:51"
   }
 ]

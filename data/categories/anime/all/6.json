@@ -1,5 +1,17 @@
 [
   {
+    "id": 139735,
+    "name": "邪魔墨然",
+    "type": "国产动漫",
+    "category": "动作,动画,惊悚,奇幻",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260715-1/10c046c308f3c119ba8f888a7a57a9e9.jpg",
+    "score": "5.0",
+    "remarks": "第20集",
+    "update_time": "2026-08-23 13:03:02"
+  },
+  {
     "id": 112593,
     "name": "只有我能用召唤术 动态漫画",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第126集",
     "update_time": "2026-08-22 11:55:43"
-  },
-  {
-    "id": 112298,
-    "name": "技能无限增幅，爽得我不想当辅助了！",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2025",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20251113-1/b38f8cb6ea4788b0af7dc27ecfe6900f.jpg",
-    "score": "5.0",
-    "remarks": "第112集",
-    "update_time": "2026-08-22 11:55:01"
   }
 ]

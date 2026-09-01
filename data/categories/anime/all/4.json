@@ -1,5 +1,17 @@
 [
   {
+    "id": 145873,
+    "name": "修仙失败后我成了星际最强向导",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260825-1/147618caa6d19906de73f0a9e46ab2cb.jpg",
+    "score": "5.0",
+    "remarks": "第67集完结",
+    "update_time": "2026-08-25 21:30:53"
+  },
+  {
     "id": 145872,
     "name": "一念长生，万仙俯首",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第8集",
     "update_time": "2026-08-24 14:17:35"
-  },
-  {
-    "id": 967,
-    "name": "无上神帝 第四季",
-    "type": "国产动漫",
-    "category": "动作,动画,奇幻",
-    "year": "2023",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250109-5/8e7fddd868fb9ad93ecb779a391247bc.jpg",
-    "score": "5.0",
-    "remarks": "第634集",
-    "update_time": "2026-08-24 13:50:25"
   }
 ]

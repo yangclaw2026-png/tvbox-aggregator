@@ -1,5 +1,17 @@
 [
   {
+    "id": 142639,
+    "name": "小猪佩奇 第十二季 中文配音",
+    "type": "国产动漫",
+    "category": "动画,少儿",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260807-1/c043a53e53440840a6cdbc6a62adc382.jpg",
+    "score": "5.0",
+    "remarks": "第26集完结",
+    "update_time": "2026-08-19 11:33:03"
+  },
+  {
     "id": 142636,
     "name": "吃鸡爆笑兄弟之混沌阳光",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第46集",
     "update_time": "2026-08-12 11:55:45"
-  },
-  {
-    "id": 140923,
-    "name": "近视驯狐王",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260726-1/efcbdc02426ef4f92f5f834011504124.jpg",
-    "score": "5.0",
-    "remarks": "第23集",
-    "update_time": "2026-08-12 11:42:47"
   }
 ]

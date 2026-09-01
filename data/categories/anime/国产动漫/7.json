@@ -1,5 +1,17 @@
 [
   {
+    "id": 131020,
+    "name": "三国小剧",
+    "type": "国产动漫",
+    "category": "少儿",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260505-1/771e2d4840ec36db4f20abaeccac7af9.jpg",
+    "score": "5.0",
+    "remarks": "第60集",
+    "update_time": "2026-08-14 12:12:05"
+  },
+  {
     "id": 138371,
     "name": "花仙子之魔法香对论",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第4集",
     "update_time": "2026-08-06 11:38:16"
-  },
-  {
-    "id": 135552,
-    "name": "我掌控百万阴兵阴将",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2025",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260608-1/0bd58b47af5e6021d743de99fc9539ab.jpg",
-    "score": "5.0",
-    "remarks": "第76集",
-    "update_time": "2026-08-06 11:32:25"
   }
 ]

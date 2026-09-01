@@ -1,5 +1,17 @@
 [
   {
+    "id": 124910,
+    "name": "他的温柔只予我",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260306-1/a4a2bd5da3f9a863cd930dbf1ed51fbe.jpg",
+    "score": "5.0",
+    "remarks": "第30集",
+    "update_time": "2026-08-23 11:36:45"
+  },
+  {
     "id": 145369,
     "name": "宗门小师妹另类整顿修仙圈",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第96集",
     "update_time": "2026-08-21 12:23:19"
-  },
-  {
-    "id": 8901,
-    "name": "大主宰年番",
-    "type": "国产动漫",
-    "category": "动画,中国动漫",
-    "year": "2022",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250108-67/5d3130b950fccec407fce311886679b9.jpg",
-    "score": "5.0",
-    "remarks": "第87集",
-    "update_time": "2026-08-21 12:07:10"
   }
 ]

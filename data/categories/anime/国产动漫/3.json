@@ -1,5 +1,17 @@
 [
   {
+    "id": 141048,
+    "name": "转职屠夫后，我看谁都是动物",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260727-1/1754c3577b73d1dabe419f8538e6c4f6.jpg",
+    "score": "5.0",
+    "remarks": "第31集",
+    "update_time": "2026-08-26 12:36:14"
+  },
+  {
     "id": 136859,
     "name": "苏东坡与杭州的故事",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第30集完结",
     "update_time": "2026-08-25 12:00:02"
-  },
-  {
-    "id": 137697,
-    "name": "破茧纪元",
-    "type": "国产动漫",
-    "category": "剧情,动作,动画,奇幻",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260628-1/7ed3f52d22c71b2ec5e1b9d02f42bcab.jpg",
-    "score": "5.0",
-    "remarks": "第160集完结",
-    "update_time": "2026-08-25 11:37:48"
   }
 ]

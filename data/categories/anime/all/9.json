@@ -1,5 +1,17 @@
 [
   {
+    "id": 140923,
+    "name": "近视驯狐王",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260726-1/efcbdc02426ef4f92f5f834011504124.jpg",
+    "score": "5.0",
+    "remarks": "第23集",
+    "update_time": "2026-08-12 11:42:47"
+  },
+  {
     "id": 739,
     "name": "寒冰末日：我屯了千亿物资 动态漫画 第一季",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第3集完结",
     "update_time": "2026-08-05 11:56:39"
-  },
-  {
-    "id": 140057,
-    "name": "末世种田，我家太奶超能打",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260720-1/ee364f0922f9570623fc25f20a60d338.jpg",
-    "score": "5.0",
-    "remarks": "第51集完结",
-    "update_time": "2026-08-05 11:47:55"
   }
 ]
