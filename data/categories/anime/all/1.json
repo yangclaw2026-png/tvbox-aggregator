@@ -1,5 +1,41 @@
 [
   {
+    "id": 146325,
+    "name": "猪猪侠之失控纪元",
+    "type": "国产动漫",
+    "category": "科幻,动画,冒险",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260828-1/5bec66061870fe53bed44438c926f359.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-09-01 11:48:59"
+  },
+  {
+    "id": 146342,
+    "name": "大树城救援队 (英文版)",
+    "type": "国产动漫",
+    "category": "动漫",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260828-1/72ffbb8ee3f36b72fe02ee5c50456500.jpg",
+    "score": "0.0",
+    "remarks": "第28集",
+    "update_time": "2026-09-01 11:47:27"
+  },
+  {
+    "id": 147090,
+    "name": "无极道君",
+    "type": "国产动漫",
+    "category": "动画,动作,玄幻,搞笑",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260901-1/aca0770ffe19138258d7e42d4958c041.jpg",
+    "score": "5.0",
+    "remarks": "第10集",
+    "update_time": "2026-09-01 11:46:40"
+  },
+  {
     "id": 138256,
     "name": "班格梦想！无限大缪型",
     "type": "日本动漫",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第21集",
     "update_time": "2026-08-27 11:37:31"
-  },
-  {
-    "id": 144777,
-    "name": "我的同学是美人鱼2之泡泡宝石",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260819-1/a6f897dbab74990a7179923315927825.jpg",
-    "score": "5.0",
-    "remarks": "第20集",
-    "update_time": "2026-08-27 11:37:28"
-  },
-  {
-    "id": 140852,
-    "name": "大侦探福尔摩斯 第2季",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260725-1/8de76972928fb88870b1291f8a6204f6.jpg",
-    "score": "5.0",
-    "remarks": "第26集",
-    "update_time": "2026-08-27 11:36:48"
-  },
-  {
-    "id": 499,
-    "name": "丹道至尊",
-    "type": "国产动漫",
-    "category": "动作,动画,奇幻,中国动漫",
-    "year": "2023",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250109-5/5000209d3d3873518e7aa498c2421897.jpg",
-    "score": "5.0",
-    "remarks": "第190集",
-    "update_time": "2026-08-27 11:36:48"
   }
 ]

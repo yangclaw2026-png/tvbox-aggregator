@@ -1,5 +1,41 @@
 [
   {
+    "id": 138991,
+    "name": "与你相恋到生命尽头",
+    "type": "日本动漫",
+    "category": "动画,同性",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260708-1/7d880ba75be5c11fc1eea2b092b4dc40.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-26 14:24:40"
+  },
+  {
+    "id": 145964,
+    "name": "魔女叛变？我反手养成病娇炽焰天使",
+    "type": "国产动漫",
+    "category": "动画,都市,奇幻,热血,校园",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260826-1/e4c3555e339ae2f0247967fd7070da9b.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-08-26 14:22:51"
+  },
+  {
+    "id": 138988,
+    "name": "新攻壳机动队 攻殻機動隊",
+    "type": "日本动漫",
+    "category": "科幻,动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260708-1/7221c639d194e0107b22eff7e0bd009b.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-26 14:20:00"
+  },
+  {
     "id": 138987,
     "name": "奇招百出的维多利亚",
     "type": "日本动漫",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第67集完结",
     "update_time": "2026-08-25 21:30:53"
-  },
-  {
-    "id": 145872,
-    "name": "一念长生，万仙俯首",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260825-1/54530bb5ac024f280e7fc72f82185524.jpg",
-    "score": "5.0",
-    "remarks": "第90集完结",
-    "update_time": "2026-08-25 21:21:16"
-  },
-  {
-    "id": 143419,
-    "name": "末世大航海：开局一块破木板",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260811-1/52cfb3f58f7e48a78f743631511570d0.jpg",
-    "score": "5.0",
-    "remarks": "第36集",
-    "update_time": "2026-08-25 17:36:31"
-  },
-  {
-    "id": 143096,
-    "name": "开局绑定系统：我在三角洲无限穿梭",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260810-1/2843b9fa5d83d65520ec26e8e0a8dfa4.jpg",
-    "score": "5.0",
-    "remarks": "第10集",
-    "update_time": "2026-08-25 17:35:52"
   }
 ]

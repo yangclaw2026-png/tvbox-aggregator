@@ -1,5 +1,41 @@
 [
   {
+    "id": 144782,
+    "name": "归墟道主",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260819-1/374c9ebfa6a644af4caa0b335de0e0cf.jpg",
+    "score": "5.0",
+    "remarks": "第40集完结",
+    "update_time": "2026-08-25 11:37:05"
+  },
+  {
+    "id": 130968,
+    "name": "仙界第一残魄，可她悟性超绝",
+    "type": "国产动漫",
+    "category": "恋爱,玄幻,动漫",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260505-1/206c29948c25009b0e92b421372ac32b.jpg",
+    "score": "5.0",
+    "remarks": "第45集",
+    "update_time": "2026-08-25 11:35:15"
+  },
+  {
+    "id": 142632,
+    "name": "奇变偶不变，我俩造反建工业",
+    "type": "国产动漫",
+    "category": "动画,短片",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260807-1/cadaa28ac1dc14ef5fa5e0df0dc3a09a.jpg",
+    "score": "5.0",
+    "remarks": "第60集",
+    "update_time": "2026-08-25 11:28:08"
+  },
+  {
     "id": 133669,
     "name": "​快穿系统：偏执BOSS不好惹​",
     "type": "国产动漫",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第30集",
     "update_time": "2026-08-23 11:36:45"
-  },
-  {
-    "id": 145369,
-    "name": "宗门小师妹另类整顿修仙圈",
-    "type": "国产动漫",
-    "category": "动画,玄幻,穿越,逆袭",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260823-1/637b9ba7c602a11f40eda6cf4de60868.jpg",
-    "score": "5.0",
-    "remarks": "第37集完结",
-    "update_time": "2026-08-23 11:34:29"
-  },
-  {
-    "id": 145327,
-    "name": "山河大道",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260822-1/45f03f6fb440658154885cea810cb3c2.jpg",
-    "score": "5.0",
-    "remarks": "第21集完结",
-    "update_time": "2026-08-22 21:07:23"
-  },
-  {
-    "id": 145304,
-    "name": "门外是谁",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260822-1/641b9a55ca6bcdd21d465c782ae8c46e.jpg",
-    "score": "5.0",
-    "remarks": "第23集完结",
-    "update_time": "2026-08-22 20:45:58"
   }
 ]

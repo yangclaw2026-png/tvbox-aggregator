@@ -1,5 +1,41 @@
 [
   {
+    "id": 146325,
+    "name": "猪猪侠之失控纪元",
+    "type": "国产动漫",
+    "category": "科幻,动画,冒险",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260828-1/5bec66061870fe53bed44438c926f359.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-09-01 11:48:59"
+  },
+  {
+    "id": 146342,
+    "name": "大树城救援队 (英文版)",
+    "type": "国产动漫",
+    "category": "动漫",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260828-1/72ffbb8ee3f36b72fe02ee5c50456500.jpg",
+    "score": "0.0",
+    "remarks": "第28集",
+    "update_time": "2026-09-01 11:47:27"
+  },
+  {
+    "id": 147090,
+    "name": "无极道君",
+    "type": "国产动漫",
+    "category": "动画,动作,玄幻,搞笑",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260901-1/aca0770ffe19138258d7e42d4958c041.jpg",
+    "score": "5.0",
+    "remarks": "第10集",
+    "update_time": "2026-09-01 11:46:40"
+  },
+  {
     "id": 145029,
     "name": "诛仙 第四季",
     "type": "国产动漫",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第15集",
     "update_time": "2026-08-27 11:33:09"
-  },
-  {
-    "id": 130168,
-    "name": "楚新钓鱼 第二季",
-    "type": "国产动漫",
-    "category": "中国动漫",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260429-1/0de3a0ded4bcd30b40530035b80b0b7c.jpg",
-    "score": "5.0",
-    "remarks": "第185集",
-    "update_time": "2026-08-27 11:32:41"
-  },
-  {
-    "id": 146117,
-    "name": "凡人炼天罡第一季",
-    "type": "国产动漫",
-    "category": "中国动漫",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260827-1/70e51cf896ff210ae70e3f330b68b548.jpg",
-    "score": "5.0",
-    "remarks": "第60集完结",
-    "update_time": "2026-08-27 11:32:04"
-  },
-  {
-    "id": 145032,
-    "name": "超级飞侠之跨越时空的谜题1",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260821-1/3e4da142fa2ac09a75c72c0719306050.jpg",
-    "score": "5.0",
-    "remarks": "第18集",
-    "update_time": "2026-08-27 11:30:15"
   }
 ]

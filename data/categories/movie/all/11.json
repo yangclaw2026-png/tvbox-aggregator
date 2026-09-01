@@ -1,5 +1,29 @@
 [
   {
+    "id": 141879,
+    "name": "热血篮球之永不放弃",
+    "type": "动作片",
+    "category": "动作,张超,青春",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260802-1/b604f05e87def33e327e974551a3641b.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-02 12:05:04"
+  },
+  {
+    "id": 141878,
+    "name": "将你催眠",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2020",
+    "area": "印度",
+    "poster": "https://dbzy5.com/upload/vod/20260802-1/c96474a966ef0a486a8bcc6bea0192a1.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-02 11:37:03"
+  },
+  {
     "id": 141208,
     "name": "吴承恩与《西游记》",
     "type": "纪录片",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第10集",
     "update_time": "2026-08-01 15:49:11"
-  },
-  {
-    "id": 141643,
-    "name": "去年夏天",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "1969",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/60b87eab99e96bc1b896e126d1102703.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-01 15:49:00"
-  },
-  {
-    "id": 141645,
-    "name": "玩具熊",
-    "type": "剧情片",
-    "category": "剧情,音乐,传记",
-    "year": "2022",
-    "area": "丹麦",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/dc7365597b89f10699d2f364d86ec90d.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-01 15:30:09"
   }
 ]

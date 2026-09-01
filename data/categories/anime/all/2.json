@@ -1,5 +1,41 @@
 [
   {
+    "id": 144777,
+    "name": "我的同学是美人鱼2之泡泡宝石",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260819-1/a6f897dbab74990a7179923315927825.jpg",
+    "score": "5.0",
+    "remarks": "第20集",
+    "update_time": "2026-08-27 11:37:28"
+  },
+  {
+    "id": 140852,
+    "name": "大侦探福尔摩斯 第2季",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260725-1/8de76972928fb88870b1291f8a6204f6.jpg",
+    "score": "5.0",
+    "remarks": "第26集",
+    "update_time": "2026-08-27 11:36:48"
+  },
+  {
+    "id": 499,
+    "name": "丹道至尊",
+    "type": "国产动漫",
+    "category": "动作,动画,奇幻,中国动漫",
+    "year": "2023",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250109-5/5000209d3d3873518e7aa498c2421897.jpg",
+    "score": "5.0",
+    "remarks": "第190集",
+    "update_time": "2026-08-27 11:36:48"
+  },
+  {
     "id": 145030,
     "name": "我家小师权不可能这么强",
     "type": "国产动漫",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第9集",
     "update_time": "2026-08-26 14:25:51"
-  },
-  {
-    "id": 138991,
-    "name": "与你相恋到生命尽头",
-    "type": "日本动漫",
-    "category": "动画,同性",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260708-1/7d880ba75be5c11fc1eea2b092b4dc40.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-26 14:24:40"
-  },
-  {
-    "id": 145964,
-    "name": "魔女叛变？我反手养成病娇炽焰天使",
-    "type": "国产动漫",
-    "category": "动画,都市,奇幻,热血,校园",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260826-1/e4c3555e339ae2f0247967fd7070da9b.jpg",
-    "score": "5.0",
-    "remarks": "第6集",
-    "update_time": "2026-08-26 14:22:51"
-  },
-  {
-    "id": 138988,
-    "name": "新攻壳机动队 攻殻機動隊",
-    "type": "日本动漫",
-    "category": "科幻,动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260708-1/7221c639d194e0107b22eff7e0bd009b.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-26 14:20:00"
   }
 ]

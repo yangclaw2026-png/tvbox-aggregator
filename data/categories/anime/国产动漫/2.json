@@ -1,5 +1,41 @@
 [
   {
+    "id": 130168,
+    "name": "楚新钓鱼 第二季",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260429-1/0de3a0ded4bcd30b40530035b80b0b7c.jpg",
+    "score": "5.0",
+    "remarks": "第185集",
+    "update_time": "2026-08-27 11:32:41"
+  },
+  {
+    "id": 146117,
+    "name": "凡人炼天罡第一季",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260827-1/70e51cf896ff210ae70e3f330b68b548.jpg",
+    "score": "5.0",
+    "remarks": "第60集完结",
+    "update_time": "2026-08-27 11:32:04"
+  },
+  {
+    "id": 145032,
+    "name": "超级飞侠之跨越时空的谜题1",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260821-1/3e4da142fa2ac09a75c72c0719306050.jpg",
+    "score": "5.0",
+    "remarks": "第18集",
+    "update_time": "2026-08-27 11:30:15"
+  },
+  {
     "id": 105317,
     "name": "末日走私商：我用辣条换金砖",
     "type": "国产动漫",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第31集",
     "update_time": "2026-08-26 12:36:14"
-  },
-  {
-    "id": 136859,
-    "name": "苏东坡与杭州的故事",
-    "type": "国产动漫",
-    "category": "剧情,动画,历史",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260617-1/90096aa12762518e56b8d4fcec3bf94b.jpg",
-    "score": "5.0",
-    "remarks": "第22集",
-    "update_time": "2026-08-26 12:33:18"
-  },
-  {
-    "id": 11495,
-    "name": "有兽焉",
-    "type": "国产动漫",
-    "category": "中国动漫,动画",
-    "year": "2023",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250108-64/1bbd743f04e97bd65df21946219492cf.jpg",
-    "score": "5.0",
-    "remarks": "第65集",
-    "update_time": "2026-08-26 12:22:44"
-  },
-  {
-    "id": 70871,
-    "name": "我被困在同一天一千年 动态漫画 第一季",
-    "type": "国产动漫",
-    "category": "国产,动漫",
-    "year": "2022",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250122-1/62163c731538300ee2310d7f9dd04ac9.jpg",
-    "score": "0.0",
-    "remarks": "第282集",
-    "update_time": "2026-08-26 12:21:07"
   }
 ]

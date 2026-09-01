@@ -1,5 +1,41 @@
 [
   {
+    "id": 145872,
+    "name": "一念长生，万仙俯首",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260825-1/54530bb5ac024f280e7fc72f82185524.jpg",
+    "score": "5.0",
+    "remarks": "第90集完结",
+    "update_time": "2026-08-25 21:21:16"
+  },
+  {
+    "id": 143419,
+    "name": "末世大航海：开局一块破木板",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260811-1/52cfb3f58f7e48a78f743631511570d0.jpg",
+    "score": "5.0",
+    "remarks": "第36集",
+    "update_time": "2026-08-25 17:36:31"
+  },
+  {
+    "id": 143096,
+    "name": "开局绑定系统：我在三角洲无限穿梭",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260810-1/2843b9fa5d83d65520ec26e8e0a8dfa4.jpg",
+    "score": "5.0",
+    "remarks": "第10集",
+    "update_time": "2026-08-25 17:35:52"
+  },
+  {
     "id": 143123,
     "name": "逆天萌兽：绝世妖女世无双",
     "type": "国产动漫",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第634集",
     "update_time": "2026-08-24 13:50:25"
-  },
-  {
-    "id": 127208,
-    "name": "黄泉的使者",
-    "type": "日本动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260405-1/f89a0f77f8f6c1bae97a7a94feb67ae6.jpg",
-    "score": "5.0",
-    "remarks": "第20集",
-    "update_time": "2026-08-24 13:44:15"
-  },
-  {
-    "id": 145539,
-    "name": "狼的谎言 动态漫画",
-    "type": "国产动漫",
-    "category": "动画,职场,恋爱,反转",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260824-1/91660627227dfd1560bdff0e11281fd8.jpg",
-    "score": "5.0",
-    "remarks": "第30集完结",
-    "update_time": "2026-08-24 13:40:35"
-  },
-  {
-    "id": 138653,
-    "name": "相反的你和我 第二季",
-    "type": "日本动漫",
-    "category": "喜剧,爱情,动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260706-1/02625dfbb7311c885db4095f5d4f293e.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-24 13:39:36"
   }
 ]

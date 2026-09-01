@@ -1,5 +1,29 @@
 [
   {
+    "id": 141680,
+    "name": "坠爱相拥",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2024",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260731-1/f56dea3abbdcaa69b49b345b62c8631c.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-07-31 20:53:31"
+  },
+  {
+    "id": 1685,
+    "name": "荒诞外星迷",
+    "type": "剧情片",
+    "category": "剧情,喜剧,传记,剧情片",
+    "year": "2024",
+    "area": "阿根廷",
+    "poster": "https://dbzy5.com/upload/vod/20250109-4/d44a897df2dc5c55e1c8b592ce48f618.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-07-31 20:51:45"
+  },
+  {
     "id": 141678,
     "name": "幸福是",
     "type": "剧情片",
@@ -574,29 +598,5 @@
     "score": "4.1",
     "remarks": "正片",
     "update_time": "2026-07-31 14:52:16"
-  },
-  {
-    "id": 141621,
-    "name": "熊猫闯非洲",
-    "type": "动漫电影",
-    "category": "动画",
-    "year": "2024",
-    "area": "丹麦,荷兰,法国,德国,爱沙尼亚,中国大",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/612a0a7bd22c82539e663248a30c02c3.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-31 14:48:40"
-  },
-  {
-    "id": 141620,
-    "name": "僵尸杀手：大象墓地",
-    "type": "恐怖片",
-    "category": "恐怖",
-    "year": "2014",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/222e542e717a5a8f4f9c0f71ff2f6ebf.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-31 14:45:27"
   }
 ]

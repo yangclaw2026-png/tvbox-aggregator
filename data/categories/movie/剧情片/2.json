@@ -1,5 +1,17 @@
 [
   {
+    "id": 143832,
+    "name": "我的死党恋爱了",
+    "type": "剧情片",
+    "category": "剧情,喜剧",
+    "year": "2026",
+    "area": "德国",
+    "poster": "https://dbzy5.com/upload/vod/20260814-1/9c989f3eee34013068ef58a48ca23921.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-14 18:33:51"
+  },
+  {
     "id": 143831,
     "name": "别说好运",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "6.7",
     "remarks": "正片",
     "update_time": "2026-08-05 15:35:51"
-  },
-  {
-    "id": 142308,
-    "name": "萨瓦里",
-    "type": "剧情片",
-    "category": "剧情,喜剧",
-    "year": "2020",
-    "area": "印度",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/11c45c612b2f9623637ea9134d75d437.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-05 15:18:47"
   }
 ]

@@ -1,5 +1,29 @@
 [
   {
+    "id": 144131,
+    "name": "谋杀厨房",
+    "type": "惊悚片",
+    "category": "惊悚",
+    "year": "2025",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260816-1/7f0ca6755de5825e7b97b9258d3a2065.jpg",
+    "score": "5.0",
+    "remarks": "抢先版",
+    "update_time": "2026-08-16 22:50:23"
+  },
+  {
+    "id": 68400,
+    "name": "蓝精灵：寻找神秘村",
+    "type": "动漫电影",
+    "category": "动画,动漫电影",
+    "year": "2017",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20250107-2/2254bddd8860e0b6d38945f87e745074.png",
+    "score": "6.3",
+    "remarks": "正片",
+    "update_time": "2026-08-16 19:02:53"
+  },
+  {
     "id": 63488,
     "name": "龙纹身的女孩",
     "type": "剧情片",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第16集完结",
     "update_time": "2026-08-12 17:30:04"
-  },
-  {
-    "id": 143441,
-    "name": "乔布斯",
-    "type": "剧情片",
-    "category": "剧情,传记",
-    "year": "2013",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260812-1/e1f8bf7928788744cb9c0a89d910c3ae.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-12 17:19:20"
-  },
-  {
-    "id": 143451,
-    "name": "女仆日记",
-    "type": "剧情片",
-    "category": "剧情 ，喜剧",
-    "year": "2026",
-    "area": "法国",
-    "poster": "https://dbzy5.com/upload/vod/20260812-1/f076f43aa8f551e572b6cae3e5f4041b.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-12 15:36:46"
   }
 ]

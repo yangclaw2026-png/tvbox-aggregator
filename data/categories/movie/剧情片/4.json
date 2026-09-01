@@ -1,5 +1,17 @@
 [
   {
+    "id": 141984,
+    "name": "价格战",
+    "type": "剧情片",
+    "category": "剧情,惊悚",
+    "year": "2026",
+    "area": "法国",
+    "poster": "https://dbzy5.com/upload/vod/20260803-1/f1d68ce98d3d4df42bb190c707ae45e0.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-03 15:34:08"
+  },
+  {
     "id": 141977,
     "name": "铁牛金刚",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-01 15:49:00"
-  },
-  {
-    "id": 141645,
-    "name": "玩具熊",
-    "type": "剧情片",
-    "category": "剧情,音乐,传记",
-    "year": "2022",
-    "area": "丹麦",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/dc7365597b89f10699d2f364d86ec90d.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-01 15:30:09"
   }
 ]

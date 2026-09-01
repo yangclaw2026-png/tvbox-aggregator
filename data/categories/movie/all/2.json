@@ -1,5 +1,29 @@
 [
   {
+    "id": 143527,
+    "name": "蚝油的鲜味传奇",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260812-1/985c80798b7240287548751b797ec315.jpg",
+    "score": "5.0",
+    "remarks": "第3集",
+    "update_time": "2026-08-24 21:44:28"
+  },
+  {
+    "id": 17357,
+    "name": "成长吧！大熊猫",
+    "type": "纪录片",
+    "category": "纪录片,综艺",
+    "year": "2022",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250108-58/2323bf381c1a722275e5b45318a198ac.jpg",
+    "score": "5.0",
+    "remarks": "第21集下",
+    "update_time": "2026-08-24 21:43:48"
+  },
+  {
     "id": 139745,
     "name": "一城一味·透鲜的滇桂",
     "type": "纪录片",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-21 13:25:19"
-  },
-  {
-    "id": 145033,
-    "name": "爱是愤怒",
-    "type": "爱情片",
-    "category": "爱情,犯罪",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260821-1/b880e7ff35a5e51bf45a754c4cc60f8b.jpg",
-    "score": "5.3",
-    "remarks": "正片",
-    "update_time": "2026-08-21 12:44:13"
-  },
-  {
-    "id": 119486,
-    "name": "梦游者",
-    "type": "惊悚片",
-    "category": "惊悚",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260125-1/f797198190dfe1a9e41072ed5f3ebfaf.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-21 11:28:37"
   }
 ]

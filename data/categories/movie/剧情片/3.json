@@ -1,5 +1,17 @@
 [
   {
+    "id": 142308,
+    "name": "萨瓦里",
+    "type": "剧情片",
+    "category": "剧情,喜剧",
+    "year": "2020",
+    "area": "印度",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/11c45c612b2f9623637ea9134d75d437.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-05 15:18:47"
+  },
+  {
     "id": 142306,
     "name": "世外",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-03 15:36:27"
-  },
-  {
-    "id": 141984,
-    "name": "价格战",
-    "type": "剧情片",
-    "category": "剧情,惊悚",
-    "year": "2026",
-    "area": "法国",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/f1d68ce98d3d4df42bb190c707ae45e0.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-03 15:34:08"
   }
 ]
