@@ -1,5 +1,17 @@
 [
   {
+    "id": 141934,
+    "name": "内华达之瑰",
+    "type": "剧情片",
+    "category": "剧情,恐怖",
+    "year": "2025",
+    "area": "英国",
+    "poster": "https://dbzy5.com/upload/vod/20260802-1/23be59544fd4029445d4effaa7907553.jpg",
+    "score": "6.1",
+    "remarks": "正片",
+    "update_time": "2026-08-02 22:37:55"
+  },
+  {
     "id": 36331,
     "name": "魔侠传之唐吉可德",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-02 14:08:46"
-  },
-  {
-    "id": 141883,
-    "name": "宗师叶问 2026",
-    "type": "动作片",
-    "category": "动作",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/305b8f00037bdc8d65d79eb4efe7e9e0.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-02 13:13:08"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 141623,
+    "name": "游泳池 2024",
+    "type": "剧情片",
+    "category": "剧情,惊悚",
+    "year": "2024",
+    "area": "冰岛,芬兰",
+    "poster": "https://dbzy5.com/upload/vod/20260731-1/793b8cf4a56ed1cc6a3c3d93b464ae03.jpg",
+    "score": "4.1",
+    "remarks": "正片",
+    "update_time": "2026-07-31 14:52:16"
+  },
+  {
     "id": 141621,
     "name": "熊猫闯非洲",
     "type": "动漫电影",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-07-30 22:20:23"
-  },
-  {
-    "id": 141564,
-    "name": "吻中之蓟",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2025",
-    "area": "英国",
-    "poster": "https://dbzy5.com/upload/vod/20260730-1/be65355a5baa1eb4ede599114b848de5.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-30 22:19:43"
   }
 ]

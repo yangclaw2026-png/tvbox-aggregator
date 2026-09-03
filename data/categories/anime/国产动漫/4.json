@@ -1,5 +1,17 @@
 [
   {
+    "id": 141493,
+    "name": "星卡梦少女5奇迹绽放",
+    "type": "国产动漫",
+    "category": "动画,魔法,公主",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260730-1/5420ab5be2c45ff2ea3d0a2a67d35529.jpg",
+    "score": "5.0",
+    "remarks": "第30集完结",
+    "update_time": "2026-08-25 12:00:02"
+  },
+  {
     "id": 137697,
     "name": "破茧纪元",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第70集",
     "update_time": "2026-08-23 11:38:25"
-  },
-  {
-    "id": 135316,
-    "name": "外挂仙尊",
-    "type": "国产动漫",
-    "category": "漫画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260607-1/6fd2cb67ded163d705bd934942a40980.jpg",
-    "score": "5.0",
-    "remarks": "第14集",
-    "update_time": "2026-08-23 11:37:32"
   }
 ]

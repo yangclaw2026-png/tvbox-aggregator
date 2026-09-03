@@ -1,5 +1,17 @@
 [
   {
+    "id": 147502,
+    "name": "转折点：911世代",
+    "type": "纪录片",
+    "category": "纪录片,历史",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260903-1/d6aa20a9b68376ab5b54bd292502ed6b.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-09-03 11:15:22"
+  },
+  {
     "id": 147064,
     "name": "我住在这里的理由 第五季",
     "type": "纪录片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-18 13:54:32"
-  },
-  {
-    "id": 144420,
-    "name": "天主教徒与罪犯",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2016",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260818-1/3f3fc3411c38188a0d552e2a7ad0c6b1.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-18 13:43:54"
   }
 ]

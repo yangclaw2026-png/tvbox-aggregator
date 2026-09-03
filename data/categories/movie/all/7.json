@@ -1,5 +1,17 @@
 [
   {
+    "id": 53229,
+    "name": "神奇动物：格林德沃之罪(原声版)",
+    "type": "剧情片",
+    "category": "冒险,奇幻",
+    "year": "2018",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20250107-17/1fb8645cb2c1df2cd555f84a5c9726cd.jpg",
+    "score": "7.0",
+    "remarks": "正片",
+    "update_time": "2026-08-05 16:03:05"
+  },
+  {
     "id": 142319,
     "name": "节日大屠杀",
     "type": "恐怖片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-04 19:51:03"
-  },
-  {
-    "id": 142136,
-    "name": "敌魔修行",
-    "type": "恐怖片",
-    "category": "恐怖",
-    "year": "2016",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/e3e01ff7ea76dfa4e43dd646ad60fbd1.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-04 19:50:15"
   }
 ]

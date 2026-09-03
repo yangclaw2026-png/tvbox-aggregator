@@ -1,5 +1,17 @@
 [
   {
+    "id": 135316,
+    "name": "外挂仙尊",
+    "type": "国产动漫",
+    "category": "漫画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260607-1/6fd2cb67ded163d705bd934942a40980.jpg",
+    "score": "5.0",
+    "remarks": "第14集",
+    "update_time": "2026-08-23 11:37:32"
+  },
+  {
     "id": 124910,
     "name": "他的温柔只予我",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第97集",
     "update_time": "2026-08-21 12:24:41"
-  },
-  {
-    "id": 478,
-    "name": "全民转职：驭龙师是最弱职业 动态漫画",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2025",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250109-5/3aaf308968d0a67665be550d3fc55e82.jpg",
-    "score": "5.0",
-    "remarks": "第96集",
-    "update_time": "2026-08-21 12:23:19"
   }
 ]

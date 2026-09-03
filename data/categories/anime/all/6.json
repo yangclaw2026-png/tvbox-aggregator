@@ -1,5 +1,17 @@
 [
   {
+    "id": 134305,
+    "name": "破防临界线 诡契无上限",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260601-1/87b7e62838aeadf84273021dc1906a91.jpg",
+    "score": "5.0",
+    "remarks": "第58集",
+    "update_time": "2026-08-23 13:23:51"
+  },
+  {
     "id": 139735,
     "name": "邪魔墨然",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第100集",
     "update_time": "2026-08-22 11:56:15"
-  },
-  {
-    "id": 275,
-    "name": "开局一万俯卧撑：轰杀神明 动态漫画",
-    "type": "国产动漫",
-    "category": "中国动漫",
-    "year": "2024",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250109-5/d4df556d13306dadeccb010cc74685a1.jpg",
-    "score": "5.0",
-    "remarks": "第126集",
-    "update_time": "2026-08-22 11:55:43"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 140207,
+    "name": "我是收容员，但队友全是诡异",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260721-1/e6743febbecd090aff58bd3fcd7f23ab.jpg",
+    "score": "5.0",
+    "remarks": "第46集",
+    "update_time": "2026-08-12 11:55:45"
+  },
+  {
     "id": 140923,
     "name": "近视驯狐王",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第1集",
     "update_time": "2026-08-05 11:59:04"
-  },
-  {
-    "id": 142266,
-    "name": "恋爱吧，少爷",
-    "type": "日本动漫",
-    "category": "剧情，爱情",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/670f49b204dbccedd7368efd64dfb40e.jpg",
-    "score": "5.0",
-    "remarks": "第3集完结",
-    "update_time": "2026-08-05 11:56:39"
   }
 ]

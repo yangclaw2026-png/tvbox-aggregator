@@ -1,5 +1,17 @@
 [
   {
+    "id": 142640,
+    "name": "小猪佩奇 第十二季 英文版",
+    "type": "国产动漫",
+    "category": "动画,少儿",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260807-1/6ac94cc88d702b0964eb919072cc7a08.jpg",
+    "score": "5.0",
+    "remarks": "第26集完结",
+    "update_time": "2026-08-19 11:33:45"
+  },
+  {
     "id": 142639,
     "name": "小猪佩奇 第十二季 中文配音",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第88集完结",
     "update_time": "2026-08-12 17:35:13"
-  },
-  {
-    "id": 140207,
-    "name": "我是收容员，但队友全是诡异",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260721-1/e6743febbecd090aff58bd3fcd7f23ab.jpg",
-    "score": "5.0",
-    "remarks": "第46集",
-    "update_time": "2026-08-12 11:55:45"
   }
 ]

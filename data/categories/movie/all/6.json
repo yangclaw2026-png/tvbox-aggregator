@@ -1,5 +1,17 @@
 [
   {
+    "id": 142780,
+    "name": "破碎的面包第二季",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2022",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260808-1/dc1d6eac6340beb38bad848cf451c057.jpg",
+    "score": "5.0",
+    "remarks": "第12集完结",
+    "update_time": "2026-08-08 01:04:57"
+  },
+  {
     "id": 142754,
     "name": "最后孤屋",
     "type": "动作片",
@@ -586,17 +598,5 @@
     "score": "6.4",
     "remarks": "正片",
     "update_time": "2026-08-05 16:03:17"
-  },
-  {
-    "id": 53229,
-    "name": "神奇动物：格林德沃之罪(原声版)",
-    "type": "剧情片",
-    "category": "冒险,奇幻",
-    "year": "2018",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20250107-17/1fb8645cb2c1df2cd555f84a5c9726cd.jpg",
-    "score": "7.0",
-    "remarks": "正片",
-    "update_time": "2026-08-05 16:03:05"
   }
 ]

@@ -1,5 +1,48 @@
 [
   {
+    "id": 147503,
+    "name": "神魂待卿归",
+    "type": "国产动漫",
+    "year": "2026",
+    "area": "中国大陆",
+    "language": "汉语普通话",
+    "category": "动画,恋爱,玄幻,穿越",
+    "poster": "https://dbzy5.com/upload/vod/20260903-1/bf937abb0ba7780f4262d333bdbf3bff.jpg",
+    "douban_id": 0,
+    "score": "5.0",
+    "remarks": "第12集",
+    "content": "<p>姜芊芊发现，自己卧室的一面墙，竟然连着一间密室，里面锁着一个伤痕累累却俊美非凡的魔尊。为了救他脱困，她一次次踏入密室，却发现这个危险又温柔的男人，竟已暗恋她千年。她以为这就是全部真相，却不知，千年前为了救她，他几乎耗尽神魂。如今，他的真身无法离开，神识化身却陪她走进现代世界，度过一个个心动的夜晚。原来，这场跨越千年的相遇，不是她误闯了他的世界，而是他等了她千年，也用他漫长的生命，爱了她千年。</p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01集$https://vodcnd17.ajupf.com/20260903/PmQtjTJ1/index.m3u8#第02集$https://vodcnd17.ajupf.com/20260903/YE9CcJF9/index.m3u8#第03集$https://vodcnd17.ajupf.com/20260903/GCeSukfN/index.m3u8#第04集$https://vodcnd17.ajupf.com/20260903/54uVKINF/index.m3u8#第05集$https://vodcnd17.ajupf.com/20260903/pRdt8Qq9/index.m3u8#第06集$https://vodcnd17.ajupf.com/20260903/0ceATapW/index.m3u8#第07集$https://vodcnd17.ajupf.com/20260903/LlhE0VMp/index.m3u8#第08集$https://vodcnd17.ajupf.com/20260903/QJTyFRvi/index.m3u8#第09集$https://vodcnd17.ajupf.com/20260903/hbsdhyXe/index.m3u8#第10集$https://vodcnd17.ajupf.com/20260903/3HifI0ry/index.m3u8#第11集$https://vodcnd17.ajupf.com/20260903/aN3nXYvE/index.m3u8#第12集$https://vodcnd17.ajupf.com/20260903/36LWdMgT/index.m3u8$$$第01集$https://vodcnd17.ajupf.com/share/lOrWNh7nkL#第02集$https://vodcnd17.ajupf.com/share/Cfhlps99KU#第03集$https://vodcnd17.ajupf.com/share/bwvRuyd0RW#第04集$https://vodcnd17.ajupf.com/share/xjEUEcnMKK#第05集$https://vodcnd17.ajupf.com/share/kDkquxSrNg#第06集$https://vodcnd17.ajupf.com/share/ytVkz93xFg#第07集$https://vodcnd17.ajupf.com/share/r5V3uJiWez#第08集$https://vodcnd17.ajupf.com/share/7q3GuoOMhN#第09集$https://vodcnd17.ajupf.com/share/ThEfhYz5zE#第10集$https://vodcnd17.ajupf.com/share/W86lFBFfMA#第11集$https://vodcnd17.ajupf.com/share/cMliJZZZaE#第12集$https://vodcnd17.ajupf.com/share/Go6LUQesmC",
+    "update_time": "2026-09-03 11:15:59"
+  },
+  {
+    "id": 147502,
+    "name": "转折点：911世代",
+    "type": "纪录片",
+    "year": "2026",
+    "area": "美国",
+    "language": "英语",
+    "category": "纪录片,历史",
+    "poster": "https://dbzy5.com/upload/vod/20260903-1/d6aa20a9b68376ab5b54bd292502ed6b.jpg",
+    "douban_id": 38553784,
+    "score": "5.0",
+    "remarks": "正片",
+    "content": "<p>“9·11”事件发生 25 年后，这部纪录片探讨了这一天如何塑造了下一代人的人生轨迹。从在袭击中失去父母的孩子，到在最初的反恐战争中崭露头角的记者，再到被迫面对美国仓促撤离阿富汗所带来后果的年轻阿富汗人和美国海军陆战队员，他们扣人心弦的故事表明，“9·11”的影响不仅存在于历史之中，也体现在它至今仍在改变着无数人的人生。</p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "正片$http://185.92.188.176:2100/20260902/TnBuET59/index.m3u8$$$正片$http://185.92.188.176:2100/share/y7azO2KCxC",
+    "update_time": "2026-09-03 11:15:22",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 147840,
+        "play_from": "no",
+        "play_url": null,
+        "remarks": "正片"
+      }
+    ]
+  },
+  {
     "id": 147466,
     "name": "凡人仙葫第六季",
     "type": "古装仙侠",
@@ -10058,6 +10101,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第06集"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 154147,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "更新至07集"
       }
     ]
   },
@@ -13141,6 +13191,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第25集"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 131585,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第26集"
       }
     ]
   },
@@ -19578,6 +19635,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第4集"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 146300,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第4集"
       }
     ]
   },
@@ -20789,6 +20853,20 @@
         "play_from": "hnm3u8",
         "play_url": null,
         "remarks": "第10集"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 217438,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第15集"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 157928,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第15集"
       }
     ]
   },
@@ -32582,7 +32660,16 @@
     "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; text-wrap-mode: wrap; background-color: #FFFFFF;\">本作已确定分割放送，分上下篇章</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd15.ajupf.com/20260409/s4tzUcm3/index.m3u8#第02集$https://vodcnd16.ajupf.com/20260824/bGcYnb1P/index.m3u8#第03集$https://vodcnd13.ajupf.com/20260422/xwi3Xbd4/index.m3u8#第04集$https://vodcnd15.ajupf.com/20260511/ENAeKFkf/index.m3u8#第05集$https://vodcnd15.ajupf.com/20260511/f0OnHpRD/index.m3u8#第06集$https://vodcnd15.ajupf.com/20260518/bWGOaBEq/index.m3u8#第07集$https://vodcnd15.ajupf.com/20260531/1JcWvzRQ/index.m3u8#第08集$https://vodcnd15.ajupf.com/20260531/mPYYoXUI/index.m3u8#第09集$https://vodcnd15.ajupf.com/20260615/4NhFby2I/index.m3u8#第10集$https://vodcnd15.ajupf.com/20260615/VtW6HQLD/index.m3u8#第11集$https://vodcnd15.ajupf.com/20260627/iNI0Yug2/index.m3u8#第12集$https://vodcnd16.ajupf.com/20260813/KnHcBq5O/index.m3u8#第13集$https://vodcnd17.ajupf.com/20260819/CQnNcHhv/index.m3u8$$$第01集$https://vodcnd15.ajupf.com/share/kXk8sl1M2x#第02集$https://vodcnd16.ajupf.com/share/ciPVUfEQtt#第03集$https://vodcnd13.ajupf.com/share/ZwAXNVI6kD#第04集$https://vodcnd15.ajupf.com/share/DfmmOSuCNQ#第05集$https://vodcnd15.ajupf.com/share/YFkJBZunMR#第06集$https://vodcnd15.ajupf.com/share/7HQ18HesN5#第07集$https://vodcnd15.ajupf.com/share/4DI29t3yBW#第08集$https://vodcnd15.ajupf.com/share/DChcsRuibm#第09集$https://vodcnd15.ajupf.com/share/7R5fAySgfu#第10集$https://vodcnd15.ajupf.com/share/vGzebxc6vY#第11集$https://vodcnd15.ajupf.com/share/2cIWCTVWkE#第12集$https://vodcnd16.ajupf.com/share/58LTK82yU1#第13集$https://vodcnd17.ajupf.com/share/yd1o64frd9",
-    "update_time": "2026-08-24 14:20:42"
+    "update_time": "2026-08-24 14:20:42",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 126299,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第15集完结"
+      }
+    ]
   },
   {
     "id": 145566,
@@ -87399,7 +87486,30 @@
     "content": "<p>暂无简介</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260704/IdRQ6t03/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/MW3FwI18vg",
-    "update_time": "2026-08-09 21:45:32"
+    "update_time": "2026-08-09 21:45:32",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 217482,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "全集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 193359,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 157975,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 143029,
@@ -119780,39 +119890,5 @@
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260617/JoP8Quje/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/Zx3P4cLjkS",
     "update_time": "2026-07-30 20:33:31"
-  },
-  {
-    "id": 140431,
-    "name": "这位诗仙要退婚",
-    "type": "古装仙侠",
-    "year": "2026",
-    "area": "中国大陆",
-    "language": "汉语普通话",
-    "category": "短剧",
-    "poster": "https://dbzy5.com/upload/vod/20260722-1/0811853000f2093ad0e5246d14030584.jpg",
-    "douban_id": 0,
-    "score": "0.0",
-    "remarks": "全集完结",
-    "content": "<p>现代青年梁萧穿越成为蒙冤侯府遗孤，偶遇化名林端的定国侯千金沐琴雪后，爽快撕毁与嫌贫爱富的镇远侯之女婚约。因罪臣身份不能入仕便经商救国，梁萧钻研白糖制法，靠着独门手艺抢占市场，并在丞相诗会赋诗明志，展露才学获朝堂重臣赏识，被女帝册封为一品皇商</p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "全集完结$https://vodcnd15.ajupf.com/20260617/RZBLnJOi/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/FTGel9b8XJ",
-    "update_time": "2026-07-30 20:33:18"
-  },
-  {
-    "id": 141156,
-    "name": "穿成女皇与猫闺蜜逆袭",
-    "type": "古装仙侠",
-    "year": "2026",
-    "area": "中国大陆",
-    "language": "汉语普通话",
-    "category": "短剧",
-    "poster": "https://dbzy5.com/upload/vod/20260727-1/0b01977848a23df16b5d0ffffa7777c1.jpg",
-    "douban_id": 0,
-    "score": "0.0",
-    "remarks": "全集完结",
-    "content": "<p><span style=\"color: #666666; font-family: Arial, sans-serif; font-size: 18px; background-color: #FFFFFF;\">穿越成冷宫弃妃怎么办？还好我有个能言善辩的猫闺蜜！这部AI生成短剧脑洞大开，人猫联手搞事业，从底层逆袭到权倾朝野。剧情紧凑刺激，既有宫廷权谋的烧脑，又有跨物种友谊的温情。看着她们一步步打脸势利眼，简直太解气了。独特视角结合精致画面，带你体验前所未有的古装逆袭之旅。</span></p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "全集完结$https://vodcnd16.ajupf.com/20260723/xaQZZDjw/index.m3u8$$$全集完结$https://vodcnd16.ajupf.com/share/zgc9ClibDV",
-    "update_time": "2026-07-30 20:32:04"
   }
 ]

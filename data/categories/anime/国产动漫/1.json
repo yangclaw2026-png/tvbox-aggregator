@@ -1,5 +1,17 @@
 [
   {
+    "id": 147503,
+    "name": "神魂待卿归",
+    "type": "国产动漫",
+    "category": "动画,恋爱,玄幻,穿越",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260903-1/bf937abb0ba7780f4262d333bdbf3bff.jpg",
+    "score": "5.0",
+    "remarks": "第12集",
+    "update_time": "2026-09-03 11:15:59"
+  },
+  {
     "id": 147208,
     "name": "我在仙界当保安第二季",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第41集",
     "update_time": "2026-08-27 11:33:58"
-  },
-  {
-    "id": 124744,
-    "name": "盗妖行",
-    "type": "国产动漫",
-    "category": "喜剧,动作,动画,奇幻",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260303-1/0aec3801ec27a525fc654c0e25277ed6.jpg",
-    "score": "5.0",
-    "remarks": "第57集",
-    "update_time": "2026-08-27 11:33:20"
   }
 ]

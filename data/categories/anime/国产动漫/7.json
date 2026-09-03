@@ -1,5 +1,17 @@
 [
   {
+    "id": 303,
+    "name": "疯狂升级系统 动态漫画",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2024",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250109-5/d7c8629d9e6058b05ca0c823ef761dea.jpg",
+    "score": "5.0",
+    "remarks": "第136集",
+    "update_time": "2026-08-14 12:14:52"
+  },
+  {
     "id": 131020,
     "name": "三国小剧",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第29集",
     "update_time": "2026-08-06 11:40:35"
-  },
-  {
-    "id": 140542,
-    "name": "是王者啊？第六季",
-    "type": "国产动漫",
-    "category": "喜剧,动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260723-1/c0b47592185955dc8416ff9b3d00a3a1.jpg",
-    "score": "5.0",
-    "remarks": "第4集",
-    "update_time": "2026-08-06 11:38:16"
   }
 ]

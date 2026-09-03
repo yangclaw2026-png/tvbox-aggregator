@@ -1,5 +1,17 @@
 [
   {
+    "id": 145705,
+    "name": "黑胶旅途",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2026",
+    "area": "英国",
+    "poster": "https://dbzy5.com/upload/vod/20260825-1/06bac60b2ce53307c440c812ac063e33.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-25 00:14:42"
+  },
+  {
     "id": 143527,
     "name": "蚝油的鲜味传奇",
     "type": "纪录片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-21 15:57:11"
-  },
-  {
-    "id": 145037,
-    "name": "千驼之地",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260821-1/e2a42c1dd2acd7efa48c1fdb7d5dbb69.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-21 13:25:19"
   }
 ]
