@@ -1,5 +1,17 @@
 [
   {
+    "id": 144198,
+    "name": "哈雷与卡蒂亚",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2022",
+    "area": "澳大利亚",
+    "poster": "https://dbzy5.com/upload/vod/20260817-1/93fd1692b7c3d75d8b7bfd94059ac7a3.webp",
+    "score": "0.0",
+    "remarks": "正片",
+    "update_time": "2026-08-17 13:01:52"
+  },
+  {
     "id": 106772,
     "name": "恐怖来袭：马塞拉·博尔赫斯的故事",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-12 21:15:19"
-  },
-  {
-    "id": 133089,
-    "name": "了不起的中医",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2022",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260523-1/2412553ac43702f3fde907f79b1e6234.jpg",
-    "score": "5.0",
-    "remarks": "第245集",
-    "update_time": "2026-08-12 17:47:58"
   }
 ]

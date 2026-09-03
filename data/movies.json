@@ -1,5 +1,52 @@
 [
   {
+    "id": 147623,
+    "name": "绅士们第二季",
+    "type": "喜剧片",
+    "year": "2026",
+    "area": "英国 ，美国",
+    "language": "英语",
+    "category": "动作 ，犯罪",
+    "poster": "https://dbzy5.com/upload/vod/20260903-1/db428357b3167bb78658c2eb410037d0.webp",
+    "douban_id": 37005231,
+    "score": "5.0",
+    "remarks": "正片",
+    "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; text-wrap-mode: wrap; background-color: #FFFFFF;\">丛林要不断扩张！</span><br style=\"color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 13px; text-wrap-mode: wrap; background-color: rgb(255, 255, 255);\"/><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; text-wrap-mode: wrap; background-color: #FFFFFF;\">　　艾迪公爵（西奥·詹姆斯 饰）带着全新的野心登场。为了让帝国版图持续成长，他将触角延伸到国界之外，杠上意大利黑手党。</span></p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01集$https://vodcnd17.ajupf.com/20260903/U6lMj3Z7/index.m3u8#第02集$https://vodcnd17.ajupf.com/20260903/aTG8JQTw/index.m3u8#第03集$https://vodcnd17.ajupf.com/20260903/DuxVVqF2/index.m3u8#第04集$https://vodcnd17.ajupf.com/20260903/iFLG3D3d/index.m3u8#第05集$https://vodcnd17.ajupf.com/20260903/Y9vsnhf7/index.m3u8#第06集$https://vodcnd17.ajupf.com/20260903/3C4bAZHg/index.m3u8#第07集$https://vodcnd17.ajupf.com/20260903/LpraGv4Z/index.m3u8#第08集$https://vodcnd17.ajupf.com/20260903/O9dnK2Xz/index.m3u8$$$第01集$https://vodcnd17.ajupf.com/20260903/U6lMj3Z7/index.m3u8#第02集$https://vodcnd17.ajupf.com/share/f1ArefiYRX#第03集$https://vodcnd17.ajupf.com/share/3Qlg2dUmF8#第04集$https://vodcnd17.ajupf.com/share/s2vDPqRcmH#第05集$https://vodcnd17.ajupf.com/share/O4JY5DkBN2#第06集$https://vodcnd17.ajupf.com/share/ovdmwx0xA5#第07集$https://vodcnd17.ajupf.com/share/4aS7tAE3na#第08集$https://vodcnd17.ajupf.com/share/zKBDcNxXq5",
+    "update_time": "2026-09-03 18:39:58",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 217542,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第2集"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 193418,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第2集"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 154211,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "全8集"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 158036,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第2集"
+      }
+    ]
+  },
+  {
     "id": 147503,
     "name": "神魂待卿归",
     "type": "国产动漫",
@@ -39,6 +86,13 @@
         "play_from": "no",
         "play_url": null,
         "remarks": "正片"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 155514,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "HD"
       }
     ]
   },
@@ -1188,6 +1242,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至HD"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 155509,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "HD"
       }
     ]
   },
@@ -12808,7 +12869,16 @@
     "content": "<p>俄罗斯整改螃蟹配额体系冲击全球蟹类市场，蟹价飙升至历史高点。美国捕蟹船长需在海上分界线附近与俄罗斯渔船展开竞争，同时对抗狂暴风暴、设备故障、船员冲突、重伤事故，以及突如其来的全球疫情，这场疫情险些让阿拉斯加所有港口提前封港。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd17.ajupf.com/20260826/7qBHv5og/index.m3u8#第02集$https://vodcnd17.ajupf.com/20260826/Qozf5YLA/index.m3u8#第03集$https://vodcnd17.ajupf.com/20260826/hPXKmqtP/index.m3u8#第04集$https://vodcnd17.ajupf.com/20260826/tHrJLdLA/index.m3u8#第05集$https://vodcnd17.ajupf.com/20260826/nU7Fs8Jw/index.m3u8#第06集$https://vodcnd17.ajupf.com/20260826/pFVsPXS9/index.m3u8#第07集$https://vodcnd17.ajupf.com/20260826/J0lGuogu/index.m3u8#第08集$https://vodcnd17.ajupf.com/20260826/CpSzEIsD/index.m3u8$$$第01集$https://vodcnd17.ajupf.com/share/kWdWbIggYL#第02集$https://vodcnd17.ajupf.com/share/ICxrkVWqKA#第03集$https://vodcnd17.ajupf.com/share/CVNKqPbnjB#第04集$https://vodcnd17.ajupf.com/share/qmbKjvgsnl#第05集$https://vodcnd17.ajupf.com/share/MpQ9c1uTyv#第06集$https://vodcnd17.ajupf.com/share/nY3GTaUOPQ#第07集$https://vodcnd17.ajupf.com/share/MP3YFGhN9v#第08集$https://vodcnd17.ajupf.com/share/yiWkHUa9FI",
-    "update_time": "2026-08-27 13:02:27"
+    "update_time": "2026-08-27 13:02:27",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 146467,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第16集"
+      }
+    ]
   },
   {
     "id": 146119,
@@ -12825,7 +12895,16 @@
     "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">源自爆款 IP《Rhythm+Flow》，法国说唱真人秀第五季迎来大换血。二十一位怀揣说唱梦想的年轻人，从法国、比利时、瑞士各地奔赴而来，他们是蛰伏于地下的创作者，渴望借这档节目叩开主流乐坛的大门。</span><br style=\"color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 13px; white-space: normal; background-color: rgb(255, 255, 255);\"/><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">　　赛制重新改写，舞台考验层层加码：即兴 freestyle 考验临场灵气，battle 对决直面针锋相对的对抗，MV 创作、团体公演打磨完整的音乐表达。留任评委埃斯・迪埃姆携手新晋评审泰奥多拉与奥利，以三种截然不同的音乐视角审视每一位参赛者。锋芒碰撞，弱者不断离场，在节拍与韵脚交织的赛场，唯有最出众的说唱新人，方能摘下桂冠，手握十万欧元开启自己的音乐征途。</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.ajupf.com/20260826/iIod23Vn/index.m3u8#第02集$https://vodcnd16.ajupf.com/20260826/aYinh5FK/index.m3u8#第03集$https://vodcnd16.ajupf.com/20260826/hJmvlD9Z/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/MkC81L24sT#第02集$https://vodcnd16.ajupf.com/share/WDlNCDCDz7#第03集$https://vodcnd16.ajupf.com/share/4rInwKorlE",
-    "update_time": "2026-08-27 12:55:34"
+    "update_time": "2026-08-27 12:55:34",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 146463,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第6集"
+      }
+    ]
   },
   {
     "id": 146126,
@@ -13684,6 +13763,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第13集"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 155498,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至第15集"
       }
     ]
   },
@@ -15498,6 +15584,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第10集"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 137725,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第11集"
       }
     ]
   },
@@ -16604,7 +16697,30 @@
     "content": "<p style=\"margin: 0px 0px 1em; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; font-size: 18px; line-height: inherit; font-family: Arial, sans-serif; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; vertical-align: baseline; color: rgb(102, 102, 102); white-space: normal; background-color: rgb(255, 255, 255);\">替嫁和亲的戏码看过不少，但这部AI制作的古风短剧真的让人上头！姐姐替柔弱胞妹远嫁敌国，本以为是一场牺牲，却不想在权谋漩涡中逆风翻盘。深宫之中步步惊心，她既要伪装身份又要周旋于各方势力，当真相即将败露，那个传闻中冷酷的君王却一次次为她破例。AI生成的画面细腻考究，换嫁、宫斗、虐恋层层交织，姐妹情深与自我觉醒双线并进，看得人欲罢不能。</p><p><br/></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260703/TYYLVY9p/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/1iweWznKXU",
-    "update_time": "2026-08-26 21:40:24"
+    "update_time": "2026-08-26 21:40:24",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 217534,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "全集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 193411,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 158023,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 145945,
@@ -23606,7 +23722,30 @@
     "content": "<p>暂无简介</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260703/XKGeOeKQ/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/esbCgMYmcI",
-    "update_time": "2026-08-25 22:13:15"
+    "update_time": "2026-08-25 22:13:15",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 217533,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "全集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 193407,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 158025,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 145899,
@@ -23623,7 +23762,30 @@
     "content": "<p>暂无简介</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260703/7zCAdlhV/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/LqwpkFCFER",
-    "update_time": "2026-08-25 22:11:01"
+    "update_time": "2026-08-25 22:11:01",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 217528,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "全集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 193405,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 158022,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 145898,
@@ -23657,7 +23819,30 @@
     "content": "<p>大周长公主阮栖月前世倾心大将军谢寻川，却遭对方偏爱庶妹、受尽折辱后惨死边疆，谢寻川余生悔恨战死沙场。重生后她放下情愫主动远赴北境和亲，谢寻川大婚发现被骗，千里奔赴苦苦挽回却被心死的公主拒绝。阮栖月凭胆识获得可汗赫连苍倾心，庶妹屡次设局加害，阴谋尽数败露。最终公主留在大漠与可汗相伴，谢寻川独守中原，终生活在悔恨之中。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260703/QWnFvnTh/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/F86UfGeC0R",
-    "update_time": "2026-08-25 22:08:32"
+    "update_time": "2026-08-25 22:08:32",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 217529,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "全集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 193408,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 158026,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 145896,
@@ -23674,7 +23859,30 @@
     "content": "<p>将军府养女楚晏，替亲生妹妹楚盈顶罪入掖庭司为奴三年。出宫前夜，她反杀陷害、撞破兰陵王秦彻昼冷夜痴的秘密，却被将军府逼婚、活埋陪葬。死里逃生的她，得知自己才是真千金，一路复仇虐渣、守护祖母、查清身世阴谋，与秦彻相知相爱，联手扳倒幕后黑手，终获幸福。</p>",
     "play_from": "dbm3u8$$$dbm3u8",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260703/BS3NnD1V/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/1d5fJJfZZA",
-    "update_time": "2026-08-25 22:06:59"
+    "update_time": "2026-08-25 22:06:59",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 217535,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "全集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 193412,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 158028,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 140403,
@@ -23731,7 +23939,30 @@
     "content": "<p>刚化形的毒蘑菇被走火入魔的万妖之主抓住，为了不被生吞，我编了个弥天大谎，说他与仙界帝君有宿世纠葛。他信了，整个魔渊把我当祖宗供着，仙界为此内讧到帝君亲自带兵来要人。我本想水浑了好跑路，却被这疯批魔尊种下伴生锁，他的伤十倍还我，他死我先亡。没办法，只能硬着头皮继续演，替他退敌、安抚暴走的魔气、甚至冲进他识海里救人。谎言越滚越大，当我以为被揭穿必死无疑时，他却当着三界说那都是假的，但有夫人了。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260703/2gYf2AZ3/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/M7S6Pa5LkD",
-    "update_time": "2026-08-25 22:05:37"
+    "update_time": "2026-08-25 22:05:37",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 217540,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "全集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 193415,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 158032,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 145894,
@@ -23748,7 +23979,30 @@
     "content": "<p>商姎与商弈是一对长相酷似的龙凤胎姐弟，两人在学校向来保持距离，从不对外表露至亲关系，一人随性洒脱，一人清冷优秀，性格截然不同，意外觉醒记忆后的商姎，一心守护温柔内敛的弟弟，用心化解家庭里的微妙隔阂，从容应对校园中的人际纷扰，在日常相处里慢慢拉近姐弟距离，携手解锁生活里的温柔点滴，在成长路上彼此陪伴，奔赴属于自己的温暖时光。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260703/3N8GBS3D/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/11Bw6uiyRT",
-    "update_time": "2026-08-25 22:04:02"
+    "update_time": "2026-08-25 22:04:02",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 217530,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "全集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 193409,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 158027,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 139839,
@@ -23880,7 +24134,30 @@
     "content": "<p>逃婚第一天姐妹同心，第二天东躲西藏，第三天茶棚歇脚被未婚夫堵住。二位公子腿不酸？认错人了。那正好我未婚妻跑了就你了。妹妹崩溃说姐我就说别穿你男装胸都勒不住。一百里白跑糖葫芦害人。打不过认了回家拜堂。姐姐临走撂话跪三天搓衣板。未婚夫笑说成跪着拜堂也行。妹妹捂脸说我好像不想跑了。姐姐一把拽走说闭嘴叛徒。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260703/IJ8K3QGR/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/ieGRZihAU1",
-    "update_time": "2026-08-25 22:01:09"
+    "update_time": "2026-08-25 22:01:09",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 217532,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "全集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 193406,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 158024,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 141252,
@@ -23937,7 +24214,30 @@
     "content": "<p>一道赐婚圣旨将两人绑为夫妻，向往自由的云瑶被迫困入王府，日日花式作妖闯祸。萧澈人前他依旧淡漠威严，人后独独纵容她所有胡闹，暗藏十年的情愫，旁人眼中杀伐阎王，只对云瑶一人温柔缱绻，稍有旁人靠近便醋意大发掀起修罗场，迟钝云瑶浑然不知自己早已被王爷攥紧在心尖，开启一边沙雕闯祸、一边被偏执王爷独宠拿捏的婚后日常。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260703/vMFmtAVh/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/GfGylo9OjT",
-    "update_time": "2026-08-25 21:59:39"
+    "update_time": "2026-08-25 21:59:39",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 217522,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "全集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 193399,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 158015,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 144562,
@@ -23994,7 +24294,30 @@
     "content": "<p>镇北王府小纨绔沈扶摇被赐婚给病弱太子萧景珩冲喜。面对刁难找茬，她强势回击，护夫到底。本欲三年后潇洒离开，清冷腹黑的太子却将她步步宠进心里。两人从互相嫌弃到并肩破局，假夫妻变真护短。这场全京城不看好的婚事，终成最让人眼红的偏爱。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260703/SQfXpTvl/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/LCfJZevP4B",
-    "update_time": "2026-08-25 21:57:53"
+    "update_time": "2026-08-25 21:57:53",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 217536,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "全集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 193414,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 158030,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 139728,
@@ -24051,7 +24374,30 @@
     "content": "<p>折月坠落魔渊醒来后，眼前这个浑身魔气的男人对她说，我是你夫君。她信了，楼弃本想将错就错报复三百年前被封印之仇，谁料她眉心的邪气与他心口的剑印命脉相连，她疼他便疼。于是魔尊大人一边骂晦气，一边亲手喂药、哄睡、撸凶兽，被折月软软唤一声夫君就耳根通红。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260703/SmRIpXrG/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/8B3AxaLYOx",
-    "update_time": "2026-08-25 21:54:37"
+    "update_time": "2026-08-25 21:54:37",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 217531,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "全集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 193410,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 158020,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 145889,
@@ -24068,7 +24414,30 @@
     "content": "<p>现代社畜姜晚宁因地府失误穿越到古代乡村，成了病弱书生沈书砚的妻子。面对贫寒家境、误会与亲族纷争，她凭借乐观与巧思，把现代小家变成生活助力，做美食、摆小摊、攒银钱，一步步改善日子。沈书砚也在相处中放下防备，与她并肩守家谋生，迎接风雨后的新未来。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260703/pV7CRpmd/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/HrARvlRV31",
-    "update_time": "2026-08-25 21:53:00"
+    "update_time": "2026-08-25 21:53:00",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 217539,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "全集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 193417,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 158034,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 145888,
@@ -24085,7 +24454,30 @@
     "content": "<p>暂无简介</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260703/uq9vdrkv/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/wcFfAHGTcd",
-    "update_time": "2026-08-25 21:51:12"
+    "update_time": "2026-08-25 21:51:12",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 217525,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "全集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 193401,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 158017,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 145887,
@@ -24119,7 +24511,30 @@
     "content": "<p>被家族视为灾星的宋阿梨，替嫡姐嫁给权倾天下的北镇王裴稷。三年夫妻，她以为自己只是他的玩物，却不知早已被他放进心里。嫡姐觊觎王妃之位，联合父母毒杀阿梨，顶替她的人生。魂魄不散的阿梨亲眼看着真相被掩埋，也看着那个冷血王爷一步步追查真相，为她复仇雪恨，在梨花尽处寻回此生唯一挚爱。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260703/5Hi5nEet/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/Ys8nwoZ9ds",
-    "update_time": "2026-08-25 21:48:03"
+    "update_time": "2026-08-25 21:48:03",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 217526,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "全集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 193402,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 158018,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 145884,
@@ -24153,7 +24568,30 @@
     "content": "<p>暂无简介</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260703/wOjAsxZC/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/wMNfaBYTmY",
-    "update_time": "2026-08-25 21:44:06"
+    "update_time": "2026-08-25 21:44:06",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 217523,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "全集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 193403,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 158019,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 145882,
@@ -24187,7 +24625,30 @@
     "content": "<p>现代少女苏清梨触碰古美人画卷，意外被困画中，仅有麒麟阿九相伴。这幅古画落到帝王淳于烈手中，他总发现寝殿点心莫名消失，望着画中人心中满是熟悉感，百官催婚不断，他却当众册封画卷为后。千年执念促成今生相遇。待少女破画现世，独宠帝王护她周全，续写跨越轮回的甜蜜情缘。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260703/XLUdsJJt/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/XypchrYGEI",
-    "update_time": "2026-08-25 21:42:16"
+    "update_time": "2026-08-25 21:42:16",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 217538,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "全集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 193416,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 158033,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 145880,
@@ -24204,7 +24665,30 @@
     "content": "<p>孤女姜叙宁赴京投靠姨母，不喜轻浮表哥顾择衍，倾心正直的谢端之，屡次示好却遭回避。诗会谢端之解围表露情意，姜叙宁却撞见他出入春楼，心生隔阂决意回乡太仓。渡口谢端之澄清是办案，一路追随。顾择衍登门求娶时，谢端之当众许下专一诺言，二人互通心意。后谢端之高中状元，上门提亲，二人成婚相守。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260703/b9VxDTTb/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/zoCd7p4zOR",
-    "update_time": "2026-08-25 21:40:49"
+    "update_time": "2026-08-25 21:40:49",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 217524,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "全集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 193400,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 158016,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 145879,
@@ -45983,7 +46467,16 @@
     "content": "<p><span style=\"color: #222222; font-family: -apple-system, BlinkMacSystemFont, \">身世孤苦的林晚禾无奈被迫</span><a target=\"_blank\" href=\"https://www.kandianying.tv/tag/tijia/\" title=\"View all posts in 替嫁\" style=\"box-sizing: border-box; color: rgb(35, 35, 35); transition: 0.3s ease-in; box-shadow: rgb(255, 82, 43) 0px -1px 0px 0px inset; font-family: -apple-system, BlinkMacSystemFont, \">替嫁</a><span style=\"color: #222222; font-family: -apple-system, BlinkMacSystemFont, \">，嫁给山村沉默寡言的陆砚山。起初她满心忐忑，以为往后日子满是煎熬。相处过后才慢慢发觉，男人默默收好她丢掉的细碎物件。虽无法言语，遇事却挺身护她，直面挑事的亲友，用质朴笨拙的行动倾注爱意，日复一日细心呵护，将命运坎坷的她悉心宠爱。</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260624/EYwnZscO/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/S7w7pqmMQW",
-    "update_time": "2026-08-22 11:27:55"
+    "update_time": "2026-08-22 11:27:55",
+    "play_sources": [
+      {
+        "source": "索尼资源",
+        "source_id": 154169,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "全集"
+      }
+    ]
   },
   {
     "id": 6777,
@@ -64819,7 +65312,16 @@
     "content": "<p>谁说年纪大了就不能翻身？四十岁宫女硬是靠实力杀出一条血路 。AI 生成的这部古装大戏把 ” 大龄逆袭 ” 玩出了新高度，从底层小透明到母仪天下，每一步都让人捏把汗，剧情紧凑不拖沓，非常上头 。&nbsp;&nbsp;&nbsp;&nbsp;</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260622/4tdvqOi8/index.m3u8#$$$全集完结$https://vodcnd15.ajupf.com/share/4TyExS98qj#",
-    "update_time": "2026-08-17 18:46:42"
+    "update_time": "2026-08-17 18:46:42",
+    "play_sources": [
+      {
+        "source": "索尼资源",
+        "source_id": 154161,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "全集"
+      }
+    ]
   },
   {
     "id": 144339,
@@ -68926,7 +69428,30 @@
     "content": "<p>《国粤无双》是浙江卫视、中央宣传部电影卫星频道联合推出的节目。该节目每期嘉宾分组对抗，观众现场票选每期“主题金曲”，最终汇编《粤无双》实体专辑，并直通国家级文艺舞台。节目计划于2026年第二季度周六黄金档在浙江卫视、中央宣传部电影卫星频道播出。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第20260516期先导片$https://vodcnd13.ajupf.com/20260516/zqtv0gLg/index.m3u8#第20260516期金曲Z盛典$https://vodcnd13.ajupf.com/20260516/GMxWreLl/index.m3u8#20260523第1期首轮$https://vodcnd15.ajupf.com/20260523/l9ysgoJy/index.m3u8#第20260524期舞台纯享$https://vodcnd15.ajupf.com/20260524/8BAIpPNr/index.m3u8#第20260524期星乐秀$https://vodcnd15.ajupf.com/20260524/Yj5Xeje4/index.m3u8#第20260528期发布会$https://vodcnd15.ajupf.com/20260529/KxMC9Ha4/index.m3u8#20260530第2期$https://vodcnd15.ajupf.com/20260530/9nM3hzaS/index.m3u8#20260531第2期舞台纯享$https://vodcnd15.ajupf.com/20260531/dxoffWwg/index.m3u8#20260606第3期$https://vodcnd03.myqqdd.com/20260606/9tTqhipD/index.m3u8#第20260607期星乐秀$https://vodcnd15.ajupf.com/20260607/w6KKroGJ/index.m3u8#20260613第4期$https://vodcnd15.ajupf.com/20260613/fyKP7mql/index.m3u8#20260614第4期舞台纯享$https://vodcnd15.ajupf.com/20260614/3CbykqRA/index.m3u8#第20260616期彩蛋1$https://vodcnd15.ajupf.com/20260616/iVlz1k6P/index.m3u8#第20260616期彩蛋2$https://vodcnd15.ajupf.com/20260616/TicBPSSb/index.m3u8#第20260616期彩蛋3$https://vodcnd15.ajupf.com/20260616/zEeD23bX/index.m3u8#第20260616期彩蛋4$https://vodcnd15.ajupf.com/20260616/rLUNprrz/index.m3u8#第20260616期彩蛋5$https://vodcnd15.ajupf.com/20260616/xZL7dlLy/index.m3u8#20260620第5期$https://vodcnd15.ajupf.com/20260621/nyN0E9ij/index.m3u8#20260621第5期舞台纯享$https://vodcnd15.ajupf.com/20260621/u01ENJaj/index.m3u8#20260627第6期$https://vodcnd15.ajupf.com/20260628/R3VnaCKO/index.m3u8#20260628第6期舞台纯享$https://vodcnd15.ajupf.com/20260628/HRf4IDLi/index.m3u8#20260704第7期$https://vodcnd15.ajupf.com/20260704/1GGaM6Xa/index.m3u8#20260705第7期舞台纯享$https://vodcnd15.ajupf.com/20260705/DQ06AeIN/index.m3u8#第20260718期$https://vodcnd16.ajupf.com/20260718/swVvtgKf/index.m3u8#20260719第8期$https://vodcnd16.ajupf.com/20260719/ui41Lyiz/index.m3u8#20260725第9期$https://vodcnd16.ajupf.com/20260725/BDKWqt9O/index.m3u8#20260726第9期舞台纯享$https://vodcnd16.ajupf.com/20260726/UKr3eN7Z/index.m3u8#第20260801期$https://vodcnd17.ajupf.com/20260801/lqUHz8qk/index.m3u8#20260802第10期舞台纯享 $https://vodcnd17.ajupf.com/share/4DpT4rEVS9#20260808第11期$https://vodcnd17.ajupf.com/20260808/53QuJGFl/index.m3u8#20260809第11期舞台纯享$https://vodcnd16.ajupf.com/20260809/X6ilFTEe/index.m3u8#第20260815期宋亚轩黄子弘凡正太扭腰 周深陈小春同台《借过一下》$https://vodcnd17.ajupf.com/20260816/kqIBwVGm/index.m3u8#20260816第12期舞台纯享 周深宋亚轩合唱新版《小美满》$https://vodcnd17.ajupf.com/20260816/60lQdHci/index.m3u8$$$第20260516期先导片$https://vodcnd13.ajupf.com/share/CuPTIETyIs#第20260516期金曲Z盛典$https://vodcnd13.ajupf.com/share/A5DWV7hWgl#20260523第1期首轮$https://vodcnd15.ajupf.com/share/k91bjZCb41#第20260524期舞台纯享$https://vodcnd15.ajupf.com/share/uM7WpG1jRf#第20260524期星乐秀$https://vodcnd15.ajupf.com/share/4sdLi8toM1#第20260528期发布会$https://vodcnd15.ajupf.com/share/Z2gaE44wxc#20260530第2期$https://vodcnd15.ajupf.com/share/NzCaCjfwwH#20260531第2期舞台纯享$https://vodcnd15.ajupf.com/share/FsVBsWqRED#20260606第3期$https://vodcnd03.myqqdd.com/share/scb4IRoWQZ#第20260607期星乐秀$https://vodcnd15.ajupf.com/share/pD7m00c9Du#20260613第4期$https://vodcnd15.ajupf.com/share/mQMhUQKpgK#20260614第4期舞台纯享$https://vodcnd15.ajupf.com/share/RcmBhh7AOl#第20260616期彩蛋1$https://vodcnd15.ajupf.com/share/m6GahDifop#第20260616期彩蛋2$https://vodcnd15.ajupf.com/share/S0yJIWmo8j#第20260616期彩蛋3$https://vodcnd15.ajupf.com/share/fZydbloEY0#第20260616期彩蛋4$https://vodcnd15.ajupf.com/share/mMVcDvBEPB#第20260616期彩蛋5$https://vodcnd15.ajupf.com/share/WzbOBPxirM#20260620第5期$https://vodcnd15.ajupf.com/share/EZwxBCFsLX#20260621第5期舞台纯享$https://vodcnd15.ajupf.com/share/DuLePVcJmR#20260627第6期$https://vodcnd15.ajupf.com/share/PUqcV0KBap#20260628第6期舞台纯享$https://vodcnd15.ajupf.com/share/MPukS25En1#20260704第7期$https://vodcnd15.ajupf.com/share/evUhC6V41Q#20260705第7期舞台纯享$https://vodcnd15.ajupf.com/share/jkNHslepls#第20260718期$https://vodcnd16.ajupf.com/share/0TrKmxfCVL#20260719第8期$https://vodcnd16.ajupf.com/share/3WSn9Deki7#20260725第9期$https://vodcnd16.ajupf.com/share/MQzph5PfVJ#20260726第9期舞台纯享$https://vodcnd16.ajupf.com/share/onrajYG8aJ#第20260801期$https://vodcnd17.ajupf.com/share/qDT3WFJuFF#20260802第10期舞台纯享 $https://vodcnd17.ajupf.com/20260802/XVNAC7Dg/index.m3u8#20260808第11期$https://vodcnd17.ajupf.com/share/CFzBX8qpOj#20260809第11期舞台纯享$https://vodcnd16.ajupf.com/share/hM5yIS3a1o#第20260815期宋亚轩黄子弘凡正太扭腰 周深陈小春同台《借过一下》$https://vodcnd17.ajupf.com/share/06IDu0T6Bm#20260816第12期舞台纯享 周深宋亚轩合唱新版《小美满》$https://vodcnd17.ajupf.com/share/vp6bTEhIxk",
-    "update_time": "2026-08-16 15:28:44"
+    "update_time": "2026-08-16 15:28:44",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 177588,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "星乐秀第12期"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 153348,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "星乐秀第12期"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 117700,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "星乐秀第12期"
+      }
+    ]
   },
   {
     "id": 144067,
@@ -79579,7 +80104,23 @@
     "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">正式成为up主。我会和各界大牛聊科技、人文、世界、时代、男女、爹青，以及人生所有的十字路口</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "https://vodcnd17.ajupf.com/20260811/oxRNLy9H/index.m3u8#https://vodcnd17.ajupf.com/20260811/T89LW57U/index.m3u8#https://vodcnd17.ajupf.com/20260811/Fb28YgHC/index.m3u8#https://vodcnd17.ajupf.com/20260811/pk8nb1eh/index.m3u8#https://vodcnd17.ajupf.com/20260811/8VJwMnIG/index.m3u8#https://vodcnd17.ajupf.com/20260811/MHBTDOzJ/index.m3u8#https://vodcnd17.ajupf.com/20260811/zsM2eAx5/index.m3u8#https://vodcnd17.ajupf.com/20260811/Tjt1Sp4z/index.m3u8#https://vodcnd17.ajupf.com/20260811/xwDmN0lz/index.m3u8#https://vodcnd17.ajupf.com/20260811/aapHjg9e/index.m3u8#https://vodcnd17.ajupf.com/20260811/LbColsWT/index.m3u8#https://vodcnd17.ajupf.com/20260811/bN0ZOSTy/index.m3u8#https://vodcnd17.ajupf.com/20260811/6snJPm7S/index.m3u8#https://vodcnd17.ajupf.com/20260811/EPr3ednN/index.m3u8#https://vodcnd17.ajupf.com/20260811/KG3hmuCA/index.m3u8#https://vodcnd17.ajupf.com/20260811/dlo9SDrh/index.m3u8#https://vodcnd17.ajupf.com/20260811/qyRW5hOf/index.m3u8#https://vodcnd17.ajupf.com/20260811/gnTfhL6j/index.m3u8#$$$第01集$https://vodcnd17.ajupf.com/share/b81nebW873#第02集$https://vodcnd17.ajupf.com/share/zhfgKBr2eX#第03集$https://vodcnd17.ajupf.com/share/78gkr0bzob#第04集$https://vodcnd17.ajupf.com/share/ojhyrudqui#第05集$https://vodcnd17.ajupf.com/share/Sp5B1a36UL#第06集$https://vodcnd17.ajupf.com/share/BT45YhLLvQ#第07集$https://vodcnd17.ajupf.com/share/G9tkPcy5c6#第08集$https://vodcnd17.ajupf.com/share/yZguLUHPK3#第09集$https://vodcnd17.ajupf.com/share/ZxKUugPlqf#第10集$https://vodcnd17.ajupf.com/share/i1Ty8a0YC0#第11集$https://vodcnd17.ajupf.com/share/xo7l0GdpRB#第12集$https://vodcnd17.ajupf.com/share/r9jvQkE8ix#第13集$https://vodcnd17.ajupf.com/share/sLgbeSzdPL#第14集$https://vodcnd17.ajupf.com/share/dMnUoXkTCc#第15集$https://vodcnd17.ajupf.com/share/te4OdOaEmN#第16集$https://vodcnd17.ajupf.com/share/X7ScQd7p5k#第17集$https://vodcnd17.ajupf.com/share/lfFrQENIO9#第18集$https://vodcnd17.ajupf.com/share/pwiiJQOhkI",
-    "update_time": "2026-08-12 11:43:24"
+    "update_time": "2026-08-12 11:43:24",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 143675,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第20260901期"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 137536,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至20260901期"
+      }
+    ]
   },
   {
     "id": 140923,
@@ -86857,7 +87398,30 @@
     "content": "<p>丧尸末世，S级雷系异能者傅景霖被至亲与未婚妻联手欺骗，在研究所被强行剥夺异能，沦为废人并被推入尸潮。濒死之际，他体内SSS级“无限复制”异能觉醒，开启复仇之路。然而，背叛背后隐藏着名为“普罗米修斯计划”的庞大阴谋。当他为寻求真相进入基地，却逐步落入幕后黑手精心设计的圈套，最终不得不直面自己的身世，觉醒终极力量，改写末日规则。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260703/9eFcPViK/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/78T3grpRgm",
-    "update_time": "2026-08-09 22:49:13"
+    "update_time": "2026-08-09 22:49:13",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 217537,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "全集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 193413,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 158029,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 143049,
@@ -87469,7 +88033,16 @@
     "content": "<p>暂无简介</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260704/XIloO0Ew/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/ScYnVnSoN2",
-    "update_time": "2026-08-09 21:46:04"
+    "update_time": "2026-08-09 21:46:04",
+    "play_sources": [
+      {
+        "source": "红牛资源",
+        "source_id": 193373,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 142985,
@@ -99917,7 +100490,16 @@
     "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">《穆菲 (Muifei)》围绕着信仰、仪式，以及一个为全村人“替罪挡灾”之人的深重怨念展开。这份怨念最终化为复仇的厉鬼，向曾经伤害过她的人展开血腥报复。mufei（帕特·查雅妮 饰）是一个山地部落的年轻女子，她在村里肩负着神圣的职责——作为“灵媒（神明坐骑）”去替村民们承受所有的灾祸。直到她遇到了来自城市的年轻男子phum（Offroad Kantapon 饰），并萌生了一段禁忌之恋，于是她选择逃离村庄。然而，逃亡后的生活异常艰苦，她甚至不幸被骗沦为娼妓，遭受了近乎致命的残酷虐待。自此，她唯一的生存目标就是回到一切开始的地方进行复仇，她化身为复仇的厉鬼，将伤害过她的人逐一猎杀，让他们付出惨痛的代价。</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd15.ajupf.com/20260621/TZyLIpb9/index.m3u8#第02集$https://vodcnd15.ajupf.com/20260621/qGSICzUY/index.m3u8#第03集$https://vodcnd17.ajupf.com/20260805/MDoUT10b/index.m3u8#第04集$https://vodcnd17.ajupf.com/20260805/DTEoXzZw/index.m3u8#第05集$https://vodcnd17.ajupf.com/20260805/1idWJrxB/index.m3u8#第06集$https://vodcnd17.ajupf.com/20260805/4UqGkyrx/index.m3u8#第07集$https://vodcnd17.ajupf.com/20260805/Y38fUS8m/index.m3u8$$$第01集$https://vodcnd15.ajupf.com/share/bi8gBOn3KK#第02集$https://vodcnd15.ajupf.com/share/X8f8Z11s43#第03集$https://vodcnd17.ajupf.com/share/oN9a8f7J50#第04集$https://vodcnd17.ajupf.com/share/bh10c04CYz#第05集$https://vodcnd17.ajupf.com/share/pRHtb5kxk2#第06集$https://vodcnd17.ajupf.com/share/xP9DP93fgh#第07集$https://vodcnd17.ajupf.com/share/ppj9Xc5E3m",
-    "update_time": "2026-08-05 18:23:13"
+    "update_time": "2026-08-05 18:23:13",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 137504,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第9集"
+      }
+    ]
   },
   {
     "id": 142353,
@@ -113950,6 +114532,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "正片"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 155511,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "HD"
       }
     ]
   },
@@ -119873,22 +120462,5 @@
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "正片$https://vodcnd15.ajupf.com/20260617/PYaBXWOy/index.m3u8$$$正片$https://vodcnd15.ajupf.com/share/sGkZUgbyOz",
     "update_time": "2026-07-30 20:34:05"
-  },
-  {
-    "id": 140430,
-    "name": "小商女，挺挺狠，劫个夫君是权臣",
-    "type": "古装仙侠",
-    "year": "2026",
-    "area": "中国大陆",
-    "language": "汉语普通话",
-    "category": "短剧",
-    "poster": "https://dbzy5.com/upload/vod/20260722-1/68daf48c5e49ce8502cacf6de3bed4cb.jpg",
-    "douban_id": 0,
-    "score": "0.0",
-    "remarks": "全集完结",
-    "content": "<p>暂无简介</p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "全集完结$https://vodcnd15.ajupf.com/20260617/JoP8Quje/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/Zx3P4cLjkS",
-    "update_time": "2026-07-30 20:33:31"
   }
 ]

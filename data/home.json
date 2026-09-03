@@ -1,5 +1,17 @@
 [
   {
+    "id": 147623,
+    "name": "绅士们第二季",
+    "type": "喜剧片",
+    "category": "动作 ，犯罪",
+    "year": "2026",
+    "area": "英国 ，美国",
+    "poster": "https://dbzy5.com/upload/vod/20260903-1/db428357b3167bb78658c2eb410037d0.webp",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-09-03 18:39:58"
+  },
+  {
     "id": 147503,
     "name": "神魂待卿归",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "20260831",
     "update_time": "2026-09-01 19:06:31"
-  },
-  {
-    "id": 147209,
-    "name": "26_27赛季意甲第2轮全场回放：卡利亚里vs国际米兰",
-    "type": "足球",
-    "category": "体育",
-    "year": "2026",
-    "area": "",
-    "poster": "https://dbzy5.com/upload/vod/20260901-1/e85694cf820f6deecf8009cd1a6e8b2c.jpg",
-    "score": "5.0",
-    "remarks": "20260831",
-    "update_time": "2026-09-01 19:03:58"
   }
 ]

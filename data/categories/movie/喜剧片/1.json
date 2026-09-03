@@ -1,5 +1,17 @@
 [
   {
+    "id": 147623,
+    "name": "绅士们第二季",
+    "type": "喜剧片",
+    "category": "动作 ，犯罪",
+    "year": "2026",
+    "area": "英国 ，美国",
+    "poster": "https://dbzy5.com/upload/vod/20260903-1/db428357b3167bb78658c2eb410037d0.webp",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-09-03 18:39:58"
+  },
+  {
     "id": 141622,
     "name": "疯狂圣诞假期",
     "type": "喜剧片",
@@ -586,17 +598,5 @@
     "score": "5.7",
     "remarks": "正片",
     "update_time": "2026-08-03 16:08:08"
-  },
-  {
-    "id": 141992,
-    "name": "疯狂万圣夜",
-    "type": "喜剧片",
-    "category": "喜剧",
-    "year": "2012",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/b239ffc10f579a85b0f723fdb2cc6897.jpg",
-    "score": "5.6",
-    "remarks": "正片",
-    "update_time": "2026-08-03 15:57:49"
   }
 ]

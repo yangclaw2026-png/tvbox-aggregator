@@ -1,5 +1,17 @@
 [
   {
+    "id": 93669,
+    "name": "英湘",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "1976",
+    "area": "菲律宾",
+    "poster": "https://dbzy5.com/upload/vod/20250527-1/60cd4be11c3d54bda6aec9d9cf78721b.jpg",
+    "score": "7.3",
+    "remarks": "正片",
+    "update_time": "2026-07-31 20:56:26"
+  },
+  {
     "id": 62437,
     "name": "绝对统治",
     "type": "恐怖片",
@@ -586,17 +598,5 @@
     "score": "8.3",
     "remarks": "正片",
     "update_time": "2026-07-31 14:57:11"
-  },
-  {
-    "id": 141624,
-    "name": "完美陌生人(印度版)",
-    "type": "剧情片",
-    "category": "剧情,喜剧",
-    "year": "2024",
-    "area": "印度",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/fcf7bfac2ecd34d42cf72eee695db132.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-31 14:56:23"
   }
 ]

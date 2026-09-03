@@ -1,5 +1,17 @@
 [
   {
+    "id": 141992,
+    "name": "疯狂万圣夜",
+    "type": "喜剧片",
+    "category": "喜剧",
+    "year": "2012",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260803-1/b239ffc10f579a85b0f723fdb2cc6897.jpg",
+    "score": "5.6",
+    "remarks": "正片",
+    "update_time": "2026-08-03 15:57:49"
+  },
+  {
     "id": 141983,
     "name": "M&amp;M：购物中心越热闹越好",
     "type": "喜剧片",
@@ -586,17 +598,5 @@
     "score": "7.7",
     "remarks": "正片",
     "update_time": "2026-07-30 22:22:44"
-  },
-  {
-    "id": 141548,
-    "name": "爱情小课",
-    "type": "喜剧片",
-    "category": "喜剧,爱情",
-    "year": "2021",
-    "area": "法国,瑞士",
-    "poster": "https://dbzy5.com/upload/vod/20260730-1/5054a648e55bc041eaeec5c3617bdd1b.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-30 20:48:41"
   }
 ]
