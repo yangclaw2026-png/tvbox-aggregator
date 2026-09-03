@@ -485,6 +485,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第2集"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 155588,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
@@ -44246,7 +44253,16 @@
     "content": "<p>尼古喵喵是只超爱抽烟的废物兽人！因为缺乏伦理与卫生观念，不是把烟头往窗外乱丢，就是对人乱吐口水，偶尔还会做出一些违法乱纪的事。幸好她身边有贴心的管家婆妹妹猫以及好友猫作伴，让她依旧能每天吞云吐雾、得过且过的生活着。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd15.ajupf.com/20260704/YQT28TE6/index.m3u8#第02集$https://vodcnd16.ajupf.com/20260717/O9sc6b7I/index.m3u8#第03集$https://vodcnd16.ajupf.com/20260718/mWu1MX0q/index.m3u8#第04集$https://vodcnd16.ajupf.com/20260725/amEEZupI/index.m3u8#第05集$https://vodcnd16.ajupf.com/20260803/IlXytRze/index.m3u8#第06集$https://vodcnd16.ajupf.com/20260808/ENBnSEpH/index.m3u8#第07集$https://vodcnd16.ajupf.com/20260818/YUAycEWC/index.m3u8#第08集$https://vodcnd16.ajupf.com/20260822/dd8iRjP7/index.m3u8$$$第01集$https://vodcnd15.ajupf.com/share/Dg6DI8SFSK#第02集$https://vodcnd16.ajupf.com/share/9oTlcf1fnX#第03集$https://vodcnd16.ajupf.com/share/qAxtI62Wdi#第04集$https://vodcnd16.ajupf.com/share/JtN8M00Nt5#第05集$https://vodcnd16.ajupf.com/share/h0si95TTA8#第06集$https://vodcnd16.ajupf.com/share/GpNJZYglro#第07集$https://vodcnd16.ajupf.com/share/lhT1drMFrO#第08集$https://vodcnd16.ajupf.com/share/UF3YGBk83P",
-    "update_time": "2026-08-22 17:03:23"
+    "update_time": "2026-08-22 17:03:23",
+    "play_sources": [
+      {
+        "source": "量子资源",
+        "source_id": 144596,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至第09集"
+      }
+    ]
   },
   {
     "id": 138388,
@@ -84371,7 +84387,16 @@
     "content": "<p><span style=\"color: #666666; font-family: Arial, sans-serif; font-size: 18px; background-color: #FFFFFF;\">当权倾朝野的皇叔遇上心狠手辣的魔皇，谁会成为谁的掌中娇？这部AI制作的宫廷短剧讲述了一段禁忌的宫廷爱情。从敌对到相爱，从利用到真心，一段惊心动魄的宫廷恋情就此展开。甜宠剧情、古风元素、AI生成的华丽画面，让你沉浸在古代宫廷的浪漫与权谋中。当皇叔遇上魔皇，当权力遇上爱情，谁会成为最终的赢家？</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260710/WYOYjS6d/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/lEYLNeiHyK",
-    "update_time": "2026-08-10 22:58:24"
+    "update_time": "2026-08-10 22:58:24",
+    "play_sources": [
+      {
+        "source": "量子资源",
+        "source_id": 155628,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
+      }
+    ]
   },
   {
     "id": 143166,
