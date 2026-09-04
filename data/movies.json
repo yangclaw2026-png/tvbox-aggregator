@@ -36841,7 +36841,30 @@
     "content": "<p>《AI 了，大医生》是全国首档“AI+医学”全媒体健康科普节目，第一季大咖季由湖北广播电视台联合湖北省医师协会策划推出，“人民英雄”国家荣誉称号获得者张定宇联合发起。节目引入具身智能机器人，汇聚顶尖医学专家，结合 AR 可视化、AI 大数据、人机辩论等创新形式，解读民生健康热点、展示智慧医疗前沿成果，打通权威医学科普传播新路径。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "20260725第1期$https://vodcnd16.ajupf.com/20260811/ysWDlpJD/index.m3u8#20260725第2期$https://vodcnd16.ajupf.com/20260811/YaNMNnYo/index.m3u8#20260806第3期$https://vodcnd16.ajupf.com/20260811/zm8sxE4l/index.m3u8#20260823第4期$https://vodcnd16.ajupf.com/20260823/EvGHjVGj/index.m3u8$$$20260725第1期$https://vodcnd16.ajupf.com/share/0lQ1pIRJyR#20260725第2期$https://vodcnd16.ajupf.com/share/yxOVGRJ52K#20260806第3期$https://vodcnd16.ajupf.com/share/ciRK0ey2gw#20260823第4期$https://vodcnd16.ajupf.com/share/Pz2xQIfx3l",
-    "update_time": "2026-08-23 22:15:12"
+    "update_time": "2026-08-23 22:15:12",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 177501,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第5期"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 153433,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第5期"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 117664,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第5期"
+      }
+    ]
   },
   {
     "id": 145511,
@@ -44261,6 +44284,41 @@
         "play_from": "lzm3u8",
         "play_url": null,
         "remarks": "更新至第09集"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 172188,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第9集"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 150550,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第9集"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 149881,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "更新至09集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 151081,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第09集"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 114893,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第9集"
       }
     ]
   },
@@ -51952,6 +52010,27 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第98集"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 172322,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第98集"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 141811,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第98集"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 68167,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第98集"
       }
     ]
   },
@@ -55604,7 +55683,16 @@
     "content": "<p>本作精选日本知名恐怖漫画家伊藤润二笔下充满独特疯狂气息的经典作品，改编为真人单元剧。以浓雾弥漫小镇中流行的“辻占”所隐藏的恐惧与执念为主轴，收录《死者的恋爱烦恼》《幻痛宅邸》《肋骨女子》《霸凌女孩》《偷脸人》《父亲的心》《记忆》《二手唱片》《笔友》《押切异谈》《地缚者》《富夫·红高领》《缓慢的离别》等13个怪异故事。由伊藤润二的惊悚世界观与新锐创作者联手，以单元剧形式呈现令人不寒而栗、难以入眠的奇妙恐怖体验。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd15.ajupf.com/20260710/3nwNq7uY/index.m3u8#第02集$https://vodcnd16.ajupf.com/20260723/bXT9BCxN/index.m3u8#第03集$https://vodcnd16.ajupf.com/20260723/QubS82m1/index.m3u8#第04集$https://vodcnd16.ajupf.com/20260802/94GVKG3W/index.m3u8#第05集$https://vodcnd16.ajupf.com/20260806/aBHJsDEq/index.m3u8#第06集$https://vodcnd16.ajupf.com/20260812/lzXxOh7r/index.m3u8#第07集$https://vodcnd17.ajupf.com/20260820/6Hvcirvv/index.m3u8$$$第01集$https://vodcnd15.ajupf.com/share/tI9Mx4gaNN#第02集$https://vodcnd16.ajupf.com/share/YrS0PgrSye#第03集$https://vodcnd16.ajupf.com/share/U7BLhhBu4y#第04集$https://vodcnd16.ajupf.com/share/rrfwO4kqWR#第05集$https://vodcnd16.ajupf.com/share/hxJNPEtm2L#第06集$https://vodcnd16.ajupf.com/share/YeAEvwh10T#第07集$https://vodcnd17.ajupf.com/share/LB4PFfRV1g",
-    "update_time": "2026-08-20 14:46:09"
+    "update_time": "2026-08-20 14:46:09",
+    "play_sources": [
+      {
+        "source": "暴风资源",
+        "source_id": 151571,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第09集"
+      }
+    ]
   },
   {
     "id": 144044,
@@ -73561,6 +73649,27 @@
         "source": "茅台资源",
         "source_id": 102504,
         "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第46集"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 172389,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第46集"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 141821,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第46集"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 78961,
+        "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第46集"
       }
