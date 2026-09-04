@@ -32050,6 +32050,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第5期"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 153392,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第6期"
       }
     ]
   },
@@ -43788,6 +43795,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第4集"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 191937,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第5集"
       }
     ]
   },
@@ -46116,6 +46130,13 @@
         "play_from": "lzm3u8",
         "play_url": null,
         "remarks": "更新至第11集"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 148721,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "全12集"
       }
     ]
   },
@@ -61222,6 +61243,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第8集"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 149975,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "更新至09集"
       }
     ]
   },
