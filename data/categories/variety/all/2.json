@@ -1,5 +1,29 @@
 [
   {
+    "id": 141369,
+    "name": "萌宠来啦",
+    "type": "大陆综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260729-1/e9e86375955a8170997e25417942bb11.jpg",
+    "score": "5.0",
+    "remarks": "第20260825期",
+    "update_time": "2026-08-25 22:35:15"
+  },
+  {
+    "id": 142146,
+    "name": "我剩下的恋爱",
+    "type": "日韩综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "韩国",
+    "poster": "https://dbzy5.com/upload/vod/20260804-1/f51cac2124c0f1cab4d6d856b21635bd.jpg",
+    "score": "5.0",
+    "remarks": "第4集",
+    "update_time": "2026-08-25 22:01:14"
+  },
+  {
     "id": 144562,
     "name": "你为什么要爬山？",
     "type": "日韩综艺",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第20260822期张颜齐优秀店员超靠谱推销 丁真烧烤收获满满好评",
     "update_time": "2026-08-22 23:43:06"
-  },
-  {
-    "id": 145324,
-    "name": "下一站2026",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260822-1/217acbcfd90877b74d7651dfdcfd0a31.jpg",
-    "score": "5.0",
-    "remarks": "第20260822期",
-    "update_time": "2026-08-22 20:53:32"
-  },
-  {
-    "id": 143990,
-    "name": "追求琐碎的见面",
-    "type": "日韩综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "韩国",
-    "poster": "https://dbzy5.com/upload/vod/20260815-1/2376f7920308277918797610a08f3967.jpg",
-    "score": "5.0",
-    "remarks": "第2期",
-    "update_time": "2026-08-22 19:50:07"
   }
 ]

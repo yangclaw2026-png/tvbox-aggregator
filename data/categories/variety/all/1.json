@@ -1,5 +1,29 @@
 [
   {
+    "id": 147895,
+    "name": "北京“厂”开玩",
+    "type": "大陆综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260904-1/082fce7898003373b7a26855f9d19a3f.jpg",
+    "score": "5.0",
+    "remarks": "第20260904期",
+    "update_time": "2026-09-04 22:53:20"
+  },
+  {
+    "id": 147893,
+    "name": "阿利克斯·厄尔：真我闯世界",
+    "type": "欧美综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260904-1/df74c87cb3c6afeed2ef4af81ad8666a.jpg",
+    "score": "5.0",
+    "remarks": "第8集完结",
+    "update_time": "2026-09-04 22:39:28"
+  },
+  {
     "id": 70854,
     "name": "新老娘舅",
     "type": "大陆综艺",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-25 23:15:29"
-  },
-  {
-    "id": 141369,
-    "name": "萌宠来啦",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260729-1/e9e86375955a8170997e25417942bb11.jpg",
-    "score": "5.0",
-    "remarks": "第20260825期",
-    "update_time": "2026-08-25 22:35:15"
-  },
-  {
-    "id": 142146,
-    "name": "我剩下的恋爱",
-    "type": "日韩综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "韩国",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/f51cac2124c0f1cab4d6d856b21635bd.jpg",
-    "score": "5.0",
-    "remarks": "第4集",
-    "update_time": "2026-08-25 22:01:14"
   }
 ]

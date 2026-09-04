@@ -1,5 +1,17 @@
 [
   {
+    "id": 147895,
+    "name": "北京“厂”开玩",
+    "type": "大陆综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260904-1/082fce7898003373b7a26855f9d19a3f.jpg",
+    "score": "5.0",
+    "remarks": "第20260904期",
+    "update_time": "2026-09-04 22:53:20"
+  },
+  {
     "id": 70854,
     "name": "新老娘舅",
     "type": "大陆综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第20260824期不要什么CP都嗑！",
     "update_time": "2026-08-24 16:01:39"
-  },
-  {
-    "id": 136580,
-    "name": "天赐的声音 第七季",
-    "type": "大陆综艺",
-    "category": "音乐,真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260615-1/c0c1f82ebebaa365704368fb46fe2ac5.jpg",
-    "score": "5.0",
-    "remarks": "20260824会员版",
-    "update_time": "2026-08-24 15:52:06"
   }
 ]

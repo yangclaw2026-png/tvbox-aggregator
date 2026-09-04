@@ -1,5 +1,29 @@
 [
   {
+    "id": 142638,
+    "name": "寅娜知音",
+    "type": "日韩综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "韩国",
+    "poster": "https://dbzy5.com/upload/vod/20260807-1/7ce1e50156c633d737857888228c3674.jpg",
+    "score": "5.0",
+    "remarks": "第20260812期",
+    "update_time": "2026-08-13 12:03:56"
+  },
+  {
+    "id": 141531,
+    "name": "谋杀俱乐部",
+    "type": "日韩综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "韩国",
+    "poster": "https://dbzy5.com/upload/vod/20260730-1/c9841ea2915d7d9aefc700918e591516.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-08-12 21:37:20"
+  },
+  {
     "id": 142359,
     "name": "哈利的绝配情人",
     "type": "欧美综艺",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第3期",
     "update_time": "2026-08-03 13:00:24"
-  },
-  {
-    "id": 141955,
-    "name": "怦怦一夏·长隆站",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/23a062a1c7fd7a089138ccb79b3e9c77.jpg",
-    "score": "5.0",
-    "remarks": "第4集完结",
-    "update_time": "2026-08-03 12:38:59"
-  },
-  {
-    "id": 141951,
-    "name": "穿越欧洲自然奇境",
-    "type": "大陆综艺",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "德国",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/f0a8d3e887d38aba9a8c200082a32cb2.jpg",
-    "score": "5.0",
-    "remarks": "第2期",
-    "update_time": "2026-08-03 12:06:04"
   }
 ]

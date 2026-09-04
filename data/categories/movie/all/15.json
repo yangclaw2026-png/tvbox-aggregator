@@ -1,5 +1,17 @@
 [
   {
+    "id": 141568,
+    "name": "静音重生",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2025",
+    "area": "法国",
+    "poster": "https://dbzy5.com/upload/vod/20260730-1/874827d61da8ad61f8a399c0f54b8eeb.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-07-30 22:21:02"
+  },
+  {
     "id": 141566,
     "name": "战场上的萤火虫",
     "type": "剧情片",
@@ -46,41 +58,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-07-30 21:51:47"
-  },
-  {
-    "id": 141546,
-    "name": "销售女孩",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2021",
-    "area": "蒙古",
-    "poster": "https://dbzy5.com/upload/vod/20260730-1/a73bf5860cb48645bb65da34f9a4a497.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-30 20:50:27"
-  },
-  {
-    "id": 141548,
-    "name": "爱情小课",
-    "type": "喜剧片",
-    "category": "喜剧,爱情",
-    "year": "2021",
-    "area": "法国,瑞士",
-    "poster": "https://dbzy5.com/upload/vod/20260730-1/5054a648e55bc041eaeec5c3617bdd1b.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-30 20:48:41"
-  },
-  {
-    "id": 141549,
-    "name": "魂飞魄散",
-    "type": "恐怖片",
-    "category": "恐怖",
-    "year": "2021",
-    "area": "土耳其",
-    "poster": "https://dbzy5.com/upload/vod/20260730-1/4955631a73727cbd83284bae2338db01.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-30 20:47:27"
   }
 ]

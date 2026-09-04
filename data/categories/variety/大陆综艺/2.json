@@ -1,5 +1,17 @@
 [
   {
+    "id": 136580,
+    "name": "天赐的声音 第七季",
+    "type": "大陆综艺",
+    "category": "音乐,真人秀",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260615-1/c0c1f82ebebaa365704368fb46fe2ac5.jpg",
+    "score": "5.0",
+    "remarks": "20260824会员版",
+    "update_time": "2026-08-24 15:52:06"
+  },
+  {
     "id": 145591,
     "name": "第二十一届中国长春电影节",
     "type": "大陆综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第18集",
     "update_time": "2026-08-12 11:43:24"
-  },
-  {
-    "id": 142274,
-    "name": "正是青春读书时",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/58fd82a8a6d8606f1e1d57e1e82ec017.jpg",
-    "score": "5.0",
-    "remarks": "第8期完结",
-    "update_time": "2026-08-12 11:09:44"
   }
 ]

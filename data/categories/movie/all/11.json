@@ -1,5 +1,17 @@
 [
   {
+    "id": 141893,
+    "name": "史努比特辑：有家真好",
+    "type": "动漫电影",
+    "category": "动画 ， 家庭",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260802-1/08d67f97d25aab6323014496bf8ab687.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-02 14:20:01"
+  },
+  {
     "id": 141891,
     "name": "千面情踪",
     "type": "爱情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-01 16:15:54"
-  },
-  {
-    "id": 141644,
-    "name": "死后方醒",
-    "type": "喜剧片",
-    "category": "喜剧",
-    "year": "2009",
-    "area": "丹麦",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/6f48b0255d399fe62a8010d38f7c3a14.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-01 16:15:12"
   }
 ]

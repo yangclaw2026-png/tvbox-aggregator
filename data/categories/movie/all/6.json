@@ -1,5 +1,17 @@
 [
   {
+    "id": 142784,
+    "name": "走马观花",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260808-1/4a8587f76f883c8fc0d4d69b7e9dca40.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-08 11:59:14"
+  },
+  {
     "id": 142781,
     "name": "野兽赛跑",
     "type": "动作片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-05 16:09:24"
-  },
-  {
-    "id": 142321,
-    "name": "奇妙 2018",
-    "type": "喜剧片",
-    "category": "喜剧,奇幻",
-    "year": "2018",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/9b11c06f9ae8a0b664e64f81e6f0a704.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-05 16:06:08"
   }
 ]

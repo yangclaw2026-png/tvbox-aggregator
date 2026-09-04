@@ -1,5 +1,17 @@
 [
   {
+    "id": 126912,
+    "name": "小孩不笨2",
+    "type": "喜剧片",
+    "category": "剧情,喜剧,家庭",
+    "year": "2006",
+    "area": "新加坡",
+    "poster": "https://dbzy5.com/upload/vod/20260401-1/e3828055e4d24be6e821d5ad02202bfe.jpg",
+    "score": "8.3",
+    "remarks": "正片",
+    "update_time": "2026-07-31 14:57:11"
+  },
+  {
     "id": 141624,
     "name": "完美陌生人(印度版)",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "7.7",
     "remarks": "正片",
     "update_time": "2026-07-30 22:22:44"
-  },
-  {
-    "id": 141568,
-    "name": "静音重生",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2025",
-    "area": "法国",
-    "poster": "https://dbzy5.com/upload/vod/20260730-1/874827d61da8ad61f8a399c0f54b8eeb.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-30 22:21:02"
   }
 ]
