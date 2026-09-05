@@ -406,7 +406,16 @@
     "content": "<p>一群爬行动物狂热爱好者建立了一个全球走私帝国，而一支英勇的动物警察队伍冒着生命危险阻止他们。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd17.ajupf.com/20260905/sO5NXKeB/index.m3u8#第02集$https://vodcnd17.ajupf.com/20260905/NgnqBJXM/index.m3u8#第03集$https://vodcnd17.ajupf.com/20260905/toBjdmPg/index.m3u8#第04集$https://vodcnd17.ajupf.com/20260905/0I5kCyO8/index.m3u8#第05集$https://vodcnd17.ajupf.com/20260905/TN2npcQw/index.m3u8$$$第01集$https://vodcnd17.ajupf.com/share/ODyJhmX9cs#第02集$https://vodcnd17.ajupf.com/share/fP3ZhC3t7i#第03集$https://vodcnd17.ajupf.com/share/pl7q5gv6qp#第04集$https://vodcnd17.ajupf.com/share/K5Ih69yIQg#第05集$https://vodcnd17.ajupf.com/share/wnYKJgcD9I",
-    "update_time": "2026-09-05 22:14:52"
+    "update_time": "2026-09-05 22:14:52",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 146977,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第05集"
+      }
+    ]
   },
   {
     "id": 148084,
@@ -36461,6 +36470,13 @@
         "play_from": "snm3u8",
         "play_url": null,
         "remarks": "更新至12集"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 171154,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第14集完结"
       }
     ]
   },
