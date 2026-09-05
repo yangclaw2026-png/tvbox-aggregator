@@ -1,5 +1,41 @@
 [
   {
+    "id": 148031,
+    "name": "童年阴影：幸存者的声音",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2024",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260905-1/1529628e050a92c901c2948e965d5dfe.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-09-05 17:56:59"
+  },
+  {
+    "id": 148007,
+    "name": "吃了食火鸡",
+    "type": "科幻片",
+    "category": "悬疑,奇幻",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260905-1/e046b3c3e1b0eb95d1f2cc305e06bf93.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-09-05 16:04:47"
+  },
+  {
+    "id": 148012,
+    "name": "我在荒野做了一场梦",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2025",
+    "area": "中国台湾",
+    "poster": "https://dbzy5.com/upload/vod/20260905-1/945e91660bd7e8d457650d2c11c87533.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-09-05 16:03:17"
+  },
+  {
     "id": 147896,
     "name": "神拳赌约",
     "type": "动作片",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第5集完结",
     "update_time": "2026-08-25 20:54:30"
-  },
-  {
-    "id": 145863,
-    "name": "攀登",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "中国台湾",
-    "poster": "https://dbzy5.com/upload/vod/20260825-1/9e6d66c7d18bd3afd762c09f0f0b06ad.jpg",
-    "score": "5.0",
-    "remarks": "第3集完结",
-    "update_time": "2026-08-25 20:46:09"
-  },
-  {
-    "id": 145738,
-    "name": "千门八将之群龙夺宝",
-    "type": "剧情片",
-    "category": "剧情 ， 悬疑 ， 奇幻",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260825-1/06609b196c5fa73a5a28d8d079cdbea3.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-25 14:58:22"
-  },
-  {
-    "id": 145725,
-    "name": "杯雪",
-    "type": "动漫电影",
-    "category": "动作 ， 动画 ， 奇幻",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260825-1/e83f60177389ca7cd974d3d4bbbd7377.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-25 13:46:09"
   }
 ]

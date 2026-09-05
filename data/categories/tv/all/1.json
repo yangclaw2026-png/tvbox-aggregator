@@ -1,5 +1,17 @@
 [
   {
+    "id": 148009,
+    "name": "机关龙城",
+    "type": "国产剧",
+    "category": "奇幻",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260905-1/119f9aca7dc7b20f6e5601ed312b66be.jpg",
+    "score": "5.0",
+    "remarks": "第20集完结",
+    "update_time": "2026-09-05 15:57:31"
+  },
+  {
     "id": 147046,
     "name": "囧徒之预演告别",
     "type": "国产剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第37集",
     "update_time": "2026-08-27 11:24:27"
-  },
-  {
-    "id": 144991,
-    "name": "蝉 2026",
-    "type": "国产剧",
-    "category": "剧情,悬疑,犯罪",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260820-1/cdf04ea01ea0f0439ce227427e990887.jpg",
-    "score": "5.0",
-    "remarks": "第21集完结",
-    "update_time": "2026-08-26 22:47:24"
   }
 ]

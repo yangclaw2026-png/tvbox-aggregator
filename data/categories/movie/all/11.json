@@ -1,5 +1,41 @@
 [
   {
+    "id": 141894,
+    "name": "亚马逊探秘",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2024",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260802-1/cd9ef5eab91aef72bb37924b0d9efdde.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-02 15:05:45"
+  },
+  {
+    "id": 141042,
+    "name": "莫莉大战机器",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2025",
+    "area": "英国",
+    "poster": "https://dbzy5.com/upload/vod/20260727-1/ad9a75630060513818a156103d12ad7d.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-02 15:00:12"
+  },
+  {
+    "id": 141040,
+    "name": "侵入性思维",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260727-1/7484b2d584a58c8d131de2f3e8fbe704.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-02 14:55:07"
+  },
+  {
     "id": 141893,
     "name": "史努比特辑：有家真好",
     "type": "动漫电影",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-01 16:18:26"
-  },
-  {
-    "id": 141640,
-    "name": "水中血2",
-    "type": "动作片",
-    "category": "动作,恐怖",
-    "year": "2024",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/7fc1432008c795e9b37a4b89afd1fb3f.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-01 16:17:42"
-  },
-  {
-    "id": 141641,
-    "name": "我们的假期故事",
-    "type": "爱情片",
-    "category": "爱情",
-    "year": "2024",
-    "area": "加拿大",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/e0061085409b1ae5f522000e967920c6.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-01 16:16:56"
-  },
-  {
-    "id": 141642,
-    "name": "我愿意",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2020",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/2e696620b30f00fb155260c22bb24eb2.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-01 16:15:54"
   }
 ]

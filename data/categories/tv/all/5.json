@@ -1,5 +1,17 @@
 [
   {
+    "id": 138838,
+    "name": "嫁入高门",
+    "type": "国产剧",
+    "category": "同性",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260707-1/e36e72f5bbb90da30a42631295b4e610.jpg",
+    "score": "5.0",
+    "remarks": "第12集完结",
+    "update_time": "2026-08-18 16:18:37"
+  },
+  {
     "id": 142122,
     "name": "时光旅行老爸",
     "type": "日本剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第36集完结",
     "update_time": "2026-08-09 22:14:31"
-  },
-  {
-    "id": 141890,
-    "name": "夜语记",
-    "type": "国产剧",
-    "category": "剧情,爱情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/5d3800ef9a04cef4133cbf82d2dd189d.jpg",
-    "score": "5.0",
-    "remarks": "第24集完结",
-    "update_time": "2026-08-09 19:38:32"
   }
 ]

@@ -1,5 +1,41 @@
 [
   {
+    "id": 141634,
+    "name": "命悬一战：二战决定性战役",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260731-1/b58b2e9a38dd40c37ff2d8f1c76fe58d.jpg",
+    "score": "5.0",
+    "remarks": "第5集完结",
+    "update_time": "2026-07-31 15:46:57"
+  },
+  {
+    "id": 141626,
+    "name": "LAST MAN -初恋-",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2025",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260731-1/ec2b63688198b6fe63397745fafb84fc.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-07-31 15:11:00"
+  },
+  {
+    "id": 141625,
+    "name": "火焰少女",
+    "type": "动作片",
+    "category": "犯罪,动作",
+    "year": "2021",
+    "area": "奥地利",
+    "poster": "https://dbzy5.com/upload/vod/20260731-1/127dc65e9130b7518f463829c09207fc.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-07-31 15:02:33"
+  },
+  {
     "id": 126912,
     "name": "小孩不笨2",
     "type": "喜剧片",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-07-30 22:25:05"
-  },
-  {
-    "id": 70272,
-    "name": "爱在圣卢西亚",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2024",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20250111-1/6525742c0fbfc32402e50ac199361356.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-30 22:24:04"
-  },
-  {
-    "id": 141569,
-    "name": "素手擎天",
-    "type": "剧情片",
-    "category": "剧情,喜剧",
-    "year": "2024",
-    "area": "法国",
-    "poster": "https://dbzy5.com/upload/vod/20260730-1/121af9c9acd0cfa5d5092ea7640cfaa8.jpg",
-    "score": "6.9",
-    "remarks": "正片",
-    "update_time": "2026-07-30 22:23:15"
-  },
-  {
-    "id": 52905,
-    "name": "阴间大法师",
-    "type": "喜剧片",
-    "category": "喜剧,奇幻",
-    "year": "1988",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20250107-18/9cab671a5f308f506bc6268ba3488b2e.jpg",
-    "score": "7.7",
-    "remarks": "正片",
-    "update_time": "2026-07-30 22:22:44"
   }
 ]

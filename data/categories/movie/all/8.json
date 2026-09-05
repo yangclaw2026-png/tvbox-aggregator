@@ -1,5 +1,41 @@
 [
   {
+    "id": 141347,
+    "name": "爱上自恋者",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2025",
+    "area": "英国",
+    "poster": "https://dbzy5.com/upload/vod/20260728-1/7be119da851b70f1d9f2d80b753f910b.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-04 19:54:32"
+  },
+  {
+    "id": 142128,
+    "name": "科德是我的初恋",
+    "type": "剧情片",
+    "category": "剧情,喜剧,爱情",
+    "year": "2014",
+    "area": "菲律宾",
+    "poster": "https://dbzy5.com/upload/vod/20260804-1/92a3768d71ff00075a791ee592cc93a2.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-04 19:53:13"
+  },
+  {
+    "id": 142130,
+    "name": "如何描述责任",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2018",
+    "area": "菲律宾",
+    "poster": "https://dbzy5.com/upload/vod/20260804-1/a846ba2a818cc68763a1c293332dc707.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-04 19:52:32"
+  },
+  {
     "id": 142133,
     "name": "距离 2018",
     "type": "剧情片",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-03 16:56:12"
-  },
-  {
-    "id": 142007,
-    "name": "谍网女金刚",
-    "type": "剧情片",
-    "category": "剧情,动作,爱情,惊悚,犯罪",
-    "year": "1975",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/9376c9779030052d53eabccba2d8724c.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-03 16:55:12"
-  },
-  {
-    "id": 142009,
-    "name": "今年圣诞节",
-    "type": "喜剧片",
-    "category": "剧情,喜剧,爱情",
-    "year": "2007",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/b31cf5376888ebdbeeb4cc22d0d00d9e.jpg",
-    "score": "7.2",
-    "remarks": "正片",
-    "update_time": "2026-08-03 16:49:28"
-  },
-  {
-    "id": 142008,
-    "name": "家庭圣诞节",
-    "type": "喜剧片",
-    "category": "喜剧,家庭",
-    "year": "2024",
-    "area": "法国,比利时",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/3a96ddd2d5033ffe7f16a4ab7d687fe3.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-03 16:46:33"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 145601,
+    "name": "萨利什和乔丹事务 第一季",
+    "type": "欧美剧",
+    "category": "喜剧,真人秀",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260824-1/0bb15d4c8568d0100ef32ea52dc45046.jpg",
+    "score": "5.0",
+    "remarks": "第8集完结",
+    "update_time": "2026-08-24 17:34:13"
+  },
+  {
     "id": 145627,
     "name": "紫荆楼：伐罪",
     "type": "国产剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第20集",
     "update_time": "2026-08-22 15:20:36"
-  },
-  {
-    "id": 140043,
-    "name": "请保持名侦探原来的样子",
-    "type": "日本剧",
-    "category": "悬疑",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260719-1/30163a29629c24a95dbe5668bd155907.jpg",
-    "score": "5.0",
-    "remarks": "第6集",
-    "update_time": "2026-08-22 14:37:29"
   }
 ]

@@ -1,5 +1,41 @@
 [
   {
+    "id": 145115,
+    "name": "救赎 2026",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2026",
+    "area": "土耳其,法国,荷兰,希腊,瑞典,沙特阿拉",
+    "poster": "https://dbzy5.com/upload/vod/20260821-1/58c2a08b6ea3dba4402999bb2816f1c8.jpg",
+    "score": "6.5",
+    "remarks": "正片",
+    "update_time": "2026-08-21 19:14:57"
+  },
+  {
+    "id": 145111,
+    "name": "吃饱睡足等幸福～早春养生篇～",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260821-1/8241ae175eddd854c65918a0dcce6d4e.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-21 18:59:10"
+  },
+  {
+    "id": 143911,
+    "name": "年会不能停！2",
+    "type": "喜剧片",
+    "category": "喜剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260815-1/a477d0416a0d3054dfbff588b2de6e90.jpg",
+    "score": "6.6",
+    "remarks": "抢先版",
+    "update_time": "2026-08-21 17:51:13"
+  },
+  {
     "id": 145080,
     "name": "诺瓦克·德约科维奇：凛冬孤狼",
     "type": "纪录片",
@@ -562,41 +598,5 @@
     "score": "6.6",
     "remarks": "抢先版",
     "update_time": "2026-08-17 16:46:55"
-  },
-  {
-    "id": 144274,
-    "name": "祈念守护人",
-    "type": "动漫电影",
-    "category": "剧情,动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260817-1/1c347ffb5fc54b3c7712ffa13ad5cd3c.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-17 15:02:07"
-  },
-  {
-    "id": 144203,
-    "name": "脑波猎场",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260817-1/bf2da3de2922f219e2d48b009359bc47.webp",
-    "score": "0.0",
-    "remarks": "抢先版",
-    "update_time": "2026-08-17 13:23:04"
-  },
-  {
-    "id": 44573,
-    "name": "四个婚礼和一个葬礼",
-    "type": "喜剧片",
-    "category": "剧情,喜剧,爱情",
-    "year": "1994",
-    "area": "英国",
-    "poster": "https://dbzy5.com/upload/vod/20250108-6/285c962ea3b8271bdf531eb72f3f2e22.jpg",
-    "score": "7.4",
-    "remarks": "正片",
-    "update_time": "2026-08-17 13:12:16"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 140043,
+    "name": "请保持名侦探原来的样子",
+    "type": "日本剧",
+    "category": "悬疑",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260719-1/30163a29629c24a95dbe5668bd155907.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-08-22 14:37:29"
+  },
+  {
     "id": 140814,
     "name": "大唐少年天行传",
     "type": "国产剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第12集完结",
     "update_time": "2026-08-18 16:19:04"
-  },
-  {
-    "id": 138838,
-    "name": "嫁入高门",
-    "type": "国产剧",
-    "category": "同性",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260707-1/e36e72f5bbb90da30a42631295b4e610.jpg",
-    "score": "5.0",
-    "remarks": "第12集完结",
-    "update_time": "2026-08-18 16:18:37"
   }
 ]

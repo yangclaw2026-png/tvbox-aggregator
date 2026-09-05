@@ -1,5 +1,41 @@
 [
   {
+    "id": 141640,
+    "name": "水中血2",
+    "type": "动作片",
+    "category": "动作,恐怖",
+    "year": "2024",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260731-1/7fc1432008c795e9b37a4b89afd1fb3f.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-01 16:17:42"
+  },
+  {
+    "id": 141641,
+    "name": "我们的假期故事",
+    "type": "爱情片",
+    "category": "爱情",
+    "year": "2024",
+    "area": "加拿大",
+    "poster": "https://dbzy5.com/upload/vod/20260731-1/e0061085409b1ae5f522000e967920c6.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-01 16:16:56"
+  },
+  {
+    "id": 141642,
+    "name": "我愿意",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2020",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260731-1/2e696620b30f00fb155260c22bb24eb2.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-01 16:15:54"
+  },
+  {
     "id": 141644,
     "name": "死后方醒",
     "type": "喜剧片",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-07-31 21:03:36"
-  },
-  {
-    "id": 66518,
-    "name": "精神错乱",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2020",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20250107-4/812c52fe71ea78c0558b3aa9b08ec684.jpg",
-    "score": "6.2",
-    "remarks": "正片",
-    "update_time": "2026-07-31 21:01:56"
-  },
-  {
-    "id": 64830,
-    "name": "顽石之拳",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2016",
-    "area": "巴拿马",
-    "poster": "https://dbzy5.com/upload/vod/20250107-6/a813d7ff6b7aad2bd12d74ce2c6ec6cd.jpg",
-    "score": "6.3",
-    "remarks": "正片",
-    "update_time": "2026-07-31 21:00:34"
-  },
-  {
-    "id": 141682,
-    "name": "我的女老板",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2013",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/1af8a029e8ef032eed1c2dacb910755a.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-31 20:59:45"
   }
 ]

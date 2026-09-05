@@ -1,5 +1,41 @@
 [
   {
+    "id": 141944,
+    "name": "潘蒂姐妹",
+    "type": "喜剧片",
+    "category": "喜剧",
+    "year": "2019",
+    "area": "菲律宾",
+    "poster": "https://dbzy5.com/upload/vod/20260802-1/c2876bb78e0cca84e234c95c43864f78.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-02 22:57:33"
+  },
+  {
+    "id": 141943,
+    "name": "男人塑造师",
+    "type": "喜剧片",
+    "category": "喜剧",
+    "year": "2024",
+    "area": "荷兰",
+    "poster": "https://dbzy5.com/upload/vod/20260802-1/7ed387075f5e2ba8008cacd42c516e0f.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-02 22:51:46"
+  },
+  {
+    "id": 141942,
+    "name": "凸槌三兄弟",
+    "type": "剧情片",
+    "category": "剧情,喜剧",
+    "year": "2019",
+    "area": "菲律宾",
+    "poster": "https://dbzy5.com/upload/vod/20260802-1/9ae13524ef4f487c43cf7582bed343e1.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-02 22:46:01"
+  },
+  {
     "id": 141941,
     "name": "她的记忆",
     "type": "爱情片",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-02 15:14:44"
-  },
-  {
-    "id": 141894,
-    "name": "亚马逊探秘",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2024",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/cd9ef5eab91aef72bb37924b0d9efdde.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-02 15:05:45"
-  },
-  {
-    "id": 141042,
-    "name": "莫莉大战机器",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2025",
-    "area": "英国",
-    "poster": "https://dbzy5.com/upload/vod/20260727-1/ad9a75630060513818a156103d12ad7d.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-02 15:00:12"
-  },
-  {
-    "id": 141040,
-    "name": "侵入性思维",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260727-1/7484b2d584a58c8d131de2f3e8fbe704.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-02 14:55:07"
   }
 ]

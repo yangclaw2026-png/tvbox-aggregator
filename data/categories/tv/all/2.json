@@ -1,5 +1,17 @@
 [
   {
+    "id": 144991,
+    "name": "蝉 2026",
+    "type": "国产剧",
+    "category": "剧情,悬疑,犯罪",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260820-1/cdf04ea01ea0f0439ce227427e990887.jpg",
+    "score": "5.0",
+    "remarks": "第21集完结",
+    "update_time": "2026-08-26 22:47:24"
+  },
+  {
     "id": 138999,
     "name": "35岁，现在恋爱什么的也太不现实了",
     "type": "日本剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第17集",
     "update_time": "2026-08-24 18:17:27"
-  },
-  {
-    "id": 145601,
-    "name": "萨利什和乔丹事务 第一季",
-    "type": "欧美剧",
-    "category": "喜剧,真人秀",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260824-1/0bb15d4c8568d0100ef32ea52dc45046.jpg",
-    "score": "5.0",
-    "remarks": "第8集完结",
-    "update_time": "2026-08-24 17:34:13"
   }
 ]

@@ -1,5 +1,41 @@
 [
   {
+    "id": 66518,
+    "name": "精神错乱",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2020",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20250107-4/812c52fe71ea78c0558b3aa9b08ec684.jpg",
+    "score": "6.2",
+    "remarks": "正片",
+    "update_time": "2026-07-31 21:01:56"
+  },
+  {
+    "id": 64830,
+    "name": "顽石之拳",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2016",
+    "area": "巴拿马",
+    "poster": "https://dbzy5.com/upload/vod/20250107-6/a813d7ff6b7aad2bd12d74ce2c6ec6cd.jpg",
+    "score": "6.3",
+    "remarks": "正片",
+    "update_time": "2026-07-31 21:00:34"
+  },
+  {
+    "id": 141682,
+    "name": "我的女老板",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2013",
+    "area": "菲律宾",
+    "poster": "https://dbzy5.com/upload/vod/20260731-1/1af8a029e8ef032eed1c2dacb910755a.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-07-31 20:59:45"
+  },
+  {
     "id": 141681,
     "name": "和夫人",
     "type": "喜剧片",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-07-31 16:30:26"
-  },
-  {
-    "id": 141634,
-    "name": "命悬一战：二战决定性战役",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/b58b2e9a38dd40c37ff2d8f1c76fe58d.jpg",
-    "score": "5.0",
-    "remarks": "第5集完结",
-    "update_time": "2026-07-31 15:46:57"
-  },
-  {
-    "id": 141626,
-    "name": "LAST MAN -初恋-",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2025",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/ec2b63688198b6fe63397745fafb84fc.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-31 15:11:00"
-  },
-  {
-    "id": 141625,
-    "name": "火焰少女",
-    "type": "动作片",
-    "category": "犯罪,动作",
-    "year": "2021",
-    "area": "奥地利",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/127dc65e9130b7518f463829c09207fc.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-31 15:02:33"
   }
 ]

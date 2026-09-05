@@ -1,5 +1,17 @@
 [
   {
+    "id": 137232,
+    "name": "快乐你懂的",
+    "type": "大陆综艺",
+    "category": "明星,搞笑",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260624-1/fee55283d39e98128adde854730eed4d.jpg",
+    "score": "5.0",
+    "remarks": "第20260811期",
+    "update_time": "2026-08-13 17:01:38"
+  },
+  {
     "id": 142638,
     "name": "寅娜知音",
     "type": "日韩综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第27集",
     "update_time": "2026-08-03 13:27:20"
-  },
-  {
-    "id": 141960,
-    "name": "礼乐东方",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/2952a2ac54a007b6597374d10d207903.jpg",
-    "score": "5.0",
-    "remarks": "第3期",
-    "update_time": "2026-08-03 13:00:24"
   }
 ]

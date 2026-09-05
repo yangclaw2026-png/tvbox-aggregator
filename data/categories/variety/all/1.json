@@ -1,5 +1,17 @@
 [
   {
+    "id": 137351,
+    "name": "印度达人秀 第2季",
+    "type": "欧美综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "印度",
+    "poster": "https://dbzy5.com/upload/vod/20260625-1/cc361b1aea4186fbba4c7e410c684362.jpg",
+    "score": "5.0",
+    "remarks": "第6期",
+    "update_time": "2026-09-05 16:11:05"
+  },
+  {
     "id": 147895,
     "name": "北京“厂”开玩",
     "type": "大陆综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "20260826第6期：禁忌学园Ⅱ（下）",
     "update_time": "2026-08-26 14:26:44"
-  },
-  {
-    "id": 145920,
-    "name": "今夕颂",
-    "type": "大陆综艺",
-    "category": "综艺",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260825-1/dc4073795838a8ddc7d748fe478cd4d7.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-25 23:15:29"
   }
 ]

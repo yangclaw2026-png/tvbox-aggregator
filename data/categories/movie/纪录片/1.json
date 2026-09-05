@@ -1,5 +1,29 @@
 [
   {
+    "id": 148031,
+    "name": "童年阴影：幸存者的声音",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2024",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260905-1/1529628e050a92c901c2948e965d5dfe.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-09-05 17:56:59"
+  },
+  {
+    "id": 148012,
+    "name": "我在荒野做了一场梦",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2025",
+    "area": "中国台湾",
+    "poster": "https://dbzy5.com/upload/vod/20260905-1/945e91660bd7e8d457650d2c11c87533.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-09-05 16:03:17"
+  },
+  {
     "id": 147502,
     "name": "转折点：911世代",
     "type": "纪录片",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-18 14:30:39"
-  },
-  {
-    "id": 144423,
-    "name": "U第二部分",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2014",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260818-1/1fec70fbc01b8b69b2cc4d433461f7ee.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-18 14:15:20"
-  },
-  {
-    "id": 144422,
-    "name": "兰德大学",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2014",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260818-1/9553384bc960e3bb621269c646121d03.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-18 13:54:32"
   }
 ]

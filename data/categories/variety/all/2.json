@@ -1,5 +1,17 @@
 [
   {
+    "id": 145920,
+    "name": "今夕颂",
+    "type": "大陆综艺",
+    "category": "综艺",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260825-1/dc4073795838a8ddc7d748fe478cd4d7.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-25 23:15:29"
+  },
+  {
     "id": 141369,
     "name": "萌宠来啦",
     "type": "大陆综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第20260822期",
     "update_time": "2026-08-23 00:15:23"
-  },
-  {
-    "id": 140916,
-    "name": "宇宙帮帮忙",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260726-1/38d1fb54f4ff21d1e1ea2344e9189c95.jpg",
-    "score": "5.0",
-    "remarks": "第20260822期张颜齐优秀店员超靠谱推销 丁真烧烤收获满满好评",
-    "update_time": "2026-08-22 23:43:06"
   }
 ]

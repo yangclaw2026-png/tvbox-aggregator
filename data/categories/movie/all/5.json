@@ -1,5 +1,41 @@
 [
   {
+    "id": 143623,
+    "name": "欢迎再次登录",
+    "type": "动作片",
+    "category": "动作,悬疑,犯罪",
+    "year": "2026",
+    "area": "中国大陆,中国香港",
+    "poster": "https://dbzy5.com/upload/vod/20260813-1/80e61215371b5e29f55b938d07280d6e.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-13 12:19:32"
+  },
+  {
+    "id": 140687,
+    "name": "她个人的地狱",
+    "type": "剧情片",
+    "category": "剧情,惊悚,恐怖",
+    "year": "2026",
+    "area": "丹麦,美国",
+    "poster": "https://dbzy5.com/upload/vod/20260724-1/15de6f8ba55b9ea46cd41a44406208e5.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-13 12:05:03"
+  },
+  {
+    "id": 143559,
+    "name": "我们的老电影",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260812-1/8fc43cab11b1d8253b1ec4ef386efa23.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-12 21:24:53"
+  },
+  {
     "id": 107320,
     "name": "器子",
     "type": "剧情片",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-08 15:23:54"
-  },
-  {
-    "id": 142788,
-    "name": "错过了，遗憾吗？",
-    "type": "爱情片",
-    "category": "喜剧,爱情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260808-1/7c015ccc7ce5e9eb65266510efc2cc4d.jpg",
-    "score": "4.1",
-    "remarks": "正片",
-    "update_time": "2026-08-08 13:17:15"
-  },
-  {
-    "id": 142786,
-    "name": "热血江湖",
-    "type": "动作片",
-    "category": "动作,冒险,犯罪",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260808-1/5a340d4df49ac071fa9b9868e295e26a.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-08 12:13:15"
-  },
-  {
-    "id": 142785,
-    "name": "港城大劫案",
-    "type": "动作片",
-    "category": "动作,犯罪,剧情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260808-1/0073d3578be40d5a6abc11494c12a650.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-08 12:04:37"
   }
 ]
