@@ -1,5 +1,41 @@
 [
   {
+    "id": 135132,
+    "name": "调音师 2025",
+    "type": "惊悚片",
+    "category": "惊悚,犯罪",
+    "year": "2025",
+    "area": "加拿大,美国",
+    "poster": "https://dbzy5.com/upload/vod/20260606-1/c27d4577d0f785bbecc7359269f8db23.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-04 20:09:31"
+  },
+  {
+    "id": 36442,
+    "name": "陌路兄弟",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2017",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250108-39/35502eac505838b95d08cae47832e131.jpg",
+    "score": "6.3",
+    "remarks": "正片",
+    "update_time": "2026-08-04 19:58:00"
+  },
+  {
+    "id": 134263,
+    "name": "冰雪坏皇后",
+    "type": "动漫电影",
+    "category": "动画",
+    "year": "2026",
+    "area": "挪威",
+    "poster": "https://dbzy5.com/upload/vod/20260601-1/aba5370e3ea79b7f04b0c4fa3c60def5.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-04 19:56:35"
+  },
+  {
     "id": 141347,
     "name": "爱上自恋者",
     "type": "剧情片",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-03 18:14:32"
-  },
-  {
-    "id": 142004,
-    "name": "初次登台的少女们",
-    "type": "恐怖片",
-    "category": "恐怖",
-    "year": "2017",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/8cfb4a9c457a6f629bd79e2210db5987.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-03 16:57:21"
-  },
-  {
-    "id": 138802,
-    "name": "疑婴夜生",
-    "type": "惊悚片",
-    "category": "剧情 ， 惊悚",
-    "year": "2026",
-    "area": "法国",
-    "poster": "https://dbzy5.com/upload/vod/20260706-1/9c60fad7451f191b2a621114768e0980.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-03 16:57:17"
-  },
-  {
-    "id": 142006,
-    "name": "橙色礼服的女孩",
-    "type": "喜剧片",
-    "category": "喜剧,爱情",
-    "year": "2019",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/8792b4b8765f3b6508576cde15027d63.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-03 16:56:12"
   }
 ]

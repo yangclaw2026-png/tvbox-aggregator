@@ -1,5 +1,29 @@
 [
   {
+    "id": 146634,
+    "name": "神兽猎局",
+    "type": "纪录片",
+    "category": "纪录片,犯罪",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260829-1/170ab4a82454dbd6e91919652730fa98.jpg",
+    "score": "5.0",
+    "remarks": "5集全",
+    "update_time": "2026-09-05 22:14:52"
+  },
+  {
+    "id": 148083,
+    "name": "“我们的长征路”《2026开学第一课》",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260905-1/c30e51e8cc0f900ebf59b37e805ccb0b.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-09-05 22:12:25"
+  },
+  {
     "id": 148031,
     "name": "童年阴影：幸存者的声音",
     "type": "纪录片",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第6集完结",
     "update_time": "2026-08-18 20:39:58"
-  },
-  {
-    "id": 144517,
-    "name": "十大凶案现场",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2015",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260818-1/5e36ce1bd4e42eccb32a08db7f4c65c5.jpg",
-    "score": "5.0",
-    "remarks": "第23集完结",
-    "update_time": "2026-08-18 16:54:09"
-  },
-  {
-    "id": 144430,
-    "name": "小马超载",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2010",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260818-1/bf9481dfbcb9332237412d42982d85dd.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-18 14:30:39"
   }
 ]

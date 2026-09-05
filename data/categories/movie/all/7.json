@@ -1,5 +1,41 @@
 [
   {
+    "id": 142337,
+    "name": "桑托的黑色星期五",
+    "type": "恐怖片",
+    "category": "恐怖",
+    "year": "2021",
+    "area": "菲律宾",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/92a0b58c6e9c3061cc0cd022d64f5453.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-05 16:50:47"
+  },
+  {
+    "id": 142336,
+    "name": "我的备胎女友",
+    "type": "喜剧片",
+    "category": "喜剧,爱情",
+    "year": "2016",
+    "area": "菲律宾",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/2bebe2392fa23ecb92606c5976ee6f58.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-05 16:50:09"
+  },
+  {
+    "id": 142340,
+    "name": "请只用英语",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2014",
+    "area": "菲律宾",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/27cab87d4c31259e7a98a9610160acb8.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-05 16:49:06"
+  },
+  {
     "id": 142325,
     "name": "永远的三个字",
     "type": "剧情片",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-04 20:34:09"
-  },
-  {
-    "id": 135132,
-    "name": "调音师 2025",
-    "type": "惊悚片",
-    "category": "惊悚,犯罪",
-    "year": "2025",
-    "area": "加拿大,美国",
-    "poster": "https://dbzy5.com/upload/vod/20260606-1/c27d4577d0f785bbecc7359269f8db23.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-04 20:09:31"
-  },
-  {
-    "id": 36442,
-    "name": "陌路兄弟",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2017",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250108-39/35502eac505838b95d08cae47832e131.jpg",
-    "score": "6.3",
-    "remarks": "正片",
-    "update_time": "2026-08-04 19:58:00"
-  },
-  {
-    "id": 134263,
-    "name": "冰雪坏皇后",
-    "type": "动漫电影",
-    "category": "动画",
-    "year": "2026",
-    "area": "挪威",
-    "poster": "https://dbzy5.com/upload/vod/20260601-1/aba5370e3ea79b7f04b0c4fa3c60def5.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-04 19:56:35"
   }
 ]

@@ -1,5 +1,41 @@
 [
   {
+    "id": 145157,
+    "name": "文艺复兴：美与殇",
+    "type": "纪录片",
+    "category": "纪录片,历史",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260821-1/624a6cb6a8b2814b76441e8d3d941d6a.jpg",
+    "score": "5.0",
+    "remarks": "第2集",
+    "update_time": "2026-08-21 20:04:37"
+  },
+  {
+    "id": 145112,
+    "name": "不久，就要永别了",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260821-1/ad7f1edb6fecf461f6cdb86534fee4ce.jpg",
+    "score": "6.9",
+    "remarks": "正片",
+    "update_time": "2026-08-21 19:45:48"
+  },
+  {
+    "id": 145148,
+    "name": "鬼妻爱狠多",
+    "type": "喜剧片",
+    "category": "喜剧 ， 爱情 ， 恐怖",
+    "year": "2025",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260821-1/a9004f2a03d545c735c2a43cd9cf7100.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-21 19:41:44"
+  },
+  {
     "id": 145115,
     "name": "救赎 2026",
     "type": "剧情片",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-17 19:21:34"
-  },
-  {
-    "id": 57990,
-    "name": "长城",
-    "type": "动作片",
-    "category": "动作",
-    "year": "2016",
-    "area": "中国大陆 / 美国",
-    "poster": "https://dbzy5.com/upload/vod/20250107-13/d64a89024a1f93a582b3dc2960b3347a.jpg",
-    "score": "0.0",
-    "remarks": "正片",
-    "update_time": "2026-08-17 17:35:21"
-  },
-  {
-    "id": 144313,
-    "name": "养蜂人的对手",
-    "type": "惊悚片",
-    "category": "惊悚,犯罪",
-    "year": "2025",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260817-1/4abbf8700d03ceb8c7ee0bfac7556507.webp",
-    "score": "5.0",
-    "remarks": "抢先版",
-    "update_time": "2026-08-17 17:31:01"
-  },
-  {
-    "id": 139638,
-    "name": "功夫女足",
-    "type": "剧情片",
-    "category": "剧情,喜剧,运动",
-    "year": "2026",
-    "area": "中国香港,中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260712-1/d9f3af078a4a51125ef92b2b67dcc052.jpg",
-    "score": "6.6",
-    "remarks": "抢先版",
-    "update_time": "2026-08-17 16:46:55"
   }
 ]

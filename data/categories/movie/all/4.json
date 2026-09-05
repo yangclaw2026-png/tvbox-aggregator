@@ -1,5 +1,41 @@
 [
   {
+    "id": 57990,
+    "name": "长城",
+    "type": "动作片",
+    "category": "动作",
+    "year": "2016",
+    "area": "中国大陆 / 美国",
+    "poster": "https://dbzy5.com/upload/vod/20250107-13/d64a89024a1f93a582b3dc2960b3347a.jpg",
+    "score": "0.0",
+    "remarks": "正片",
+    "update_time": "2026-08-17 17:35:21"
+  },
+  {
+    "id": 144313,
+    "name": "养蜂人的对手",
+    "type": "惊悚片",
+    "category": "惊悚,犯罪",
+    "year": "2025",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260817-1/4abbf8700d03ceb8c7ee0bfac7556507.webp",
+    "score": "5.0",
+    "remarks": "抢先版",
+    "update_time": "2026-08-17 17:31:01"
+  },
+  {
+    "id": 139638,
+    "name": "功夫女足",
+    "type": "剧情片",
+    "category": "剧情,喜剧,运动",
+    "year": "2026",
+    "area": "中国香港,中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260712-1/d9f3af078a4a51125ef92b2b67dcc052.jpg",
+    "score": "6.6",
+    "remarks": "抢先版",
+    "update_time": "2026-08-17 16:46:55"
+  },
+  {
     "id": 144274,
     "name": "祈念守护人",
     "type": "动漫电影",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-13 16:30:36"
-  },
-  {
-    "id": 132368,
-    "name": "游戏结束",
-    "type": "剧情片",
-    "category": "剧情,惊悚",
-    "year": "2019",
-    "area": "印度",
-    "poster": "https://dbzy5.com/upload/vod/20260518-1/0cf6d470da2e0b17c4850b292f35387e.jpg",
-    "score": "5.4",
-    "remarks": "正片",
-    "update_time": "2026-08-13 15:48:49"
-  },
-  {
-    "id": 143641,
-    "name": "战中女人",
-    "type": "剧情片",
-    "category": "剧情,喜剧",
-    "year": "2018",
-    "area": "冰岛,法国,乌克兰",
-    "poster": "https://dbzy5.com/upload/vod/20260813-1/d7931c9c8f1786d96b859d3f56ab4edb.jpg",
-    "score": "7.1",
-    "remarks": "正片",
-    "update_time": "2026-08-13 15:46:20"
-  },
-  {
-    "id": 143627,
-    "name": "青龙复仇",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2014",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260813-1/b3f20038d3f4b89b30835a1bb6de96eb.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-13 12:48:13"
   }
 ]

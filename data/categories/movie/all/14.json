@@ -1,5 +1,41 @@
 [
   {
+    "id": 141627,
+    "name": "瑞秋·布鲁姆：死神,让我做我的特别事",
+    "type": "喜剧片",
+    "category": "喜剧",
+    "year": "2024",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260731-1/49422a0cb7524b5bf9173c8075a87baa.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-07-31 16:35:40"
+  },
+  {
+    "id": 141601,
+    "name": "土地 2024",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2024",
+    "area": "加拿大",
+    "poster": "https://dbzy5.com/upload/vod/20260731-1/c766e9aa9573f75a5cd14e535b3bd0f8.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-07-31 16:31:37"
+  },
+  {
+    "id": 141600,
+    "name": "牧场浪漫",
+    "type": "爱情片",
+    "category": "爱情",
+    "year": "2024",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260731-1/3709b06f2357fea8ea977c1b8fec50ed.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-07-31 16:30:26"
+  },
+  {
     "id": 141634,
     "name": "命悬一战：二战决定性战役",
     "type": "纪录片",
@@ -526,77 +562,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-07-30 22:32:56"
-  },
-  {
-    "id": 54974,
-    "name": "龙拳小子",
-    "type": "动作片",
-    "category": "剧情,动作,喜剧,音乐",
-    "year": "1985",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20250107-15/4b616a9877b15953269bcf66bde1429b.jpg",
-    "score": "6.5",
-    "remarks": "正片",
-    "update_time": "2026-07-30 22:29:20"
-  },
-  {
-    "id": 141584,
-    "name": "营地 2025",
-    "type": "恐怖片",
-    "category": "恐怖",
-    "year": "2025",
-    "area": "加拿大",
-    "poster": "https://dbzy5.com/upload/vod/20260730-1/385eb2cd59ce700a0bb0f869fa0fa3b0.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-30 22:29:09"
-  },
-  {
-    "id": 141220,
-    "name": "在空中 2014",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2014",
-    "area": "美国,西班牙,法国",
-    "poster": "https://dbzy5.com/upload/vod/20260728-1/be145ba6ee25ad87aa3f94c9ce175764.jpg",
-    "score": "0.0",
-    "remarks": "正片",
-    "update_time": "2026-07-30 22:28:43"
-  },
-  {
-    "id": 141562,
-    "name": "2024抖音美好奇妙夜",
-    "type": "剧情片",
-    "category": "真人秀",
-    "year": "2024",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260730-1/ea474dd07cb34ebd07550c898b67e735.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-30 22:27:00"
-  },
-  {
-    "id": 141565,
-    "name": "拉德利一家",
-    "type": "喜剧片",
-    "category": "喜剧,恐怖",
-    "year": "2024",
-    "area": "英国",
-    "poster": "https://dbzy5.com/upload/vod/20260730-1/ab2bef7546162f3d19937928dedb0e8a.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-30 22:26:09"
-  },
-  {
-    "id": 141567,
-    "name": "蜗牛 2024",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2024",
-    "area": "意大利",
-    "poster": "https://dbzy5.com/upload/vod/20260730-1/227957574ccbb1d88009277f55bead34.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-30 22:25:05"
   }
 ]

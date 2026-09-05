@@ -1,5 +1,41 @@
 [
   {
+    "id": 141632,
+    "name": "我们所知道的世界",
+    "type": "恐怖片",
+    "category": "恐怖,犯罪",
+    "year": "2020",
+    "area": "英国",
+    "poster": "https://dbzy5.com/upload/vod/20260731-1/99a793404c1485eeea0eb9c4965b44d2.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-01 16:19:45"
+  },
+  {
+    "id": 141633,
+    "name": "汉密尔顿街灵异调查",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2010",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260731-1/de5ee46883e48f3acc3b2dbffd15aac2.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-01 16:19:05"
+  },
+  {
+    "id": 68813,
+    "name": "水中血3",
+    "type": "剧情片",
+    "category": "冒险,剧情片,剧情",
+    "year": "2024",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20250107-2/3f3690670166f777126f1aa952f6fddd.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-01 16:18:26"
+  },
+  {
     "id": 141640,
     "name": "水中血2",
     "type": "动作片",
@@ -562,41 +598,5 @@
     "score": "8.0",
     "remarks": "正片",
     "update_time": "2026-07-31 21:08:31"
-  },
-  {
-    "id": 141687,
-    "name": "底层的珍珠",
-    "type": "喜剧片",
-    "category": "喜剧",
-    "year": "1965",
-    "area": "捷克斯洛伐克",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/8a5aa3b05b4414db71bcf389509609ea.jpg",
-    "score": "7.3",
-    "remarks": "正片",
-    "update_time": "2026-07-31 21:08:01"
-  },
-  {
-    "id": 141685,
-    "name": "纳萨林",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "1959",
-    "area": "墨西哥",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/a16f906d338b0490be875f1dcaab5151.jpg",
-    "score": "7.6",
-    "remarks": "正片",
-    "update_time": "2026-07-31 21:05:00"
-  },
-  {
-    "id": 141684,
-    "name": "老脏混蛋：两个脏小子的故事",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2024",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/e1aa62b97ba78b3b0c6c8352c33ce45a.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-31 21:03:36"
   }
 ]
