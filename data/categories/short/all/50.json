@@ -1,5 +1,17 @@
 [
   {
+    "id": 143550,
+    "name": "反赌风云之王者归来",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260812-1/3a148b83bf14414553a6a43e06504cb0.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-12 21:32:35"
+  },
+  {
     "id": 143549,
     "name": "她选了上班，没选暴富",
     "type": "现代都市",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-12 16:56:53"
-  },
-  {
-    "id": 143503,
-    "name": "太子妃一拳拆东宫",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260812-1/a08e3dbd3f0837fd155b27ea209f650e.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-12 16:55:12"
   }
 ]

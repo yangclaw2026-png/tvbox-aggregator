@@ -1,5 +1,29 @@
 [
   {
+    "id": 139806,
+    "name": "灵珠传：神妙奇珠",
+    "type": "泰国剧",
+    "category": "剧情,奇幻",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260716-1/e5d74783c2c8efb8e521d22cbb10cd26.jpg",
+    "score": "5.0",
+    "remarks": "第11集",
+    "update_time": "2026-08-24 18:23:48"
+  },
+  {
+    "id": 141097,
+    "name": "爱且衡生",
+    "type": "泰国剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260727-1/055d045136658180020ce3d661d38e35.jpg",
+    "score": "5.0",
+    "remarks": "第17集",
+    "update_time": "2026-08-24 18:17:27"
+  },
+  {
     "id": 145601,
     "name": "萨利什和乔丹事务 第一季",
     "type": "欧美剧",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第24集完结",
     "update_time": "2026-08-22 19:24:04"
-  },
-  {
-    "id": 140679,
-    "name": "世界未解之谜",
-    "type": "国产剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260724-1/67d256c74f17075047b0ba6f8ed7c018.jpg",
-    "score": "5.0",
-    "remarks": "第7集",
-    "update_time": "2026-08-22 19:18:03"
-  },
-  {
-    "id": 134919,
-    "name": "被意外拿捏的科学",
-    "type": "国产剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260605-1/ec30baf5204562303f9a308d8660e101.jpg",
-    "score": "5.0",
-    "remarks": "第20集",
-    "update_time": "2026-08-22 15:20:36"
   }
 ]

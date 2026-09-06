@@ -1,5 +1,17 @@
 [
   {
+    "id": 142546,
+    "name": "霸道王爷心尖宠",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260806-1/42253f6a2c564e9e57a51c9f1bc98f3f.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-06 22:39:59"
+  },
+  {
     "id": 142538,
     "name": "我听得懂兽语，它们个个嘴炮王者",
     "type": "古装仙侠",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "全集完结",
     "update_time": "2026-08-06 15:07:37"
-  },
-  {
-    "id": 142062,
-    "name": "小师妹不按套路惊艳三界",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/a8de484f13e3eca78f6217a11cbea8da.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-05 23:04:21"
   }
 ]

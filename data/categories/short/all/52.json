@@ -1,5 +1,17 @@
 [
   {
+    "id": 143398,
+    "name": "邪祟",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260811-1/7db256f401369afe559642cec50539b7.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-11 23:01:39"
+  },
+  {
     "id": 143383,
     "name": "神女渡众生乱世赐粮安万民",
     "type": "古装仙侠",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-11 20:10:10"
-  },
-  {
-    "id": 143346,
-    "name": "我自向阳而生",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260811-1/457bab817d98bb621312022a19213780.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-11 20:08:30"
   }
 ]

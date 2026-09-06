@@ -1,5 +1,41 @@
 [
   {
+    "id": 148188,
+    "name": "舞姬入宫，全宫都演不过我",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260906-1/42302efc46e4cdc1ff6f586770b0e3f9.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-09-06 18:22:11"
+  },
+  {
+    "id": 147294,
+    "name": "疯狂爱上你",
+    "type": "泰国剧",
+    "category": "爱情,同性",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260902-1/7505cfdc3faefe46d8aa35ddb46db5ac.jpg",
+    "score": "5.0",
+    "remarks": "第2集",
+    "update_time": "2026-09-06 18:12:36"
+  },
+  {
+    "id": 147000,
+    "name": "记忆修复店",
+    "type": "泰国剧",
+    "category": "剧情 ， 爱情",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260831-1/e635ffb2d4f37ec01d4946b44e296ac7.jpg",
+    "score": "5.0",
+    "remarks": "第3集",
+    "update_time": "2026-09-06 18:11:58"
+  },
+  {
     "id": 148117,
     "name": "幽暗矿兽",
     "type": "恐怖片",
@@ -562,41 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-09-05 16:42:48"
-  },
-  {
-    "id": 137351,
-    "name": "印度达人秀 第2季",
-    "type": "欧美综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "印度",
-    "poster": "https://dbzy5.com/upload/vod/20260625-1/cc361b1aea4186fbba4c7e410c684362.jpg",
-    "score": "5.0",
-    "remarks": "第6期",
-    "update_time": "2026-09-05 16:11:05"
-  },
-  {
-    "id": 148007,
-    "name": "吃了食火鸡",
-    "type": "科幻片",
-    "category": "悬疑,奇幻",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260905-1/e046b3c3e1b0eb95d1f2cc305e06bf93.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-09-05 16:04:47"
-  },
-  {
-    "id": 148012,
-    "name": "我在荒野做了一场梦",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2025",
-    "area": "中国台湾",
-    "poster": "https://dbzy5.com/upload/vod/20260905-1/945e91660bd7e8d457650d2c11c87533.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-09-05 16:03:17"
   }
 ]

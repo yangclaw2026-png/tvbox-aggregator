@@ -1,5 +1,17 @@
 [
   {
+    "id": 142827,
+    "name": "我以收徒镇万界",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260808-1/f8cba5d65515f300a9fb530813952185.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-08 16:50:03"
+  },
+  {
     "id": 142826,
     "name": "风雪夜下一面情",
     "type": "古装仙侠",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-07 22:05:13"
-  },
-  {
-    "id": 142764,
-    "name": "与君共剑霄",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260807-1/17d634c1933d58d062174b9757843542.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-07 22:03:41"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 148188,
+    "name": "舞姬入宫，全宫都演不过我",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260906-1/42302efc46e4cdc1ff6f586770b0e3f9.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-09-06 18:22:11"
+  },
+  {
     "id": 148107,
     "name": "皇上，您的太子在我这",
     "type": "古装仙侠",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-09-02 23:01:26"
-  },
-  {
-    "id": 147365,
-    "name": "师姐倒追",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260902-1/1c86ed0acc6bcfbb07cc66b7e0c07f19.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-09-02 22:51:51"
   }
 ]

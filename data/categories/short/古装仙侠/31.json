@@ -1,5 +1,17 @@
 [
   {
+    "id": 142764,
+    "name": "与君共剑霄",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260807-1/17d634c1933d58d062174b9757843542.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-07 22:03:41"
+  },
+  {
     "id": 142763,
     "name": "潮头立，青史名",
     "type": "古装仙侠",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-06 22:40:32"
-  },
-  {
-    "id": 142546,
-    "name": "霸道王爷心尖宠",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260806-1/42253f6a2c564e9e57a51c9f1bc98f3f.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-06 22:39:59"
   }
 ]

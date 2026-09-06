@@ -1,5 +1,29 @@
 [
   {
+    "id": 137122,
+    "name": "欺诈游戏",
+    "type": "泰国剧",
+    "category": "爱情,悬疑,犯罪",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260621-1/bd4c7ea0588f038603520bf3e15d88b6.jpg",
+    "score": "5.0",
+    "remarks": "第16集",
+    "update_time": "2026-08-18 16:38:50"
+  },
+  {
+    "id": 137740,
+    "name": "入戏 2026",
+    "type": "国产剧",
+    "category": "剧情,同性",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260628-1/8f98b050ee7d1f952dda9429ab823b36.jpg",
+    "score": "5.0",
+    "remarks": "第12集完结",
+    "update_time": "2026-08-18 16:19:04"
+  },
+  {
     "id": 138838,
     "name": "嫁入高门",
     "type": "国产剧",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第5集",
     "update_time": "2026-08-10 14:48:33"
-  },
-  {
-    "id": 138507,
-    "name": "婚姻之后",
-    "type": "韩剧",
-    "category": "剧情,爱情,惊悚",
-    "year": "2026",
-    "area": "韩国",
-    "poster": "https://dbzy5.com/upload/vod/20260705-1/4129d3486316782479fd37ee0f41c93d.jpg",
-    "score": "5.0",
-    "remarks": "第12集完结",
-    "update_time": "2026-08-09 23:00:01"
-  },
-  {
-    "id": 140659,
-    "name": "兵自风中来",
-    "type": "国产剧",
-    "category": "剧情，动作",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260723-1/edaf26236c2718b1fbd6e334c9fb1a26.jpg",
-    "score": "5.0",
-    "remarks": "第36集完结",
-    "update_time": "2026-08-09 22:14:31"
   }
 ]

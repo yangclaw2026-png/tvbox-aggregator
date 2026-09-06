@@ -1,5 +1,17 @@
 [
   {
+    "id": 145487,
+    "name": "王妃上岗，王爷不装了",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260823-1/f60c8e5ab52bd5631dae6feb75b9490e.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-23 21:43:26"
+  },
+  {
     "id": 145461,
     "name": "穿成炮灰，侯府千金考状元",
     "type": "古装仙侠",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-22 22:58:24"
-  },
-  {
-    "id": 145321,
-    "name": "她若睁眼众神皆跪",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260822-1/2e6fc429d94e9cf7125ab6961cd1df8e.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-22 22:55:51"
   }
 ]

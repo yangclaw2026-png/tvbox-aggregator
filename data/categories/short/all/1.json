@@ -1,5 +1,17 @@
 [
   {
+    "id": 148188,
+    "name": "舞姬入宫，全宫都演不过我",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260906-1/42302efc46e4cdc1ff6f586770b0e3f9.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-09-06 18:22:11"
+  },
+  {
     "id": 148108,
     "name": "对抗路前夫要贴贴",
     "type": "现代都市",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-09-04 22:52:15"
-  },
-  {
-    "id": 147759,
-    "name": "我的盲夫是尊上",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260904-1/d546fd30b0fa08405e04de968a183b14.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-09-04 22:50:18"
   }
 ]

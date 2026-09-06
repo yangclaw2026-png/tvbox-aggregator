@@ -1,5 +1,29 @@
 [
   {
+    "id": 147294,
+    "name": "疯狂爱上你",
+    "type": "泰国剧",
+    "category": "爱情,同性",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260902-1/7505cfdc3faefe46d8aa35ddb46db5ac.jpg",
+    "score": "5.0",
+    "remarks": "第2集",
+    "update_time": "2026-09-06 18:12:36"
+  },
+  {
+    "id": 147000,
+    "name": "记忆修复店",
+    "type": "泰国剧",
+    "category": "剧情 ， 爱情",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260831-1/e635ffb2d4f37ec01d4946b44e296ac7.jpg",
+    "score": "5.0",
+    "remarks": "第3集",
+    "update_time": "2026-09-06 18:11:58"
+  },
+  {
     "id": 148009,
     "name": "机关龙城",
     "type": "国产剧",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第11集",
     "update_time": "2026-08-27 11:27:22"
-  },
-  {
-    "id": 145869,
-    "name": "新兵 第四季",
-    "type": "韩剧",
-    "category": "喜剧",
-    "year": "2026",
-    "area": "韩国",
-    "poster": "https://dbzy5.com/upload/vod/20260825-1/f58a672c94a71f77cc743385fde4d9db.jpg",
-    "score": "5.0",
-    "remarks": "第4集",
-    "update_time": "2026-08-27 11:24:59"
-  },
-  {
-    "id": 138970,
-    "name": "家庭关系证明书",
-    "type": "韩剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "韩国",
-    "poster": "https://dbzy5.com/upload/vod/20260707-1/10f861a7fb52682bc9d178d455ea3dea.jpg",
-    "score": "5.0",
-    "remarks": "第37集",
-    "update_time": "2026-08-27 11:24:27"
   }
 ]
