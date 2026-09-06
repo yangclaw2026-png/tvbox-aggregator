@@ -1,5 +1,41 @@
 [
   {
+    "id": 145844,
+    "name": "修罗在都市",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260825-1/49d245c1df73bf6e164570db26cac341.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-25 19:37:49"
+  },
+  {
+    "id": 145843,
+    "name": "打翻外卖，女王让我给她做饭",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260825-1/d4a6e19985aecb114d003e589e0c0c69.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-25 19:32:50"
+  },
+  {
+    "id": 145838,
+    "name": "沉默偏爱",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260825-1/967cc3f0cee5cf2ce50c5468cbc5170e.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-25 19:05:03"
+  },
+  {
     "id": 145822,
     "name": "长夜散尽微光，小源知暖妻女",
     "type": "现代都市",
@@ -562,41 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-24 22:38:36"
-  },
-  {
-    "id": 140771,
-    "name": "神级情报系统：穷小子的财富狂飙",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260724-1/f8c141f73ba6986063320c286e4a7c8e.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-24 22:37:37"
-  },
-  {
-    "id": 145425,
-    "name": "合约婚后被大佬暗中偏爱",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260823-1/61f00cb2eac16bbb81ad91178e3a9724.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-24 22:37:16"
-  },
-  {
-    "id": 140773,
-    "name": "陛下，您的江山我们姐妹控股了",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260724-1/58807d25c6b250ba860bca9e720d6ce2.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-24 22:36:56"
   }
 ]
