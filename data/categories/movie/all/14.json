@@ -1,5 +1,17 @@
 [
   {
+    "id": 141628,
+    "name": "周末别声张",
+    "type": "剧情片",
+    "category": "剧情,喜剧",
+    "year": "2025",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260731-1/9fabeb0e891f627e79a27dd923d1c2e3.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-07-31 17:20:39"
+  },
+  {
     "id": 141627,
     "name": "瑞秋·布鲁姆：死神,让我做我的特别事",
     "type": "喜剧片",
@@ -550,17 +562,5 @@
     "score": "8.5",
     "remarks": "正片",
     "update_time": "2026-07-30 22:33:36"
-  },
-  {
-    "id": 63573,
-    "name": "玩命警车",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2015",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20250107-7/720be92e1a279f66beb11589ee55489f.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-30 22:32:56"
   }
 ]

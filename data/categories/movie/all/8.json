@@ -1,5 +1,17 @@
 [
   {
+    "id": 138393,
+    "name": "琴键上的梦想",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2025",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260704-1/7879ef021e168b1159ffa86db63c50e7.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-04 20:34:09"
+  },
+  {
     "id": 135132,
     "name": "调音师 2025",
     "type": "惊悚片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-03 18:35:22"
-  },
-  {
-    "id": 142018,
-    "name": "欧盟制造",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2025",
-    "area": "德国,保加利亚,捷克",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/a6ca5572466e4c36cc9991b8d07ece2e.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-03 18:14:32"
   }
 ]

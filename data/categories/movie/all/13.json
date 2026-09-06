@@ -1,5 +1,17 @@
 [
   {
+    "id": 67248,
+    "name": "怒海沉尸",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "1960",
+    "area": "法国,意大利",
+    "poster": "https://dbzy5.com/upload/vod/20250107-3/4c609e922a3e9dcd43019dd779cdc695.jpg",
+    "score": "8.0",
+    "remarks": "正片",
+    "update_time": "2026-07-31 21:08:31"
+  },
+  {
     "id": 141687,
     "name": "底层的珍珠",
     "type": "喜剧片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-07-31 17:26:14"
-  },
-  {
-    "id": 141628,
-    "name": "周末别声张",
-    "type": "剧情片",
-    "category": "剧情,喜剧",
-    "year": "2025",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/9fabeb0e891f627e79a27dd923d1c2e3.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-31 17:20:39"
   }
 ]

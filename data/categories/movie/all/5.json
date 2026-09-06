@@ -1,5 +1,17 @@
 [
   {
+    "id": 143671,
+    "name": "灾 电影版",
+    "type": "剧情片",
+    "category": "剧情,悬疑,惊悚",
+    "year": "2025",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260813-1/ec08f3c46ce633408e27444960b05e06.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-13 16:30:36"
+  },
+  {
     "id": 132368,
     "name": "游戏结束",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.8",
     "remarks": "正片",
     "update_time": "2026-08-08 16:12:01"
-  },
-  {
-    "id": 142798,
-    "name": "Trustor丑闻：瑞典金融案内幕",
-    "type": "纪录片",
-    "category": "惊悚,纪录片,犯罪",
-    "year": "2026",
-    "area": "瑞典",
-    "poster": "https://dbzy5.com/upload/vod/20260808-1/f6ef1c957b2efec29b7d1edce100b22b.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-08 16:06:38"
   }
 ]

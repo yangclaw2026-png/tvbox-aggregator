@@ -1,5 +1,17 @@
 [
   {
+    "id": 141902,
+    "name": "孪生陌生人",
+    "type": "剧情片",
+    "category": "剧情,悬疑,纪录片,传记",
+    "year": "2018",
+    "area": "英国",
+    "poster": "https://dbzy5.com/upload/vod/20260802-1/3f4ba1b079ee02f26d07ed7283d12b55.jpg",
+    "score": "7.7",
+    "remarks": "正片",
+    "update_time": "2026-08-02 16:18:23"
+  },
+  {
     "id": 87569,
     "name": "丧尸之日",
     "type": "恐怖片",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "正片",
     "update_time": "2026-08-01 16:22:44"
-  },
-  {
-    "id": 141630,
-    "name": "无私 2018",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2018",
-    "area": "加拿大",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/8c0671cb29d29ad21db7c98b61a19a0f.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-01 16:21:33"
   }
 ]

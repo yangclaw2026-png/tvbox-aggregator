@@ -1,5 +1,17 @@
 [
   {
+    "id": 142018,
+    "name": "欧盟制造",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2025",
+    "area": "德国,保加利亚,捷克",
+    "poster": "https://dbzy5.com/upload/vod/20260803-1/a6ca5572466e4c36cc9991b8d07ece2e.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-03 18:14:32"
+  },
+  {
     "id": 142004,
     "name": "初次登台的少女们",
     "type": "恐怖片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-03 13:00:18"
-  },
-  {
-    "id": 141958,
-    "name": "无界之环",
-    "type": "喜剧片",
-    "category": "喜剧",
-    "year": "2025",
-    "area": "英国",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/ced6148635a350e12c452087b060762d.jpg",
-    "score": "8.6",
-    "remarks": "正片",
-    "update_time": "2026-08-03 12:48:05"
   }
 ]
