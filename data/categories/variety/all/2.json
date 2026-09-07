@@ -1,5 +1,17 @@
 [
   {
+    "id": 139006,
+    "name": "密室大逃脱 第八季",
+    "type": "大陆综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260708-1/333de5c77f74d84ec90dc72d4e3a15f2.jpg",
+    "score": "5.0",
+    "remarks": "20260826第6期：禁忌学园Ⅱ（下）",
+    "update_time": "2026-08-26 14:26:44"
+  },
+  {
     "id": 145920,
     "name": "今夕颂",
     "type": "大陆综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "20260822第18期",
     "update_time": "2026-08-23 14:08:47"
-  },
-  {
-    "id": 143979,
-    "name": "你好时光第2季",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260815-1/0f1cb51618359c643231a5d898d54590.jpg",
-    "score": "5.0",
-    "remarks": "第20260822期",
-    "update_time": "2026-08-23 00:15:23"
   }
 ]

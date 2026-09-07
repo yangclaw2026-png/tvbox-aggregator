@@ -1,5 +1,17 @@
 [
   {
+    "id": 143804,
+    "name": "互相关注",
+    "type": "大陆综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260814-1/70b84d59c82e9c126e9f141004105c7c.jpg",
+    "score": "5.0",
+    "remarks": "20260813李诞李娟一场拒绝美化的对谈",
+    "update_time": "2026-08-14 11:26:27"
+  },
+  {
     "id": 137232,
     "name": "快乐你懂的",
     "type": "大陆综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第3集",
     "update_time": "2026-08-03 14:35:53"
-  },
-  {
-    "id": 141248,
-    "name": "闭嘴，埃文",
-    "type": "欧美综艺",
-    "category": "脱口秀,喜剧",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260728-1/9ff7f3170c99ea373c6ef92c49866f0f.jpg",
-    "score": "5.0",
-    "remarks": "第27集",
-    "update_time": "2026-08-03 13:27:20"
   }
 ]

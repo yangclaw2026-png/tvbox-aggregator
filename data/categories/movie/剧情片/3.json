@@ -1,5 +1,17 @@
 [
   {
+    "id": 142311,
+    "name": "格斗女孩",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2012",
+    "area": "德国",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/2015a41bb66a45bc0088a03480855ea0.jpg",
+    "score": "6.7",
+    "remarks": "正片",
+    "update_time": "2026-08-05 15:35:51"
+  },
+  {
     "id": 142308,
     "name": "萨瓦里",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-03 15:40:21"
-  },
-  {
-    "id": 141986,
-    "name": "荣光与暗影",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2026",
-    "area": "法国",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/f8a88e5c7021246ae4b08a6f45d99e1b.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-03 15:36:27"
   }
 ]

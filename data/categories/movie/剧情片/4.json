@@ -1,5 +1,17 @@
 [
   {
+    "id": 141986,
+    "name": "荣光与暗影",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2026",
+    "area": "法国",
+    "poster": "https://dbzy5.com/upload/vod/20260803-1/f8a88e5c7021246ae4b08a6f45d99e1b.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-03 15:36:27"
+  },
+  {
     "id": 141984,
     "name": "价格战",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-01 15:58:45"
-  },
-  {
-    "id": 141643,
-    "name": "去年夏天",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "1969",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/60b87eab99e96bc1b896e126d1102703.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-01 15:49:00"
   }
 ]

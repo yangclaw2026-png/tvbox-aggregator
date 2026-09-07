@@ -1,5 +1,17 @@
 [
   {
+    "id": 133395,
+    "name": "劫途",
+    "type": "剧情片",
+    "category": "剧情,惊悚,犯罪",
+    "year": "2025",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260525-1/c7d0dc4ab9fbfd701ccd803283804ba7.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-04 20:35:21"
+  },
+  {
     "id": 138393,
     "name": "琴键上的梦想",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-03 20:37:02"
-  },
-  {
-    "id": 142019,
-    "name": "外星恶客",
-    "type": "科幻片",
-    "category": "科幻,恐怖",
-    "year": "1959",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/44ae85bcc1f1bdc334641d8973e71c6a.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-03 18:35:22"
   }
 ]

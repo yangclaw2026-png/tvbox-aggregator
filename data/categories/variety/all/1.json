@@ -1,5 +1,17 @@
 [
   {
+    "id": 148452,
+    "name": "清醒点！姐妹",
+    "type": "大陆综艺",
+    "category": "真人秀,社会",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260907-1/108c9dd99e080c9050c9569eccf1a4a8.jpg",
+    "score": "5.0",
+    "remarks": "20260907 清醒第一集，爱人先爱己",
+    "update_time": "2026-09-07 22:57:02"
+  },
+  {
     "id": 137351,
     "name": "印度达人秀 第2季",
     "type": "欧美综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "20260826大神版第6期：密神团营救计划",
     "update_time": "2026-08-26 14:28:08"
-  },
-  {
-    "id": 139006,
-    "name": "密室大逃脱 第八季",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260708-1/333de5c77f74d84ec90dc72d4e3a15f2.jpg",
-    "score": "5.0",
-    "remarks": "20260826第6期：禁忌学园Ⅱ（下）",
-    "update_time": "2026-08-26 14:26:44"
   }
 ]

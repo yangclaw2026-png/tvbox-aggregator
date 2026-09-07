@@ -1,5 +1,17 @@
 [
   {
+    "id": 145597,
+    "name": "浪里个浪青春版",
+    "type": "大陆综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260824-1/2a12d02a93c55d6e84b1fa124e05c9bb.jpg",
+    "score": "5.0",
+    "remarks": "第20260824期不要什么CP都嗑！",
+    "update_time": "2026-08-24 16:01:39"
+  },
+  {
     "id": 136580,
     "name": "天赐的声音 第七季",
     "type": "大陆综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "20260812众人篝火畅谈暂别喧嚣",
     "update_time": "2026-08-12 15:37:44"
-  },
-  {
-    "id": 143334,
-    "name": "罗永浩的十字路口",
-    "type": "大陆综艺",
-    "category": "脱口秀",
-    "year": "2025",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260811-1/25b7efdb3c5b053d352a23ea06659d6e.jpg",
-    "score": "5.0",
-    "remarks": "第18集",
-    "update_time": "2026-08-12 11:43:24"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 148452,
+    "name": "清醒点！姐妹",
+    "type": "大陆综艺",
+    "category": "真人秀,社会",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260907-1/108c9dd99e080c9050c9569eccf1a4a8.jpg",
+    "score": "5.0",
+    "remarks": "20260907 清醒第一集，爱人先爱己",
+    "update_time": "2026-09-07 22:57:02"
+  },
+  {
     "id": 147895,
     "name": "北京“厂”开玩",
     "type": "大陆综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "20260824第1期：男女嘉宾初见手信传情",
     "update_time": "2026-08-24 16:20:24"
-  },
-  {
-    "id": 145597,
-    "name": "浪里个浪青春版",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260824-1/2a12d02a93c55d6e84b1fa124e05c9bb.jpg",
-    "score": "5.0",
-    "remarks": "第20260824期不要什么CP都嗑！",
-    "update_time": "2026-08-24 16:01:39"
   }
 ]

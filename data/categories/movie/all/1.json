@@ -1,5 +1,17 @@
 [
   {
+    "id": 139316,
+    "name": "海洋奇缘：启航",
+    "type": "剧情片",
+    "category": "喜剧,动作,歌舞,奇幻,冒险",
+    "year": "2026",
+    "area": "美国,新西兰",
+    "poster": "https://dbzy5.com/upload/vod/20260710-1/b761bcea05368ba0fac07252c0568757.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-09-07 22:59:26"
+  },
+  {
     "id": 148117,
     "name": "幽暗矿兽",
     "type": "恐怖片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "抢先版",
     "update_time": "2026-08-25 23:02:17"
-  },
-  {
-    "id": 145915,
-    "name": "歪心狼对阵ACME",
-    "type": "动漫电影",
-    "category": "喜剧 ，动画 ， 奇幻 ， 冒险",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260825-1/33474991b4930a20ec9dd874dfe4d460.jpg",
-    "score": "5.0",
-    "remarks": "抢先版",
-    "update_time": "2026-08-25 22:50:44"
   }
 ]

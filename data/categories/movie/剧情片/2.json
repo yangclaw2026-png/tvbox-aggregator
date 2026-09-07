@@ -1,5 +1,17 @@
 [
   {
+    "id": 143896,
+    "name": "狂兽翔空",
+    "type": "剧情片",
+    "category": "剧情,冒险,运动",
+    "year": "2026",
+    "area": "西班牙",
+    "poster": "https://dbzy5.com/upload/vod/20260814-1/df357379298e2e37d0f41ca2388f5381.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-14 21:48:53"
+  },
+  {
     "id": 143832,
     "name": "我的死党恋爱了",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "6.8",
     "remarks": "正片",
     "update_time": "2026-08-05 15:42:03"
-  },
-  {
-    "id": 142311,
-    "name": "格斗女孩",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2012",
-    "area": "德国",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/2015a41bb66a45bc0088a03480855ea0.jpg",
-    "score": "6.7",
-    "remarks": "正片",
-    "update_time": "2026-08-05 15:35:51"
   }
 ]

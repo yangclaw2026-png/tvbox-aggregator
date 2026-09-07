@@ -1,5 +1,17 @@
 [
   {
+    "id": 141643,
+    "name": "去年夏天",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "1969",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260731-1/60b87eab99e96bc1b896e126d1102703.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-01 15:49:00"
+  },
+  {
     "id": 141645,
     "name": "玩具熊",
     "type": "剧情片",
@@ -538,53 +550,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-07-31 14:56:23"
-  },
-  {
-    "id": 141623,
-    "name": "游泳池 2024",
-    "type": "剧情片",
-    "category": "剧情,惊悚",
-    "year": "2024",
-    "area": "冰岛,芬兰",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/793b8cf4a56ed1cc6a3c3d93b464ae03.jpg",
-    "score": "4.1",
-    "remarks": "正片",
-    "update_time": "2026-07-31 14:52:16"
-  },
-  {
-    "id": 141603,
-    "name": "哽 2021",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2021",
-    "area": "土耳其",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/4d41d332e4d5c0cf6a6f0dfb6347d13e.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-31 14:10:59"
-  },
-  {
-    "id": 141613,
-    "name": "天堂 2021",
-    "type": "剧情片",
-    "category": "剧情,喜剧,奇幻",
-    "year": "2021",
-    "area": "塞尔维亚,德国,斯洛文尼亚,克罗地亚,黑",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/d0ec7c5d66019f37ebb08707c1ae5419.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-31 14:08:45"
-  },
-  {
-    "id": 141610,
-    "name": "浴血困牛山",
-    "type": "剧情片",
-    "category": "剧情,战争",
-    "year": "2025",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/9fb67965214f4afc183265a128f7c769.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-31 13:02:58"
   }
 ]
