@@ -1,5 +1,29 @@
 [
   {
+    "id": 139881,
+    "name": "虽然我不是完美恶女～雏宫蝶鼠替换传",
+    "type": "日本动漫",
+    "category": "剧情,动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260717-1/ddbe206c1a1b2d1a91c3b847a7fefcb4.jpg",
+    "score": "5.0",
+    "remarks": "第7集",
+    "update_time": "2026-08-24 15:43:19"
+  },
+  {
+    "id": 125873,
+    "name": "Re：从零开始的异世界生活 第四季 夺还篇",
+    "type": "日本动漫",
+    "category": "剧情,动画,奇幻,冒险",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260318-1/cc0be59780eeab1fa167089361726107.jpg",
+    "score": "5.0",
+    "remarks": "第13集",
+    "update_time": "2026-08-24 14:20:42"
+  },
+  {
     "id": 138386,
     "name": "地狱模式 ～喜欢速通游戏的玩家在废设定异世界无双～ 第2季",
     "type": "日本动漫",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第8集",
     "update_time": "2026-08-23 14:39:09"
-  },
-  {
-    "id": 138531,
-    "name": "成长秀～向日葵马戏团",
-    "type": "日本动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260705-1/c28a7cc3b98ac1db99cac9ac56304b2e.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-23 14:28:44"
-  },
-  {
-    "id": 138532,
-    "name": "穹庐下的魔女",
-    "type": "日本动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260705-1/08a744d9ad9bae2ca739000394a8d39e.jpg",
-    "score": "5.0",
-    "remarks": "第9集",
-    "update_time": "2026-08-23 14:24:13"
   }
 ]

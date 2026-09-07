@@ -1,5 +1,29 @@
 [
   {
+    "id": 127731,
+    "name": "北斗神拳",
+    "type": "日本动漫",
+    "category": "动作,动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260411-1/af253f8b6bbc1da73ef794b0471c12c1.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-26 14:28:18"
+  },
+  {
+    "id": 127372,
+    "name": "欺诈游戏 2026",
+    "type": "日本动漫",
+    "category": "动画,悬疑",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260407-1/90056d8ec1e4099b9d943369da482bfd.jpg",
+    "score": "5.0",
+    "remarks": "第21集",
+    "update_time": "2026-08-26 14:27:39"
+  },
+  {
     "id": 138986,
     "name": "感谢对战 ～大小姐才不玩格斗游戏",
     "type": "日本动漫",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第8集",
     "update_time": "2026-08-26 11:14:18"
-  },
-  {
-    "id": 70658,
-    "name": "遮天 2024",
-    "type": "国产动漫",
-    "category": "动作,动画,奇幻,古装",
-    "year": "2024",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250118-1/bad57680a65e10ed53a9c1f7fa1b601b.jpg",
-    "score": "5.0",
-    "remarks": "第177集",
-    "update_time": "2026-08-26 11:13:03"
-  },
-  {
-    "id": 145906,
-    "name": "重生之嫡女不善",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260825-1/9d51501a9c92b72ffdbd4c30f8291a86.jpg",
-    "score": "5.0",
-    "remarks": "第60集完结",
-    "update_time": "2026-08-25 22:23:20"
   }
 ]

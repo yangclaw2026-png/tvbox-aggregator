@@ -1,5 +1,29 @@
 [
   {
+    "id": 140664,
+    "name": "死灵法师！我即是天灾",
+    "type": "国产动漫",
+    "category": "动画,奇幻,冒险",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260724-1/ad17022f01ed3d4a2aa05e452c5c9366.jpg",
+    "score": "5.0",
+    "remarks": "第11集",
+    "update_time": "2026-08-27 11:39:59"
+  },
+  {
+    "id": 143454,
+    "name": "狼狼少女蓝之沉睡之章",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260812-1/844606a9b13ca1b227daf8ae7ce65f22.jpg",
+    "score": "5.0",
+    "remarks": "第17集",
+    "update_time": "2026-08-27 11:38:50"
+  },
+  {
     "id": 143811,
     "name": "开局重生一千次 2026",
     "type": "国产动漫",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第8集",
     "update_time": "2026-08-26 14:30:21"
-  },
-  {
-    "id": 127731,
-    "name": "北斗神拳",
-    "type": "日本动漫",
-    "category": "动作,动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260411-1/af253f8b6bbc1da73ef794b0471c12c1.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-26 14:28:18"
-  },
-  {
-    "id": 127372,
-    "name": "欺诈游戏 2026",
-    "type": "日本动漫",
-    "category": "动画,悬疑",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260407-1/90056d8ec1e4099b9d943369da482bfd.jpg",
-    "score": "5.0",
-    "remarks": "第21集",
-    "update_time": "2026-08-26 14:27:39"
   }
 ]

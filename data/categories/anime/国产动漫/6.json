@@ -1,5 +1,29 @@
 [
   {
+    "id": 102423,
+    "name": "异变降临，我刷爆了全球副本！动态漫画",
+    "type": "国产动漫",
+    "category": "动漫",
+    "year": "2025",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250822-1/76c8983d9b2c4ff86abccd3188beccbb.jpg",
+    "score": "5.0",
+    "remarks": "第97集",
+    "update_time": "2026-08-21 12:25:24"
+  },
+  {
+    "id": 502,
+    "name": "全民御兽：开局觉醒神话级天赋 动态漫画",
+    "type": "国产动漫",
+    "category": "热血,穿越,中国动漫",
+    "year": "2024",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250109-5/d0ecccdb707ef3b70155370f6a6c9726.jpg",
+    "score": "5.0",
+    "remarks": "第97集",
+    "update_time": "2026-08-21 12:24:41"
+  },
+  {
     "id": 478,
     "name": "全民转职：驭龙师是最弱职业 动态漫画",
     "type": "国产动漫",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第5集",
     "update_time": "2026-08-14 12:47:38"
-  },
-  {
-    "id": 102491,
-    "name": "从野怪开始升级 动态漫画",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2024",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250822-1/24c063b322c633a673dac4389f1da742.jpg",
-    "score": "5.0",
-    "remarks": "第45集",
-    "update_time": "2026-08-14 12:33:13"
-  },
-  {
-    "id": 519,
-    "name": "百炼成神 动态漫画 第三季",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2024",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250109-5/af0983c7d15d222205ecc7736da5d491.jpg",
-    "score": "5.0",
-    "remarks": "第104集完结",
-    "update_time": "2026-08-14 12:24:54"
   }
 ]

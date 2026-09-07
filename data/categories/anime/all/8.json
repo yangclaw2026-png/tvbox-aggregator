@@ -1,5 +1,29 @@
 [
   {
+    "id": 139004,
+    "name": "胶囊计划 奇迹",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260708-1/1f63cb8263813228a403818fcfa1986a.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-19 11:56:33"
+  },
+  {
+    "id": 136302,
+    "name": "我从地狱归来",
+    "type": "国产动漫",
+    "category": "动漫",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260612-1/93be67b8d01757fda6c21818b89b3dd8.jpg",
+    "score": "5.0",
+    "remarks": "第22集",
+    "update_time": "2026-08-19 11:36:37"
+  },
+  {
     "id": 142640,
     "name": "小猪佩奇 第十二季 英文版",
     "type": "国产动漫",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第20集",
     "update_time": "2026-08-13 12:04:09"
-  },
-  {
-    "id": 143546,
-    "name": "末世开局我不圣母全员仰望",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260812-1/438b26deec93a2111d5e567a0bb9e6a1.jpg",
-    "score": "5.0",
-    "remarks": "第41集完结",
-    "update_time": "2026-08-12 20:56:35"
-  },
-  {
-    "id": 143484,
-    "name": "我为灾厄专猎灾厄",
-    "type": "国产动漫",
-    "category": "动画,逆袭,脑洞,神怪",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260812-1/eef26f87c8ac178f9ce8eab8ac24ccc9.jpg",
-    "score": "5.0",
-    "remarks": "第88集完结",
-    "update_time": "2026-08-12 17:35:13"
   }
 ]

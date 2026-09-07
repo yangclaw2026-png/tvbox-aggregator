@@ -1,5 +1,29 @@
 [
   {
+    "id": 138531,
+    "name": "成长秀～向日葵马戏团",
+    "type": "日本动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260705-1/c28a7cc3b98ac1db99cac9ac56304b2e.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-23 14:28:44"
+  },
+  {
+    "id": 138532,
+    "name": "穹庐下的魔女",
+    "type": "日本动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260705-1/08a744d9ad9bae2ca739000394a8d39e.jpg",
+    "score": "5.0",
+    "remarks": "第9集",
+    "update_time": "2026-08-23 14:24:13"
+  },
+  {
     "id": 134305,
     "name": "破防临界线 诡契无上限",
     "type": "国产动漫",
@@ -574,29 +598,5 @@
     "score": "0.0",
     "remarks": "第78集",
     "update_time": "2026-08-22 12:00:20"
-  },
-  {
-    "id": 130987,
-    "name": "神宠进化 动态漫画 第3季",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260505-1/4930294eb543071e956727f035511885.jpg",
-    "score": "5.0",
-    "remarks": "第82集",
-    "update_time": "2026-08-22 11:58:36"
-  },
-  {
-    "id": 131463,
-    "name": "牧龙师动态漫",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2024",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260509-1/78f75d067d8e61ce4351d6cca06ea0ea.jpg",
-    "score": "5.0",
-    "remarks": "第100集",
-    "update_time": "2026-08-22 11:56:15"
   }
 ]

@@ -1,5 +1,29 @@
 [
   {
+    "id": 147635,
+    "name": "神卡少年之校园争霸",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260903-1/62ee019150ed1d0a60b5763f6d22ad0c.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-09-07 11:12:28"
+  },
+  {
+    "id": 146422,
+    "name": "身体变变变",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260828-1/a7f4a4f4d335db294e2dcd7efadfe6f6.jpg",
+    "score": "5.0",
+    "remarks": "第20集",
+    "update_time": "2026-09-07 11:11:51"
+  },
+  {
     "id": 147503,
     "name": "神魂待卿归",
     "type": "国产动漫",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第19集",
     "update_time": "2026-08-27 11:34:30"
-  },
-  {
-    "id": 133403,
-    "name": "逆天邪神 年番",
-    "type": "国产动漫",
-    "category": "动作,动画,奇幻,古装",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260525-1/6c00652da83a3d2246a59586a02054e7.jpg",
-    "score": "5.0",
-    "remarks": "第52集",
-    "update_time": "2026-08-27 11:34:08"
-  },
-  {
-    "id": 141210,
-    "name": "新开心球 第一季",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260728-1/760a3d933c4e29866656b1b058ef7940.jpg",
-    "score": "5.0",
-    "remarks": "第41集",
-    "update_time": "2026-08-27 11:33:58"
   }
 ]

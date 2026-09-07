@@ -1,5 +1,29 @@
 [
   {
+    "id": 70658,
+    "name": "遮天 2024",
+    "type": "国产动漫",
+    "category": "动作,动画,奇幻,古装",
+    "year": "2024",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250118-1/bad57680a65e10ed53a9c1f7fa1b601b.jpg",
+    "score": "5.0",
+    "remarks": "第177集",
+    "update_time": "2026-08-26 11:13:03"
+  },
+  {
+    "id": 145906,
+    "name": "重生之嫡女不善",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260825-1/9d51501a9c92b72ffdbd4c30f8291a86.jpg",
+    "score": "5.0",
+    "remarks": "第60集完结",
+    "update_time": "2026-08-25 22:23:20"
+  },
+  {
     "id": 139331,
     "name": "最强出涸皇子的暗跃帝位争夺 最強出涸",
     "type": "日本动漫",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第201集",
     "update_time": "2026-08-24 15:52:57"
-  },
-  {
-    "id": 139881,
-    "name": "虽然我不是完美恶女～雏宫蝶鼠替换传",
-    "type": "日本动漫",
-    "category": "剧情,动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260717-1/ddbe206c1a1b2d1a91c3b847a7fefcb4.jpg",
-    "score": "5.0",
-    "remarks": "第7集",
-    "update_time": "2026-08-24 15:43:19"
-  },
-  {
-    "id": 125873,
-    "name": "Re：从零开始的异世界生活 第四季 夺还篇",
-    "type": "日本动漫",
-    "category": "剧情,动画,奇幻,冒险",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260318-1/cc0be59780eeab1fa167089361726107.jpg",
-    "score": "5.0",
-    "remarks": "第13集",
-    "update_time": "2026-08-24 14:20:42"
   }
 ]

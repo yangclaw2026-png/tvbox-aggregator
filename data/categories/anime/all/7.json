@@ -1,5 +1,29 @@
 [
   {
+    "id": 130987,
+    "name": "神宠进化 动态漫画 第3季",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260505-1/4930294eb543071e956727f035511885.jpg",
+    "score": "5.0",
+    "remarks": "第82集",
+    "update_time": "2026-08-22 11:58:36"
+  },
+  {
+    "id": 131463,
+    "name": "牧龙师动态漫",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2024",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260509-1/78f75d067d8e61ce4351d6cca06ea0ea.jpg",
+    "score": "5.0",
+    "remarks": "第100集",
+    "update_time": "2026-08-22 11:56:15"
+  },
+  {
     "id": 275,
     "name": "开局一万俯卧撑：轰杀神明 动态漫画",
     "type": "国产动漫",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第24集",
     "update_time": "2026-08-19 12:17:01"
-  },
-  {
-    "id": 139004,
-    "name": "胶囊计划 奇迹",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260708-1/1f63cb8263813228a403818fcfa1986a.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-19 11:56:33"
-  },
-  {
-    "id": 136302,
-    "name": "我从地狱归来",
-    "type": "国产动漫",
-    "category": "动漫",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260612-1/93be67b8d01757fda6c21818b89b3dd8.jpg",
-    "score": "5.0",
-    "remarks": "第22集",
-    "update_time": "2026-08-19 11:36:37"
   }
 ]

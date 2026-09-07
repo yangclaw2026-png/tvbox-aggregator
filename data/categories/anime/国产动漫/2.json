@@ -1,5 +1,29 @@
 [
   {
+    "id": 133403,
+    "name": "逆天邪神 年番",
+    "type": "国产动漫",
+    "category": "动作,动画,奇幻,古装",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260525-1/6c00652da83a3d2246a59586a02054e7.jpg",
+    "score": "5.0",
+    "remarks": "第52集",
+    "update_time": "2026-08-27 11:34:08"
+  },
+  {
+    "id": 141210,
+    "name": "新开心球 第一季",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260728-1/760a3d933c4e29866656b1b058ef7940.jpg",
+    "score": "5.0",
+    "remarks": "第41集",
+    "update_time": "2026-08-27 11:33:58"
+  },
+  {
     "id": 124744,
     "name": "盗妖行",
     "type": "国产动漫",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第156集",
     "update_time": "2026-08-26 13:03:53"
-  },
-  {
-    "id": 143801,
-    "name": "控分学神",
-    "type": "国产动漫",
-    "category": "动画,校园,爽剧,剧情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260813-1/407d0200c2d24c79d867e01922360263.jpg",
-    "score": "5.0",
-    "remarks": "第261集",
-    "update_time": "2026-08-26 12:59:01"
-  },
-  {
-    "id": 132292,
-    "name": "猎魔女团之星光征程",
-    "type": "国产动漫",
-    "category": "中国动漫",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260517-1/fedcab58e353bcd3ad66c317aa8f60ce.jpg",
-    "score": "5.0",
-    "remarks": "第65集",
-    "update_time": "2026-08-26 12:51:33"
   }
 ]

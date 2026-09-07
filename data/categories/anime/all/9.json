@@ -1,5 +1,29 @@
 [
   {
+    "id": 143546,
+    "name": "末世开局我不圣母全员仰望",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260812-1/438b26deec93a2111d5e567a0bb9e6a1.jpg",
+    "score": "5.0",
+    "remarks": "第41集完结",
+    "update_time": "2026-08-12 20:56:35"
+  },
+  {
+    "id": 143484,
+    "name": "我为灾厄专猎灾厄",
+    "type": "国产动漫",
+    "category": "动画,逆袭,脑洞,神怪",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260812-1/eef26f87c8ac178f9ce8eab8ac24ccc9.jpg",
+    "score": "5.0",
+    "remarks": "第88集完结",
+    "update_time": "2026-08-12 17:35:13"
+  },
+  {
     "id": 140207,
     "name": "我是收容员，但队友全是诡异",
     "type": "国产动漫",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "21全集",
     "update_time": "2026-08-05 17:09:45"
-  },
-  {
-    "id": 142292,
-    "name": "白金用户抢我头等舱",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/48b20be3ee1e2d536fbc03a379f11bbe.jpg",
-    "score": "5.0",
-    "remarks": "第13集",
-    "update_time": "2026-08-05 17:07:32"
-  },
-  {
-    "id": 142267,
-    "name": "所有美丽的怪物",
-    "type": "日本动漫",
-    "category": "剧情 ，恐怖 ，奇幻",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/6620a0586d19699028ef1bb71ecb5d37.jpg",
-    "score": "5.0",
-    "remarks": "第1集",
-    "update_time": "2026-08-05 11:59:04"
   }
 ]
