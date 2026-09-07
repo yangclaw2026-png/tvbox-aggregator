@@ -1,5 +1,17 @@
 [
   {
+    "id": 142482,
+    "name": "我家神兽全是上古凶兽",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260806-1/40568072ba79ce466837aec6df7c1cde.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-06 22:57:59"
+  },
+  {
     "id": 142480,
     "name": "开局被夫人盯上，我反手称霸大周",
     "type": "古装仙侠",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-06 20:01:08"
-  },
-  {
-    "id": 142526,
-    "name": "卦定乾坤：京城风云起",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260806-1/4ee0e915120cdaf7b598a584917aadc7.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-06 19:58:53"
   }
 ]

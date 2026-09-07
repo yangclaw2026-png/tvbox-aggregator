@@ -1,5 +1,17 @@
 [
   {
+    "id": 146337,
+    "name": "我的 AI 皇后",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260828-1/c25076a195755263a446a4d3c2278ba7.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-28 14:44:57"
+  },
+  {
     "id": 146336,
     "name": "穿书后我用科技吊打白月光",
     "type": "古装仙侠",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-27 20:37:08"
-  },
-  {
-    "id": 146281,
-    "name": "红妆劫，一世宠",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260827-1/9efc06f9569a474c49b16b53e1e189c8.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-27 20:36:57"
   }
 ]

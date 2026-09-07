@@ -1,5 +1,17 @@
 [
   {
+    "id": 143794,
+    "name": "诸君且同行，剑育文策",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260813-1/d459ee482c0cb521f84b87b9bf859592.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-13 22:47:48"
+  },
+  {
     "id": 143741,
     "name": "极寒双契",
     "type": "古装仙侠",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-13 21:26:19"
-  },
-  {
-    "id": 143692,
-    "name": "长夜有郡谋",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260813-1/6a0c4b654606fc85a11c83326c11c64c.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-13 21:18:58"
   }
 ]

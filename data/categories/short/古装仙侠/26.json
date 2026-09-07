@@ -1,5 +1,17 @@
 [
   {
+    "id": 143298,
+    "name": "大唐兜子来敲门第三季",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260811-1/8b59d023d1c3454c0dbbe6af9c9d35cb.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-11 13:14:00"
+  },
+  {
     "id": 143140,
     "name": "暗恋十四年总裁他先动心",
     "type": "古装仙侠",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-10 20:48:33"
-  },
-  {
-    "id": 140478,
-    "name": "九皇子究竟何时登基",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260722-1/87457fefe948696f0feb3e0fbe936b68.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-10 20:45:09"
   }
 ]
