@@ -1,5 +1,41 @@
 [
   {
+    "id": 137223,
+    "name": "龙之家族 第三季",
+    "type": "欧美剧",
+    "category": "剧情,动作,爱情,奇幻,冒险",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260624-1/bbbebf20f9964f1331031e313ab13995.jpg",
+    "score": "5.0",
+    "remarks": "第8集完结",
+    "update_time": "2026-08-10 21:04:27"
+  },
+  {
+    "id": 143090,
+    "name": "香港大案纪实",
+    "type": "国产剧",
+    "category": "剧情",
+    "year": "2023",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260810-1/ac04f41c6b7ecd479e1148eaa9172c33.jpg",
+    "score": "5.0",
+    "remarks": "第2集完结",
+    "update_time": "2026-08-10 17:23:16"
+  },
+  {
+    "id": 142928,
+    "name": "迷失于光",
+    "type": "泰国剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260809-1/1aa784dd4788f9f541c6574c20732342.jpg",
+    "score": "5.0",
+    "remarks": "第5集",
+    "update_time": "2026-08-10 14:48:33"
+  },
+  {
     "id": 138507,
     "name": "婚姻之后",
     "type": "韩剧",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第402集",
     "update_time": "2026-08-04 20:32:26"
-  },
-  {
-    "id": 139308,
-    "name": "百花杀",
-    "type": "国产剧",
-    "category": "剧情,爱情,古装",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260710-1/84912dd14062017763300bcca1e12ade.jpg",
-    "score": "5.0",
-    "remarks": "第36集完结",
-    "update_time": "2026-08-04 20:00:36"
-  },
-  {
-    "id": 142123,
-    "name": "Chat Boy",
-    "type": "日本剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/7e78019b0680ff9acdc478ad2dc63e15.jpg",
-    "score": "5.0",
-    "remarks": "第1集",
-    "update_time": "2026-08-04 14:08:13"
-  },
-  {
-    "id": 139833,
-    "name": "废太子胤礽：康熙朝的“囚徒”",
-    "type": "国产剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260717-1/dda819613454217585fa5adac2043b14.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-04 14:01:09"
   }
 ]

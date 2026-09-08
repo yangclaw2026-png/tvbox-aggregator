@@ -1,5 +1,17 @@
 [
   {
+    "id": 145171,
+    "name": "牺牲",
+    "type": "喜剧片",
+    "category": "喜剧 ，动作 ，冒险",
+    "year": "2025",
+    "area": "英国",
+    "poster": "https://dbzy5.com/upload/vod/20260821-1/8007d037a7c7c4a181278b842cfe1f00.jpg",
+    "score": "5.0",
+    "remarks": "抢先版",
+    "update_time": "2026-08-21 20:51:30"
+  },
+  {
     "id": 145164,
     "name": "潜伏6",
     "type": "恐怖片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-18 12:31:43"
-  },
-  {
-    "id": 144398,
-    "name": "速战速决",
-    "type": "动作片",
-    "category": "动作,犯罪",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260818-1/db7f0a20d37b23b5d82a42d431c2a0e0.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-18 12:08:26"
   }
 ]

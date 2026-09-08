@@ -1,5 +1,17 @@
 [
   {
+    "id": 142335,
+    "name": "玻璃之灵2：猎物",
+    "type": "恐怖片",
+    "category": "恐怖片",
+    "year": "2017",
+    "area": "菲律宾",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/5c6e5cb8b92734c77b71ef0a334d2c76.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-05 16:52:33"
+  },
+  {
     "id": 142338,
     "name": "野小爱",
     "type": "喜剧片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-04 22:52:08"
-  },
-  {
-    "id": 142228,
-    "name": "灵魂伴侣",
-    "type": "科幻片",
-    "category": "科幻 ， 惊悚 ， 恐怖",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/2c3db117863b6d26a3c1cb73ee861a19.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-04 22:21:38"
   }
 ]

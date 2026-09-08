@@ -1,5 +1,41 @@
 [
   {
+    "id": 144396,
+    "name": "绿灯军团",
+    "type": "欧美剧",
+    "category": "剧情 ， 动作 ， 科幻 ， 悬疑 ， 惊悚 ， 犯罪 ， 奇幻 ， 冒险",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260818-1/b410cbef079e386b88c9b4c54501ac47.jpg",
+    "score": "5.0",
+    "remarks": "第2集",
+    "update_time": "2026-08-24 19:57:53"
+  },
+  {
+    "id": 145669,
+    "name": "丹尼加油",
+    "type": "欧美剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260824-1/fdcaf059cb510dcf966a6f4f8a351254.jpg",
+    "score": "5.0",
+    "remarks": "第6集完结",
+    "update_time": "2026-08-24 19:25:25"
+  },
+  {
+    "id": 135309,
+    "name": "你钱我花独自旅行5",
+    "type": "韩剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "韩国",
+    "poster": "https://dbzy5.com/upload/vod/20260607-1/ff465adfc617ba907286ecc017833146.jpg",
+    "score": "5.0",
+    "remarks": "第12集",
+    "update_time": "2026-08-24 19:04:09"
+  },
+  {
     "id": 139806,
     "name": "灵珠传：神妙奇珠",
     "type": "泰国剧",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第4集",
     "update_time": "2026-08-22 20:34:38"
-  },
-  {
-    "id": 143924,
-    "name": "我们之间的引力",
-    "type": "泰国剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260815-1/e2c0b062a57af3f33ac72dbba4413355.jpg",
-    "score": "5.0",
-    "remarks": "第2集",
-    "update_time": "2026-08-22 20:32:02"
-  },
-  {
-    "id": 142154,
-    "name": "人鱼 (2026)",
-    "type": "国产剧",
-    "category": "剧情,悬疑",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/1c16483a537dfe94e8c72a28255549b5.jpg",
-    "score": "5.0",
-    "remarks": "第22集完结",
-    "update_time": "2026-08-22 20:18:04"
-  },
-  {
-    "id": 143074,
-    "name": "狂徒 2026",
-    "type": "国产剧",
-    "category": "剧情,犯罪",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260810-1/f2cf0a0540fe1069e52a19cc3bc047d0.jpg",
-    "score": "5.0",
-    "remarks": "第24集完结",
-    "update_time": "2026-08-22 19:24:04"
   }
 ]

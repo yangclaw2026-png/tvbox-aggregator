@@ -1,5 +1,17 @@
 [
   {
+    "id": 148455,
+    "name": "恶海捕蟹记 第十八季",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "",
+    "poster": "https://dbzy5.com/upload/vod/20260908-1/d343ccf9482246455d5828fff436d49b.jpg",
+    "score": "5.0",
+    "remarks": "第12集完结",
+    "update_time": "2026-09-08 11:19:12"
+  },
+  {
     "id": 146634,
     "name": "神兽猎局",
     "type": "纪录片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第10集完结",
     "update_time": "2026-08-18 20:44:07"
-  },
-  {
-    "id": 139730,
-    "name": "皇家马德里：荣耀所向，心之所往",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260714-1/d74b9a54ecec9e064eaeb1d3d990b239.jpg",
-    "score": "5.0",
-    "remarks": "第6集完结",
-    "update_time": "2026-08-18 20:39:58"
   }
 ]

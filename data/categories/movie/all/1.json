@@ -1,5 +1,17 @@
 [
   {
+    "id": 148455,
+    "name": "恶海捕蟹记 第十八季",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "",
+    "poster": "https://dbzy5.com/upload/vod/20260908-1/d343ccf9482246455d5828fff436d49b.jpg",
+    "score": "5.0",
+    "remarks": "第12集完结",
+    "update_time": "2026-09-08 11:19:12"
+  },
+  {
     "id": 139316,
     "name": "海洋奇缘：启航",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "8.2",
     "remarks": "第330集",
     "update_time": "2026-08-26 12:22:01"
-  },
-  {
-    "id": 145919,
-    "name": "阳光舞者",
-    "type": "剧情片",
-    "category": "剧情,喜剧",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260825-1/8588e487b35f557ebf6f1af450342d4b.jpg",
-    "score": "5.0",
-    "remarks": "抢先版",
-    "update_time": "2026-08-25 23:02:17"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 142850,
+    "name": "破暗",
+    "type": "动作片",
+    "category": "动作，犯罪",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260808-1/4aa6cbce24241eea62edacaf86fccee5.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-08 20:48:42"
+  },
+  {
     "id": 142799,
     "name": "圣人营救",
     "type": "动作片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-05 16:53:51"
-  },
-  {
-    "id": 142335,
-    "name": "玻璃之灵2：猎物",
-    "type": "恐怖片",
-    "category": "恐怖片",
-    "year": "2017",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/5c6e5cb8b92734c77b71ef0a334d2c76.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-05 16:52:33"
   }
 ]

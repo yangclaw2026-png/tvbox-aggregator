@@ -1,5 +1,17 @@
 [
   {
+    "id": 142067,
+    "name": "醒来就是这样",
+    "type": "喜剧片",
+    "category": "喜剧",
+    "year": "2017",
+    "area": "菲律宾",
+    "poster": "https://dbzy5.com/upload/vod/20260803-1/71566f5a255d9d4fd1bd5db0857fa49b.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-03 20:37:02"
+  },
+  {
     "id": 142019,
     "name": "外星恶客",
     "type": "科幻片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-03 14:51:51"
-  },
-  {
-    "id": 141966,
-    "name": "蒋介石情变之谜",
-    "type": "纪录片",
-    "category": "纪录片,民国,秘闻",
-    "year": "2023",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/7ed57e984d8bf718c4303ddf913f825b.jpg",
-    "score": "5.0",
-    "remarks": "第2集完结",
-    "update_time": "2026-08-03 13:36:55"
   }
 ]

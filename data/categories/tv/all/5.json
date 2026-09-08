@@ -1,5 +1,41 @@
 [
   {
+    "id": 142426,
+    "name": "马背上的银行",
+    "type": "国产剧",
+    "category": "剧情,战争",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260806-1/9d52412c69d8d468eac7d27228104081.jpg",
+    "score": "5.0",
+    "remarks": "第29集完结",
+    "update_time": "2026-08-18 23:05:04"
+  },
+  {
+    "id": 144559,
+    "name": "T教授 第五季",
+    "type": "欧美剧",
+    "category": "剧情,犯罪",
+    "year": "2026",
+    "area": "英国",
+    "poster": "https://dbzy5.com/upload/vod/20260818-1/83820b286b7036e3040e951c32b923a9.jpg",
+    "score": "5.0",
+    "remarks": "第6集完结",
+    "update_time": "2026-08-18 19:59:52"
+  },
+  {
+    "id": 144401,
+    "name": "我的鸵鸟先生",
+    "type": "国产剧",
+    "category": "剧情,爱情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260818-1/66d4156e3beca32566e3982a84b2c557.jpg",
+    "score": "5.0",
+    "remarks": "第20集完结",
+    "update_time": "2026-08-18 17:10:18"
+  },
+  {
     "id": 137122,
     "name": "欺诈游戏",
     "type": "泰国剧",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第30集",
     "update_time": "2026-08-10 21:27:26"
-  },
-  {
-    "id": 137223,
-    "name": "龙之家族 第三季",
-    "type": "欧美剧",
-    "category": "剧情,动作,爱情,奇幻,冒险",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260624-1/bbbebf20f9964f1331031e313ab13995.jpg",
-    "score": "5.0",
-    "remarks": "第8集完结",
-    "update_time": "2026-08-10 21:04:27"
-  },
-  {
-    "id": 143090,
-    "name": "香港大案纪实",
-    "type": "国产剧",
-    "category": "剧情",
-    "year": "2023",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260810-1/ac04f41c6b7ecd479e1148eaa9172c33.jpg",
-    "score": "5.0",
-    "remarks": "第2集完结",
-    "update_time": "2026-08-10 17:23:16"
-  },
-  {
-    "id": 142928,
-    "name": "迷失于光",
-    "type": "泰国剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260809-1/1aa784dd4788f9f541c6574c20732342.jpg",
-    "score": "5.0",
-    "remarks": "第5集",
-    "update_time": "2026-08-10 14:48:33"
   }
 ]

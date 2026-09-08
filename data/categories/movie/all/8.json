@@ -1,5 +1,17 @@
 [
   {
+    "id": 142228,
+    "name": "灵魂伴侣",
+    "type": "科幻片",
+    "category": "科幻 ， 惊悚 ， 恐怖",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260804-1/2c3db117863b6d26a3c1cb73ee861a19.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-04 22:21:38"
+  },
+  {
     "id": 133395,
     "name": "劫途",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.9",
     "remarks": "正片",
     "update_time": "2026-08-03 20:51:15"
-  },
-  {
-    "id": 142067,
-    "name": "醒来就是这样",
-    "type": "喜剧片",
-    "category": "喜剧",
-    "year": "2017",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/71566f5a255d9d4fd1bd5db0857fa49b.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-03 20:37:02"
   }
 ]

@@ -1,5 +1,41 @@
 [
   {
+    "id": 142924,
+    "name": "花开锦绣",
+    "type": "国产剧",
+    "category": "剧情,古装",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260809-1/c21804ab514c604b2856856dc1f3d8fc.jpg",
+    "score": "5.0",
+    "remarks": "第36集完结",
+    "update_time": "2026-08-27 11:58:00"
+  },
+  {
+    "id": 144347,
+    "name": "米小圈上学记之笑点挑战",
+    "type": "国产剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260817-1/1f6594fe5bfe9262729d73e49bbd89f7.jpg",
+    "score": "5.0",
+    "remarks": "第11集",
+    "update_time": "2026-08-27 11:36:09"
+  },
+  {
+    "id": 145798,
+    "name": "驸马小仵作",
+    "type": "国产剧",
+    "category": "爱情 ，悬疑， 古装",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260825-1/e1acb24f7eb156e77e05f3835c84f3c0.jpg",
+    "score": "5.0",
+    "remarks": "第11集",
+    "update_time": "2026-08-27 11:27:22"
+  },
+  {
     "id": 145869,
     "name": "新兵 第四季",
     "type": "韩剧",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第8集",
     "update_time": "2026-08-24 20:00:02"
-  },
-  {
-    "id": 144396,
-    "name": "绿灯军团",
-    "type": "欧美剧",
-    "category": "剧情 ， 动作 ， 科幻 ， 悬疑 ， 惊悚 ， 犯罪 ， 奇幻 ， 冒险",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260818-1/b410cbef079e386b88c9b4c54501ac47.jpg",
-    "score": "5.0",
-    "remarks": "第2集",
-    "update_time": "2026-08-24 19:57:53"
-  },
-  {
-    "id": 145669,
-    "name": "丹尼加油",
-    "type": "欧美剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260824-1/fdcaf059cb510dcf966a6f4f8a351254.jpg",
-    "score": "5.0",
-    "remarks": "第6集完结",
-    "update_time": "2026-08-24 19:25:25"
-  },
-  {
-    "id": 135309,
-    "name": "你钱我花独自旅行5",
-    "type": "韩剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "韩国",
-    "poster": "https://dbzy5.com/upload/vod/20260607-1/ff465adfc617ba907286ecc017833146.jpg",
-    "score": "5.0",
-    "remarks": "第12集",
-    "update_time": "2026-08-24 19:04:09"
   }
 ]
