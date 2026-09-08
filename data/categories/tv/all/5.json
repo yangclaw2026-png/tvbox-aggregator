@@ -1,5 +1,17 @@
 [
   {
+    "id": 139796,
+    "name": "给你梦想",
+    "type": "韩剧",
+    "category": "喜剧,爱情",
+    "year": "2026",
+    "area": "韩国",
+    "poster": "https://dbzy5.com/upload/vod/20260716-1/89f2f8a5fb21a385bc83fffa9cd54a15.jpg",
+    "score": "5.0",
+    "remarks": "第12集",
+    "update_time": "2026-08-19 00:13:26"
+  },
+  {
     "id": 2285,
     "name": "海豹突击队 第七季",
     "type": "欧美剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第20集完结",
     "update_time": "2026-08-11 12:49:58"
-  },
-  {
-    "id": 140401,
-    "name": "ALIUS - 特定事件调查档案",
-    "type": "日本剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260722-1/e620f5ec0ccbcb7bb5d558b6bf39de61.jpg",
-    "score": "5.0",
-    "remarks": "第4集",
-    "update_time": "2026-08-10 23:23:28"
   }
 ]

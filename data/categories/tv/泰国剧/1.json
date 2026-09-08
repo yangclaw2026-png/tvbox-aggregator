@@ -1,5 +1,17 @@
 [
   {
+    "id": 148571,
+    "name": "请记住我的名字",
+    "type": "泰国剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260908-1/f09fb54614b5233bcfe607935ceb4bb1.jpg",
+    "score": "0.0",
+    "remarks": "第2集",
+    "update_time": "2026-09-08 22:58:00"
+  },
+  {
     "id": 148357,
     "name": "爱从发球开始",
     "type": "泰国剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第10集",
     "update_time": "2026-08-02 12:26:51"
-  },
-  {
-    "id": 137121,
-    "name": "男子心如钻",
-    "type": "泰国剧",
-    "category": "爱情",
-    "year": "2026",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260621-1/3a8c38d1f8b152f37c3ea769968f8ebc.jpg",
-    "score": "5.0",
-    "remarks": "第30集完结",
-    "update_time": "2026-08-01 18:53:41"
   }
 ]

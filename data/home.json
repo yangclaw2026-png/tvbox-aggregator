@@ -1,5 +1,17 @@
 [
   {
+    "id": 148571,
+    "name": "请记住我的名字",
+    "type": "泰国剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260908-1/f09fb54614b5233bcfe607935ceb4bb1.jpg",
+    "score": "0.0",
+    "remarks": "第2集",
+    "update_time": "2026-09-08 22:58:00"
+  },
+  {
     "id": 148583,
     "name": "2026FIBA女篮世界杯小组赛A组全场回放：德国vs马里",
     "type": "篮球",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-09-06 22:58:51"
-  },
-  {
-    "id": 148268,
-    "name": "嘴替仙尊今天又把全宗门说破防了",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260906-1/d9c9ae89ffa783822faf99fc81657fd0.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-09-06 22:57:53"
   }
 ]

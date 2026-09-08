@@ -1,5 +1,22 @@
 [
   {
+    "id": 148571,
+    "name": "请记住我的名字",
+    "type": "泰国剧",
+    "year": "2026",
+    "area": "泰国",
+    "language": "泰语",
+    "category": "剧情",
+    "poster": "https://dbzy5.com/upload/vod/20260908-1/f09fb54614b5233bcfe607935ceb4bb1.jpg",
+    "douban_id": 0,
+    "score": "0.0",
+    "remarks": "第2集",
+    "content": "<p>暂无简介</p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01集$https://vodcnd16.ajupf.com/20260908/ZgIPuuX1/index.m3u8#第02集$https://vodcnd16.ajupf.com/20260908/wLsNcmRY/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/mAJYZztF0w#第02集$https://vodcnd16.ajupf.com/share/qf2J1zfvCi",
+    "update_time": "2026-09-08 22:58:00"
+  },
+  {
     "id": 148583,
     "name": "2026FIBA女篮世界杯小组赛A组全场回放：德国vs马里",
     "type": "篮球",
@@ -14,7 +31,16 @@
     "content": "<p>暂无简介</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "20260907$https://vodcnd17.ajupf.com/20260908/MO8eX2yt/index.m3u8#$$$20260907$https://vodcnd17.ajupf.com/share/colBiTjNsx#",
-    "update_time": "2026-09-08 18:42:54"
+    "update_time": "2026-09-08 18:42:54",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 148920,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "20260907"
+      }
+    ]
   },
   {
     "id": 148582,
@@ -195,6 +221,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第11集完结"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 148913,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第11集完结"
       }
     ]
   },
@@ -19216,6 +19249,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第9集"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 139347,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第10集完结"
       }
     ]
   },
@@ -23190,7 +23230,16 @@
     "content": "<p><span style=\"text-wrap-mode: wrap; color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">某天送来了一个包裹。里头有一张写着「恭喜你！你这次以10万分之1的机率成功的获选为LIAR GAME TOURNAMENT的会员。」的信，以及现金一亿日元，这就是诈欺游戏的开始。唯一的游戏规则是----------30天后游戏结束的那天必须归还自己所拥有的一亿日元。最后能抢夺到对手的金钱就是赢家并且能获得一亿日元，而败家则是背负一亿日元的负债…。</span><span style=\"text-wrap-mode: wrap; color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">到底该相信谁？不该相信谁呢…？</span><span style=\"text-wrap-mode: wrap; color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">一部描述面对巨款而心生动摇的人类心理新作！</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd13.ajupf.com/20260407/s7lIN98R/index.m3u8#第02集$https://vodcnd13.ajupf.com/20260414/CmxKJTHr/index.m3u8#第03集$https://vodcnd13.ajupf.com/20260421/s107hW2J/index.m3u8#第04集$https://vodcnd13.ajupf.com/20260505/IebxE4SP/index.m3u8#第05集$https://vodcnd13.ajupf.com/20260508/xvj2xsnE/index.m3u8#第06集$https://vodcnd13.ajupf.com/20260513/N68oE0T5/index.m3u8#第07集$https://vodcnd15.ajupf.com/20260523/WPxL3Axt/index.m3u8#第08集$https://vodcnd16.ajupf.com/20260825/acErWsRa/index.m3u8#第09集$https://vodcnd15.ajupf.com/20260609/qn608IdX/index.m3u8#第10集$https://vodcnd15.ajupf.com/20260611/VCU4D61s/index.m3u8#第11集$https://vodcnd15.ajupf.com/20260623/2t4TB1uh/index.m3u8#第12集$https://vodcnd15.ajupf.com/20260630/NVDzoNIN/index.m3u8#第13集$https://vodcnd15.ajupf.com/20260707/solk0cM0/index.m3u8#第14集$https://vodcnd15.ajupf.com/20260708/82bQtegA/index.m3u8#第15集$https://vodcnd16.ajupf.com/20260716/cHbZEZkW/index.m3u8#第16集$https://vodcnd16.ajupf.com/20260722/okGcpV0g/index.m3u8#第17集$https://vodcnd17.ajupf.com/20260821/QPp0YBjQ/index.m3u8#第18集$https://vodcnd16.ajupf.com/20260822/78IlnJ1R/index.m3u8#第19集$https://vodcnd16.ajupf.com/20260822/8TfSGt8S/index.m3u8#第20集$https://vodcnd16.ajupf.com/20260819/FL2rcUrK/index.m3u8#第21集$https://vodcnd16.ajupf.com/20260826/CHbVsBja/index.m3u8$$$第01集$https://vodcnd13.ajupf.com/share/TnhACONCMJ#第02集$https://vodcnd13.ajupf.com/share/KOqqRTbjPT#第03集$https://vodcnd13.ajupf.com/share/XGxpxGLXQX#第04集$https://vodcnd13.ajupf.com/share/Ai41QfoYXy#第05集$https://vodcnd13.ajupf.com/share/lxKdkGVT05#第06集$https://vodcnd13.ajupf.com/share/PBUU7JSemL#第07集$https://vodcnd15.ajupf.com/share/fQmgUwLbdg#第08集$https://vodcnd15.ajupf.com/share/7Y7lEh80bm#第09集$https://vodcnd15.ajupf.com/share/bH8gaWBv0T#第10集$https://vodcnd15.ajupf.com/share/Y9lRGippYL#第11集$https://vodcnd15.ajupf.com/share/dmsCVb5lat#第12集$https://vodcnd15.ajupf.com/share/UR0SHf0B0J#第13集$https://vodcnd15.ajupf.com/share/Ni74PGkd7C#第14集$https://vodcnd15.ajupf.com/share/qm1DNwtMsc#第15集$https://vodcnd16.ajupf.com/share/oE83oJ83qx#第16集$https://vodcnd16.ajupf.com/share/xZ2YdA0LUm#第17集$https://vodcnd17.ajupf.com/share/FpFz9Mad9j#第18集$https://vodcnd16.ajupf.com/share/emos3nQoBN#第19集$https://vodcnd16.ajupf.com/share/LT5H8VeaMu#第20集$https://vodcnd16.ajupf.com/share/1ytX2S1qSR#第21集$https://vodcnd16.ajupf.com/share/Lwj8crCLHi",
-    "update_time": "2026-08-26 14:27:39"
+    "update_time": "2026-08-26 14:27:39",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 127800,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第23集"
+      }
+    ]
   },
   {
     "id": 138986,
@@ -27730,6 +27779,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第7集"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 140745,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第8集"
       }
     ]
   },
@@ -78855,6 +78911,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第3期"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 144145,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第20260902期"
       }
     ]
   },
@@ -88468,7 +88531,16 @@
     "content": "<p>暂无简介</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.ajupf.com/20260811/rozQICLG/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/qTDfKAgsEq",
-    "update_time": "2026-08-11 18:00:52"
+    "update_time": "2026-08-11 18:00:52",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 143676,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "杏林繁花——以和为本"
+      }
+    ]
   },
   {
     "id": 143207,
@@ -123424,22 +123496,5 @@
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "正片$https://vodcnd16.ajupf.com/20260721/LdPPXZ32/index.m3u8$$$正片$https://vodcnd16.ajupf.com/share/Nks3XtR9If##",
     "update_time": "2026-07-31 17:27:19"
-  },
-  {
-    "id": 141646,
-    "name": "我们怀揣着爱的梦想",
-    "type": "剧情片",
-    "year": "2025",
-    "area": "埃及",
-    "language": "阿拉伯",
-    "category": "剧情",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/2e2410e60fba769e17a9b6594c479a13.jpg",
-    "douban_id": 0,
-    "score": "5.0",
-    "remarks": "正片",
-    "content": "<p>“这部电影讲述了一位内向的大学教授的生活被一位学生打乱的故事。随着剧情发展，他逐渐卷入了她和她男友的关系中，并意识到自己也爱上了她。”</p><p><br/></p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "正片$https://vodcnd16.ajupf.com/20260721/6LDGzYNe/index.m3u8$$$正片$https://vodcnd16.ajupf.com/share/oXnifg2jt6",
-    "update_time": "2026-07-31 17:26:14"
   }
 ]

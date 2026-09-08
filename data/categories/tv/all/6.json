@@ -1,5 +1,17 @@
 [
   {
+    "id": 140401,
+    "name": "ALIUS - 特定事件调查档案",
+    "type": "日本剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260722-1/e620f5ec0ccbcb7bb5d558b6bf39de61.jpg",
+    "score": "5.0",
+    "remarks": "第4集",
+    "update_time": "2026-08-10 23:23:28"
+  },
+  {
     "id": 140201,
     "name": "江海潮生",
     "type": "国产剧",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "第15集完结",
     "update_time": "2026-08-04 22:08:32"
-  },
-  {
-    "id": 141037,
-    "name": "一线：奇人诡案",
-    "type": "国产剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260727-1/e5fc677e7a71a15d835ac773ffffc5f9.jpg",
-    "score": "5.0",
-    "remarks": "第10集完结",
-    "update_time": "2026-08-04 20:36:11"
   }
 ]
