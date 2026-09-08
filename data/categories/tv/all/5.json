@@ -1,5 +1,17 @@
 [
   {
+    "id": 2285,
+    "name": "海豹突击队 第七季",
+    "type": "欧美剧",
+    "category": "剧情,动作,战争",
+    "year": "2024",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20250109-3/bd940031b70757cc5322f59232bf4fb8.jpg",
+    "score": "7.7",
+    "remarks": "第10集完结",
+    "update_time": "2026-08-18 23:27:57"
+  },
+  {
     "id": 142426,
     "name": "马背上的银行",
     "type": "国产剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第4集",
     "update_time": "2026-08-10 23:23:28"
-  },
-  {
-    "id": 140201,
-    "name": "江海潮生",
-    "type": "国产剧",
-    "category": "传记 ， 历史 ，古装",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260721-1/9cca10dac8b8f530950ca1cb4977c55c.jpg",
-    "score": "5.0",
-    "remarks": "第30集",
-    "update_time": "2026-08-10 21:27:26"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 137565,
+    "name": "冒险雷探长",
+    "type": "国产剧",
+    "category": "纪录片",
+    "year": "2014",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260627-1/2b2ba5d7e97cfa95af27e92fbc7cebe7.jpg",
+    "score": "5.0",
+    "remarks": "第402集",
+    "update_time": "2026-08-04 20:32:26"
+  },
+  {
     "id": 139308,
     "name": "百花杀",
     "type": "国产剧",
@@ -406,17 +418,5 @@
     "score": "5.0",
     "remarks": "第10集完结",
     "update_time": "2026-07-31 19:11:09"
-  },
-  {
-    "id": 134717,
-    "name": "针香",
-    "type": "国产剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260604-1/21128f4815ebfa78c0c4415828bed4b6.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-07-31 16:58:42"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 143925,
+    "name": "新喋血青春",
+    "type": "泰国剧",
+    "category": "剧情,动作",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260815-1/2829b8ba4fce2db29f074e78a83678c3.jpg",
+    "score": "5.0",
+    "remarks": "第4集",
+    "update_time": "2026-08-22 20:34:38"
+  },
+  {
     "id": 143924,
     "name": "我们之间的引力",
     "type": "泰国剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第12集",
     "update_time": "2026-08-19 00:13:26"
-  },
-  {
-    "id": 2285,
-    "name": "海豹突击队 第七季",
-    "type": "欧美剧",
-    "category": "剧情,动作,战争",
-    "year": "2024",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20250109-3/bd940031b70757cc5322f59232bf4fb8.jpg",
-    "score": "7.7",
-    "remarks": "第10集完结",
-    "update_time": "2026-08-18 23:27:57"
   }
 ]
