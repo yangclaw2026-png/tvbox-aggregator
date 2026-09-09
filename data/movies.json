@@ -1,5 +1,31 @@
 [
   {
+    "id": 146681,
+    "name": "安妮莫传统文化了不起",
+    "type": "国产动漫",
+    "year": "2026",
+    "area": "中国大陆",
+    "language": "汉语普通话",
+    "category": "动画",
+    "poster": "https://dbzy5.com/upload/vod/20260830-1/8c8d51051743f971cab169a038de4820.jpg",
+    "douban_id": 0,
+    "score": "5.0",
+    "remarks": "第15集",
+    "content": "<p>这是一部穿越古今、妙趣横生的中华传统文化科普动画。在充满文化底蕴的安妮莫世界里，三位性格迥异的好朋友组成探险小队：聪慧美丽且多才多艺的妙妙狐、呆萌贪吃且总是闹笑话的富贵狗，以及毒舌机智、堪称“行走的百科全书”的魔芋猫。他们每天最热衷的事，就是去解锁那些刻在中国人DNA里的传统节日与人生礼仪的秘密！探险横跨了中华上下五千年——从热闹非凡的春节、元宵，到慎终追远的清明、重阳；从充满少数民族风情的火把节、泼水节，到贯穿人生始末的出生礼、成人礼、婚礼与葬礼。这里不仅有神话传说的奇幻色彩，更有历史典故的厚重底蕴。 每当遇到关于传统习俗的“十万个为什么”：比如“为什么要过年？”“古代怎么入学？”“结婚为什么要喝交杯酒？”妙妙狐就会带领小队即刻出发！他们或是穿越时空，与秦始皇、孔子、李白等历史大咖“面对面”互飙演技；或是亲身扮演，沉浸式体验“三书六礼”、“抓周”和“祭孔大典”。在一次次令人捧腹的穿越冒险与品尝特色美食的过程中，那些看似繁复的古老习俗变得生动有趣。三位小伙伴带领观众在欢笑中读懂了敬天法祖的敬畏、尊师重道的传承以及家族亲情的温暖，让中华传统文化的种子在每个人心中生根发芽。</p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01集$https://vodcnd17.ajupf.com/20260830/t61oDFUg/index.m3u8#第02集$https://vodcnd17.ajupf.com/20260830/z5l0emTn/index.m3u8#第03集$https://vodcnd17.ajupf.com/20260830/4o8Vs4Zl/index.m3u8#第04集$https://vodcnd17.ajupf.com/20260830/RT9W4CUK/index.m3u8#第05集$https://vodcnd17.ajupf.com/20260830/CIoxmogq/index.m3u8#第06集$https://vodcnd17.ajupf.com/20260830/bQ4DtdNh/index.m3u8#第07集$https://vodcnd17.ajupf.com/20260830/YxFolzmd/index.m3u8#第08集$https://vodcnd17.ajupf.com/20260830/oqo38J9E/index.m3u8#第09集$https://vodcnd17.ajupf.com/20260830/c0eg8cDM/index.m3u8#第10集$http://185.92.188.176:2100/20260902/Rg6t9f44/index.m3u8#第11集$http://185.92.188.176:2100/20260902/oF1oABdT/index.m3u8#第12集$https://vodcnd17.ajupf.com/20260904/8pnSrWoq/index.m3u8#第13集$https://vodcnd17.ajupf.com/20260904/k0P4SQFP/index.m3u8#第14集$https://vodcnd16.ajupf.com/20260909/AmvVwP8n/index.m3u8#第15集$https://vodcnd16.ajupf.com/20260909/mDyywppw/index.m3u8$$$第01集$https://vodcnd17.ajupf.com/share/Pg8lIpA0jM#第02集$https://vodcnd17.ajupf.com/share/8SN4b0hnyB#第03集$https://vodcnd17.ajupf.com/share/hH8TGubpbM#第04集$https://vodcnd17.ajupf.com/share/0pbchRSSyh#第05集$https://vodcnd17.ajupf.com/share/RHyrf17Arp#第06集$https://vodcnd17.ajupf.com/share/0q7xsCjVbX#第07集$https://vodcnd17.ajupf.com/share/QsE0JVrmby#第08集$https://vodcnd17.ajupf.com/share/sN14RHWEye#第09集$https://vodcnd17.ajupf.com/share/JDwcXz907o#第10集$http://185.92.188.176:2100/share/8qTXSSZUVs#第11集$http://185.92.188.176:2100/share/dkmCENSTz9#第12集$https://vodcnd17.ajupf.com/share/WIjHXElngW#第13集$https://vodcnd17.ajupf.com/share/WpzBiStNID#第14集$https://vodcnd16.ajupf.com/share/GZjmHee5OQ#第15集$https://vodcnd16.ajupf.com/share/EKUEFWVu4u",
+    "update_time": "2026-09-09 11:24:31",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 147021,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第15集"
+      }
+    ]
+  },
+  {
     "id": 148571,
     "name": "请记住我的名字",
     "type": "泰国剧",
@@ -424,6 +450,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至HD"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 150567,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "HD中字"
       }
     ]
   },
@@ -12806,6 +12839,27 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第37集"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 217973,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第48集"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 193850,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第48集"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 158466,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第48集"
       }
     ]
   },
@@ -19892,6 +19946,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第12期"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 140196,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
@@ -39662,6 +39723,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第9集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 151323,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至番外01"
       }
     ]
   },
@@ -76765,7 +76833,16 @@
     "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">本作故事发生在架空修仙世界——云月大陆。</span><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">大陆鼎盛时期由浣溪沙、赤霞峰、风吟山庄、无尘岛、轩辕门五大宗门共同守护，仙道昌盛。可轩辕门宗主岳无疾为实现野望，掀起了一场灭世激战！其弟岳无病为阻止岳无疾，与岳无疾同归于尽。战后四大宗门休养生息、稳固秩序，历经两百年稳步发展，再度让云月大陆仙道复兴，重回昌盛格局，而浩劫遗留的隐秘机缘与潜在危机，也悄然埋藏于大陆之中，为后续剧情埋下伏笔。</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.ajupf.com/20260722/EpGxQ2JW/index.m3u8#第02集$https://vodcnd16.ajupf.com/20260722/ufyf9uHO/index.m3u8#第03集$https://vodcnd16.ajupf.com/20260722/RCzvbqTN/index.m3u8#第04集$https://vodcnd16.ajupf.com/20260722/5A1JDPen/index.m3u8#第05集$https://vodcnd16.ajupf.com/20260722/7dIDC9pW/index.m3u8#第06集$https://vodcnd16.ajupf.com/20260725/DkNtNhkI/index.m3u8#第07集$https://vodcnd16.ajupf.com/20260729/zuxEVgx0/index.m3u8#第08集$https://vodcnd16.ajupf.com/20260801/ARSxVoZW/index.m3u8#第09集$暂无#第10集$https://vodcnd16.ajupf.com/20260808/TPgsxLth/index.m3u8#第11集$https://vodcnd17.ajupf.com/20260812/4bNpxL9e/index.m3u8#第12集$https://vodcnd17.ajupf.com/20260815/zdzG2xKy/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/q1WCV5CZwG#第02集$https://vodcnd16.ajupf.com/share/9CAa4iwQo9#第03集$https://vodcnd16.ajupf.com/share/xQWT0Egi6p#第04集$https://vodcnd16.ajupf.com/share/FEDstJd16C#第05集$https://vodcnd16.ajupf.com/share/74EY81R01N#第06集$https://vodcnd16.ajupf.com/share/oiRpiVPLCl#第07集$https://vodcnd16.ajupf.com/share/qGpLbqYWcO#第08集$https://vodcnd16.ajupf.com/share/iV29mTw2ko#第09集$暂无#第10集$https://vodcnd16.ajupf.com/share/25hHUISrif#第11集$https://vodcnd17.ajupf.com/share/dyIMwJBuHp#第12集$https://vodcnd17.ajupf.com/share/wV7FR0u9GB",
-    "update_time": "2026-08-15 12:27:50"
+    "update_time": "2026-08-15 12:27:50",
+    "play_sources": [
+      {
+        "source": "红牛资源",
+        "source_id": 193848,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第12集"
+      }
+    ]
   },
   {
     "id": 136613,
@@ -80505,6 +80582,13 @@
         "play_from": "hnm3u8",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 156435,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
@@ -123479,22 +123563,5 @@
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "正片$https://vodcnd16.ajupf.com/20260721/sejWEdyz/index.m3u8$$$正片$https://vodcnd16.ajupf.com/share/3pQ0PYEExk",
     "update_time": "2026-07-31 17:28:50"
-  },
-  {
-    "id": 129111,
-    "name": "卫兵的呐喊",
-    "type": "剧情片",
-    "year": "2025",
-    "area": "法国",
-    "language": "英语,约鲁巴语",
-    "category": "剧情",
-    "poster": "https://dbzy5.com/upload/vod/20260420-1/251db1189fc921053cff3bde28f85698.jpg",
-    "douban_id": 36440344,
-    "score": "5.0",
-    "remarks": "正片",
-    "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">故事发生在塞内加尔的大型建筑工地附近，晚上工人们与一名男子发生了冲突，男子的哥哥在工地因工伤丧生。</span></p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "正片$https://vodcnd16.ajupf.com/20260721/LdPPXZ32/index.m3u8$$$正片$https://vodcnd16.ajupf.com/share/Nks3XtR9If##",
-    "update_time": "2026-07-31 17:27:19"
   }
 ]

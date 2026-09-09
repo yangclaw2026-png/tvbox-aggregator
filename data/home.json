@@ -1,5 +1,17 @@
 [
   {
+    "id": 146681,
+    "name": "安妮莫传统文化了不起",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260830-1/8c8d51051743f971cab169a038de4820.jpg",
+    "score": "5.0",
+    "remarks": "第15集",
+    "update_time": "2026-09-09 11:24:31"
+  },
+  {
     "id": 148571,
     "name": "请记住我的名字",
     "type": "泰国剧",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-09-06 22:59:35"
-  },
-  {
-    "id": 148293,
-    "name": "娇作家的掌心囚宠",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260906-1/340845cb977ceb98663cfc3cca54c2b1.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-09-06 22:58:51"
   }
 ]

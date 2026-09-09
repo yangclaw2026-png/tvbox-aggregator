@@ -1,5 +1,17 @@
 [
   {
+    "id": 134264,
+    "name": "​我真没想重生啊·动态漫​",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260601-1/790d447625844b20d3ded3b1699e8b77.jpg",
+    "score": "5.0",
+    "remarks": "第182集",
+    "update_time": "2026-08-23 11:41:45"
+  },
+  {
     "id": 122,
     "name": "修仙归来当大佬",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第153集",
     "update_time": "2026-08-21 12:26:27"
-  },
-  {
-    "id": 491,
-    "name": "我召唤出了诸天神魔 动态漫画 第一季",
-    "type": "国产动漫",
-    "category": "中国动漫",
-    "year": "2024",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250109-5/4ca0ce32b1f7a394cd9975b294d9635f.jpg",
-    "score": "5.0",
-    "remarks": "第129集",
-    "update_time": "2026-08-21 12:25:55"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 143455,
+    "name": "机灵唐妮妮 第二季",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260812-1/477ef8d161977b07d5b5c962354080a7.jpg",
+    "score": "5.0",
+    "remarks": "第19集",
+    "update_time": "2026-08-27 11:34:30"
+  },
+  {
     "id": 133403,
     "name": "逆天邪神 年番",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第4集",
     "update_time": "2026-08-26 13:19:07"
-  },
-  {
-    "id": 633,
-    "name": "师兄啊师兄",
-    "type": "国产动漫",
-    "category": "中国动漫,喜剧,动作,动画,奇幻,古装",
-    "year": "2023",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250109-5/10029366caf9403249c3d6ec6aacd451.jpg",
-    "score": "5.0",
-    "remarks": "第156集",
-    "update_time": "2026-08-26 13:03:53"
   }
 ]

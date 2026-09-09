@@ -1,5 +1,17 @@
 [
   {
+    "id": 141518,
+    "name": "穿书后我作成了大功臣",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260730-1/03e301a685f2cd0a806ffdbe411565bf.jpg",
+    "score": "5.0",
+    "remarks": "第20集",
+    "update_time": "2026-08-13 12:04:09"
+  },
+  {
     "id": 143546,
     "name": "末世开局我不圣母全员仰望",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第9集",
     "update_time": "2026-08-05 17:15:17"
-  },
-  {
-    "id": 142290,
-    "name": "虎啸华夏",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/ccf826a36f09517f1b219e02546e7f60.jpg",
-    "score": "5.0",
-    "remarks": "21全集",
-    "update_time": "2026-08-05 17:09:45"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 633,
+    "name": "师兄啊师兄",
+    "type": "国产动漫",
+    "category": "中国动漫,喜剧,动作,动画,奇幻,古装",
+    "year": "2023",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250109-5/10029366caf9403249c3d6ec6aacd451.jpg",
+    "score": "5.0",
+    "remarks": "第156集",
+    "update_time": "2026-08-26 13:03:53"
+  },
+  {
     "id": 143801,
     "name": "控分学神",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第15集完结",
     "update_time": "2026-08-25 12:51:23"
-  },
-  {
-    "id": 819,
-    "name": "吞噬星空",
-    "type": "国产动漫",
-    "category": "科幻,动画,中国动漫",
-    "year": "2020",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250109-5/a228f5e81ad7fa4762a8a95a5d194e2f.jpg",
-    "score": "5.0",
-    "remarks": "第238集",
-    "update_time": "2026-08-25 12:41:31"
   }
 ]

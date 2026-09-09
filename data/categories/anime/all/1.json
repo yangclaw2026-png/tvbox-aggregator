@@ -1,5 +1,17 @@
 [
   {
+    "id": 146681,
+    "name": "安妮莫传统文化了不起",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260830-1/8c8d51051743f971cab169a038de4820.jpg",
+    "score": "5.0",
+    "remarks": "第15集",
+    "update_time": "2026-09-09 11:24:31"
+  },
+  {
     "id": 147635,
     "name": "神卡少年之校园争霸",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "第193集",
     "update_time": "2026-08-27 11:41:12"
-  },
-  {
-    "id": 104061,
-    "name": "全民转职：我组建了BOSS军团 动态漫画",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2025",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250904-1/9479c0c837386963b83a8c2397027349.jpg",
-    "score": "5.0",
-    "remarks": "第408集",
-    "update_time": "2026-08-27 11:40:26"
   }
 ]

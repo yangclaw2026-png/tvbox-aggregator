@@ -1,5 +1,17 @@
 [
   {
+    "id": 19806,
+    "name": "斗罗大陆4终极斗罗",
+    "type": "国产动漫",
+    "category": "动漫,中国动漫",
+    "year": "2022",
+    "area": "大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250108-56/6765c84facb87da9bc523f2db547ad28.jpg",
+    "score": "5.0",
+    "remarks": "第201集",
+    "update_time": "2026-08-24 15:52:57"
+  },
+  {
     "id": 139881,
     "name": "虽然我不是完美恶女～雏宫蝶鼠替换传",
     "type": "日本动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第8集",
     "update_time": "2026-08-23 14:40:56"
-  },
-  {
-    "id": 138534,
-    "name": "鬼之花嫁",
-    "type": "日本动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260705-1/c46c029290c3832475492050c3f18b8e.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-23 14:39:09"
   }
 ]

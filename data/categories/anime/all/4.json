@@ -1,5 +1,17 @@
 [
   {
+    "id": 140370,
+    "name": "​一念永恒 完结季",
+    "type": "国产动漫",
+    "category": "剧情,喜剧,动作,动画,奇幻",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260722-1/0f3f7971ad0e14f0d225d2b81420bea7.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-26 11:14:18"
+  },
+  {
     "id": 70658,
     "name": "遮天 2024",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第9集",
     "update_time": "2026-08-24 16:24:05"
-  },
-  {
-    "id": 19806,
-    "name": "斗罗大陆4终极斗罗",
-    "type": "国产动漫",
-    "category": "动漫,中国动漫",
-    "year": "2022",
-    "area": "大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250108-56/6765c84facb87da9bc523f2db547ad28.jpg",
-    "score": "5.0",
-    "remarks": "第201集",
-    "update_time": "2026-08-24 15:52:57"
   }
 ]

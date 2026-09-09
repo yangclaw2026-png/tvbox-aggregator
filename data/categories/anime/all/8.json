@@ -1,5 +1,17 @@
 [
   {
+    "id": 144600,
+    "name": "少儿三国演义",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260819-1/b3cde92c0b67d328947c3609ff074b23.jpg",
+    "score": "5.0",
+    "remarks": "第24集",
+    "update_time": "2026-08-19 12:17:01"
+  },
+  {
     "id": 139004,
     "name": "胶囊计划 奇迹",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第17集完结",
     "update_time": "2026-08-13 12:56:37"
-  },
-  {
-    "id": 141518,
-    "name": "穿书后我作成了大功臣",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260730-1/03e301a685f2cd0a806ffdbe411565bf.jpg",
-    "score": "5.0",
-    "remarks": "第20集",
-    "update_time": "2026-08-13 12:04:09"
   }
 ]

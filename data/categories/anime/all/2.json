@@ -1,5 +1,17 @@
 [
   {
+    "id": 104061,
+    "name": "全民转职：我组建了BOSS军团 动态漫画",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2025",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250904-1/9479c0c837386963b83a8c2397027349.jpg",
+    "score": "5.0",
+    "remarks": "第408集",
+    "update_time": "2026-08-27 11:40:26"
+  },
+  {
     "id": 140664,
     "name": "死灵法师！我即是天灾",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "8.6",
     "remarks": "第6集",
     "update_time": "2026-08-26 14:41:00"
-  },
-  {
-    "id": 138538,
-    "name": "才女的侍从 在满是高岭之花的贵族学校暗中照顾",
-    "type": "日本动漫",
-    "category": "喜剧,爱情,动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260705-1/e0e1268ef200470d838bce9bb4308b6d.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-26 14:30:21"
   }
 ]
