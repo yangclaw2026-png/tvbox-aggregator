@@ -1,5 +1,17 @@
 [
   {
+    "id": 143908,
+    "name": "推理竞技场",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260814-1/4417ab57e300f22a6f5e35be08280243.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-14 22:28:22"
+  },
+  {
     "id": 143896,
     "name": "狂兽翔空",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-05 15:50:17"
-  },
-  {
-    "id": 142312,
-    "name": "穿越火线 2012",
-    "type": "剧情片",
-    "category": "剧情,动作,科幻,战争",
-    "year": "2012",
-    "area": "俄罗斯",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/e7c76e6dd0030faebbdb6b4e8dc152cb.jpg",
-    "score": "6.8",
-    "remarks": "正片",
-    "update_time": "2026-08-05 15:42:03"
   }
 ]

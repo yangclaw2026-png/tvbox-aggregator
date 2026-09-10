@@ -1,5 +1,29 @@
 [
   {
+    "id": 141042,
+    "name": "莫莉大战机器",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2025",
+    "area": "英国",
+    "poster": "https://dbzy5.com/upload/vod/20260727-1/ad9a75630060513818a156103d12ad7d.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-02 15:00:12"
+  },
+  {
+    "id": 141208,
+    "name": "吴承恩与《西游记》",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260728-1/938bbb10e15b44aa0da4d19d16b9c376.jpg",
+    "score": "5.0",
+    "remarks": "第4集完结",
+    "update_time": "2026-08-02 11:31:57"
+  },
+  {
     "id": 141877,
     "name": "比岩石更硬",
     "type": "纪录片",
@@ -202,77 +226,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-07-31 21:03:36"
-  },
-  {
-    "id": 141657,
-    "name": "卧底：揭露极右翼",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2024",
-    "area": "英国",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/fa321d986a00ca5d4d6872b91bb7af10.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-31 20:26:39"
-  },
-  {
-    "id": 141539,
-    "name": "洗牌迷局",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2024",
-    "area": "加拿大",
-    "poster": "https://dbzy5.com/upload/vod/20260730-1/fcc28d4c47bb01c33a5f0792dd0adcbd.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-31 20:09:41"
-  },
-  {
-    "id": 141537,
-    "name": "祝福与诅咒 2021",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2021",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260730-1/655c92dbff792ee077b90a72d3c29dfa.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-31 19:59:45"
-  },
-  {
-    "id": 141551,
-    "name": "上海的孩子",
-    "type": "纪录片",
-    "category": "纪录片,家庭,儿童",
-    "year": "2021",
-    "area": "英国",
-    "poster": "https://dbzy5.com/upload/vod/20260730-1/2d717d2ed05e2b5ed74689b277c5ade7.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-31 19:58:53"
-  },
-  {
-    "id": 141555,
-    "name": "托马斯·哈代：命运,排斥与悲剧",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2021",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260730-1/4ced30b071d7dc6e7c06a78f68416661.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-31 19:57:49"
-  },
-  {
-    "id": 141649,
-    "name": "根脉中华诗意端阳",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/2790b829b62028f4fe99ddc046c76323.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-31 17:49:25"
   }
 ]

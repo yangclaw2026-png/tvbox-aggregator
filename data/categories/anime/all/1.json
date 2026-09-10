@@ -1,5 +1,17 @@
 [
   {
+    "id": 148841,
+    "name": "贝乐虎之最强汽修师",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260910-1/8dae0ab782449970c31e68d773a3c505.jpg",
+    "score": "5.0",
+    "remarks": "第36集完结",
+    "update_time": "2026-09-10 17:17:57"
+  },
+  {
     "id": 146681,
     "name": "安妮莫传统文化了不起",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第25集",
     "update_time": "2026-08-27 11:41:44"
-  },
-  {
-    "id": 88379,
-    "name": "师尊：这个冲师逆徒才不是圣子 动态漫画",
-    "type": "国产动漫",
-    "category": "中国动漫",
-    "year": "2025",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250502-1/ae8bb6354a18d5a27de6026b2b5b459b.jpg",
-    "score": "0.0",
-    "remarks": "第193集",
-    "update_time": "2026-08-27 11:41:12"
   }
 ]

@@ -1,5 +1,53 @@
 [
   {
+    "id": 145113,
+    "name": "迪士尼世界建造者",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260821-1/ddcf752bd563e486ab37e277adeaf720.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-21 21:58:03"
+  },
+  {
+    "id": 144962,
+    "name": "世界树之巅：起源与跨越",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260820-1/2103a1aa40fb6eba262f0a92bcc15942.jpg",
+    "score": "5.0",
+    "remarks": "第22集完结",
+    "update_time": "2026-08-21 21:36:03"
+  },
+  {
+    "id": 145178,
+    "name": "夜巡毒枭",
+    "type": "动作片",
+    "category": "动作 ， 犯罪",
+    "year": "2026",
+    "area": "墨西哥",
+    "poster": "https://dbzy5.com/upload/vod/20260821-1/2e1407211dc1c9162f8753ab59fe1ee3.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-21 21:25:37"
+  },
+  {
+    "id": 145174,
+    "name": "想你了",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260821-1/94c493c748c1a66c5620b7e1080c0942.jpg",
+    "score": "5.0",
+    "remarks": "抢先版",
+    "update_time": "2026-08-21 21:04:01"
+  },
+  {
     "id": 145171,
     "name": "牺牲",
     "type": "喜剧片",
@@ -550,53 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-18 14:15:20"
-  },
-  {
-    "id": 144422,
-    "name": "兰德大学",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2014",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260818-1/9553384bc960e3bb621269c646121d03.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-18 13:54:32"
-  },
-  {
-    "id": 144420,
-    "name": "天主教徒与罪犯",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2016",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260818-1/3f3fc3411c38188a0d552e2a7ad0c6b1.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-18 13:43:54"
-  },
-  {
-    "id": 55504,
-    "name": "我盛大的希腊婚礼2",
-    "type": "爱情片",
-    "category": "喜剧,爱情",
-    "year": "2016",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20250107-15/961cde4980b52c5e4d793f950ddb550d.jpg",
-    "score": "6.7",
-    "remarks": "正片",
-    "update_time": "2026-08-18 13:27:55"
-  },
-  {
-    "id": 137052,
-    "name": "玩具总动员5",
-    "type": "剧情片",
-    "category": "剧情,喜剧,动画,奇幻,冒险",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260619-1/8af6542f7717b70dda99d3169960063f.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-18 12:31:43"
   }
 ]

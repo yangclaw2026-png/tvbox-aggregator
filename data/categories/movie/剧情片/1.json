@@ -1,5 +1,17 @@
 [
   {
+    "id": 148963,
+    "name": "不成功穿越指南",
+    "type": "剧情片",
+    "category": "剧情,喜剧,奇幻",
+    "year": "2025",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260910-1/bee58378b99576292abb6229165b2653.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-09-10 17:45:00"
+  },
+  {
     "id": 139316,
     "name": "海洋奇缘：启航",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "8.5",
     "remarks": "正片",
     "update_time": "2026-08-15 13:32:40"
-  },
-  {
-    "id": 143908,
-    "name": "推理竞技场",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260814-1/4417ab57e300f22a6f5e35be08280243.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-14 22:28:22"
   }
 ]

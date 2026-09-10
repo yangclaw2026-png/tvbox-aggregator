@@ -1,5 +1,17 @@
 [
   {
+    "id": 142247,
+    "name": "吐真剂",
+    "type": "欧美剧",
+    "category": "悬疑，喜剧",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260804-1/a600c4723c1eb2761afa84b0d9e4991d.jpg",
+    "score": "0.0",
+    "remarks": "第15集完结",
+    "update_time": "2026-08-04 22:08:32"
+  },
+  {
     "id": 141037,
     "name": "一线：奇人诡案",
     "type": "国产剧",
@@ -418,17 +430,5 @@
     "score": "5.0",
     "remarks": "第10集完结",
     "update_time": "2026-07-31 23:23:12"
-  },
-  {
-    "id": 134912,
-    "name": "恐怖角",
-    "type": "欧美剧",
-    "category": "剧情,惊悚,犯罪",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260605-1/77e0687512e339d008e93978965f197f.jpg",
-    "score": "5.0",
-    "remarks": "第10集完结",
-    "update_time": "2026-07-31 19:11:09"
   }
 ]

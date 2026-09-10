@@ -1,5 +1,17 @@
 [
   {
+    "id": 142312,
+    "name": "穿越火线 2012",
+    "type": "剧情片",
+    "category": "剧情,动作,科幻,战争",
+    "year": "2012",
+    "area": "俄罗斯",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/e7c76e6dd0030faebbdb6b4e8dc152cb.jpg",
+    "score": "6.8",
+    "remarks": "正片",
+    "update_time": "2026-08-05 15:42:03"
+  },
+  {
     "id": 142311,
     "name": "格斗女孩",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-03 15:47:38"
-  },
-  {
-    "id": 141987,
-    "name": "鬼新娘 2017",
-    "type": "剧情片",
-    "category": "剧情,恐怖,奇幻",
-    "year": "2017",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/64e5094dc74057fd8469c72a5cbe6c76.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-03 15:40:21"
   }
 ]

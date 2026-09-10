@@ -1,5 +1,17 @@
 [
   {
+    "id": 143810,
+    "name": "哈小浪上学记 第5季",
+    "type": "国产动漫",
+    "category": "动画,冒险,搞笑",
+    "year": "2025",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260814-1/824aade041e3abc23a448269953c3d3b.jpg",
+    "score": "5.0",
+    "remarks": "第40集完结",
+    "update_time": "2026-08-14 13:08:14"
+  },
+  {
     "id": 140922,
     "name": "末世摸大金 开局百倍爆率",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第38集",
     "update_time": "2026-08-06 17:24:20"
-  },
-  {
-    "id": 142443,
-    "name": "以熊为伍",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260806-1/ecc3a2ffc6f9e7541b1c27e0ed0a131c.jpg",
-    "score": "5.0",
-    "remarks": "第10集",
-    "update_time": "2026-08-06 17:21:45"
   }
 ]

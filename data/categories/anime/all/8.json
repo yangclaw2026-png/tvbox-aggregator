@@ -1,5 +1,17 @@
 [
   {
+    "id": 138385,
+    "name": "描绘直至生命尽头",
+    "type": "日本动漫",
+    "category": "剧情,喜剧,动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260704-1/ebe299fe6428f80c5f6f9490a2a8c3fb.jpg",
+    "score": "5.0",
+    "remarks": "第7集",
+    "update_time": "2026-08-19 12:53:08"
+  },
+  {
     "id": 144600,
     "name": "少儿三国演义",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第8集完结",
     "update_time": "2026-08-13 14:50:57"
-  },
-  {
-    "id": 143628,
-    "name": "大明瞎眼国舅",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260813-1/eb1eec0cda64c5973f8e4be6fe7f8a96.jpg",
-    "score": "5.0",
-    "remarks": "第17集完结",
-    "update_time": "2026-08-13 12:56:37"
   }
 ]

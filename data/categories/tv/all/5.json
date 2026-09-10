@@ -1,5 +1,17 @@
 [
   {
+    "id": 144629,
+    "name": "轮家也疯狂 第三季",
+    "type": "欧美剧",
+    "category": "剧情,喜剧",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260819-1/033ed86d2d1a4fe9882bc1c7372df063.jpg",
+    "score": "5.0",
+    "remarks": "第12集完结",
+    "update_time": "2026-08-19 15:12:19"
+  },
+  {
     "id": 139796,
     "name": "给你梦想",
     "type": "韩剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "20260811第9期 一日店长经营完美收官",
     "update_time": "2026-08-11 17:09:59"
-  },
-  {
-    "id": 143297,
-    "name": "重爱 2026",
-    "type": "国产剧",
-    "category": "剧情,爱情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260811-1/20a9388eb431a5570910dce7955fdce4.jpg",
-    "score": "5.0",
-    "remarks": "第20集完结",
-    "update_time": "2026-08-11 12:49:58"
   }
 ]

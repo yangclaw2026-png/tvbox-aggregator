@@ -1,5 +1,17 @@
 [
   {
+    "id": 141987,
+    "name": "鬼新娘 2017",
+    "type": "剧情片",
+    "category": "剧情,恐怖,奇幻",
+    "year": "2017",
+    "area": "菲律宾",
+    "poster": "https://dbzy5.com/upload/vod/20260803-1/64e5094dc74057fd8469c72a5cbe6c76.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-03 15:40:21"
+  },
+  {
     "id": 141986,
     "name": "荣光与暗影",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-01 16:15:54"
-  },
-  {
-    "id": 141738,
-    "name": "时光列车",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260801-1/89caecb22b888e9dda1506b258c863c2.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-01 15:58:45"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 148841,
+    "name": "贝乐虎之最强汽修师",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260910-1/8dae0ab782449970c31e68d773a3c505.jpg",
+    "score": "5.0",
+    "remarks": "第36集完结",
+    "update_time": "2026-09-10 17:17:57"
+  },
+  {
     "id": 146681,
     "name": "安妮莫传统文化了不起",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第17集",
     "update_time": "2026-08-27 11:35:21"
-  },
-  {
-    "id": 141494,
-    "name": "太古神尊",
-    "type": "国产动漫",
-    "category": "动作,动画,奇幻",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260730-1/7b65b622c5ee7a939be9fda9607bad1b.jpg",
-    "score": "5.0",
-    "remarks": "第12集",
-    "update_time": "2026-08-27 11:34:52"
   }
 ]

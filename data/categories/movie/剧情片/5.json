@@ -1,5 +1,17 @@
 [
   {
+    "id": 141738,
+    "name": "时光列车",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260801-1/89caecb22b888e9dda1506b258c863c2.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-01 15:58:45"
+  },
+  {
     "id": 141643,
     "name": "去年夏天",
     "type": "剧情片",
@@ -334,149 +346,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-07-31 20:46:38"
-  },
-  {
-    "id": 141663,
-    "name": "人生如戏",
-    "type": "剧情片",
-    "category": "剧情,喜剧,动作,惊悚,犯罪",
-    "year": "2024",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/3eca98d030b509c6fe8450efa55c4926.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-31 20:37:38"
-  },
-  {
-    "id": 141658,
-    "name": "异国入侵",
-    "type": "剧情片",
-    "category": "剧情,科幻",
-    "year": "2024",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/98ce8ce6e852735214255d224d5fa8ce.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-31 20:30:06"
-  },
-  {
-    "id": 141534,
-    "name": "维克拉玛蒂亚",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2014",
-    "area": "印度",
-    "poster": "https://dbzy5.com/upload/vod/20260730-1/631b1c1fdc832c9412039730db6d4f4f.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-31 20:21:20"
-  },
-  {
-    "id": 141542,
-    "name": "女主角",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2021",
-    "area": "匈牙利",
-    "poster": "https://dbzy5.com/upload/vod/20260730-1/a29fea3a9a4658ebd54abb20a233fc59.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-31 20:05:40"
-  },
-  {
-    "id": 141540,
-    "name": "行尸不知活法",
-    "type": "剧情片",
-    "category": "剧情,惊悚",
-    "year": "2021",
-    "area": "西班牙",
-    "poster": "https://dbzy5.com/upload/vod/20260730-1/f27af0a9780bd29f745e4af9679926fa.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-31 20:01:47"
-  },
-  {
-    "id": 141538,
-    "name": "超级蠕虫",
-    "type": "剧情片",
-    "category": "剧情,喜剧,动画",
-    "year": "2021",
-    "area": "英国",
-    "poster": "https://dbzy5.com/upload/vod/20260730-1/deed7da9932e88ce78eb0fc7f69fdd82.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-31 20:00:52"
-  },
-  {
-    "id": 141558,
-    "name": "竹篮打水不是空",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2021",
-    "area": "德国",
-    "poster": "https://dbzy5.com/upload/vod/20260730-1/4d6e9ad6b4b0a86302ac13e3795b5569.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-31 19:55:56"
-  },
-  {
-    "id": 141656,
-    "name": "当我在东京遇见你",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2023",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/33dc74720647a1937ef616e404d1e0cc.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-31 19:50:09"
-  },
-  {
-    "id": 141653,
-    "name": "复仇 2021",
-    "type": "剧情片",
-    "category": "剧情,犯罪",
-    "year": "2021",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/341c1b81e8f7274441df0229543e92eb.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-31 19:33:38"
-  },
-  {
-    "id": 141650,
-    "name": "胚胎，幼虫，蝴蝶",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2023",
-    "area": "塞浦路斯,希腊",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/e1a283ad16f83e06b6992a1a0a5c01d0.jpg",
-    "score": "6.3",
-    "remarks": "正片",
-    "update_time": "2026-07-31 18:03:31"
-  },
-  {
-    "id": 141648,
-    "name": "故障",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2025",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/0b55df17f2573d9b317a4f3856b201c8.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-31 17:44:24"
-  },
-  {
-    "id": 141647,
-    "name": "菲律宾恐怖故事17",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2025",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/fe01c0cecfad93f0c31b371f399b6627.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-31 17:38:25"
   }
 ]

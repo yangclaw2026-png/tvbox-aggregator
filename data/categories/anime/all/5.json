@@ -1,5 +1,17 @@
 [
   {
+    "id": 138523,
+    "name": "无职转生Ⅲ 到了异世界就拿出真本事 無職転生Ⅲ",
+    "type": "日本动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260705-1/08f4ed9a768df9438bf1e0b101b9f51e.jpg",
+    "score": "5.0",
+    "remarks": "第9集",
+    "update_time": "2026-08-24 16:24:05"
+  },
+  {
     "id": 19806,
     "name": "斗罗大陆4终极斗罗",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第30集",
     "update_time": "2026-08-23 17:13:57"
-  },
-  {
-    "id": 138536,
-    "name": "魔法少女奈叶 2026",
-    "type": "日本动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260705-1/c61c336523ef5b5bb92be409cc555d3d.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-23 14:40:56"
   }
 ]

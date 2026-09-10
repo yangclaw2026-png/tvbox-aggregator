@@ -1,5 +1,17 @@
 [
   {
+    "id": 143628,
+    "name": "大明瞎眼国舅",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260813-1/eb1eec0cda64c5973f8e4be6fe7f8a96.jpg",
+    "score": "5.0",
+    "remarks": "第17集完结",
+    "update_time": "2026-08-13 12:56:37"
+  },
+  {
     "id": 141518,
     "name": "穿书后我作成了大功臣",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第16集",
     "update_time": "2026-08-05 18:58:12"
-  },
-  {
-    "id": 142293,
-    "name": "百年阎罗",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/aba88b04182159396ecd588cd291f43d.jpg",
-    "score": "5.0",
-    "remarks": "第9集",
-    "update_time": "2026-08-05 17:15:17"
   }
 ]

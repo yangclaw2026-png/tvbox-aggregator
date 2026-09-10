@@ -1,5 +1,17 @@
 [
   {
+    "id": 137747,
+    "name": "舍得智慧人物 第八季",
+    "type": "国产剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260629-1/de1d3d3b4a50d40f2a47344e9ebf2fa8.jpg",
+    "score": "5.0",
+    "remarks": "第4集",
+    "update_time": "2026-08-20 13:05:07"
+  },
+  {
     "id": 143279,
     "name": "我从黑暗中走来",
     "type": "国产剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第2集",
     "update_time": "2026-08-04 13:09:20"
-  },
-  {
-    "id": 139146,
-    "name": "守护解放西·精编版",
-    "type": "国产剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260709-1/ad14e5f534b5bd765f89dc8afa5d5a41.jpg",
-    "score": "5.0",
-    "remarks": "第12集完结",
-    "update_time": "2026-08-03 20:25:37"
   }
 ]

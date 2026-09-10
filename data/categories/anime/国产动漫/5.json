@@ -1,5 +1,17 @@
 [
   {
+    "id": 140914,
+    "name": "茶啊二中 第六季",
+    "type": "国产动漫",
+    "category": "喜剧,动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260726-1/487027981ccde7ca680d846eda59a91a.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-08-23 11:44:26"
+  },
+  {
     "id": 134264,
     "name": "​我真没想重生啊·动态漫​",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第20集",
     "update_time": "2026-08-21 12:26:30"
-  },
-  {
-    "id": 94,
-    "name": "我夺舍了系统玩家 动态漫画",
-    "type": "国产动漫",
-    "category": "中国动漫",
-    "year": "2024",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250109-6/55ab76421a529d8743581a371a389d1b.jpg",
-    "score": "5.0",
-    "remarks": "第153集",
-    "update_time": "2026-08-21 12:26:27"
   }
 ]

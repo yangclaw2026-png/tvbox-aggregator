@@ -1,5 +1,17 @@
 [
   {
+    "id": 88379,
+    "name": "师尊：这个冲师逆徒才不是圣子 动态漫画",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2025",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250502-1/ae8bb6354a18d5a27de6026b2b5b459b.jpg",
+    "score": "0.0",
+    "remarks": "第193集",
+    "update_time": "2026-08-27 11:41:12"
+  },
+  {
     "id": 104061,
     "name": "全民转职：我组建了BOSS军团 动态漫画",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第35集",
     "update_time": "2026-08-26 14:49:32"
-  },
-  {
-    "id": 142930,
-    "name": "死神千年血战篇祸进谭",
-    "type": "日本动漫",
-    "category": "剧情 ， 动作 ，动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260809-1/586e04e41fa6f11f7366df02617f67f4.jpg",
-    "score": "8.6",
-    "remarks": "第6集",
-    "update_time": "2026-08-26 14:41:00"
   }
 ]

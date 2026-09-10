@@ -1,5 +1,17 @@
 [
   {
+    "id": 138536,
+    "name": "魔法少女奈叶 2026",
+    "type": "日本动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260705-1/c61c336523ef5b5bb92be409cc555d3d.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-23 14:40:56"
+  },
+  {
     "id": 138534,
     "name": "鬼之花嫁",
     "type": "日本动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第56集",
     "update_time": "2026-08-22 13:02:50"
-  },
-  {
-    "id": 126,
-    "name": "我的师傅每到大限才突破 动态漫画 第一季",
-    "type": "国产动漫",
-    "category": "玄幻,穿越,中国动漫",
-    "year": "2024",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250109-6/4de2a60aed56bf7937bc6b22ff883586.jpg",
-    "score": "5.0",
-    "remarks": "第106集",
-    "update_time": "2026-08-22 13:02:04"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 94,
+    "name": "我夺舍了系统玩家 动态漫画",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2024",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250109-6/55ab76421a529d8743581a371a389d1b.jpg",
+    "score": "5.0",
+    "remarks": "第153集",
+    "update_time": "2026-08-21 12:26:27"
+  },
+  {
     "id": 491,
     "name": "我召唤出了诸天神魔 动态漫画 第一季",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第16集",
     "update_time": "2026-08-14 14:32:41"
-  },
-  {
-    "id": 143810,
-    "name": "哈小浪上学记 第5季",
-    "type": "国产动漫",
-    "category": "动画,冒险,搞笑",
-    "year": "2025",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260814-1/824aade041e3abc23a448269953c3d3b.jpg",
-    "score": "5.0",
-    "remarks": "第40集完结",
-    "update_time": "2026-08-14 13:08:14"
   }
 ]

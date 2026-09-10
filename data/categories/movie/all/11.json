@@ -1,5 +1,53 @@
 [
   {
+    "id": 66152,
+    "name": "李宗伟：败者为王",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2018",
+    "area": "马来西亚",
+    "poster": "https://dbzy5.com/upload/vod/20250107-5/d48cea167002b2904d5d65dce9604478.jpg",
+    "score": "6.9",
+    "remarks": "正片",
+    "update_time": "2026-08-02 16:44:12"
+  },
+  {
+    "id": 141909,
+    "name": "达罗和达罗",
+    "type": "喜剧片",
+    "category": "喜剧",
+    "year": "2017",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260802-1/a6d2f6f5b95763b61be3459e6bf798ad.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-02 16:42:10"
+  },
+  {
+    "id": 141908,
+    "name": "南戏九百年",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260802-1/4aed5cf2a335f8df428ccd22e0b93829.jpg",
+    "score": "5.0",
+    "remarks": "第2集",
+    "update_time": "2026-08-02 16:36:53"
+  },
+  {
+    "id": 141907,
+    "name": "达罗与达罗：谋杀之钥",
+    "type": "剧情片",
+    "category": "悬疑",
+    "year": "2018",
+    "area": "加拿大",
+    "poster": "https://dbzy5.com/upload/vod/20260802-1/69bc8ee8f1def6cc93ccaa0d0643dcde.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-02 16:34:27"
+  },
+  {
     "id": 141906,
     "name": "达罗与达罗：证据体系",
     "type": "喜剧片",
@@ -550,53 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-01 16:35:05"
-  },
-  {
-    "id": 141745,
-    "name": "不是羔羊2",
-    "type": "剧情片",
-    "category": "剧情,动作,传记",
-    "year": "2026",
-    "area": "马来西亚",
-    "poster": "https://dbzy5.com/upload/vod/20260801-1/f620d63dd1362342d5b75a54a9824b15.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-01 16:28:22"
-  },
-  {
-    "id": 454,
-    "name": "流浪地球2：再次冒险",
-    "type": "纪录片",
-    "category": "纪录片,纪录",
-    "year": "2024",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250109-5/3336693c3a62cab94fff81b3242d2bc5.jpg",
-    "score": "8.8",
-    "remarks": "正片",
-    "update_time": "2026-08-01 16:25:32"
-  },
-  {
-    "id": 141629,
-    "name": "都结束了：西班牙女足的夺冠与改革之路",
-    "type": "纪录片",
-    "category": "纪录片,运动",
-    "year": "2024",
-    "area": "西班牙",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/2ac74c8e8bdc45a7a5aa1068d930b50d.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-01 16:25:03"
-  },
-  {
-    "id": 2338,
-    "name": "浴火之路",
-    "type": "剧情片",
-    "category": "剧情,犯罪",
-    "year": "2024",
-    "area": "中国大陆,中国香港",
-    "poster": "https://dbzy5.com/upload/vod/20250109-3/666ceabade5e5c88cba1885e43caf2a6.jpg",
-    "score": "6.3",
-    "remarks": "正片",
-    "update_time": "2026-08-01 16:24:34"
   }
 ]

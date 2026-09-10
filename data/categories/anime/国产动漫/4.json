@@ -1,5 +1,17 @@
 [
   {
+    "id": 145707,
+    "name": "象牙塔的碎碎集",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260825-1/005556b48981a499ccf22f4ad2e19445.jpg",
+    "score": "5.0",
+    "remarks": "第15集完结",
+    "update_time": "2026-08-25 12:51:23"
+  },
+  {
     "id": 819,
     "name": "吞噬星空",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第92集",
     "update_time": "2026-08-23 11:46:48"
-  },
-  {
-    "id": 140914,
-    "name": "茶啊二中 第六季",
-    "type": "国产动漫",
-    "category": "喜剧,动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260726-1/487027981ccde7ca680d846eda59a91a.jpg",
-    "score": "5.0",
-    "remarks": "第6集",
-    "update_time": "2026-08-23 11:44:26"
   }
 ]

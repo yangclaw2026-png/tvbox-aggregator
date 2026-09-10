@@ -1,5 +1,53 @@
 [
   {
+    "id": 143790,
+    "name": "无瑕修女",
+    "type": "恐怖片",
+    "category": "恐怖",
+    "year": "2024",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260813-1/8b5d63cce59c82000f45326786f2dab8.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-13 22:39:31"
+  },
+  {
+    "id": 143789,
+    "name": "假孕危情",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "墨西哥",
+    "poster": "https://dbzy5.com/upload/vod/20260813-1/5b9d1b8c7182b6e619db05f1e83a53f9.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-13 22:31:33"
+  },
+  {
+    "id": 143785,
+    "name": "我家这本难念的经",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2026",
+    "area": "菲律宾",
+    "poster": "https://dbzy5.com/upload/vod/20260813-1/ff66ebac51fbdef7ccc79218de3154c5.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-13 22:19:16"
+  },
+  {
+    "id": 139824,
+    "name": "人类志",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260716-1/bc73ec56a178b1d31a3c07e2142d42a0.jpg",
+    "score": "5.0",
+    "remarks": "第5集完结",
+    "update_time": "2026-08-13 20:10:58"
+  },
+  {
     "id": 141541,
     "name": "奇趣美术馆（中配版）",
     "type": "纪录片",
@@ -550,53 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-09 23:09:28"
-  },
-  {
-    "id": 142932,
-    "name": "热血大陈岛",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260809-1/b198b7543c2129f6c5821e6211f9f54b.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-09 21:30:35"
-  },
-  {
-    "id": 142855,
-    "name": "完美世界剧场版九劫焚天",
-    "type": "动漫电影",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260808-1/92d123c9764b069072896fbb0d941215.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-08 21:28:42"
-  },
-  {
-    "id": 142860,
-    "name": "缎带骑士",
-    "type": "动漫电影",
-    "category": "动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260808-1/e7ec9ac47c5b44eb3e772744f41d7e31.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-08 21:27:35"
-  },
-  {
-    "id": 142859,
-    "name": "桑德坎",
-    "type": "剧情片",
-    "category": "剧情 ， 动作 ， 冒险",
-    "year": "2025",
-    "area": "西班牙",
-    "poster": "https://dbzy5.com/upload/vod/20260808-1/dd2dd10fcc05425e362cef7fb7095488.jpg",
-    "score": "5.0",
-    "remarks": "第8集完结",
-    "update_time": "2026-08-08 21:12:44"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 141186,
+    "name": "狂怒追缉",
+    "type": "欧美剧",
+    "category": "惊悚,犯罪",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260728-1/06c5c5d99b6a6c3f3b62901bee66f122.jpg",
+    "score": "5.0",
+    "remarks": "第7集",
+    "update_time": "2026-08-24 21:16:37"
+  },
+  {
     "id": 145604,
     "name": "中东劲旅 看懂中东武装",
     "type": "国产剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第3集",
     "update_time": "2026-08-22 20:44:12"
-  },
-  {
-    "id": 137030,
-    "name": "寒阳风起春山境",
-    "type": "国产剧",
-    "category": "电视剧,剧情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260619-1/9347efd39e32ede07763c1a3c4d379a3.jpg",
-    "score": "5.0",
-    "remarks": "第16集完结",
-    "update_time": "2026-08-22 20:43:20"
   }
 ]

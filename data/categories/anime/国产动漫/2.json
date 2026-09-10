@@ -1,5 +1,17 @@
 [
   {
+    "id": 141494,
+    "name": "太古神尊",
+    "type": "国产动漫",
+    "category": "动作,动画,奇幻",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260730-1/7b65b622c5ee7a939be9fda9607bad1b.jpg",
+    "score": "5.0",
+    "remarks": "第12集",
+    "update_time": "2026-08-27 11:34:52"
+  },
+  {
     "id": 143455,
     "name": "机灵唐妮妮 第二季",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第288集",
     "update_time": "2026-08-26 13:24:16"
-  },
-  {
-    "id": 145958,
-    "name": "永夜之王",
-    "type": "国产动漫",
-    "category": "剧情,动作,动画,奇幻",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260826-1/134a15bc4997ef8e080cf469f40b5dab.jpg",
-    "score": "5.0",
-    "remarks": "第4集",
-    "update_time": "2026-08-26 13:19:07"
   }
 ]
