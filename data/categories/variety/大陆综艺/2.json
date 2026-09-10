@@ -1,5 +1,17 @@
 [
   {
+    "id": 145600,
+    "name": "手信集青岛篇",
+    "type": "大陆综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260824-1/9055596a79bcdfc4483be8ce16c94749.jpg",
+    "score": "5.0",
+    "remarks": "20260824第1期：男女嘉宾初见手信传情",
+    "update_time": "2026-08-24 16:20:24"
+  },
+  {
     "id": 145597,
     "name": "浪里个浪青春版",
     "type": "大陆综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第5集完结",
     "update_time": "2026-08-12 17:30:49"
-  },
-  {
-    "id": 143452,
-    "name": "健康四重奏",
-    "type": "大陆综艺",
-    "category": "真人秀,访谈",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260812-1/f16885879afd8d98b552e5e814c9147b.jpg",
-    "score": "5.0",
-    "remarks": "20260812众人篝火畅谈暂别喧嚣",
-    "update_time": "2026-08-12 15:37:44"
   }
 ]

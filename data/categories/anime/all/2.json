@@ -1,5 +1,17 @@
 [
   {
+    "id": 131277,
+    "name": "锦绣钱途",
+    "type": "国产动漫",
+    "category": "剧情,动漫",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260507-1/bab7639169fb0abab5d15a256a2e150a.jpg",
+    "score": "5.0",
+    "remarks": "第25集",
+    "update_time": "2026-08-27 11:41:44"
+  },
+  {
     "id": 88379,
     "name": "师尊：这个冲师逆徒才不是圣子 动态漫画",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "第34集",
     "update_time": "2026-08-26 16:12:29"
-  },
-  {
-    "id": 139857,
-    "name": "开局充值系统觉醒SSS级领主 动态漫画",
-    "type": "国产动漫",
-    "category": "中国动漫",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260717-1/7776ebf707fa1961d3d3c586c6558266.jpg",
-    "score": "5.0",
-    "remarks": "第35集",
-    "update_time": "2026-08-26 14:49:32"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 133072,
+    "name": "歌手2026",
+    "type": "大陆综艺",
+    "category": "音乐,真人秀",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260523-1/8547df4bfe9b0b2433695ca5d680707b.jpg",
+    "score": "5.0",
+    "remarks": "20260814纯享典藏版：歌手舞台全记录",
+    "update_time": "2026-08-14 16:56:53"
+  },
+  {
     "id": 143804,
     "name": "互相关注",
     "type": "大陆综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "20260803第21期：全员颤音挑战",
     "update_time": "2026-08-03 14:41:42"
-  },
-  {
-    "id": 141972,
-    "name": "远山之约（蜀山篇）",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/afdd910443fd9d7aa3fe6016d46baadd.jpg",
-    "score": "5.0",
-    "remarks": "第3集",
-    "update_time": "2026-08-03 14:35:53"
   }
 ]

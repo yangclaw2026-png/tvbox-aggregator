@@ -1,5 +1,17 @@
 [
   {
+    "id": 145708,
+    "name": "我成了S级收容物",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260825-1/56eef66e3176ea064e805a5667379e63.jpg",
+    "score": "5.0",
+    "remarks": "第60集完结",
+    "update_time": "2026-08-25 12:53:07"
+  },
+  {
     "id": 145707,
     "name": "象牙塔的碎碎集",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第44集",
     "update_time": "2026-08-23 11:50:23"
-  },
-  {
-    "id": 108636,
-    "name": "绝世武神 第八季",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2025",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20251012-1/793d0f7a7bb35b3fc1eb26328368c90a.jpg",
-    "score": "5.0",
-    "remarks": "第92集",
-    "update_time": "2026-08-23 11:46:48"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 139009,
+    "name": "高手云吉",
+    "type": "大陆综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260708-1/42c9d2a5e1d6856c23a55f3b44890742.jpg",
+    "score": "5.0",
+    "remarks": "20260822第18期",
+    "update_time": "2026-08-23 14:08:47"
+  },
+  {
     "id": 143979,
     "name": "你好时光第2季",
     "type": "大陆综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第8期完结",
     "update_time": "2026-08-14 22:33:33"
-  },
-  {
-    "id": 133072,
-    "name": "歌手2026",
-    "type": "大陆综艺",
-    "category": "音乐,真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260523-1/8547df4bfe9b0b2433695ca5d680707b.jpg",
-    "score": "5.0",
-    "remarks": "20260814纯享典藏版：歌手舞台全记录",
-    "update_time": "2026-08-14 16:56:53"
   }
 ]

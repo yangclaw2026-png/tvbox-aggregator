@@ -1,5 +1,17 @@
 [
   {
+    "id": 148840,
+    "name": "存活定律",
+    "type": "国产动漫",
+    "category": "动画,冒险,悬疑,推理",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260910-1/ff8b7d304a5a7b996739554ee9029fbb.jpg",
+    "score": "5.0",
+    "remarks": "第56集",
+    "update_time": "2026-09-10 22:50:43"
+  },
+  {
     "id": 148841,
     "name": "贝乐虎之最强汽修师",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第535集",
     "update_time": "2026-08-27 11:41:48"
-  },
-  {
-    "id": 131277,
-    "name": "锦绣钱途",
-    "type": "国产动漫",
-    "category": "剧情,动漫",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260507-1/bab7639169fb0abab5d15a256a2e150a.jpg",
-    "score": "5.0",
-    "remarks": "第25集",
-    "update_time": "2026-08-27 11:41:44"
   }
 ]

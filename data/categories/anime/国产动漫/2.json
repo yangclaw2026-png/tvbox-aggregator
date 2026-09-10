@@ -1,5 +1,17 @@
 [
   {
+    "id": 143658,
+    "name": "故宫大冒险",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260813-1/eb334b0472215e6509d23c8ffeb02c8a.jpg",
+    "score": "5.0",
+    "remarks": "第17集",
+    "update_time": "2026-08-27 11:35:21"
+  },
+  {
     "id": 141494,
     "name": "太古神尊",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第33集",
     "update_time": "2026-08-26 13:24:56"
-  },
-  {
-    "id": 88941,
-    "name": "全民诡异：开局掌握零元购 动态漫画",
-    "type": "国产动漫",
-    "category": "中国动漫",
-    "year": "2025",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250504-1/688c531373364eec432d14ea329f0c21.jpg",
-    "score": "5.0",
-    "remarks": "第288集",
-    "update_time": "2026-08-26 13:24:16"
   }
 ]

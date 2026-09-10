@@ -1,5 +1,29 @@
 [
   {
+    "id": 143921,
+    "name": "四减三",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2026",
+    "area": "奥地利,德国",
+    "poster": "https://dbzy5.com/upload/vod/20260815-1/efbeaec81dc6d1e2d816b63604d72d9a.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-15 14:41:13"
+  },
+  {
+    "id": 129233,
+    "name": "挽救计划 普通话",
+    "type": "剧情片",
+    "category": "剧情,科幻,惊悚",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260421-1/bf63e7e41c03d75195b3ca22a09451fc.jpg",
+    "score": "8.5",
+    "remarks": "正片",
+    "update_time": "2026-08-15 13:32:40"
+  },
+  {
     "id": 143908,
     "name": "推理竞技场",
     "type": "剧情片",
@@ -574,29 +598,5 @@
     "score": "7.0",
     "remarks": "正片",
     "update_time": "2026-08-05 16:03:05"
-  },
-  {
-    "id": 142320,
-    "name": "彩色照片",
-    "type": "剧情片",
-    "category": "剧情,爱情",
-    "year": "2020",
-    "area": "印度",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/e68de4bc647132f6d0ce012dec9d17da.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-05 16:01:25"
-  },
-  {
-    "id": 142317,
-    "name": "审判 2015",
-    "type": "剧情片",
-    "category": "剧情,惊悚,犯罪,黑色电影",
-    "year": "2015",
-    "area": "印度",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/e6c6dadc3542ba83b53963b456cae756.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-05 15:50:17"
   }
 ]

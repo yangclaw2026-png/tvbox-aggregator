@@ -1,5 +1,17 @@
 [
   {
+    "id": 145598,
+    "name": "索尼克极速传说",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260824-1/46dfacd45057a3c51281bca701272362.jpg",
+    "score": "5.0",
+    "remarks": "第2集",
+    "update_time": "2026-08-24 17:37:48"
+  },
+  {
     "id": 138523,
     "name": "无职转生Ⅲ 到了异世界就拿出真本事 無職転生Ⅲ",
     "type": "日本动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第12集完结",
     "update_time": "2026-08-23 17:15:35"
-  },
-  {
-    "id": 123385,
-    "name": "名侦探光之美少女！",
-    "type": "日本动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260215-1/00c76f1bc61e0688a56eedc36ddc30e1.jpg",
-    "score": "5.0",
-    "remarks": "第30集",
-    "update_time": "2026-08-23 17:13:57"
   }
 ]

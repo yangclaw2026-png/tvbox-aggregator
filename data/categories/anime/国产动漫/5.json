@@ -1,5 +1,17 @@
 [
   {
+    "id": 108636,
+    "name": "绝世武神 第八季",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2025",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20251012-1/793d0f7a7bb35b3fc1eb26328368c90a.jpg",
+    "score": "5.0",
+    "remarks": "第92集",
+    "update_time": "2026-08-23 11:46:48"
+  },
+  {
     "id": 140914,
     "name": "茶啊二中 第六季",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第51集",
     "update_time": "2026-08-21 12:26:55"
-  },
-  {
-    "id": 143067,
-    "name": "变身吧！梦奇拉少女",
-    "type": "国产动漫",
-    "category": "动画,魔幻,科幻",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260810-1/ad695af87d958ae7fa3337b2b81db0b8.jpg",
-    "score": "5.0",
-    "remarks": "第20集",
-    "update_time": "2026-08-21 12:26:30"
   }
 ]

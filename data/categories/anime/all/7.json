@@ -1,5 +1,17 @@
 [
   {
+    "id": 130964,
+    "name": "轩辕小豆之仙灵魔宠 第二季​",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260505-1/07805988d01e7b263ca4da31569d8af4.jpg",
+    "score": "5.0",
+    "remarks": "第56集",
+    "update_time": "2026-08-22 13:02:50"
+  },
+  {
     "id": 126,
     "name": "我的师傅每到大限才突破 动态漫画 第一季",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第45集",
     "update_time": "2026-08-20 11:55:55"
-  },
-  {
-    "id": 144669,
-    "name": "哈小浪上学记第6季",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260819-1/479da7df7bab86b35e407dc5a6b0f72c.jpg",
-    "score": "5.0",
-    "remarks": "第40集完结",
-    "update_time": "2026-08-19 15:08:08"
   }
 ]

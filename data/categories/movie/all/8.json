@@ -1,5 +1,29 @@
 [
   {
+    "id": 142276,
+    "name": "废用身",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/d1854f8f1561bedbb5d71398adc6bbdf.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-05 12:49:15"
+  },
+  {
+    "id": 142273,
+    "name": "让爱回家",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/c3752d083e495c390fd16776b1789ebe.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-05 11:56:47"
+  },
+  {
     "id": 138682,
     "name": "最后的吸血鬼 2009",
     "type": "动作片",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-03 22:23:02"
-  },
-  {
-    "id": 142104,
-    "name": "主办方",
-    "type": "惊悚片",
-    "category": "悬疑,惊悚,犯罪",
-    "year": "2020",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/8cd8af1365ed6e73ed9b96a25c8ef931.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-03 22:15:34"
-  },
-  {
-    "id": 142103,
-    "name": "拯救林荫大道",
-    "type": "喜剧片",
-    "category": "喜剧,惊悚",
-    "year": "2011",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/1dfbc748710b43c869d24ceef563925d.jpg",
-    "score": "5.6",
-    "remarks": "正片",
-    "update_time": "2026-08-03 22:01:52"
   }
 ]

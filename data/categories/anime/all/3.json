@@ -1,5 +1,17 @@
 [
   {
+    "id": 139857,
+    "name": "开局充值系统觉醒SSS级领主 动态漫画",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260717-1/7776ebf707fa1961d3d3c586c6558266.jpg",
+    "score": "5.0",
+    "remarks": "第35集",
+    "update_time": "2026-08-26 14:49:32"
+  },
+  {
     "id": 142930,
     "name": "死神千年血战篇祸进谭",
     "type": "日本动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第73集",
     "update_time": "2026-08-26 11:26:52"
-  },
-  {
-    "id": 140371,
-    "name": "三嫁公主",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260722-1/656779b41dfbae06c5145099c4f5dc50.jpg",
-    "score": "5.0",
-    "remarks": "第14集",
-    "update_time": "2026-08-26 11:26:14"
   }
 ]

@@ -1,5 +1,29 @@
 [
   {
+    "id": 53028,
+    "name": "少年派的奇幻漂流",
+    "type": "剧情片",
+    "category": "剧情,奇幻,冒险",
+    "year": "2012",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20250107-17/994f23dbb2c552fd5996f3a5c1719937.jpg",
+    "score": "9.1",
+    "remarks": "正片",
+    "update_time": "2026-08-03 15:51:35"
+  },
+  {
+    "id": 141989,
+    "name": "阿奎纳多总统",
+    "type": "剧情片",
+    "category": "剧情,动作,惊悚,传记,历史,战争",
+    "year": "2012",
+    "area": "菲律宾",
+    "poster": "https://dbzy5.com/upload/vod/20260803-1/8cf6271dd54d593fb1f12b148d698fec.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-03 15:47:38"
+  },
+  {
     "id": 141987,
     "name": "鬼新娘 2017",
     "type": "剧情片",
@@ -574,29 +598,5 @@
     "score": "6.3",
     "remarks": "正片",
     "update_time": "2026-08-01 16:24:34"
-  },
-  {
-    "id": 68813,
-    "name": "水中血3",
-    "type": "剧情片",
-    "category": "冒险,剧情片,剧情",
-    "year": "2024",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20250107-2/3f3690670166f777126f1aa952f6fddd.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-01 16:18:26"
-  },
-  {
-    "id": 141642,
-    "name": "我愿意",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2020",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/2e696620b30f00fb155260c22bb24eb2.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-01 16:15:54"
   }
 ]

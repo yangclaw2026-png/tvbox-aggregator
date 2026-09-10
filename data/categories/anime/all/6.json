@@ -1,5 +1,17 @@
 [
   {
+    "id": 123385,
+    "name": "名侦探光之美少女！",
+    "type": "日本动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260215-1/00c76f1bc61e0688a56eedc36ddc30e1.jpg",
+    "score": "5.0",
+    "remarks": "第30集",
+    "update_time": "2026-08-23 17:13:57"
+  },
+  {
     "id": 138536,
     "name": "魔法少女奈叶 2026",
     "type": "日本动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第107集",
     "update_time": "2026-08-22 13:05:34"
-  },
-  {
-    "id": 130964,
-    "name": "轩辕小豆之仙灵魔宠 第二季​",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260505-1/07805988d01e7b263ca4da31569d8af4.jpg",
-    "score": "5.0",
-    "remarks": "第56集",
-    "update_time": "2026-08-22 13:02:50"
   }
 ]

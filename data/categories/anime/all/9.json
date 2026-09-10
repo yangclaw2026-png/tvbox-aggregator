@@ -1,5 +1,17 @@
 [
   {
+    "id": 143651,
+    "name": "啦咘啦哆警长之巡逻行动",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260813-1/067fa7095325fd7daec5de92038e9ed1.jpg",
+    "score": "5.0",
+    "remarks": "第8集完结",
+    "update_time": "2026-08-13 14:50:57"
+  },
+  {
     "id": 143628,
     "name": "大明瞎眼国舅",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第42集完结",
     "update_time": "2026-08-05 22:40:25"
-  },
-  {
-    "id": 142289,
-    "name": "垃圾大佬",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/683c16fbfd83fa083c3e7eaeb6888329.jpg",
-    "score": "5.0",
-    "remarks": "第16集",
-    "update_time": "2026-08-05 18:58:12"
   }
 ]

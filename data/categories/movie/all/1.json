@@ -1,5 +1,29 @@
 [
   {
+    "id": 148847,
+    "name": "峡湾",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2026",
+    "area": "挪威,罗马尼亚,瑞典,芬兰,丹麦,法国",
+    "poster": "https://dbzy5.com/upload/vod/20260910-1/e3a430c4e52a2bc5fc7fb5c835258f4d.jpg",
+    "score": "5.0",
+    "remarks": "抢先版",
+    "update_time": "2026-09-10 22:56:33"
+  },
+  {
+    "id": 148888,
+    "name": "希望 2026",
+    "type": "剧情片",
+    "category": "剧情,动作,科幻,悬疑,惊悚,恐怖",
+    "year": "2026",
+    "area": "韩国",
+    "poster": "https://dbzy5.com/upload/vod/20260910-1/3f7b96be682f5ebc84c599445b8af721.jpg",
+    "score": "6.0",
+    "remarks": "抢先版",
+    "update_time": "2026-09-10 22:51:24"
+  },
+  {
     "id": 148898,
     "name": "高原之上",
     "type": "纪录片",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第5集",
     "update_time": "2026-08-26 16:13:23"
-  },
-  {
-    "id": 144896,
-    "name": "怒之杀",
-    "type": "动作片",
-    "category": "动作 ， 惊悚 ， 犯罪",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260820-1/1eb070f8e09a0f8b83134e8cb12fc7b8.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-26 14:18:09"
-  },
-  {
-    "id": 145963,
-    "name": "狼域",
-    "type": "惊悚片",
-    "category": "惊悚",
-    "year": "2025",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260826-1/1fb5d2e071157e419b1dd5b1812681a9.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-26 14:14:24"
   }
 ]
