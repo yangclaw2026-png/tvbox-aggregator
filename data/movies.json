@@ -49234,6 +49234,20 @@
         "play_from": "hnm3u8",
         "play_url": null,
         "remarks": "第5集"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 216062,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第6集"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 156553,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第6集"
       }
     ]
   },
@@ -49298,6 +49312,27 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第8集"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 216057,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第12集"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 191932,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第12集"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 156548,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第12集"
       }
     ]
   },
@@ -51685,7 +51720,30 @@
     "content": "<p>社长之子、文武双全、校内站在金字塔顶端的五藤直也（小川饰），以及每天被他使唤来使唤去、身处底层阴角的高明（濑户饰）。即使面对直也不讲理的要求，高明也一直顺从。十年后，直也经营公司失败，失去了一切，处于无业状态。而高明则作为一家初创公司的年轻社长取得了成功，两人的社会地位完全逆转。即便如此，高明如今仍像“仆人”一样侍奉在直也身边。这是一种可悲又滑稽，略带扭曲却从未中断的关系。作品中描绘了两人在近乎执着的专一情感，以及自尊与自卑的夹缝中挣扎，同时关系逐渐发生变化的模样。故事讲述了曾经如“王子”般君临天下的男人，与一直服从于他的“仆人”，在社会地位逆转后，历经十年的主仆关系。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd15.ajupf.com/20260704/XNLNyKMt/index.m3u8#第02集$https://vodcnd15.ajupf.com/20260711/ym1AXCv4/index.m3u8#第03集$https://vodcnd16.ajupf.com/20260718/Vz1Z7BK9/index.m3u8#第04集$https://vodcnd16.ajupf.com/20260731/MdtkU2vc/index.m3u8#第05集$https://vodcnd16.ajupf.com/20260801/btQmx72p/index.m3u8#第06集$https://vodcnd16.ajupf.com/20260808/6QOdi2zk/index.m3u8#第07集$https://vodcnd16.ajupf.com/20260815/i6ACrT8o/index.m3u8#第08集$https://vodcnd16.ajupf.com/20260822/CbgRl5zo/index.m3u8$$$第01集$https://vodcnd15.ajupf.com/share/ArVXAyfkUG#第02集$https://vodcnd15.ajupf.com/share/xpXzJtOQBf#第03集$https://vodcnd16.ajupf.com/share/Je2okXLdR4#第04集$https://vodcnd16.ajupf.com/share/wPOz4dzWdn#第05集$https://vodcnd16.ajupf.com/share/19gHaKumQr#第06集$https://vodcnd16.ajupf.com/share/XwKEbyXcRL#第07集$https://vodcnd16.ajupf.com/share/1nnDIVS1A5#第08集$https://vodcnd16.ajupf.com/share/SEmEwyoSl9",
-    "update_time": "2026-08-22 13:34:39"
+    "update_time": "2026-08-22 13:34:39",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 138862,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第9集"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 149931,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "全8集+特别篇"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 151358,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至特别篇"
+      }
+    ]
   },
   {
     "id": 140053,
@@ -79724,6 +79782,27 @@
         "play_from": "lzm3u8",
         "play_url": null,
         "remarks": "更新至第10集"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 168655,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第12集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 149949,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第12集完结"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 114292,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第12集完结"
       }
     ]
   },
