@@ -1,5 +1,17 @@
 [
   {
+    "id": 148216,
+    "name": "交锋",
+    "type": "国产剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260906-1/f7702476bb1dc6c41d881fac1d433592.jpg",
+    "score": "5.0",
+    "remarks": "第13集",
+    "update_time": "2026-09-11 18:38:12"
+  },
+  {
     "id": 149020,
     "name": "七步之内他偏要以下犯上",
     "type": "古装仙侠",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-09-10 18:16:55"
-  },
-  {
-    "id": 148775,
-    "name": "深渊无间",
-    "type": "国产剧",
-    "category": "剧情,悬疑,犯罪",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260909-1/6016f3d631594ad759276b63a42ae083.jpg",
-    "score": "5.0",
-    "remarks": "第7集",
-    "update_time": "2026-09-10 18:16:52"
   }
 ]

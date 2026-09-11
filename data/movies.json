@@ -1,5 +1,66 @@
 [
   {
+    "id": 148216,
+    "name": "交锋",
+    "type": "国产剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "language": "汉语普通话",
+    "category": "剧情",
+    "poster": "https://dbzy5.com/upload/vod/20260906-1/f7702476bb1dc6c41d881fac1d433592.jpg",
+    "douban_id": 36314809,
+    "score": "5.0",
+    "remarks": "第13集",
+    "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">故事由一宗世纪之交的泄密大案而起，扣动两岸局势脉搏的同时，还掩藏着一场境外势力与我方在隐蔽战线上的针锋较量。上世纪九十年代末，闽州市国家安全局一对性格迥异的师徒，因机缘巧合的命运安排，为了共同的使命与信仰并肩作战。他们联手挫败了各种阴谋，也与敌手在横跨二十年的命运长河里不断纠缠。当时间流转，新世纪的潮流剧变席卷而来，国家安全局势攻防易势，隐蔽战线上的较量却不止不休。在一次次关乎人性的考验中，这三人的命运关系因不同抉择，在岁月洗礼中悄然改变着……</span></p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01集$https://vodcnd16.ajupf.com/20260906/7Va5sTXp/index.m3u8#第02集$https://vodcnd16.ajupf.com/20260906/uOBnHRLn/index.m3u8#第03集$https://vodcnd16.ajupf.com/20260906/5ts7ie7C/index.m3u8#第04集$https://vodcnd17.ajupf.com/20260907/V1i8qpGC/index.m3u8#第05集$https://vodcnd17.ajupf.com/20260907/gXArcXUq/index.m3u8#第06集$https://vodcnd17.ajupf.com/20260907/mjEpss3k/index.m3u8#第07集$https://vodcnd17.ajupf.com/20260908/myAziX45/index.m3u8#第08集$https://vodcnd17.ajupf.com/20260909/SyiNZY9C/index.m3u8#第09集$https://vodcnd17.ajupf.com/20260909/B63AleHN/index.m3u8#第10集$https://vodcnd17.ajupf.com/20260910/vygoxmow/index.m3u8#第11集$https://vodcnd16.ajupf.com/20260910/pgwWxOte/index.m3u8#第12集$https://vodcnd17.ajupf.com/20260911/sAEczUnb/index.m3u8#第13集$https://vodcnd17.ajupf.com/20260911/aFLKjIbo/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/ygJZYaZM78#第02集$https://vodcnd16.ajupf.com/share/GtMiL4k26U#第03集$https://vodcnd16.ajupf.com/share/qCyKGTry1K#第04集$https://vodcnd17.ajupf.com/share/68Pz3fcNxa#第05集$https://vodcnd17.ajupf.com/share/u36Eipexbg#第06集$https://vodcnd17.ajupf.com/share/Ktwp3DF0HA#第07集$https://vodcnd17.ajupf.com/share/o2z2jjIkEl#第08集$https://vodcnd17.ajupf.com/share/fQgXb6iIZ1#第09集$https://vodcnd17.ajupf.com/share/fmjoak5BXK#第10集$https://vodcnd17.ajupf.com/share/6WgIJPbJQt#第11集$https://vodcnd16.ajupf.com/share/78fteec4gG#第12集$https://vodcnd17.ajupf.com/share/VKeINtF808#第13集$https://vodcnd17.ajupf.com/share/WaPKZPe2oZ",
+    "update_time": "2026-09-11 18:38:12",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 217799,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第14集"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 193676,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第14集"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 149320,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第13集"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 154417,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "更新至13集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 161456,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第13集"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 158292,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第14集"
+      }
+    ]
+  },
+  {
     "id": 149020,
     "name": "七步之内他偏要以下犯上",
     "type": "古装仙侠",
@@ -40,7 +101,16 @@
     "content": "",
     "play_from": "dbm3u8$$$no",
     "play_url": "20260910回访特辑 打开过往大门 坚持初心重建温情小家$https://vodcnd17.ajupf.com/20260910/jH7CvWTZ/index.m3u8$$$20260910回访特辑 打开过往大门 坚持初心重建温情小家$https://vodcnd17.ajupf.com/share/3IBPLhqRsI",
-    "update_time": "2026-09-10 23:00:37"
+    "update_time": "2026-09-10 23:00:37",
+    "play_sources": [
+      {
+        "source": "量子资源",
+        "source_id": 156987,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至20260910期"
+      }
+    ]
   },
   {
     "id": 149021,
@@ -1299,6 +1369,13 @@
         "play_from": "hnm3u8",
         "play_url": null,
         "remarks": "正片"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 156935,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "HD"
       }
     ]
   },
@@ -78891,6 +78968,27 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第87集"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 172049,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第87集"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 141710,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第87集"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 70112,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第87集"
       }
     ]
   },
@@ -89083,6 +89181,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "正片"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 156936,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "HD"
       }
     ]
   },
@@ -106392,7 +106497,16 @@
     "content": "<p><span style=\"color: oklch(0.554 0.046 257.417); font-family: Poppins, ui-sans-serif, system-ui, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; background-color: #FFFFFF;\">远赴异域时空修行八百春秋，冲破阻隔重返故土，眼前早已物是人非。昔日族人四散落寞，老宅踪迹不复存在，自己的名姓，竟镌刻在一方旧冢之上。她从中取出父亲遗留半块残玉，跨越八百年光阴的玉石背后，藏着父亲未曾言说的牵挂与心事。一段寻踪溯源之路就此启程，尘封多年的谜底，终将一步步浮出水面。</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260630/QxLpVZoi/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/gj17PxbSxg",
-    "update_time": "2026-08-06 18:52:48"
+    "update_time": "2026-08-06 18:52:48",
+    "play_sources": [
+      {
+        "source": "索尼资源",
+        "source_id": 154738,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "全集"
+      }
+    ]
   },
   {
     "id": 142507,
@@ -124408,22 +124522,5 @@
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260612/E9HruOj5/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/VPyEX92G3G",
     "update_time": "2026-07-31 21:41:44"
-  },
-  {
-    "id": 141265,
-    "name": "寒门贵眷",
-    "type": "古装仙侠",
-    "year": "2026",
-    "area": "中国大陆",
-    "language": "汉语普通话",
-    "category": "短剧",
-    "poster": "https://dbzy5.com/upload/vod/20260728-1/6e87c1c44d18a26489da142a38cf9b17.jpg",
-    "douban_id": 0,
-    "score": "0.0",
-    "remarks": "全集完结",
-    "content": "<p>暂无简介</p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "全集完结$https://vodcnd15.ajupf.com/20260612/vLypwOMV/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/RcGpCz8Qhy",
-    "update_time": "2026-07-31 21:36:53"
   }
 ]

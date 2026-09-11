@@ -1,5 +1,17 @@
 [
   {
+    "id": 141082,
+    "name": "别班 第二季",
+    "type": "日本剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260727-1/e4913b754a919ddecc95361cce20a384.jpg",
+    "score": "5.0",
+    "remarks": "第5集",
+    "update_time": "2026-08-24 21:52:01"
+  },
+  {
     "id": 141186,
     "name": "狂怒追缉",
     "type": "欧美剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第16集完结",
     "update_time": "2026-08-22 21:02:02"
-  },
-  {
-    "id": 144122,
-    "name": "烟灰",
-    "type": "香港剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "中国香港",
-    "poster": "https://dbzy5.com/upload/vod/20260816-1/b23f5113a653d5a769f5bd573b8a2b44.jpg",
-    "score": "5.0",
-    "remarks": "第3集",
-    "update_time": "2026-08-22 20:44:12"
   }
 ]

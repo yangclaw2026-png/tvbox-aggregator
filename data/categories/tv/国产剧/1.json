@@ -1,5 +1,17 @@
 [
   {
+    "id": 148216,
+    "name": "交锋",
+    "type": "国产剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260906-1/f7702476bb1dc6c41d881fac1d433592.jpg",
+    "score": "5.0",
+    "remarks": "第13集",
+    "update_time": "2026-09-11 18:38:12"
+  },
+  {
     "id": 148775,
     "name": "深渊无间",
     "type": "国产剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第28集完结",
     "update_time": "2026-08-21 18:40:40"
-  },
-  {
-    "id": 144402,
-    "name": "罪爱 (2026)",
-    "type": "国产剧",
-    "category": "剧情,爱情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260818-1/990aff032839d9c9cea30148eff3aeba.jpg",
-    "score": "5.0",
-    "remarks": "第24集完结",
-    "update_time": "2026-08-21 16:39:00"
   }
 ]
