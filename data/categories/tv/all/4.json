@@ -1,5 +1,17 @@
 [
   {
+    "id": 139147,
+    "name": "蓝嘴唇",
+    "type": "国产剧",
+    "category": "同性",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260709-1/c47e273c15c96d32ff04f8fe77c3da5e.jpg",
+    "score": "5.0",
+    "remarks": "第16集完结",
+    "update_time": "2026-08-22 21:02:02"
+  },
+  {
     "id": 144122,
     "name": "烟灰",
     "type": "香港剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第7集",
     "update_time": "2026-08-19 21:53:18"
-  },
-  {
-    "id": 140040,
-    "name": "这一秒过火",
-    "type": "国产剧",
-    "category": "剧情,爱情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260719-1/6f1a7dc1e6b0eb6def06402c36b90469.jpg",
-    "score": "5.0",
-    "remarks": "第33集完结",
-    "update_time": "2026-08-19 21:22:25"
   }
 ]

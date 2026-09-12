@@ -1,5 +1,17 @@
 [
   {
+    "id": 138810,
+    "name": "我的虚构",
+    "type": "日本剧",
+    "category": "剧情,爱情,悬疑",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260707-1/09eb56bf49ec477ff985b4998db28f6f.jpg",
+    "score": "5.0",
+    "remarks": "第8集完结",
+    "update_time": "2026-08-24 23:27:19"
+  },
+  {
     "id": 141082,
     "name": "别班 第二季",
     "type": "日本剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第4集",
     "update_time": "2026-08-22 21:06:14"
-  },
-  {
-    "id": 139147,
-    "name": "蓝嘴唇",
-    "type": "国产剧",
-    "category": "同性",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260709-1/c47e273c15c96d32ff04f8fe77c3da5e.jpg",
-    "score": "5.0",
-    "remarks": "第16集完结",
-    "update_time": "2026-08-22 21:02:02"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 149229,
+    "name": "命悬一心",
+    "type": "海外剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "哥伦比亚",
+    "poster": "https://dbzy5.com/upload/vod/20260912-1/668660da43820190de36084e200ba2f5.jpg",
+    "score": "5.0",
+    "remarks": "第30集完结",
+    "update_time": "2026-09-12 11:22:52"
+  },
+  {
     "id": 148216,
     "name": "交锋",
     "type": "国产剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第23集",
     "update_time": "2026-08-27 13:32:10"
-  },
-  {
-    "id": 138990,
-    "name": "再见黑色",
-    "type": "日本剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260708-1/ba6b456fb5800e16b3122e24762c7b6b.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-27 13:11:42"
   }
 ]
