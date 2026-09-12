@@ -1,5 +1,17 @@
 [
   {
+    "id": 144596,
+    "name": "性格塑造第一季",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260818-1/6082bcd5663625f1f19aec6d35740779.jpg",
+    "score": "5.0",
+    "remarks": "第9集完结",
+    "update_time": "2026-08-18 23:49:00"
+  },
+  {
     "id": 143869,
     "name": "天网：荒唐血案",
     "type": "纪录片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第2集",
     "update_time": "2026-08-02 16:36:53"
-  },
-  {
-    "id": 141894,
-    "name": "亚马逊探秘",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2024",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/cd9ef5eab91aef72bb37924b0d9efdde.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-02 15:05:45"
   }
 ]

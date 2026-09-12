@@ -1,5 +1,41 @@
 [
   {
+    "id": 145206,
+    "name": "灵魂摆渡·蝴蝶梦",
+    "type": "剧情片",
+    "category": "剧情,奇幻,冒险",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260822-1/f047802cb7006f6c481022f15c80ebb4.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-22 13:15:13"
+  },
+  {
+    "id": 143942,
+    "name": "欢迎来龙餐馆",
+    "type": "剧情片",
+    "category": "剧情 ， 战争",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260815-1/06a6205c38ed83b2c4d3254d31384890.jpg",
+    "score": "8.5",
+    "remarks": "正片",
+    "update_time": "2026-08-22 11:41:46"
+  },
+  {
+    "id": 144815,
+    "name": "情满千峡湖",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260820-1/9b7939d250fa973c3b181017088f19f9.jpg",
+    "score": "5.0",
+    "remarks": "第3集",
+    "update_time": "2026-08-22 11:41:19"
+  },
+  {
     "id": 54368,
     "name": "枪之子",
     "type": "剧情片",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第6集完结",
     "update_time": "2026-08-18 20:39:58"
-  },
-  {
-    "id": 144564,
-    "name": "烽烟未尽",
-    "type": "战争片",
-    "category": "剧情，战争",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260818-1/96141ce9cce38ce7f1a7080bb1ad87bc.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-18 20:18:59"
-  },
-  {
-    "id": 144517,
-    "name": "十大凶案现场",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2015",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260818-1/5e36ce1bd4e42eccb32a08db7f4c65c5.jpg",
-    "score": "5.0",
-    "remarks": "第23集完结",
-    "update_time": "2026-08-18 16:54:09"
-  },
-  {
-    "id": 144431,
-    "name": "再见UFO 再見UFO",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2019",
-    "area": "中国香港",
-    "poster": "https://dbzy5.com/upload/vod/20260818-1/53a906e6ac8616d93de3a8d5cf262556.jpg",
-    "score": "7.4",
-    "remarks": "正片",
-    "update_time": "2026-08-18 15:52:57"
   }
 ]

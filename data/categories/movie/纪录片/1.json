@@ -1,5 +1,17 @@
 [
   {
+    "id": 149271,
+    "name": "金先生去电影院",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2025",
+    "area": "韩国",
+    "poster": "https://dbzy5.com/upload/vod/20260912-1/f7dcec0b7809976658e4cf49effe5be9.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-09-12 17:48:20"
+  },
+  {
     "id": 148898,
     "name": "高原之上",
     "type": "纪录片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-19 22:32:40"
-  },
-  {
-    "id": 144596,
-    "name": "性格塑造第一季",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260818-1/6082bcd5663625f1f19aec6d35740779.jpg",
-    "score": "5.0",
-    "remarks": "第9集完结",
-    "update_time": "2026-08-18 23:49:00"
   }
 ]

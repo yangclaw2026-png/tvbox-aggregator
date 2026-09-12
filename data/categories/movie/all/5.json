@@ -1,5 +1,41 @@
 [
   {
+    "id": 143820,
+    "name": "托尼 2026",
+    "type": "剧情片",
+    "category": "剧情,传记",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260814-1/3a0327a4349a85ded7370fef6f34e4b5.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-14 15:03:18"
+  },
+  {
+    "id": 143422,
+    "name": "一线：亲密杀机",
+    "type": "纪录片",
+    "category": "纪录片,社会,罪案",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260812-1/a21929c7105432fc0c75051c4886c1be.jpg",
+    "score": "5.0",
+    "remarks": "第10集完结",
+    "update_time": "2026-08-14 12:42:58"
+  },
+  {
+    "id": 143805,
+    "name": "青铜护卫队",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260814-1/d5a8b566561052d0d5e0581071228b62.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-14 11:38:45"
+  },
+  {
     "id": 142093,
     "name": "云兴雷奋一百年——从陶澍到黄兴",
     "type": "纪录片",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-10 19:49:50"
-  },
-  {
-    "id": 143161,
-    "name": "海外追逃",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260810-1/4969acf68b14623108e8626753efff6b.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-10 19:41:12"
-  },
-  {
-    "id": 143115,
-    "name": "卖冰淇淋的人",
-    "type": "恐怖片",
-    "category": "恐怖",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260810-1/d0c3113948a90f83b8cdaf24d7edba63.jpg",
-    "score": "5.5",
-    "remarks": "正片",
-    "update_time": "2026-08-10 18:54:44"
-  },
-  {
-    "id": 143073,
-    "name": "水怪 2026",
-    "type": "惊悚片",
-    "category": "悬疑,惊悚",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260810-1/64871ab520b12983c6334edf2ec1781d.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-10 12:30:40"
   }
 ]

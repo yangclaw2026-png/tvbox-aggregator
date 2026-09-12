@@ -1,5 +1,17 @@
 [
   {
+    "id": 141894,
+    "name": "亚马逊探秘",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2024",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260802-1/cd9ef5eab91aef72bb37924b0d9efdde.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-02 15:05:45"
+  },
+  {
     "id": 141042,
     "name": "莫莉大战机器",
     "type": "纪录片",
@@ -190,17 +202,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-07-31 22:53:15"
-  },
-  {
-    "id": 141662,
-    "name": "致命守望",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2025",
-    "area": "美国,斐济,加纳,新西兰",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/0fd98074b8c2c077f4c6d06346450329.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-31 22:20:06"
   }
 ]

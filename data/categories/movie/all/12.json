@@ -1,5 +1,41 @@
 [
   {
+    "id": 141757,
+    "name": "庄园凶祟",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2026",
+    "area": "印度",
+    "poster": "https://dbzy5.com/upload/vod/20260801-1/1c96953cb37607166ac120ca13fdf0d5.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-01 19:28:14"
+  },
+  {
+    "id": 141755,
+    "name": "强扭的瓜也甜",
+    "type": "剧情片",
+    "category": "剧情,喜剧,动作,爱情",
+    "year": "2022",
+    "area": "印度",
+    "poster": "https://dbzy5.com/upload/vod/20260801-1/22d6ea0549b04997a477c473a1cf3d9b.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-01 19:12:06"
+  },
+  {
+    "id": 130985,
+    "name": "消失的人",
+    "type": "惊悚片",
+    "category": "悬疑,惊悚,犯罪",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260505-1/fbd5fe2cf5371b20722c362dbce50f6d.jpg",
+    "score": "7.2",
+    "remarks": "正片",
+    "update_time": "2026-08-01 18:57:13"
+  },
+  {
     "id": 141754,
     "name": "圣诞有雪，佳期可待",
     "type": "爱情片",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-07-31 22:43:47"
-  },
-  {
-    "id": 141058,
-    "name": "发飙老师",
-    "type": "喜剧片",
-    "category": "喜剧",
-    "year": "2024",
-    "area": "西班牙",
-    "poster": "https://dbzy5.com/upload/vod/20260727-1/6ffd34d1f8b1d9246230259373477006.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-31 22:41:40"
-  },
-  {
-    "id": 141686,
-    "name": "未婚",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2025",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/f5b455d996a34e701412523c90d03aed.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-31 22:39:16"
-  },
-  {
-    "id": 141683,
-    "name": "懵懂情欲",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2025",
-    "area": "丹麦",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/fe0e1cab5ec3e73bc38aa18f714d8ab1.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-31 22:33:29"
   }
 ]

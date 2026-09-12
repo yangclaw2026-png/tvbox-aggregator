@@ -1,5 +1,17 @@
 [
   {
+    "id": 2338,
+    "name": "浴火之路",
+    "type": "剧情片",
+    "category": "剧情,犯罪",
+    "year": "2024",
+    "area": "中国大陆,中国香港",
+    "poster": "https://dbzy5.com/upload/vod/20250109-3/666ceabade5e5c88cba1885e43caf2a6.jpg",
+    "score": "6.3",
+    "remarks": "正片",
+    "update_time": "2026-08-01 16:24:34"
+  },
+  {
     "id": 68813,
     "name": "水中血3",
     "type": "剧情片",
@@ -202,29 +214,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-07-31 22:33:29"
-  },
-  {
-    "id": 141665,
-    "name": "一切从头来过",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2025",
-    "area": "法国",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/7f3a6a1d10ea8b8761066ae26c69b7b3.jpg",
-    "score": "7.4",
-    "remarks": "正片",
-    "update_time": "2026-07-31 22:21:08"
-  },
-  {
-    "id": 141659,
-    "name": "蓝洞生死恋",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2024",
-    "area": "土耳其",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/07cfe38bb88bd31ff607452c2915f9e3.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-31 22:15:21"
   }
 ]

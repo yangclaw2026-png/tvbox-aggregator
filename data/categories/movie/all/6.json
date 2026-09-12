@@ -1,5 +1,41 @@
 [
   {
+    "id": 143161,
+    "name": "海外追逃",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260810-1/4969acf68b14623108e8626753efff6b.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-10 19:41:12"
+  },
+  {
+    "id": 143115,
+    "name": "卖冰淇淋的人",
+    "type": "恐怖片",
+    "category": "恐怖",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260810-1/d0c3113948a90f83b8cdaf24d7edba63.jpg",
+    "score": "5.5",
+    "remarks": "正片",
+    "update_time": "2026-08-10 18:54:44"
+  },
+  {
+    "id": 143073,
+    "name": "水怪 2026",
+    "type": "惊悚片",
+    "category": "悬疑,惊悚",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260810-1/64871ab520b12983c6334edf2ec1781d.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-10 12:30:40"
+  },
+  {
     "id": 143061,
     "name": "海墓寻龙",
     "type": "动作片",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-05 17:03:19"
-  },
-  {
-    "id": 142342,
-    "name": "爱情事件",
-    "type": "剧情片",
-    "category": "剧情,爱情",
-    "year": "2015",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/99b04d74f040f041504c9bffc220fbb6.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-05 17:02:54"
-  },
-  {
-    "id": 95761,
-    "name": "如此美丽的你",
-    "type": "剧情片",
-    "category": "剧情,爱情",
-    "year": "2015",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20250606-1/cd9d2e22fd24833d41ec6ad5e3821c27.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-05 17:02:09"
-  },
-  {
-    "id": 142343,
-    "name": "菲律宾有嘻哈",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2017",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/e787df5d02ccd728e24916579899a287.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-05 17:01:08"
   }
 ]

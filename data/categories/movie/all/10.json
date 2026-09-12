@@ -1,5 +1,41 @@
 [
   {
+    "id": 141974,
+    "name": "金龟车大闹蒙特卡罗",
+    "type": "喜剧片",
+    "category": "喜剧,动作,爱情,家庭,冒险",
+    "year": "1977",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260803-1/fa6c341e090e87373c67b6b591bd8660.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-03 15:24:50"
+  },
+  {
+    "id": 141973,
+    "name": "周末大行动",
+    "type": "剧情片",
+    "category": "剧情,动作,惊悚,犯罪",
+    "year": "1984",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260803-1/9ec7e79c7d8e4f62bf06ad2163bdfa7b.jpg",
+    "score": "6.0",
+    "remarks": "正片",
+    "update_time": "2026-08-03 15:23:44"
+  },
+  {
+    "id": 141971,
+    "name": "年轻食尸鬼的赞歌",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2014",
+    "area": "加拿大",
+    "poster": "https://dbzy5.com/upload/vod/20260803-1/d67c603ef6012596e98533e020b26803.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-03 15:22:40"
+  },
+  {
     "id": 141962,
     "name": "战猪 2015",
     "type": "剧情片",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-02 17:15:12"
-  },
-  {
-    "id": 141900,
-    "name": "突然的圣诞节",
-    "type": "喜剧片",
-    "category": "喜剧,家庭",
-    "year": "2024",
-    "area": "意大利,英国",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/c66ec8729a2cef4319a9df593f979c5a.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-02 17:11:59"
-  },
-  {
-    "id": 141899,
-    "name": "邪教成立",
-    "type": "喜剧片",
-    "category": "喜剧",
-    "year": "2024",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/60e1f670eb5dc07ef8045514c8f3088b.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-02 17:09:16"
-  },
-  {
-    "id": 141911,
-    "name": "寻爱叮叮当",
-    "type": "爱情片",
-    "category": "爱情",
-    "year": "2024",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/2b7d744db0e0637628ea3affa21adb58.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-02 17:02:25"
   }
 ]

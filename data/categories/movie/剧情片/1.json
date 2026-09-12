@@ -1,5 +1,17 @@
 [
   {
+    "id": 149272,
+    "name": "罗斯",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2026",
+    "area": "奥地利,德国",
+    "poster": "https://dbzy5.com/upload/vod/20260912-1/9d04da1bafc77636ff6d13dbd6baf19b.jpg",
+    "score": "8.7",
+    "remarks": "正片",
+    "update_time": "2026-09-12 17:58:39"
+  },
+  {
     "id": 148847,
     "name": "峡湾",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "7.4",
     "remarks": "抢先版",
     "update_time": "2026-08-15 22:05:54"
-  },
-  {
-    "id": 143922,
-    "name": "宝莱坞鸡尾酒2",
-    "type": "剧情片",
-    "category": "剧情,喜剧,爱情",
-    "year": "2026",
-    "area": "印度",
-    "poster": "https://dbzy5.com/upload/vod/20260815-1/ce8234e5bfd9c22ff8be862545341a9e.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-15 15:03:31"
   }
 ]
