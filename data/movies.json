@@ -4958,6 +4958,20 @@
         "play_from": "snm3u8",
         "play_url": null,
         "remarks": "更新至02集"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 193040,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第3集"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 157656,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第3集"
       }
     ]
   },
