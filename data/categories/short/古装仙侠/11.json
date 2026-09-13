@@ -1,5 +1,17 @@
 [
   {
+    "id": 141771,
+    "name": "养敌为患",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260801-1/eb5063410c0c26d7d8dd76d10a878ade.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-23 15:49:52"
+  },
+  {
     "id": 145400,
     "name": "锦鲤农妻：天生旺夫命",
     "type": "古装仙侠",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-22 21:31:46"
-  },
-  {
-    "id": 145315,
-    "name": "开局收徒弟，让他横扫万界天骄",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260822-1/f2c49b49a1ee1231ec503b0e975b9457.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-22 20:20:12"
   }
 ]

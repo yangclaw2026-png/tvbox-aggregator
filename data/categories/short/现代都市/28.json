@@ -1,5 +1,17 @@
 [
   {
+    "id": 143460,
+    "name": "鉴宝捡漏，我能沟通万物",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260812-1/cb8e96f6511afe56ec5b21c0e9c131be.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-12 16:09:38"
+  },
+  {
     "id": 143459,
     "name": "中年囧途：我靠透视逆袭",
     "type": "现代都市",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-11 18:43:39"
-  },
-  {
-    "id": 143154,
-    "name": "长发落尽，故人不归",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260810-1/3861840915977f3aa778c93459ab0c8e.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-11 18:43:05"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 149407,
+    "name": "宜起看今朝",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260913-1/78fc543dc6e61aeb89b7dbe566731682.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-09-13 19:11:45"
+  },
+  {
     "id": 149317,
     "name": "我的破盆能收仙",
     "type": "现代都市",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-09-10 17:13:34"
-  },
-  {
-    "id": 148834,
-    "name": "重生后我拒绝陪闺蜜离婚",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260909-1/973e749cdfb00da72c4ac77427744df7.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-09-09 23:01:41"
   }
 ]

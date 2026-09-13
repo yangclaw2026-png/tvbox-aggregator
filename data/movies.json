@@ -1,5 +1,39 @@
 [
   {
+    "id": 149407,
+    "name": "宜起看今朝",
+    "type": "现代都市",
+    "year": "2026",
+    "area": "中国大陆",
+    "language": "汉语普通话",
+    "category": "短剧",
+    "poster": "https://dbzy5.com/upload/vod/20260913-1/78fc543dc6e61aeb89b7dbe566731682.jpg",
+    "douban_id": 0,
+    "score": "0.0",
+    "remarks": "全集完结",
+    "content": "<p>暂无简介</p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "全集完结$https://vodcnd17.ajupf.com/20260913/ydPYvuSl/index.m3u8#$$$全集完结$https://vodcnd17.ajupf.com/share/KrQtqFjC6Z#",
+    "update_time": "2026-09-13 19:11:45"
+  },
+  {
+    "id": 149406,
+    "name": "烬九州：第十八季",
+    "type": "古装仙侠",
+    "year": "2026",
+    "area": "中国大陆",
+    "language": "汉语普通话",
+    "category": "短剧",
+    "poster": "https://dbzy5.com/upload/vod/20260913-1/09962fb579460e93c0586566d788d4b0.jpg",
+    "douban_id": 0,
+    "score": "0.0",
+    "remarks": "全集完结",
+    "content": "<p>大乾朝堂暗流涌动，各方势力暗自角力。萧尘身陷权谋漩涡，于重重危机之中步步周旋。江湖势力与朝堂纠葛缠绕，世家大族各怀心思，纷争不断。他历经险境，直面阴谋算计，在家国大义与个人抉择之间艰难取舍，冲破重重困局，搅动风云，书写属于自己的跌宕传奇。</p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "全集完结$https://vodcnd17.ajupf.com/20260913/P0Yf49ou/index.m3u8$$$全集完结$https://vodcnd17.ajupf.com/share/DuSG8Cm3CD",
+    "update_time": "2026-09-13 19:11:37"
+  },
+  {
     "id": 149317,
     "name": "我的破盆能收仙",
     "type": "现代都市",
@@ -3366,7 +3400,16 @@
     "content": "<p>暂无简介</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.ajupf.com/20260908/ZgIPuuX1/index.m3u8#第02集$https://vodcnd16.ajupf.com/20260908/wLsNcmRY/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/mAJYZztF0w#第02集$https://vodcnd16.ajupf.com/share/qf2J1zfvCi",
-    "update_time": "2026-09-08 22:58:00"
+    "update_time": "2026-09-08 22:58:00",
+    "play_sources": [
+      {
+        "source": "暴风资源",
+        "source_id": 161612,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第4集"
+      }
+    ]
   },
   {
     "id": 148583,
@@ -36198,6 +36241,20 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第14集"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 218286,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第18集"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 158779,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第18集"
       }
     ]
   },
@@ -39623,6 +39680,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至20260912期"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 14017,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第20260912期"
       }
     ]
   },
@@ -43436,7 +43500,16 @@
     "content": "<p>在一次建筑工程中，21人相继失踪。据说他们被当作祭品献祭，以确保工程顺利进行。这是否与黑魔法有关</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "抢先版$https://vodcnd16.ajupf.com/20260823/VqVBY9b5/index.m3u8$$$抢先版$https://vodcnd16.ajupf.com/share/rsDYrY1z5j",
-    "update_time": "2026-08-23 23:12:47"
+    "update_time": "2026-08-23 23:12:47",
+    "play_sources": [
+      {
+        "source": "速播资源",
+        "source_id": 157156,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "正片"
+      }
+    ]
   },
   {
     "id": 145531,
@@ -101567,7 +101640,16 @@
     "content": "<p>她叫沈芸娘，曾是江南书香门第的少夫人。丈夫病逝后，族人夺产，她带着四个孩子被逐出祖宅，栖身破庙。一朝梦醒，她成了横店龙套。旧式文人的清高与古礼，让她在剧组格格不入，却也让旁人渐生敬意。体面与落魄之间，她咬牙撑着，心底还藏着一个念想——长子若能科考翻身，沈家便有重见天日的一天。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260630/nQKebMXW/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/zcvmcJkWrm",
-    "update_time": "2026-08-08 22:03:53"
+    "update_time": "2026-08-08 22:03:53",
+    "play_sources": [
+      {
+        "source": "索尼资源",
+        "source_id": 154860,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "全集"
+      }
+    ]
   },
   {
     "id": 142893,
@@ -125528,39 +125610,5 @@
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd16.ajupf.com/20260721/YrCLd4V2/index.m3u8$$$全集完结$https://vodcnd16.ajupf.com/share/0jvitSCYbG",
     "update_time": "2026-07-31 22:44:56"
-  },
-  {
-    "id": 141292,
-    "name": "土豆拾郎记",
-    "type": "古装仙侠",
-    "year": "2026",
-    "area": "中国大陆",
-    "language": "汉语普通话",
-    "category": "短剧",
-    "poster": "https://dbzy5.com/upload/vod/20260728-1/14257f71d170c6f77d28329000f3bd14.jpg",
-    "douban_id": 0,
-    "score": "0.0",
-    "remarks": "全集完结",
-    "content": "<p>暂无简介</p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "全集完结$https://vodcnd15.ajupf.com/20260612/bkf1NVD7/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/rOmqtyKQtS",
-    "update_time": "2026-07-31 22:44:23"
-  },
-  {
-    "id": 140880,
-    "name": "月亮偏向旧人",
-    "type": "现代都市",
-    "year": "2026",
-    "area": "中国大陆",
-    "language": "汉语普通话",
-    "category": "短剧",
-    "poster": "https://dbzy5.com/upload/vod/20260725-1/634b437f87d6ab7247028089899cf073.jpg",
-    "douban_id": 0,
-    "score": "0.0",
-    "remarks": "全集完结",
-    "content": "<p><span style=\"color: #666666; font-family: Arial, sans-serif; font-size: 18px; background-color: #FFFFFF;\">这部作品由前沿的AI制作技术呈现，画面质感细腻得令人惊叹。故事聚焦于一段跨越时光的深情羁绊，主角在回忆与现实间挣扎，最终明白真爱从未走远。剧情中充满了虐心与治愈的反转元素，每一帧都仿佛在诉说遗憾后的重逢。作为一部高质量的AI生成短剧，它不仅在视觉上突破了传统界限，更在情感共鸣上直击人心，适合喜欢唯美爱情与宿命论题材的观众细细品味。</span></p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "全集完结$https://vodcnd16.ajupf.com/20260721/jAog7Js3/index.m3u8$$$全集完结$https://vodcnd16.ajupf.com/share/ggdJMGxsNT",
-    "update_time": "2026-07-31 22:44:18"
   }
 ]

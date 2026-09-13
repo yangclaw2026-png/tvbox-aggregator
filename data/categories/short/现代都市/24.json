@@ -1,5 +1,17 @@
 [
   {
+    "id": 143891,
+    "name": "渔乡赶海：从破船到渔王",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260814-1/31d727a8dcce458071c103e4263a8ccd.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-14 21:48:23"
+  },
+  {
     "id": 143890,
     "name": "我靠一碗胡辣汤，干翻米其林",
     "type": "现代都市",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-13 21:48:24"
-  },
-  {
-    "id": 143775,
-    "name": "携新欢进副本，BOSS 前夫醋疯了",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260813-1/231d85b05a474db4d5e854faede21da2.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-13 21:31:07"
   }
 ]

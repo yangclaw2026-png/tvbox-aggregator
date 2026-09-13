@@ -1,5 +1,17 @@
 [
   {
+    "id": 143034,
+    "name": "撤资后暴君求贴贴",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260809-1/f0752db0a6f101e39b06efb0410947f0.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-09 22:00:39"
+  },
+  {
     "id": 143033,
     "name": "潜龙出渊：从废柴边王到问鼎天下",
     "type": "古装仙侠",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-09 20:04:50"
-  },
-  {
-    "id": 142964,
-    "name": "玫瑰山庄",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260809-1/1da1256918b68610a41adf863e0d3e79.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-09 19:52:15"
   }
 ]
