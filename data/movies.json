@@ -48657,6 +48657,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第98集"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 172285,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第100集"
       }
     ]
   },
