@@ -382,6 +382,20 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 157510,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 162675,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "完结"
       }
     ]
   },
@@ -3630,6 +3644,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第4集"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 157492,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至第04集"
       }
     ]
   },
@@ -3941,7 +3962,16 @@
     "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">豪门千金Nana，本在欧洲攻读时装设计，却因家族危机临危受命，被迫接手父亲的高尔夫球场生意。她在此邂逅驻场职业教练Venus——一位昔日天才球手，如今以严苛著称。Venus对这位对高尔夫一窍不通的继承人极尽挑剔，两人从针锋相对到携手破局，在拯救球场的征程中渐生情愫。然而情路未坦， rival 球场王牌教练Jinne频频设障，更与奈娜父亲的秘书Belle爆发连番唇枪舌战——这位被派来辅佐Nana的得力干将，正成为这场商战与爱情博弈中的意外变数</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.ajupf.com/20260907/8ESkSV6l/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/Ved3mSP14u",
-    "update_time": "2026-09-08 11:05:34"
+    "update_time": "2026-09-08 11:05:34",
+    "play_sources": [
+      {
+        "source": "量子资源",
+        "source_id": 156202,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至第02集"
+      }
+    ]
   },
   {
     "id": 148209,
@@ -43029,6 +43059,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第1176集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 12349,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第1178集"
       }
     ]
   },
