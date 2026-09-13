@@ -1,5 +1,41 @@
 [
   {
+    "id": 100964,
+    "name": "亡灵天灾：我抬手百万骨海 动态漫画",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2025",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250804-1/604271fd1d6a598b92e8ed16f2284543.jpg",
+    "score": "5.0",
+    "remarks": "第166集",
+    "update_time": "2026-08-25 13:28:06"
+  },
+  {
+    "id": 101936,
+    "name": "末世钞能力者 动态漫画",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2025",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250816-1/c44dc7d4c623790fb16ef843ca025e53.jpg",
+    "score": "5.0",
+    "remarks": "第124集",
+    "update_time": "2026-08-25 13:11:34"
+  },
+  {
+    "id": 82726,
+    "name": "从哥布林到哥布林神",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2025",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250401-1/14601b6b505167adca48a2273f31d5f7.jpg",
+    "score": "0.0",
+    "remarks": "第76集",
+    "update_time": "2026-08-25 13:06:20"
+  },
+  {
     "id": 145708,
     "name": "我成了S级收容物",
     "type": "国产动漫",
@@ -562,41 +598,5 @@
     "score": "8.6",
     "remarks": "第97集",
     "update_time": "2026-08-23 12:06:12"
-  },
-  {
-    "id": 144020,
-    "name": "财神窦占龙",
-    "type": "国产动漫",
-    "category": "动作,动画,奇幻",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260816-1/1f18ff0d26c23f5be8c6549ae235e700.webp",
-    "score": "0.0",
-    "remarks": "第4集",
-    "update_time": "2026-08-23 11:52:31"
-  },
-  {
-    "id": 137589,
-    "name": "老蛇修仙传 动态漫画",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260628-1/169a70433bb66167e9ba0e442b9f2d0d.jpg",
-    "score": "5.0",
-    "remarks": "第70集",
-    "update_time": "2026-08-23 11:51:36"
-  },
-  {
-    "id": 131470,
-    "name": "绑定破产AI，我开局氪成大神",
-    "type": "国产动漫",
-    "category": "动漫",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260509-1/bd632487d2bd336fa732a2c947041cda.jpg",
-    "score": "5.0",
-    "remarks": "第44集",
-    "update_time": "2026-08-23 11:50:23"
   }
 ]

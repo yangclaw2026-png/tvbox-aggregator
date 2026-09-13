@@ -1,5 +1,41 @@
 [
   {
+    "id": 109684,
+    "name": "动起来！从前有只猫",
+    "type": "日本动漫",
+    "category": "动画",
+    "year": "2025",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20251022-1/cc366682bd1ab61b6cfd94cf080f1c72.jpg",
+    "score": "5.0",
+    "remarks": "第46集",
+    "update_time": "2026-08-26 19:25:16"
+  },
+  {
+    "id": 128857,
+    "name": "诸界末日在线",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260418-1/c3cceef0f91b9ee55412c0778aa97764.jpg",
+    "score": "5.0",
+    "remarks": "第195集",
+    "update_time": "2026-08-26 19:14:03"
+  },
+  {
+    "id": 145962,
+    "name": "重启火星",
+    "type": "国产动漫",
+    "category": "动画,魔幻,科幻",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260826-1/bae58fee1103bd64deb8fe6a99ba5e36.jpg",
+    "score": "0.0",
+    "remarks": "第34集",
+    "update_time": "2026-08-26 16:12:29"
+  },
+  {
     "id": 139857,
     "name": "开局充值系统觉醒SSS级领主 动态漫画",
     "type": "国产动漫",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第11集",
     "update_time": "2026-08-26 11:42:36"
-  },
-  {
-    "id": 145947,
-    "name": "都市圣手：我即医武巅峰",
-    "type": "国产动漫",
-    "category": "动画,奇幻",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260826-1/6c19d8a7fa7e3b195d09ad2dfd20ec67.jpg",
-    "score": "5.0",
-    "remarks": "第124集完结",
-    "update_time": "2026-08-26 11:41:36"
-  },
-  {
-    "id": 145946,
-    "name": "火火龙恐龙机甲工程车第三季",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260826-1/1bd16c406918f6eb2c6dd8445bc699f3.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-26 11:40:25"
-  },
-  {
-    "id": 131056,
-    "name": "​某天成为大反派的妹妹​",
-    "type": "国产动漫",
-    "category": "中国动漫",
-    "year": "2025",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260506-1/857a23bd625e2856956a19e06f2c2a16.jpg",
-    "score": "5.0",
-    "remarks": "第73集",
-    "update_time": "2026-08-26 11:26:52"
   }
 ]

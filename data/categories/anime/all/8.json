@@ -1,5 +1,41 @@
 [
   {
+    "id": 144856,
+    "name": "猴子扳手 第一季",
+    "type": "欧美动漫",
+    "category": "喜剧,科幻,动画,冒险",
+    "year": "2022",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260820-1/937daa8b6f3c04aa1dd1d6904a1dc8e8.jpg",
+    "score": "5.0",
+    "remarks": "第5集完结",
+    "update_time": "2026-08-20 15:02:54"
+  },
+  {
+    "id": 129385,
+    "name": "将夜",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260423-1/596650918a90708d0cd50ab1556634bb.jpg",
+    "score": "5.0",
+    "remarks": "第19集",
+    "update_time": "2026-08-20 12:05:20"
+  },
+  {
+    "id": 143106,
+    "name": "权臣是我心上人",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260810-1/d7f901e545090bed0af5a344d1106af4.jpg",
+    "score": "5.0",
+    "remarks": "第45集",
+    "update_time": "2026-08-20 11:55:55"
+  },
+  {
     "id": 144669,
     "name": "哈小浪上学记第6季",
     "type": "国产动漫",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第64集完结",
     "update_time": "2026-08-13 20:54:59"
-  },
-  {
-    "id": 143675,
-    "name": "情断红莲岸",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260813-1/fe35ab12f7b6a718b2eaf1689515f962.jpg",
-    "score": "5.0",
-    "remarks": "第35集完结",
-    "update_time": "2026-08-13 18:09:38"
-  },
-  {
-    "id": 143676,
-    "name": "九霄世子行",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260813-1/51b0f8bd26ffcf5ad0d030a107e30254.jpg",
-    "score": "5.0",
-    "remarks": "第40集完结",
-    "update_time": "2026-08-13 18:07:48"
-  },
-  {
-    "id": 137311,
-    "name": "斩神之凡尘神域 第2季",
-    "type": "国产动漫",
-    "category": "动作,动画,奇幻",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260625-1/a516dbaecc5931ace98802c3d9ba1951.jpg",
-    "score": "5.0",
-    "remarks": "第15集完结",
-    "update_time": "2026-08-13 17:57:59"
   }
 ]

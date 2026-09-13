@@ -1,5 +1,41 @@
 [
   {
+    "id": 149557,
+    "name": "盲眼驭诡师",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260913-1/88c9049fcd95a55979ed43cfef4a73a6.jpg",
+    "score": "5.0",
+    "remarks": "第3集",
+    "update_time": "2026-09-13 23:02:57"
+  },
+  {
+    "id": 149556,
+    "name": "我真得控制你了",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260913-1/08e86122b48e9029e03673676ff16ea2.jpg",
+    "score": "5.0",
+    "remarks": "第17集",
+    "update_time": "2026-09-13 22:59:10"
+  },
+  {
+    "id": 149554,
+    "name": "末世：我的农场能种一切",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260913-1/3b3048c97e03c6932fc4018e32eb6bfa.jpg",
+    "score": "5.0",
+    "remarks": "第11集",
+    "update_time": "2026-09-13 22:50:29"
+  },
+  {
     "id": 148840,
     "name": "存活定律",
     "type": "国产动漫",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第26集",
     "update_time": "2026-08-27 11:36:48"
-  },
-  {
-    "id": 499,
-    "name": "丹道至尊",
-    "type": "国产动漫",
-    "category": "动作,动画,奇幻,中国动漫",
-    "year": "2023",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250109-5/5000209d3d3873518e7aa498c2421897.jpg",
-    "score": "5.0",
-    "remarks": "第190集",
-    "update_time": "2026-08-27 11:36:48"
-  },
-  {
-    "id": 145030,
-    "name": "我家小师权不可能这么强",
-    "type": "国产动漫",
-    "category": "动作,动画,奇幻",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260821-1/c61381a78e0a3a98288d93b1ea46b14b.jpg",
-    "score": "5.0",
-    "remarks": "第7集",
-    "update_time": "2026-08-27 11:36:08"
-  },
-  {
-    "id": 143282,
-    "name": "我的坟冢能滋养修为",
-    "type": "国产动漫",
-    "category": "中国动漫",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260811-1/bdecb161c8643cea8c6b8c2733b0d7e2.jpg",
-    "score": "5.0",
-    "remarks": "第12集",
-    "update_time": "2026-08-27 11:35:30"
   }
 ]

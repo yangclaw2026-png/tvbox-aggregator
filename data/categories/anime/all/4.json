@@ -1,5 +1,41 @@
 [
   {
+    "id": 145947,
+    "name": "都市圣手：我即医武巅峰",
+    "type": "国产动漫",
+    "category": "动画,奇幻",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260826-1/6c19d8a7fa7e3b195d09ad2dfd20ec67.jpg",
+    "score": "5.0",
+    "remarks": "第124集完结",
+    "update_time": "2026-08-26 11:41:36"
+  },
+  {
+    "id": 145946,
+    "name": "火火龙恐龙机甲工程车第三季",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260826-1/1bd16c406918f6eb2c6dd8445bc699f3.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-26 11:40:25"
+  },
+  {
+    "id": 131056,
+    "name": "​某天成为大反派的妹妹​",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2025",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260506-1/857a23bd625e2856956a19e06f2c2a16.jpg",
+    "score": "5.0",
+    "remarks": "第73集",
+    "update_time": "2026-08-26 11:26:52"
+  },
+  {
     "id": 140371,
     "name": "三嫁公主",
     "type": "国产动漫",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第5集",
     "update_time": "2026-08-24 21:45:49"
-  },
-  {
-    "id": 145671,
-    "name": "全球直播惊悚游戏",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260824-1/87b0ad823172f4b13fcac38a65f27746.jpg",
-    "score": "5.0",
-    "remarks": "第79集完结",
-    "update_time": "2026-08-24 20:11:44"
-  },
-  {
-    "id": 145673,
-    "name": "御兽虚妄之瞳",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260824-1/d016ab133ab1e41b40bb03c42c54823a.jpg",
-    "score": "5.0",
-    "remarks": "第73集完结",
-    "update_time": "2026-08-24 19:54:56"
-  },
-  {
-    "id": 145654,
-    "name": "欢喜冤家动漫社",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260824-1/907fd1f9f7fcdc19a74aeac83f65c964.jpg",
-    "score": "5.0",
-    "remarks": "第2集",
-    "update_time": "2026-08-24 17:57:37"
   }
 ]

@@ -1,5 +1,41 @@
 [
   {
+    "id": 142802,
+    "name": "不白吃成语真好玩第一季",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260808-1/221c32af41f83a25a99ccb9793401f92.jpg",
+    "score": "5.0",
+    "remarks": "第16集",
+    "update_time": "2026-08-22 13:20:50"
+  },
+  {
+    "id": 71305,
+    "name": "凡人修仙传",
+    "type": "国产动漫",
+    "category": "动画,奇幻",
+    "year": "2025",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250126-1/1488821c146f4d69d142b10ee53ca7ec.jpg",
+    "score": "5.0",
+    "remarks": "第188集",
+    "update_time": "2026-08-22 13:20:21"
+  },
+  {
+    "id": 127,
+    "name": "掌门低调点 动态漫画 第三季",
+    "type": "国产动漫",
+    "category": "玄幻,冒险,动画",
+    "year": "2024",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250109-6/b4b61eeb469d9a50517e84698247f804.jpg",
+    "score": "5.0",
+    "remarks": "第107集",
+    "update_time": "2026-08-22 13:05:34"
+  },
+  {
     "id": 130964,
     "name": "轩辕小豆之仙灵魔宠 第二季​",
     "type": "国产动漫",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第27集完结",
     "update_time": "2026-08-20 17:31:50"
-  },
-  {
-    "id": 144856,
-    "name": "猴子扳手 第一季",
-    "type": "欧美动漫",
-    "category": "喜剧,科幻,动画,冒险",
-    "year": "2022",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260820-1/937daa8b6f3c04aa1dd1d6904a1dc8e8.jpg",
-    "score": "5.0",
-    "remarks": "第5集完结",
-    "update_time": "2026-08-20 15:02:54"
-  },
-  {
-    "id": 129385,
-    "name": "将夜",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260423-1/596650918a90708d0cd50ab1556634bb.jpg",
-    "score": "5.0",
-    "remarks": "第19集",
-    "update_time": "2026-08-20 12:05:20"
-  },
-  {
-    "id": 143106,
-    "name": "权臣是我心上人",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260810-1/d7f901e545090bed0af5a344d1106af4.jpg",
-    "score": "5.0",
-    "remarks": "第45集",
-    "update_time": "2026-08-20 11:55:55"
   }
 ]

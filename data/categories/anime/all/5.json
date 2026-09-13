@@ -1,5 +1,41 @@
 [
   {
+    "id": 145671,
+    "name": "全球直播惊悚游戏",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260824-1/87b0ad823172f4b13fcac38a65f27746.jpg",
+    "score": "5.0",
+    "remarks": "第79集完结",
+    "update_time": "2026-08-24 20:11:44"
+  },
+  {
+    "id": 145673,
+    "name": "御兽虚妄之瞳",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260824-1/d016ab133ab1e41b40bb03c42c54823a.jpg",
+    "score": "5.0",
+    "remarks": "第73集完结",
+    "update_time": "2026-08-24 19:54:56"
+  },
+  {
+    "id": 145654,
+    "name": "欢喜冤家动漫社",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260824-1/907fd1f9f7fcdc19a74aeac83f65c964.jpg",
+    "score": "5.0",
+    "remarks": "第2集",
+    "update_time": "2026-08-24 17:57:37"
+  },
+  {
     "id": 145598,
     "name": "索尼克极速传说",
     "type": "国产动漫",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第19集",
     "update_time": "2026-08-23 17:47:08"
-  },
-  {
-    "id": 127214,
-    "name": "摩绪",
-    "type": "日本动漫",
-    "category": "动画,奇幻",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260405-1/4ab922042362823c99c4e14bf5c6027b.jpg",
-    "score": "0.0",
-    "remarks": "第21集",
-    "update_time": "2026-08-23 17:36:28"
-  },
-  {
-    "id": 139944,
-    "name": "擅长逃跑的殿下 第二季",
-    "type": "日本动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260718-1/4cc92c10bab448d0a8f97aa4ca9aad23.jpg",
-    "score": "5.0",
-    "remarks": "第6集",
-    "update_time": "2026-08-23 17:28:27"
-  },
-  {
-    "id": 135105,
-    "name": "躲在超市后门抽烟的两人",
-    "type": "日本动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260606-1/7bfaeaeccc4e874b5d753fd91728cb38.jpg",
-    "score": "5.0",
-    "remarks": "第12集完结",
-    "update_time": "2026-08-23 17:15:35"
   }
 ]

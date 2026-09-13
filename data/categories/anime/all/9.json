@@ -1,5 +1,41 @@
 [
   {
+    "id": 143675,
+    "name": "情断红莲岸",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260813-1/fe35ab12f7b6a718b2eaf1689515f962.jpg",
+    "score": "5.0",
+    "remarks": "第35集完结",
+    "update_time": "2026-08-13 18:09:38"
+  },
+  {
+    "id": 143676,
+    "name": "九霄世子行",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260813-1/51b0f8bd26ffcf5ad0d030a107e30254.jpg",
+    "score": "5.0",
+    "remarks": "第40集完结",
+    "update_time": "2026-08-13 18:07:48"
+  },
+  {
+    "id": 137311,
+    "name": "斩神之凡尘神域 第2季",
+    "type": "国产动漫",
+    "category": "动作,动画,奇幻",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260625-1/a516dbaecc5931ace98802c3d9ba1951.jpg",
+    "score": "5.0",
+    "remarks": "第15集完结",
+    "update_time": "2026-08-13 17:57:59"
+  },
+  {
     "id": 143651,
     "name": "啦咘啦哆警长之巡逻行动",
     "type": "国产动漫",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第76集",
     "update_time": "2026-08-06 11:32:25"
-  },
-  {
-    "id": 140924,
-    "name": "恋爱脑散退本宫要掌权",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260726-1/a3aa99acf8ebf177218ec3feffe8f2b5.jpg",
-    "score": "5.0",
-    "remarks": "第17集",
-    "update_time": "2026-08-06 11:27:46"
-  },
-  {
-    "id": 142414,
-    "name": "天道炉心",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/e3d8eb4b2db8a7e93034e9d038742bb0.jpg",
-    "score": "5.0",
-    "remarks": "第31集完结",
-    "update_time": "2026-08-05 23:05:46"
-  },
-  {
-    "id": 142396,
-    "name": "重生成龙",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/748008a144dd32cbd82eb32855315f2b.jpg",
-    "score": "5.0",
-    "remarks": "第42集完结",
-    "update_time": "2026-08-05 22:40:25"
   }
 ]

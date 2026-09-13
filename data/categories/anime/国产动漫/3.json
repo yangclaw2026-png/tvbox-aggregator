@@ -1,5 +1,41 @@
 [
   {
+    "id": 139888,
+    "name": "大千小镇",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260718-1/0239379b3f229430ed5e135eda64e4dd.jpg",
+    "score": "5.0",
+    "remarks": "第10集",
+    "update_time": "2026-08-26 13:28:14"
+  },
+  {
+    "id": 1133,
+    "name": "我只想安静地打游戏 动态漫画",
+    "type": "国产动漫",
+    "category": "奇幻,神怪,中国动漫",
+    "year": "2024",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250109-5/feab4506de2eb547bc8d8c8c3405dcde.jpg",
+    "score": "5.0",
+    "remarks": "第171集",
+    "update_time": "2026-08-26 13:26:43"
+  },
+  {
+    "id": 138648,
+    "name": "原始求生之疯狂召唤",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260706-1/4048c02d17859e74ed0b640c90ec1576.jpg",
+    "score": "5.0",
+    "remarks": "第33集",
+    "update_time": "2026-08-26 13:24:56"
+  },
+  {
     "id": 88941,
     "name": "全民诡异：开局掌握零元购 动态漫画",
     "type": "国产动漫",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第43集",
     "update_time": "2026-08-25 13:51:52"
-  },
-  {
-    "id": 100964,
-    "name": "亡灵天灾：我抬手百万骨海 动态漫画",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2025",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250804-1/604271fd1d6a598b92e8ed16f2284543.jpg",
-    "score": "5.0",
-    "remarks": "第166集",
-    "update_time": "2026-08-25 13:28:06"
-  },
-  {
-    "id": 101936,
-    "name": "末世钞能力者 动态漫画",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2025",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250816-1/c44dc7d4c623790fb16ef843ca025e53.jpg",
-    "score": "5.0",
-    "remarks": "第124集",
-    "update_time": "2026-08-25 13:11:34"
-  },
-  {
-    "id": 82726,
-    "name": "从哥布林到哥布林神",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2025",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250401-1/14601b6b505167adca48a2273f31d5f7.jpg",
-    "score": "0.0",
-    "remarks": "第76集",
-    "update_time": "2026-08-25 13:06:20"
   }
 ]

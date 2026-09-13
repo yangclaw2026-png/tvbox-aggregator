@@ -1,5 +1,41 @@
 [
   {
+    "id": 144020,
+    "name": "财神窦占龙",
+    "type": "国产动漫",
+    "category": "动作,动画,奇幻",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260816-1/1f18ff0d26c23f5be8c6549ae235e700.webp",
+    "score": "0.0",
+    "remarks": "第4集",
+    "update_time": "2026-08-23 11:52:31"
+  },
+  {
+    "id": 137589,
+    "name": "老蛇修仙传 动态漫画",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260628-1/169a70433bb66167e9ba0e442b9f2d0d.jpg",
+    "score": "5.0",
+    "remarks": "第70集",
+    "update_time": "2026-08-23 11:51:36"
+  },
+  {
+    "id": 131470,
+    "name": "绑定破产AI，我开局氪成大神",
+    "type": "国产动漫",
+    "category": "动漫",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260509-1/bd632487d2bd336fa732a2c947041cda.jpg",
+    "score": "5.0",
+    "remarks": "第44集",
+    "update_time": "2026-08-23 11:50:23"
+  },
+  {
     "id": 108636,
     "name": "绝世武神 第八季",
     "type": "国产动漫",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第41集",
     "update_time": "2026-08-21 12:34:42"
-  },
-  {
-    "id": 143812,
-    "name": "不白吃•吃透宋朝史第一季",
-    "type": "国产动漫",
-    "category": "动画,历史,故事",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260814-1/a68c80c3d7c528bdb734317056a58dc3.jpg",
-    "score": "5.0",
-    "remarks": "第7集",
-    "update_time": "2026-08-21 12:27:59"
-  },
-  {
-    "id": 143813,
-    "name": "不白吃读史记 第一季",
-    "type": "国产动漫",
-    "category": "动画,历史,故事",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260814-1/a467672c84df9636e8a757a3c756296d.jpg",
-    "score": "5.0",
-    "remarks": "第7集",
-    "update_time": "2026-08-21 12:27:22"
-  },
-  {
-    "id": 107819,
-    "name": "我一个网约车司机有点钱怎么了？",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2025",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20251004-1/ec7e101902a4e0c7d2492bedcf7f901a.jpg",
-    "score": "5.0",
-    "remarks": "第51集",
-    "update_time": "2026-08-21 12:26:55"
   }
 ]

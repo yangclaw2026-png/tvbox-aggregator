@@ -1,5 +1,41 @@
 [
   {
+    "id": 143812,
+    "name": "不白吃•吃透宋朝史第一季",
+    "type": "国产动漫",
+    "category": "动画,历史,故事",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260814-1/a68c80c3d7c528bdb734317056a58dc3.jpg",
+    "score": "5.0",
+    "remarks": "第7集",
+    "update_time": "2026-08-21 12:27:59"
+  },
+  {
+    "id": 143813,
+    "name": "不白吃读史记 第一季",
+    "type": "国产动漫",
+    "category": "动画,历史,故事",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260814-1/a467672c84df9636e8a757a3c756296d.jpg",
+    "score": "5.0",
+    "remarks": "第7集",
+    "update_time": "2026-08-21 12:27:22"
+  },
+  {
+    "id": 107819,
+    "name": "我一个网约车司机有点钱怎么了？",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2025",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20251004-1/ec7e101902a4e0c7d2492bedcf7f901a.jpg",
+    "score": "5.0",
+    "remarks": "第51集",
+    "update_time": "2026-08-21 12:26:55"
+  },
+  {
     "id": 143067,
     "name": "变身吧！梦奇拉少女",
     "type": "国产动漫",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第165集",
     "update_time": "2026-08-15 11:44:21"
-  },
-  {
-    "id": 83631,
-    "name": "逆天邪神 动态漫画",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2019",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250405-1/19ac6b9a238248dcc041908d9307d20f.jpg",
-    "score": "0.0",
-    "remarks": "第384集完结",
-    "update_time": "2026-08-15 11:39:52"
-  },
-  {
-    "id": 138116,
-    "name": "精神病面前，鬼东西算个球 动态漫画 第1季",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2024",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260702-1/22c870c0b63b79f026252024fb6feaff.jpg",
-    "score": "5.0",
-    "remarks": "第237集",
-    "update_time": "2026-08-15 11:38:33"
-  },
-  {
-    "id": 140817,
-    "name": "气运世界杯，我能复制所有球星技能",
-    "type": "国产动漫",
-    "category": "动画,运动",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260725-1/f55f485731d0cf831911dea757212591.jpg",
-    "score": "5.0",
-    "remarks": "第9集",
-    "update_time": "2026-08-15 11:31:12"
   }
 ]

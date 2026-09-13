@@ -1,5 +1,41 @@
 [
   {
+    "id": 127214,
+    "name": "摩绪",
+    "type": "日本动漫",
+    "category": "动画,奇幻",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260405-1/4ab922042362823c99c4e14bf5c6027b.jpg",
+    "score": "0.0",
+    "remarks": "第21集",
+    "update_time": "2026-08-23 17:36:28"
+  },
+  {
+    "id": 139944,
+    "name": "擅长逃跑的殿下 第二季",
+    "type": "日本动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260718-1/4cc92c10bab448d0a8f97aa4ca9aad23.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-08-23 17:28:27"
+  },
+  {
+    "id": 135105,
+    "name": "躲在超市后门抽烟的两人",
+    "type": "日本动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260606-1/7bfaeaeccc4e874b5d753fd91728cb38.jpg",
+    "score": "5.0",
+    "remarks": "第12集完结",
+    "update_time": "2026-08-23 17:15:35"
+  },
+  {
     "id": 123385,
     "name": "名侦探光之美少女！",
     "type": "日本动漫",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第16集",
     "update_time": "2026-08-22 13:21:45"
-  },
-  {
-    "id": 142802,
-    "name": "不白吃成语真好玩第一季",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260808-1/221c32af41f83a25a99ccb9793401f92.jpg",
-    "score": "5.0",
-    "remarks": "第16集",
-    "update_time": "2026-08-22 13:20:50"
-  },
-  {
-    "id": 71305,
-    "name": "凡人修仙传",
-    "type": "国产动漫",
-    "category": "动画,奇幻",
-    "year": "2025",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250126-1/1488821c146f4d69d142b10ee53ca7ec.jpg",
-    "score": "5.0",
-    "remarks": "第188集",
-    "update_time": "2026-08-22 13:20:21"
-  },
-  {
-    "id": 127,
-    "name": "掌门低调点 动态漫画 第三季",
-    "type": "国产动漫",
-    "category": "玄幻,冒险,动画",
-    "year": "2024",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250109-6/b4b61eeb469d9a50517e84698247f804.jpg",
-    "score": "5.0",
-    "remarks": "第107集",
-    "update_time": "2026-08-22 13:05:34"
   }
 ]
