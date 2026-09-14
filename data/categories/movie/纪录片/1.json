@@ -1,5 +1,17 @@
 [
   {
+    "id": 148983,
+    "name": "战神 2026",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260910-1/418e4560186b014926909f8e3b51f895.jpg",
+    "score": "5.0",
+    "remarks": "第2集",
+    "update_time": "2026-09-14 19:51:05"
+  },
+  {
     "id": 149271,
     "name": "金先生去电影院",
     "type": "纪录片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-20 21:52:22"
-  },
-  {
-    "id": 144802,
-    "name": "狂坠：波音大调查2",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260819-1/5031df076cb47176be39b15fd668ce79.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-19 22:32:40"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 142286,
+    "name": "苏宽岛",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2025",
+    "area": "法国,挪威,英国",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/4f1e672dece5aab34d3a11ccc1ff9bc5.jpg",
+    "score": "7.6",
+    "remarks": "正片",
+    "update_time": "2026-08-05 13:33:19"
+  },
+  {
     "id": 142283,
     "name": "连滚带爬",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-04 12:00:36"
-  },
-  {
-    "id": 142108,
-    "name": "花开中国",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/012c1f3b1e94c3b81d54a678e9edbb3c.jpg",
-    "score": "5.0",
-    "remarks": "第3集",
-    "update_time": "2026-08-03 22:39:55"
   }
 ]
