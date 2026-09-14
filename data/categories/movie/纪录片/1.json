@@ -1,5 +1,17 @@
 [
   {
+    "id": 148636,
+    "name": "三十六计",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260908-1/18355de7b0d6297fc4d4171095e4cc20.jpg",
+    "score": "5.0",
+    "remarks": "第2集",
+    "update_time": "2026-09-14 22:52:55"
+  },
+  {
     "id": 148983,
     "name": "战神 2026",
     "type": "纪录片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第3集",
     "update_time": "2026-08-20 22:53:20"
-  },
-  {
-    "id": 144982,
-    "name": "失焦命案：被遗忘的女童",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260820-1/9828d950bd73e21033cca4bfc91cc92f.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-20 21:52:22"
   }
 ]

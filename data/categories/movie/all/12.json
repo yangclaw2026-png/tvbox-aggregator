@@ -1,5 +1,17 @@
 [
   {
+    "id": 141761,
+    "name": "巴兰：少年寻踪",
+    "type": "剧情片",
+    "category": "剧情,悬疑,惊悚",
+    "year": "2026",
+    "area": "印度",
+    "poster": "https://dbzy5.com/upload/vod/20260801-1/7eacd0aaa20d020faf6ac729f4f41883.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-01 19:50:35"
+  },
+  {
     "id": 141758,
     "name": "青春恋歌",
     "type": "剧情片",
@@ -538,17 +550,5 @@
     "score": "5.0",
     "remarks": "第10集",
     "update_time": "2026-07-31 23:43:07"
-  },
-  {
-    "id": 141077,
-    "name": "亲爱的人",
-    "type": "纪录片",
-    "category": "纪录片,同性",
-    "year": "2022",
-    "area": "葡萄牙,中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260727-1/b6a3973ce1bac2aceca6f8724a909f83.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-07-31 22:53:15"
   }
 ]

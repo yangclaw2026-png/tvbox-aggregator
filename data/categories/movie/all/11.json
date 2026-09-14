@@ -1,5 +1,17 @@
 [
   {
+    "id": 141912,
+    "name": "我们奇特的深度聆听",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2020",
+    "area": "印度",
+    "poster": "https://dbzy5.com/upload/vod/20260802-1/6e8a072fec042ba29c398bc7a6c72c4e.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-02 17:15:57"
+  },
+  {
     "id": 141901,
     "name": "罗卡福特站",
     "type": "恐怖片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-01 19:51:39"
-  },
-  {
-    "id": 141761,
-    "name": "巴兰：少年寻踪",
-    "type": "剧情片",
-    "category": "剧情,悬疑,惊悚",
-    "year": "2026",
-    "area": "印度",
-    "poster": "https://dbzy5.com/upload/vod/20260801-1/7eacd0aaa20d020faf6ac729f4f41883.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-01 19:50:35"
   }
 ]
