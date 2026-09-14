@@ -14,7 +14,30 @@
     "content": "<p>暂无简介</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd17.ajupf.com/20260913/3e40LAGi/index.m3u8#第02集$https://vodcnd17.ajupf.com/20260913/yXp2ioph/index.m3u8#第03集$https://vodcnd17.ajupf.com/20260913/E4e3y3YD/index.m3u8$$$第01集$https://vodcnd17.ajupf.com/share/SWqPUhDbK4#第02集$https://vodcnd17.ajupf.com/share/EG30l5cTzH#第03集$https://vodcnd17.ajupf.com/share/545LnaMNYT",
-    "update_time": "2026-09-13 23:02:57"
+    "update_time": "2026-09-13 23:02:57",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 149887,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第5集"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 157153,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至第05集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 162668,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第5集"
+      }
+    ]
   },
   {
     "id": 149556,
@@ -99,7 +122,16 @@
     "content": "<p>末世降临，流浪的秦枫占领了一片能自己长出武器和弹药的神奇农场。他救下了被曙光基地赶出的灵岚、阿青、小禾三个女孩，面对曙光基地篡位者赵海和铁壁基地独裁者霍振武的侵略，秦枫等人依托神奇农场的出产，一次次将敌人打退。不但粉碎了坏人们夺取农场的阴谋，更是联合星云基地击毙了霍振武和赵海。最终，秦枫带领三个女孩回到曙光基地，从此农场也不再种植武器而成了人类复兴的火种。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd17.ajupf.com/20260913/fTZe8IAp/index.m3u8#第02集$https://vodcnd17.ajupf.com/20260913/YtmmG03l/index.m3u8#第03集$https://vodcnd17.ajupf.com/20260913/6wQXbCnn/index.m3u8#第04集$https://vodcnd17.ajupf.com/20260913/hkTSKLyE/index.m3u8#第05集$https://vodcnd17.ajupf.com/20260913/I1Es4DB3/index.m3u8#第06集$https://vodcnd17.ajupf.com/20260913/QAmmIUAj/index.m3u8#第07集$https://vodcnd17.ajupf.com/20260913/LUSlXnud/index.m3u8#第08集$https://vodcnd17.ajupf.com/20260913/YkxZddmk/index.m3u8#第09集$https://vodcnd17.ajupf.com/20260913/VSLVcLYC/index.m3u8#第10集$https://vodcnd17.ajupf.com/20260913/z3khHGKJ/index.m3u8#第11集$https://vodcnd17.ajupf.com/20260913/946GbnZV/index.m3u8$$$第01集$https://vodcnd17.ajupf.com/share/ZVFI8x0U2X#第02集$https://vodcnd17.ajupf.com/share/S3U7HS1Uds#第03集$https://vodcnd17.ajupf.com/share/3ww6YcrJ3M#第04集$https://vodcnd17.ajupf.com/share/UYYhk0uZGw#第05集$https://vodcnd17.ajupf.com/share/UMSQGSyX06#第06集$https://vodcnd17.ajupf.com/share/JkcnYBv9q6#第07集$https://vodcnd17.ajupf.com/share/vPYhxsktne#第08集$https://vodcnd17.ajupf.com/share/tw30lFSlC8#第09集$https://vodcnd17.ajupf.com/share/E951PWow2q#第10集$https://vodcnd17.ajupf.com/share/zyWRyGgXkK#第11集$https://vodcnd17.ajupf.com/share/pU4dvPdXAQ",
-    "update_time": "2026-09-13 22:50:29"
+    "update_time": "2026-09-13 22:50:29",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 149884,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第14集"
+      }
+    ]
   },
   {
     "id": 149501,
@@ -3970,6 +4002,13 @@
         "play_from": "lzm3u8",
         "play_url": null,
         "remarks": "更新至第02集"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 154439,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "更新至02集"
       }
     ]
   },
@@ -6579,6 +6618,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 154943,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "全集"
       }
     ]
   },
@@ -6700,7 +6746,16 @@
     "content": "<p><span style=\"color: #666666; font-family: Arial, sans-serif; font-size: 18px; background-color: #FFFFFF;\">AI短剧也能把帝王偏宠演到心坎里！后宫三千人，皇上只取一瓢饮，这独宠究竟是福是祸？当冷宫弃妃一朝翻身，前朝后宫暗流涌动，她该如何在AI生成的华美宫闱中守住真心？22集节奏紧凑，每集都有新反转，把「偏宠」二字写出百种滋味，追完只想说：这皇上，我也想要！</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260627/uYO5O3nW/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/9iPjnDO1s2",
-    "update_time": "2026-09-04 22:43:48"
+    "update_time": "2026-09-04 22:43:48",
+    "play_sources": [
+      {
+        "source": "索尼资源",
+        "source_id": 154938,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "全集"
+      }
+    ]
   },
   {
     "id": 147750,
@@ -39751,6 +39806,20 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第3集"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 216231,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第5集"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 156720,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第5集"
       }
     ]
   },
@@ -42523,6 +42592,20 @@
         "play_from": "hnm3u8",
         "play_url": null,
         "remarks": "第260830期"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 177559,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第260913期"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 119476,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第260913期"
       }
     ]
   },
@@ -71768,7 +71851,16 @@
     "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">教授与警队将面对意想不到的新关系和更复杂的罪案——包括一场见血的拳击赛和一高端水疗中心一系列无法解释的猝死。许多熟悉角色将面临艰难抉择，T教授和他的团队面临的考验前所未有。</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.ajupf.com/20260818/fOc9IIKY/index.m3u8#第02集$https://vodcnd16.ajupf.com/20260818/SVPQDq0Z/index.m3u8#第03集$https://vodcnd16.ajupf.com/20260818/TeSLCkwa/index.m3u8#第04集$https://vodcnd16.ajupf.com/20260818/cRDh6A9S/index.m3u8#第05集$https://vodcnd16.ajupf.com/20260818/dwyRq8Ct/index.m3u8#第06集$https://vodcnd16.ajupf.com/20260818/CWUCyQty/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/NbYtUwzGF7#第02集$https://vodcnd16.ajupf.com/share/BRGWON96lP#第03集$https://vodcnd16.ajupf.com/share/kEwIJTZe4g#第04集$https://vodcnd16.ajupf.com/share/wHB44yK4jo#第05集$https://vodcnd16.ajupf.com/share/orFJ6UOwaD#第06集$https://vodcnd16.ajupf.com/share/dgg3zGBSiI",
-    "update_time": "2026-08-18 19:59:52"
+    "update_time": "2026-08-18 19:59:52",
+    "play_sources": [
+      {
+        "source": "暴风资源",
+        "source_id": 158204,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "完结"
+      }
+    ]
   },
   {
     "id": 144558,
