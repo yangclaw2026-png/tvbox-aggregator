@@ -28799,6 +28799,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第5集"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 154974,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "更新至10集"
       }
     ]
   },
@@ -36922,6 +36929,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第18集"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 194165,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第19集"
       }
     ]
   },
@@ -38214,6 +38228,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第260907期"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 177537,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第260914期"
       }
     ]
   },
@@ -64661,6 +64682,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至HD"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 152870,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "HD"
       }
     ]
   },
@@ -87565,7 +87593,16 @@
     "content": "<p>故事舞台设定在日本屈指可数的顶级豪华医院“圣菲奥娜医院”。少子化、医生短缺、地方产科接连关闭……在令和时代的当下，守护母婴生命的“分娩现场”正面临前所未有的危机。在此背景下，位于东京市中心繁华地段的一家豪华医院内，秘密组建了一支“特殊团队”——名为“母子救命急救班”。他们的使命是免费救助那些无处可去的棘手孕妇。这是一部描绘在这座华丽医院背后，医护人员誓死守护新生命的医疗娱乐剧。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.ajupf.com/20260717/jnksrUmD/index.m3u8#第02集$https://vodcnd16.ajupf.com/20260717/1VJH4Mjo/index.m3u8#第03集$https://vodcnd16.ajupf.com/20260801/sCJvQfXv/index.m3u8#第04集$https://vodcnd16.ajupf.com/20260731/OHSeDDcw/index.m3u8#第05集$https://vodcnd16.ajupf.com/20260806/JjVP6uW8/index.m3u8#第06集$https://vodcnd16.ajupf.com/20260812/S6q0n1Y7/index.m3u8#第07集$https://vodcnd16.ajupf.com/20260812/MgkakmSF/index.m3u8#第08集$https://vodcnd16.ajupf.com/20260812/FqNWcPjg/index.m3u8#第09集$https://vodcnd16.ajupf.com/20260812/MvPYPnEd/index.m3u8#第10集$https://vodcnd16.ajupf.com/20260812/7oW07oxq/index.m3u8#第11集$https://vodcnd16.ajupf.com/20260812/faiBTeGs/index.m3u8#第12集$https://vodcnd16.ajupf.com/20260812/ZCbZ5pNh/index.m3u8#第13集$https://vodcnd16.ajupf.com/20260812/rZ7RXyH6/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/0ftKCyPCEO#第02集$https://vodcnd16.ajupf.com/share/DFXjMSQjsQ#第03集$https://vodcnd16.ajupf.com/share/lb7j3prqxu#第04集$https://vodcnd16.ajupf.com/share/kXulTiAwVa#第05集$https://vodcnd16.ajupf.com/share/xCCcolfLy5#第06集$https://vodcnd16.ajupf.com/share/V2fvWh4LJ4#第07集$https://vodcnd16.ajupf.com/share/EaS0F5T9UH#第08集$https://vodcnd16.ajupf.com/share/HTxlOMwONm#第09集$https://vodcnd16.ajupf.com/share/Fj4j26j09p#第10集$https://vodcnd16.ajupf.com/share/eWTugjZBcp#第11集$https://vodcnd16.ajupf.com/share/RqKBTGw0vl#第12集$https://vodcnd16.ajupf.com/share/BSBk0mU3qJ#第13集$https://vodcnd16.ajupf.com/share/iBFFSHFFdO",
-    "update_time": "2026-08-13 11:57:11"
+    "update_time": "2026-08-13 11:57:11",
+    "play_sources": [
+      {
+        "source": "暴风资源",
+        "source_id": 151694,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至番外01"
+      }
+    ]
   },
   {
     "id": 138978,
@@ -91008,7 +91045,16 @@
     "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">来自中西部的准新娘盖尔·多特里，和未婚夫之间早有一份“名人通行卡”约定——如果遇到公众人物，双方都可以拥有一次破例的机会</span></p>",
     "play_from": "no$$$dbyun",
     "play_url": "正片$https://vodcnd16.ajupf.com/20260812/DfUluvxo/index.m3u8$$$正片$https://vodcnd16.ajupf.com/share/o4F2obj1qg",
-    "update_time": "2026-08-12 13:19:36"
+    "update_time": "2026-08-12 13:19:36",
+    "play_sources": [
+      {
+        "source": "量子资源",
+        "source_id": 157598,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "HD"
+      }
+    ]
   },
   {
     "id": 143427,
