@@ -14,7 +14,16 @@
     "content": "<p>暂无简介</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "20260913$https://vodcnd17.ajupf.com/20260914/uUcneBCK/index.m3u8$$$20260913$https://vodcnd17.ajupf.com/share/l1I23QyHiQ",
-    "update_time": "2026-09-14 22:58:25"
+    "update_time": "2026-09-14 22:58:25",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 150060,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "20260913"
+      }
+    ]
   },
   {
     "id": 149730,
@@ -31,7 +40,16 @@
     "content": "<p>暂无简介</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "20260913$https://vodcnd17.ajupf.com/20260914/UwjTBvrQ/index.m3u8$$$2026091$https://vodcnd17.ajupf.com/share/XMM1flh2rK",
-    "update_time": "2026-09-14 22:57:36"
+    "update_time": "2026-09-14 22:57:36",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 150061,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "20260913"
+      }
+    ]
   },
   {
     "id": 149731,
@@ -48,7 +66,16 @@
     "content": "<p>暂无简介</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "20260913$https://vodcnd17.ajupf.com/20260914/73jwLbkG/index.m3u8#$$$20260913$https://vodcnd17.ajupf.com/share/7SIzPYh20l",
-    "update_time": "2026-09-14 22:55:57"
+    "update_time": "2026-09-14 22:55:57",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 150062,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "20260913"
+      }
+    ]
   },
   {
     "id": 149743,
@@ -65,7 +92,16 @@
     "content": "<p>暂无简介</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "20260913$https://vodcnd17.ajupf.com/20260914/XuwU6N26/index.m3u8$$$20260913$https://vodcnd17.ajupf.com/share/Zia60kMNz5",
-    "update_time": "2026-09-14 22:53:53"
+    "update_time": "2026-09-14 22:53:53",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 150074,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "20260913"
+      }
+    ]
   },
   {
     "id": 148636,
@@ -82,7 +118,16 @@
     "content": "<p>在中国历史上有这样一部神奇的兵书，在诙诡奇谲变化多端的古代战场，在当今社会的方方面面，几乎都能觅得它的踪迹。它就是集历代兵家诡道之大成的兵书——《三十六计》。 系列纪录片《三十六计》共12集，每集15分钟。本片选择中国历史上最著名的经典战例，结合三十六计里的精妙谋略，通过AI生成、情景再现、三维动画等多种形式，再现硝烟弥漫的古代战场上的精彩交锋，解读三十六计背后蕴藏的中国智慧。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第1集：并战计（上）_ 并战十年暗局已布$https://vodcnd16.ajupf.com/20260914/snCQA97i/index.m3u8#第2集：并战计（下）_ 高平陵变一朝逆转$https://vodcnd16.ajupf.com/20260914/wp6Sz4hB/index.m3u8##$$$第1集：并战计（上）_ 并战十年暗局已布$https://vodcnd16.ajupf.com/share/miBFCIfxUW#第2集：并战计（下）_ 高平陵变一朝逆转$https://vodcnd16.ajupf.com/share/SlzXM3hZ5R",
-    "update_time": "2026-09-14 22:52:55"
+    "update_time": "2026-09-14 22:52:55",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 148974,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第2集"
+      }
+    ]
   },
   {
     "id": 149742,
@@ -99,7 +144,16 @@
     "content": "<p>暂无简介</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "20260913$https://vodcnd17.ajupf.com/20260914/xNzvQYAN/index.m3u8$$$20260913$https://vodcnd17.ajupf.com/share/HPZUxBuT64",
-    "update_time": "2026-09-14 22:52:21"
+    "update_time": "2026-09-14 22:52:21",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 150073,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "20260913"
+      }
+    ]
   },
   {
     "id": 148983,
@@ -3892,6 +3946,13 @@
         "play_from": "lzm3u8",
         "play_url": null,
         "remarks": "更新至第04集"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 148906,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第4集"
       }
     ]
   },
@@ -83843,7 +83904,16 @@
     "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">故事始于1975年，时年19岁的波登，他去到美国马萨诸塞州普罗温斯敦，在当地一家餐厅打工，通过美食和身边人，找到了灵感和人生目标。1980、1990年代，他在多家曼哈顿餐厅从业，此后为《纽约客》撰写文章揭露知名餐厅的黑暗面，直截了当的文风引起读者、食客注意。不过，波登最著名还是主持美食电视节目。2018年，他在录制节目《安东尼·波登：未知之旅》期间于法国上吊自杀。</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "正片$https://vodcnd16.ajupf.com/20260814/EzoLZuJF/index.m3u8#$$$正片$https://vodcnd16.ajupf.com/share/jdC9whBneo#",
-    "update_time": "2026-08-14 15:03:18"
+    "update_time": "2026-08-14 15:03:18",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 144161,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "正片"
+      }
+    ]
   },
   {
     "id": 143295,
@@ -89855,7 +89925,16 @@
     "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">　《了不起的中医》是传播中国传统医药文化的系列纪录片，通过探访每一位了不起的中医，用中医人物的第一人称口述构建叙事脉络，结合真实案例与人物故事，以生动的形式向观众展现中医的实践智慧、文化内涵以及现代价值。</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd15.ajupf.com/20260523/EoZiwFBN/index.m3u8#第02集$https://vodcnd15.ajupf.com/20260523/ZNzLuKEt/index.m3u8#第03集$https://vodcnd15.ajupf.com/20260523/S4weBRP2/index.m3u8#第04集$https://vodcnd15.ajupf.com/20260523/kToS7784/index.m3u8#第05集$https://vodcnd15.ajupf.com/20260523/bl2lJwrI/index.m3u8#第06集$https://vodcnd15.ajupf.com/20260523/PtmA02WD/index.m3u8#第07集$https://vodcnd15.ajupf.com/20260523/FEOA6K2a/index.m3u8#第08集$https://vodcnd15.ajupf.com/20260523/Us9EUtsN/index.m3u8#第09集$https://vodcnd15.ajupf.com/20260523/QPFTB9CO/index.m3u8#第10集$https://vodcnd15.ajupf.com/20260523/4HLzu6a6/index.m3u8#第11集$https://vodcnd15.ajupf.com/20260523/9wJxc2Is/index.m3u8#第12集$https://vodcnd15.ajupf.com/20260523/jh2vJzYx/index.m3u8#第13集$https://vodcnd15.ajupf.com/20260523/OIPReP7I/index.m3u8#第14集$https://vodcnd15.ajupf.com/20260523/2ae6tQQq/index.m3u8#第15集$https://vodcnd15.ajupf.com/20260523/dwps83Pf/index.m3u8#第16集$https://vodcnd15.ajupf.com/20260523/qf1XOueR/index.m3u8#第17集$https://vodcnd15.ajupf.com/20260523/ufVK4HIz/index.m3u8#第18集$https://vodcnd15.ajupf.com/20260523/Hf61PKK6/index.m3u8#第19集$https://vodcnd15.ajupf.com/20260523/r6de9xZ8/index.m3u8#第20集$https://vodcnd15.ajupf.com/20260523/kxUrB9B3/index.m3u8#第21集$https://vodcnd15.ajupf.com/20260523/83I4PmsH/index.m3u8#第22集$https://vodcnd15.ajupf.com/20260523/ssDS3fNn/index.m3u8#第23集$https://vodcnd15.ajupf.com/20260523/Gbinzun0/index.m3u8#第24集$https://vodcnd15.ajupf.com/20260523/1GBjCETQ/index.m3u8#第25集$https://vodcnd15.ajupf.com/20260523/R2cpY4Q2/index.m3u8#第26集$https://vodcnd15.ajupf.com/20260523/9Dnbm11V/index.m3u8#第27集$https://vodcnd15.ajupf.com/20260523/XKSooDq6/index.m3u8#第28集$https://vodcnd15.ajupf.com/20260523/3SCKHLVZ/index.m3u8#第29集$https://vodcnd15.ajupf.com/20260523/Fli6eGpq/index.m3u8#第30集$https://vodcnd15.ajupf.com/20260523/yxoEEs12/index.m3u8#第31集$https://vodcnd15.ajupf.com/20260523/8C0H2Bpk/index.m3u8#第32集$https://vodcnd15.ajupf.com/20260523/jydPf9P9/index.m3u8#第33集$https://vodcnd15.ajupf.com/20260523/nW9jFokp/index.m3u8#第34集$https://vodcnd15.ajupf.com/20260523/Tmv15Lnu/index.m3u8#第35集$https://vodcnd15.ajupf.com/20260523/mVU0Td40/index.m3u8#第36集$https://vodcnd15.ajupf.com/20260523/7Eca9CQ7/index.m3u8#第37集$https://vodcnd15.ajupf.com/20260523/isL5CbE2/index.m3u8#第38集$https://vodcnd15.ajupf.com/20260523/BeYU4IPp/index.m3u8#第39集$https://vodcnd15.ajupf.com/20260523/IfQi56IN/index.m3u8#第40集$https://vodcnd15.ajupf.com/20260523/dxkG9RNz/index.m3u8#第41集$https://vodcnd15.ajupf.com/20260523/tnn0Jlmp/index.m3u8#第42集$https://vodcnd15.ajupf.com/20260523/yfxVPFQ9/index.m3u8#第43集$https://vodcnd15.ajupf.com/20260523/Aoql2WBr/index.m3u8#第44集$https://vodcnd15.ajupf.com/20260523/NiWihuEy/index.m3u8#第45集$https://vodcnd15.ajupf.com/20260523/QOTIcTDF/index.m3u8#第46集$https://vodcnd15.ajupf.com/20260523/bWUTKg2e/index.m3u8#第47集$https://vodcnd15.ajupf.com/20260523/q0xDwUzx/index.m3u8#第48集$https://vodcnd15.ajupf.com/20260523/nuAUfJi7/index.m3u8#第49集$https://vodcnd15.ajupf.com/20260523/ujkZ7Zq6/index.m3u8#第50集$https://vodcnd15.ajupf.com/20260523/we7xDoZu/index.m3u8#第51集$https://vodcnd15.ajupf.com/20260523/ViWjINJY/index.m3u8#第52集$https://vodcnd15.ajupf.com/20260523/AW9yvFwx/index.m3u8#第53集$https://vodcnd15.ajupf.com/20260523/mvFU3fKl/index.m3u8#第54集$https://vodcnd15.ajupf.com/20260523/Hhgabu16/index.m3u8#第55集$https://vodcnd15.ajupf.com/20260523/QdQOM3no/index.m3u8#第56集$https://vodcnd15.ajupf.com/20260523/unxakQ5r/index.m3u8#第57集$https://vodcnd15.ajupf.com/20260523/su9gMTMA/index.m3u8#第58集$https://vodcnd15.ajupf.com/20260523/qIkLBK3D/index.m3u8#第59集$https://vodcnd15.ajupf.com/20260523/bYg8hQlz/index.m3u8#第60集$https://vodcnd15.ajupf.com/20260523/wnQU6fDc/index.m3u8#第61集$https://vodcnd15.ajupf.com/20260523/MufgvVbI/index.m3u8#第62集$https://vodcnd15.ajupf.com/20260523/aTb5I09D/index.m3u8#第63集$https://vodcnd15.ajupf.com/20260523/b7kCrmoj/index.m3u8#第64集$https://vodcnd15.ajupf.com/20260523/DvBeX4nL/index.m3u8#第65集$https://vodcnd15.ajupf.com/20260523/vhHQ04d4/index.m3u8#第66集$https://vodcnd15.ajupf.com/20260523/CZobQZ2P/index.m3u8#第67集$https://vodcnd15.ajupf.com/20260523/5opUbfnl/index.m3u8#第68集$https://vodcnd15.ajupf.com/20260523/252wGgul/index.m3u8#第69集$https://vodcnd15.ajupf.com/20260523/N0J2jB3g/index.m3u8#第70集$https://vodcnd15.ajupf.com/20260523/7ohBs7RU/index.m3u8#第71集$https://vodcnd15.ajupf.com/20260523/aOh6kdOB/index.m3u8#第72集$https://vodcnd15.ajupf.com/20260523/qzpwLSs7/index.m3u8#第73集$https://vodcnd15.ajupf.com/20260523/rDLbL0kO/index.m3u8#第74集$https://vodcnd15.ajupf.com/20260523/8KREDwmo/index.m3u8#第75集$https://vodcnd15.ajupf.com/20260523/IXNITCg0/index.m3u8#第76集$https://vodcnd15.ajupf.com/20260523/yBAfXiWg/index.m3u8#第77集$https://vodcnd15.ajupf.com/20260523/Uc2XWfRS/index.m3u8#第78集$https://vodcnd15.ajupf.com/20260523/vP2GyHQ1/index.m3u8#第79集$https://vodcnd15.ajupf.com/20260523/38KefMbI/index.m3u8#第80集$https://vodcnd15.ajupf.com/20260523/OsabT67P/index.m3u8#第81集$https://vodcnd15.ajupf.com/20260523/xEdOoq4y/index.m3u8#第82集$https://vodcnd15.ajupf.com/20260523/wNG58UBe/index.m3u8#第83集$https://vodcnd15.ajupf.com/20260523/yBHNgdn9/index.m3u8#第84集$https://vodcnd15.ajupf.com/20260523/4WopW7Ey/index.m3u8#第85集$https://vodcnd15.ajupf.com/20260523/2lnqcX1M/index.m3u8#第86集$https://vodcnd15.ajupf.com/20260523/VNAtelBb/index.m3u8#第87集$https://vodcnd15.ajupf.com/20260523/t5Gng0w0/index.m3u8#第88集$https://vodcnd15.ajupf.com/20260523/yZm8PKXi/index.m3u8#第89集$https://vodcnd15.ajupf.com/20260523/rNxUckh9/index.m3u8#第90集$https://vodcnd15.ajupf.com/20260523/MYpsk8M3/index.m3u8#第91集$https://vodcnd15.ajupf.com/20260523/jVTK7zgG/index.m3u8#第92集$https://vodcnd15.ajupf.com/20260523/8vvaB0cF/index.m3u8#第93集$https://vodcnd15.ajupf.com/20260523/iT2T71kF/index.m3u8#第94集$https://vodcnd15.ajupf.com/20260523/YwZissUc/index.m3u8#第95集$https://vodcnd15.ajupf.com/20260523/iDBR2ukm/index.m3u8#第96集$https://vodcnd15.ajupf.com/20260523/RsW8FwxK/index.m3u8#第97集$https://vodcnd15.ajupf.com/20260523/LWTOBT5x/index.m3u8#第98集$https://vodcnd15.ajupf.com/20260523/BIqHGOLA/index.m3u8#第99集$https://vodcnd15.ajupf.com/20260523/3j7xyGEt/index.m3u8#第100集$https://vodcnd15.ajupf.com/20260523/LAjjpTe7/index.m3u8#第101集$https://vodcnd15.ajupf.com/20260523/gv8m4Zpc/index.m3u8#第102集$https://vodcnd15.ajupf.com/20260523/bsyruzlH/index.m3u8#第103集$https://vodcnd15.ajupf.com/20260523/ixCUpA3P/index.m3u8#第104集$https://vodcnd15.ajupf.com/20260523/cCE3yRi6/index.m3u8#第105集$https://vodcnd15.ajupf.com/20260523/ypgx5R0O/index.m3u8#第106集$https://vodcnd15.ajupf.com/20260523/wHSmTMby/index.m3u8#第107集$https://vodcnd15.ajupf.com/20260523/fsqanvZO/index.m3u8#第108集$https://vodcnd15.ajupf.com/20260523/72qrsZn9/index.m3u8#第109集$https://vodcnd15.ajupf.com/20260523/BZFbsezX/index.m3u8#第110集$https://vodcnd15.ajupf.com/20260523/2VS8lkAt/index.m3u8#第111集$https://vodcnd15.ajupf.com/20260523/ZqcJ1mao/index.m3u8#第112集$https://vodcnd15.ajupf.com/20260523/u13O3is7/index.m3u8#第113集$https://vodcnd15.ajupf.com/20260523/uzghFBA5/index.m3u8#第114集$https://vodcnd15.ajupf.com/20260523/qn8i7q4I/index.m3u8#第115集$https://vodcnd15.ajupf.com/20260523/yqHNMpU3/index.m3u8#第116集$https://vodcnd15.ajupf.com/20260523/agl1N4BR/index.m3u8#第117集$https://vodcnd15.ajupf.com/20260523/qV2mQAb6/index.m3u8#第118集$https://vodcnd15.ajupf.com/20260523/t8wSwgJg/index.m3u8#第119集$https://vodcnd15.ajupf.com/20260523/cUYBGQhE/index.m3u8#第120集$https://vodcnd15.ajupf.com/20260707/pKcvchZw/index.m3u8#第121集$https://vodcnd15.ajupf.com/20260707/CpKvIfoV/index.m3u8#第122集$https://vodcnd15.ajupf.com/20260707/IYJSC70W/index.m3u8#第123集$https://vodcnd15.ajupf.com/20260707/gRC389aj/index.m3u8#第124集$https://vodcnd15.ajupf.com/20260707/6KiQKkjC/index.m3u8#第125集$https://vodcnd15.ajupf.com/20260707/uBMiw39H/index.m3u8#第126集$https://vodcnd15.ajupf.com/20260707/FmG6Q0zh/index.m3u8#第127集$https://vodcnd15.ajupf.com/20260707/T74dL4Vi/index.m3u8#第128集$https://vodcnd15.ajupf.com/20260707/m9Ita1Pz/index.m3u8#第129集$https://vodcnd15.ajupf.com/20260707/cCKHGYyq/index.m3u8#第130集$https://vodcnd15.ajupf.com/20260707/y1PYjO4G/index.m3u8#第131集$https://vodcnd15.ajupf.com/20260707/ekAlkbRN/index.m3u8#第132集$https://vodcnd15.ajupf.com/20260707/Xpk6bxd7/index.m3u8#第133集$https://vodcnd15.ajupf.com/20260707/GL9tjKwM/index.m3u8#第134集$https://vodcnd15.ajupf.com/20260707/oVLK8T2Q/index.m3u8#第135集$https://vodcnd15.ajupf.com/20260707/UgGjhNan/index.m3u8#第136集$https://vodcnd15.ajupf.com/20260707/yHAxEcyJ/index.m3u8#第137集$https://vodcnd15.ajupf.com/20260707/t5BPGAsQ/index.m3u8#第138集$https://vodcnd15.ajupf.com/20260707/4DLxwWxm/index.m3u8#第139集$https://vodcnd15.ajupf.com/20260707/beGSjGco/index.m3u8#第140集$https://vodcnd15.ajupf.com/20260707/zXswAyBs/index.m3u8#第141集$https://vodcnd15.ajupf.com/20260707/vKGYKlIF/index.m3u8#第142集$https://vodcnd15.ajupf.com/20260707/1tJ84Ugs/index.m3u8#第143集$https://vodcnd15.ajupf.com/20260707/4NgSL4ye/index.m3u8#第144集$https://vodcnd15.ajupf.com/20260707/t7fqh0Kv/index.m3u8#第145集$https://vodcnd15.ajupf.com/20260707/Und6BQWN/index.m3u8#第146集$https://vodcnd15.ajupf.com/20260707/h2G52BpX/index.m3u8#第147集$https://vodcnd15.ajupf.com/20260707/zfocSuSC/index.m3u8#第148集$https://vodcnd15.ajupf.com/20260707/P19iRh1L/index.m3u8#第149集$https://vodcnd15.ajupf.com/20260707/KLCmuSCz/index.m3u8#第150集$https://vodcnd15.ajupf.com/20260707/EOz31sh6/index.m3u8#第151集$https://vodcnd15.ajupf.com/20260707/NJkpQaUB/index.m3u8#第152集$https://vodcnd15.ajupf.com/20260707/SmVvTEMY/index.m3u8#第153集$https://vodcnd15.ajupf.com/20260707/mQxt4ofc/index.m3u8#第154集$https://vodcnd15.ajupf.com/20260707/V0NrgiJ3/index.m3u8#第155集$https://vodcnd15.ajupf.com/20260707/fn5VaKyw/index.m3u8#第156集$https://vodcnd15.ajupf.com/20260707/ECaNVPtI/index.m3u8#第157集$https://vodcnd15.ajupf.com/20260707/YSK0ajYA/index.m3u8#第158集$https://vodcnd15.ajupf.com/20260707/EO5MgEg8/index.m3u8#第159集$https://vodcnd15.ajupf.com/20260707/9IcPqiGZ/index.m3u8#第160集$https://vodcnd16.ajupf.com/20260812/fdKoMMj8/index.m3u8#第161集$https://vodcnd16.ajupf.com/20260812/Rr0aRYNw/index.m3u8#第162集$https://vodcnd16.ajupf.com/20260812/aVMT7YlS/index.m3u8#第163集$https://vodcnd16.ajupf.com/20260812/DWqqVamG/index.m3u8#第164集$https://vodcnd16.ajupf.com/20260812/10USjHoz/index.m3u8#第165集$https://vodcnd16.ajupf.com/20260812/6ZRAPCrr/index.m3u8#第166集$https://vodcnd16.ajupf.com/20260812/yx9KlZSX/index.m3u8#第167集$https://vodcnd16.ajupf.com/20260812/wgJuRC2G/index.m3u8#第168集$https://vodcnd16.ajupf.com/20260812/dmn8Dngl/index.m3u8#第169集$https://vodcnd16.ajupf.com/20260812/6xp1mBXR/index.m3u8#第170集$https://vodcnd16.ajupf.com/20260812/10liuUgL/index.m3u8#第171集$https://vodcnd16.ajupf.com/20260812/2X85Jtjj/index.m3u8#第172集$https://vodcnd16.ajupf.com/20260812/RwUKomZ3/index.m3u8#第173集$https://vodcnd16.ajupf.com/20260812/ZD6zGHgD/index.m3u8#第174集$https://vodcnd16.ajupf.com/20260812/aX9a836F/index.m3u8#第175集$https://vodcnd16.ajupf.com/20260812/3ziXnhbM/index.m3u8#第176集$https://vodcnd16.ajupf.com/20260812/eb0oG4GZ/index.m3u8#第177集$https://vodcnd16.ajupf.com/20260812/w8Me6l6X/index.m3u8#第178集$https://vodcnd16.ajupf.com/20260812/MwxB1NHr/index.m3u8#第179集$https://vodcnd16.ajupf.com/20260812/dAdE4LWx/index.m3u8#第180集$https://vodcnd16.ajupf.com/20260812/rz0s2rEQ/index.m3u8#第181集$https://vodcnd16.ajupf.com/20260812/dOnWIMIj/index.m3u8#第182集$https://vodcnd16.ajupf.com/20260812/TMn8UFCM/index.m3u8#第183集$https://vodcnd16.ajupf.com/20260812/pDsGXjnD/index.m3u8#第184集$https://vodcnd16.ajupf.com/20260812/oWcbXnjJ/index.m3u8#第185集$https://vodcnd16.ajupf.com/20260812/dRUDiavl/index.m3u8#第186集$https://vodcnd16.ajupf.com/20260812/ocE7ZgyB/index.m3u8#第187集$https://vodcnd16.ajupf.com/20260812/yudOhlnY/index.m3u8#第188集$https://vodcnd16.ajupf.com/20260812/dHYTn9Gm/index.m3u8#第189集$https://vodcnd16.ajupf.com/20260812/KCfx511P/index.m3u8#第190集$https://vodcnd16.ajupf.com/20260812/GfxPfXJY/index.m3u8#第191集$https://vodcnd16.ajupf.com/20260812/yCMpNMpr/index.m3u8#第192集$https://vodcnd16.ajupf.com/20260812/PbcsNMGW/index.m3u8#第193集$https://vodcnd16.ajupf.com/20260812/rZR4cJyX/index.m3u8#第194集$https://vodcnd16.ajupf.com/20260812/lgbF4xLL/index.m3u8#第195集$https://vodcnd16.ajupf.com/20260812/Mzs9pyCx/index.m3u8#第196集$https://vodcnd16.ajupf.com/20260812/30s6fJbg/index.m3u8#第197集$https://vodcnd16.ajupf.com/20260812/mZENucPT/index.m3u8#第198集$https://vodcnd16.ajupf.com/20260812/Xmj2ssOp/index.m3u8#第199集$https://vodcnd16.ajupf.com/20260812/iBdZlaq0/index.m3u8#第200集$https://vodcnd16.ajupf.com/20260812/uEKl0LIu/index.m3u8#第201集$https://vodcnd16.ajupf.com/20260812/mpkB3wEX/index.m3u8#第202集$https://vodcnd16.ajupf.com/20260812/YOxxmLj8/index.m3u8#第203集$https://vodcnd16.ajupf.com/20260812/poFv3v07/index.m3u8#第204集$https://vodcnd16.ajupf.com/20260812/UeQC2XyI/index.m3u8#第205集$https://vodcnd16.ajupf.com/20260812/KVkmQWRA/index.m3u8#第206集$https://vodcnd16.ajupf.com/20260812/z3xLvCGi/index.m3u8#第207集$https://vodcnd16.ajupf.com/20260812/YFGDmorz/index.m3u8#第208集$https://vodcnd16.ajupf.com/20260812/0AnYnIjc/index.m3u8#第209集$https://vodcnd16.ajupf.com/20260812/5hvWgr4f/index.m3u8#第210集$https://vodcnd16.ajupf.com/20260812/ZIxpnano/index.m3u8#第211集$https://vodcnd16.ajupf.com/20260812/t5lBSwIx/index.m3u8#第212集$https://vodcnd16.ajupf.com/20260812/xXWbV46j/index.m3u8#第213集$https://vodcnd16.ajupf.com/20260812/jwOsLHcB/index.m3u8#第214集$https://vodcnd16.ajupf.com/20260812/Ewhbfxqq/index.m3u8#第215集$https://vodcnd16.ajupf.com/20260812/i56nGnuY/index.m3u8#第216集$https://vodcnd16.ajupf.com/20260812/DnVHkGgE/index.m3u8#第217集$https://vodcnd16.ajupf.com/20260812/FSFm8v2m/index.m3u8#第218集$https://vodcnd16.ajupf.com/20260812/s6Sh3SPT/index.m3u8#第219集$https://vodcnd16.ajupf.com/20260812/lPPKe1ET/index.m3u8#第220集$https://vodcnd16.ajupf.com/20260812/IvDdzbSl/index.m3u8#第221集$https://vodcnd16.ajupf.com/20260812/oViRRRcv/index.m3u8#第222集$https://vodcnd16.ajupf.com/20260812/BOawOUiV/index.m3u8#第223集$https://vodcnd16.ajupf.com/20260812/dwHy3IIU/index.m3u8#第224集$https://vodcnd16.ajupf.com/20260812/1tLU35Y9/index.m3u8#第225集$https://vodcnd16.ajupf.com/20260812/iquBmRuN/index.m3u8#第226集$https://vodcnd16.ajupf.com/20260812/UZXkbThT/index.m3u8#第227集$https://vodcnd16.ajupf.com/20260812/CvrjZt3c/index.m3u8#第228集$https://vodcnd16.ajupf.com/20260812/txaTZBqu/index.m3u8#第229集$https://vodcnd16.ajupf.com/20260812/NaOAbrzJ/index.m3u8#第230集$https://vodcnd16.ajupf.com/20260812/myytJJ1F/index.m3u8#第231集$https://vodcnd16.ajupf.com/20260812/15jg2fPa/index.m3u8#第232集$https://vodcnd16.ajupf.com/20260812/DxWwJFjM/index.m3u8#第233集$https://vodcnd16.ajupf.com/20260812/Ypuiye1K/index.m3u8#第234集$https://vodcnd16.ajupf.com/20260812/fcgEXwJx/index.m3u8#第235集$https://vodcnd16.ajupf.com/20260812/X03hreCn/index.m3u8#第236集$https://vodcnd16.ajupf.com/20260812/z6H4xAib/index.m3u8#第237集$https://vodcnd16.ajupf.com/20260812/gKoO5y0B/index.m3u8#第238集$https://vodcnd16.ajupf.com/20260812/GrJ0sGm7/index.m3u8#第239集$https://vodcnd16.ajupf.com/20260812/34LZ1FCg/index.m3u8#第240集$https://vodcnd16.ajupf.com/20260812/BadTk4u6/index.m3u8#第241集$https://vodcnd16.ajupf.com/20260812/93EhyscY/index.m3u8#第242集$https://vodcnd16.ajupf.com/20260812/PESxVmLP/index.m3u8#第243集$https://vodcnd16.ajupf.com/20260812/8McFgNzD/index.m3u8#第244集$https://vodcnd16.ajupf.com/20260812/7xFoaF7H/index.m3u8#第245集$https://vodcnd16.ajupf.com/20260812/Qc8xK3Hl/index.m3u8$$$第01集$https://vodcnd15.ajupf.com/share/phH8bhobXd#第02集$https://vodcnd15.ajupf.com/share/Dzlyc3SZcl#第03集$https://vodcnd15.ajupf.com/share/RKbCtNUMQL#第04集$https://vodcnd15.ajupf.com/share/hIuIet2Exo#第05集$https://vodcnd15.ajupf.com/share/8mNAUuNxa2#第06集$https://vodcnd15.ajupf.com/share/XVbVSdWy3c#第07集$https://vodcnd15.ajupf.com/share/LlMRmppJkZ#第08集$https://vodcnd15.ajupf.com/share/WN1ngXDJnE#第09集$https://vodcnd15.ajupf.com/share/X7tRazDsIj#第10集$https://vodcnd15.ajupf.com/share/1umtfPj0mq#第11集$https://vodcnd15.ajupf.com/share/md5M1ID6gZ#第12集$https://vodcnd15.ajupf.com/share/AvvXsG1sYE#第13集$https://vodcnd15.ajupf.com/share/qDMASbg3Lk#第14集$https://vodcnd15.ajupf.com/share/B9FcAxYM2N#第15集$https://vodcnd15.ajupf.com/share/Y214dplb2h#第16集$https://vodcnd15.ajupf.com/share/xvz8jpijxq#第17集$https://vodcnd15.ajupf.com/share/s5XlQbyIZB#第18集$https://vodcnd15.ajupf.com/share/1dAlzxdSWO#第19集$https://vodcnd15.ajupf.com/share/Gn9gDJYgIz#第20集$https://vodcnd15.ajupf.com/share/bH3mhpIFVC#第21集$https://vodcnd15.ajupf.com/share/k5N13y6omj#第22集$https://vodcnd15.ajupf.com/share/4ZXa3pQOj0#第23集$https://vodcnd15.ajupf.com/share/l9b8W32OzY#第24集$https://vodcnd15.ajupf.com/share/qwSscNGW5P#第25集$https://vodcnd15.ajupf.com/share/TjR7mDV2gk#第26集$https://vodcnd15.ajupf.com/share/8kAWgwTPVF#第27集$https://vodcnd15.ajupf.com/share/02cqdxQyHK#第28集$https://vodcnd15.ajupf.com/share/Se1Dt5k21y#第29集$https://vodcnd15.ajupf.com/share/UGz5MLO4hN#第30集$https://vodcnd15.ajupf.com/share/aVtR3bzBaE#第31集$https://vodcnd15.ajupf.com/share/Rm4Cbg5BLQ#第32集$https://vodcnd15.ajupf.com/share/9YhJ9e6fQq#第33集$https://vodcnd15.ajupf.com/share/94Xhzrdd1V#第34集$https://vodcnd15.ajupf.com/share/tNd1Wzc2jK#第35集$https://vodcnd15.ajupf.com/share/6fiEJuycMa#第36集$https://vodcnd15.ajupf.com/share/FSUWZLpN5N#第37集$https://vodcnd15.ajupf.com/share/TtPNTETwDX#第38集$https://vodcnd15.ajupf.com/share/jqVYQtoOz8#第39集$https://vodcnd15.ajupf.com/share/l5uq0EqYXs#第40集$https://vodcnd15.ajupf.com/share/74VthSAxyd#第41集$https://vodcnd15.ajupf.com/share/WJtV72177k#第42集$https://vodcnd15.ajupf.com/share/1Y66JNjg0B#第43集$https://vodcnd15.ajupf.com/share/ZOuAv2spmE#第44集$https://vodcnd15.ajupf.com/share/OLmNfbfTbz#第45集$https://vodcnd15.ajupf.com/share/hvO80YGfQ7#第46集$https://vodcnd15.ajupf.com/share/rjtiN32ueT#第47集$https://vodcnd15.ajupf.com/share/pbjtkeN6sg#第48集$https://vodcnd15.ajupf.com/share/8Kk6RZxMXc#第49集$https://vodcnd15.ajupf.com/share/TM2UqBu0JR#第50集$https://vodcnd15.ajupf.com/share/uDimWcaA3U#第51集$https://vodcnd15.ajupf.com/share/TyLEpD7gob#第52集$https://vodcnd15.ajupf.com/share/RkxKvhLWeS#第53集$https://vodcnd15.ajupf.com/share/QYtgg8oo6C#第54集$https://vodcnd15.ajupf.com/share/LguLh85Vbm#第55集$https://vodcnd15.ajupf.com/share/ziIWw3fIeA#第56集$https://vodcnd15.ajupf.com/share/kqdHIal8op#第57集$https://vodcnd15.ajupf.com/share/FGmTMUTlFv#第58集$https://vodcnd15.ajupf.com/share/DkUwImSRo5#第59集$https://vodcnd15.ajupf.com/share/H1YF4P9ESp#第60集$https://vodcnd15.ajupf.com/share/HZvbIefFfR#第61集$https://vodcnd15.ajupf.com/share/4Pnas2sMCL#第62集$https://vodcnd15.ajupf.com/share/NBwGEolnoE#第63集$https://vodcnd15.ajupf.com/share/6KylEEYypO#第64集$https://vodcnd15.ajupf.com/share/TUZxWsFfRQ#第65集$https://vodcnd15.ajupf.com/share/RDlkOCxG79#第66集$https://vodcnd15.ajupf.com/share/WY8u94hgkL#第67集$https://vodcnd15.ajupf.com/share/d8KtdbhcK3#第68集$https://vodcnd15.ajupf.com/share/qtQ2Pd7qne#第69集$https://vodcnd15.ajupf.com/share/WvouQQjIfU#第70集$https://vodcnd15.ajupf.com/share/7E21qj2Ol7#第71集$https://vodcnd15.ajupf.com/share/ujlD1fcpah#第72集$https://vodcnd15.ajupf.com/share/cwFfpQpEjo#第73集$https://vodcnd15.ajupf.com/share/bP6TucTaZf#第74集$https://vodcnd15.ajupf.com/share/P0X732IyB0#第75集$https://vodcnd15.ajupf.com/share/wM3EjfmeLw#第76集$https://vodcnd15.ajupf.com/share/StrsIkCF7H#第77集$https://vodcnd15.ajupf.com/share/StV1ekXtFX#第78集$https://vodcnd15.ajupf.com/share/ovJauYSr0M#第79集$https://vodcnd15.ajupf.com/share/HvWBVBaWxM#第80集$https://vodcnd15.ajupf.com/share/mj97m9dBmU#第81集$https://vodcnd15.ajupf.com/share/a9ETBW4n4s#第82集$https://vodcnd15.ajupf.com/share/OnfBHReEAW#第83集$https://vodcnd15.ajupf.com/share/ilONwe9H67#第84集$https://vodcnd15.ajupf.com/share/oC019ZpVQx#第85集$https://vodcnd15.ajupf.com/share/jx7ZIWLXNT#第86集$https://vodcnd15.ajupf.com/share/ElH1aVUjnL#第87集$https://vodcnd15.ajupf.com/share/H7txSrY1LE#第88集$https://vodcnd15.ajupf.com/share/O6sOabEdYd#第89集$https://vodcnd15.ajupf.com/share/7NouV9saXW#第90集$https://vodcnd15.ajupf.com/share/EiEbm7ybNj#第91集$https://vodcnd15.ajupf.com/share/NC0BYGfJyL#第92集$https://vodcnd15.ajupf.com/share/RSwkaxuAdy#第93集$https://vodcnd15.ajupf.com/share/XDKecg6eDy#第94集$https://vodcnd15.ajupf.com/share/UQ79iIdKjZ#第95集$https://vodcnd15.ajupf.com/share/kmIfBTWabw#第96集$https://vodcnd15.ajupf.com/share/yT6CNqMFXn#第97集$https://vodcnd15.ajupf.com/share/6JeeUOBgEw#第98集$https://vodcnd15.ajupf.com/share/jrZpzrG8kQ#第99集$https://vodcnd15.ajupf.com/share/bpM1fo5JDt#第100集$https://vodcnd15.ajupf.com/share/y3vDCE7MWA#第101集$https://vodcnd15.ajupf.com/share/rx4VWC5WoI#第102集$https://vodcnd15.ajupf.com/share/1l0G5gdHNQ#第103集$https://vodcnd15.ajupf.com/share/1tI9YD6O9C#第104集$https://vodcnd15.ajupf.com/share/vtJNg69bIr#第105集$https://vodcnd15.ajupf.com/share/EGqGUgMktu#第106集$https://vodcnd15.ajupf.com/share/Od4AJvdXkv#第107集$https://vodcnd15.ajupf.com/share/I2EvT5amPA#第108集$https://vodcnd15.ajupf.com/share/JvnKrF8sVN#第109集$https://vodcnd15.ajupf.com/share/qm6Xf9PYCQ#第110集$https://vodcnd15.ajupf.com/share/XYmkeA1mzy#第111集$https://vodcnd15.ajupf.com/share/P8tsjp26Du#第112集$https://vodcnd15.ajupf.com/share/rVatypl1A4#第113集$https://vodcnd15.ajupf.com/share/VFqcUs7ex3#第114集$https://vodcnd15.ajupf.com/share/Tmd89z6U1O#第115集$https://vodcnd15.ajupf.com/share/lWmfTvLtFK#第116集$https://vodcnd15.ajupf.com/share/j3u0mSo7zT#第117集$https://vodcnd15.ajupf.com/share/xVccoRlPXW#第118集$https://vodcnd15.ajupf.com/share/Guss9LD99J#第119集$https://vodcnd15.ajupf.com/share/9cnjygalVS#第120集$https://vodcnd15.ajupf.com/share/5iQXieoUXV#第121集$https://vodcnd15.ajupf.com/share/B5k9zQ0Zre#第122集$https://vodcnd15.ajupf.com/share/o0WqAGqRwg#第123集$https://vodcnd15.ajupf.com/share/9JYyKoAMN0#第124集$https://vodcnd15.ajupf.com/share/gKTgjnKow6#第125集$https://vodcnd15.ajupf.com/share/pQIJm7X99g#第126集$https://vodcnd15.ajupf.com/share/Z4mVuFGZ3a#第127集$https://vodcnd15.ajupf.com/share/vYMcZY1Vf1#第128集$https://vodcnd15.ajupf.com/share/uY1jQoWVVb#第129集$https://vodcnd15.ajupf.com/share/Abl3XkUvJX#第130集$https://vodcnd15.ajupf.com/share/l68nySd7NS#第131集$https://vodcnd15.ajupf.com/share/H7Pbhez9TW#第132集$https://vodcnd15.ajupf.com/share/GaRoBfkg9Y#第133集$https://vodcnd15.ajupf.com/share/EiM2tSxGF2#第134集$https://vodcnd15.ajupf.com/share/oNIDGNyhHM#第135集$https://vodcnd15.ajupf.com/share/8hoaPhpRcU#第136集$https://vodcnd15.ajupf.com/share/6lLc5sluNN#第137集$https://vodcnd15.ajupf.com/share/tOttxf5JKo#第138集$https://vodcnd15.ajupf.com/share/51QgiwvV2w#第139集$https://vodcnd15.ajupf.com/share/etZTFFfDd8#第140集$https://vodcnd15.ajupf.com/share/R9rebdyhW0#第141集$https://vodcnd15.ajupf.com/share/R01MOZCpQN#第142集$https://vodcnd15.ajupf.com/share/vONg2lrALU#第143集$https://vodcnd15.ajupf.com/share/yfT9PaTw36#第144集$https://vodcnd15.ajupf.com/share/r8L6ueCjHD#第145集$https://vodcnd15.ajupf.com/share/Th6VTpQdeU#第146集$https://vodcnd15.ajupf.com/share/uxXIxFyNQC#第147集$https://vodcnd15.ajupf.com/share/SUNfC6q1bB#第148集$https://vodcnd15.ajupf.com/share/2GISUHIECs#第149集$https://vodcnd15.ajupf.com/share/3lopt4M7i2#第150集$https://vodcnd15.ajupf.com/share/z70Ygcu2B0#第151集$https://vodcnd15.ajupf.com/share/7V9b8mnysx#第152集$https://vodcnd15.ajupf.com/share/AtUA1nP5FD#第153集$https://vodcnd15.ajupf.com/share/xcHTTXcAIA#第154集$https://vodcnd15.ajupf.com/share/F0vJKoTB2L#第155集$https://vodcnd15.ajupf.com/share/QkweZyalZ3#第156集$https://vodcnd15.ajupf.com/share/pRO6BvKT4i#第157集$https://vodcnd15.ajupf.com/share/hO0bncBgwk#第158集$https://vodcnd15.ajupf.com/share/G8KOSJcngL#第159集$https://vodcnd15.ajupf.com/share/iBPmlevZNH#第160集$https://vodcnd16.ajupf.com/share/jda4irmNW7#第161集$https://vodcnd16.ajupf.com/share/LdZRCRytJI#第162集$https://vodcnd16.ajupf.com/share/1TONwNOYcW#第163集$https://vodcnd16.ajupf.com/share/ORLIAotNVK#第164集$https://vodcnd16.ajupf.com/share/j3E7zF1C1d#第165集$https://vodcnd16.ajupf.com/share/knKDcLaVov#第166集$https://vodcnd16.ajupf.com/share/TwFk0nzYTJ#第167集$https://vodcnd16.ajupf.com/share/kicdThTIUw#第168集$https://vodcnd16.ajupf.com/share/2IB5Gdddqy#第169集$https://vodcnd16.ajupf.com/share/Hxkl67EUtT#第170集$https://vodcnd16.ajupf.com/share/AxL04xXIYg#第171集$https://vodcnd16.ajupf.com/share/whvmgWMCJH#第172集$https://vodcnd16.ajupf.com/share/8SmG5SpyTI#第173集$https://vodcnd16.ajupf.com/share/I3Rpik1OVt#第174集$https://vodcnd16.ajupf.com/share/qdARjQqZ2z#第175集$https://vodcnd16.ajupf.com/share/cEwoA9fN4X#第176集$https://vodcnd16.ajupf.com/share/WHzSbJtdDc#第177集$https://vodcnd16.ajupf.com/share/NkTR9VJAko#第178集$https://vodcnd16.ajupf.com/share/wWOFF9cZVP#第179集$https://vodcnd16.ajupf.com/share/kHWGwnZTX6#第180集$https://vodcnd16.ajupf.com/share/09oWSxa2Wx#第181集$https://vodcnd16.ajupf.com/share/iJEfjEzqVn#第182集$https://vodcnd16.ajupf.com/share/8MN6jGNUSi#第183集$https://vodcnd16.ajupf.com/share/QVvUojfskR#第184集$https://vodcnd16.ajupf.com/share/Qr6UWwB8zb#第185集$https://vodcnd16.ajupf.com/share/ViPG6Sw3Zg#第186集$https://vodcnd16.ajupf.com/share/dYKJcIOrVm#第187集$https://vodcnd16.ajupf.com/share/3vqgMcjOJD#第188集$https://vodcnd16.ajupf.com/share/QMohDDJcrQ#第189集$https://vodcnd16.ajupf.com/share/uu5TWy5s1e#第190集$https://vodcnd16.ajupf.com/share/EiXsFZKuiu#第191集$https://vodcnd16.ajupf.com/share/Ct2Cc8pveQ#第192集$https://vodcnd16.ajupf.com/share/aM8h1z5LUd#第193集$https://vodcnd16.ajupf.com/share/V6TjAiL8j7#第194集$https://vodcnd16.ajupf.com/share/ZJO2pWSvsT#第195集$https://vodcnd16.ajupf.com/share/AeedhJ9tjl#第196集$https://vodcnd16.ajupf.com/share/MQSSxZb2xJ#第197集$https://vodcnd16.ajupf.com/share/lqYFpor2Ll#第198集$https://vodcnd16.ajupf.com/share/U0vIKCxDYa#第199集$https://vodcnd16.ajupf.com/share/nTYesBHNfW#第200集$https://vodcnd16.ajupf.com/share/eNZgjaGMrD#第201集$https://vodcnd16.ajupf.com/share/TgdEI6Qowc#第202集$https://vodcnd16.ajupf.com/share/Iqa6NfaCaM#第203集$https://vodcnd16.ajupf.com/share/owGpKkjc4z#第204集$https://vodcnd16.ajupf.com/share/BqwoeWQrMU#第205集$https://vodcnd16.ajupf.com/share/BHrDNpUg5d#第206集$https://vodcnd16.ajupf.com/share/tCeCrQyc4Z#第207集$https://vodcnd16.ajupf.com/share/ieZ5x3uDCO#第208集$https://vodcnd16.ajupf.com/share/buYI2gLtfN#第209集$https://vodcnd16.ajupf.com/share/txqAv3NuN3#第210集$https://vodcnd16.ajupf.com/share/kuNnGAIlHB#第211集$https://vodcnd16.ajupf.com/share/eB1Mt07293#第212集$https://vodcnd16.ajupf.com/share/eSWLuB7u0m#第213集$https://vodcnd16.ajupf.com/share/zOF5bO7wCd#第214集$https://vodcnd16.ajupf.com/share/DZliOSTKsI#第215集$https://vodcnd16.ajupf.com/share/GfLeEGtWtM#第216集$https://vodcnd16.ajupf.com/share/Z5MufLNs23#第217集$https://vodcnd16.ajupf.com/share/G2n0c3lEWq#第218集$https://vodcnd16.ajupf.com/share/TLscx2xXdT#第219集$https://vodcnd16.ajupf.com/share/agCLhYlNpB#第220集$https://vodcnd16.ajupf.com/share/pqh2jttV6c#第221集$https://vodcnd16.ajupf.com/share/fmA1ONO69Z#第222集$https://vodcnd16.ajupf.com/share/MlQgGbRgBJ#第223集$https://vodcnd16.ajupf.com/share/vhScWdhAxE#第224集$https://vodcnd16.ajupf.com/share/PgqJFBe4qA#第225集$https://vodcnd16.ajupf.com/share/HxUwDz7ylr#第226集$https://vodcnd16.ajupf.com/share/T4Kxw9jNfs#第227集$https://vodcnd16.ajupf.com/share/URNhp8NZ36#第228集$https://vodcnd16.ajupf.com/share/W7vxd4qqyQ#第229集$https://vodcnd16.ajupf.com/share/XNBW06V53Y#第230集$https://vodcnd16.ajupf.com/share/v8D9Yhfobr#第231集$https://vodcnd16.ajupf.com/share/3FbVGuu39R#第232集$https://vodcnd16.ajupf.com/share/Nr0EeaJzP6#第233集$https://vodcnd16.ajupf.com/share/jSVbl5bbXg#第234集$https://vodcnd16.ajupf.com/share/YBcNfrff6t#第235集$https://vodcnd16.ajupf.com/share/oUEV403evx#第236集$https://vodcnd16.ajupf.com/share/BXhRYxsTDF#第237集$https://vodcnd16.ajupf.com/share/i1zj3COnbI#第238集$https://vodcnd16.ajupf.com/share/fxPF5AbQiW#第239集$https://vodcnd16.ajupf.com/share/rZicin8BJj#第240集$https://vodcnd16.ajupf.com/share/uloM3bIFQ5#第241集$https://vodcnd16.ajupf.com/share/lTQRIh3WUM#第242集$https://vodcnd16.ajupf.com/share/Rs4feVAoQL#第243集$https://vodcnd16.ajupf.com/share/Tv7xCxiEL8#第244集$https://vodcnd16.ajupf.com/share/tHZnuEBDXU#第245集$https://vodcnd16.ajupf.com/share/IIIB9CvU67",
-    "update_time": "2026-08-12 17:47:58"
+    "update_time": "2026-08-12 17:47:58",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 133448,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第325集"
+      }
+    ]
   },
   {
     "id": 143521,
@@ -91053,6 +91132,13 @@
         "play_from": "lzm3u8",
         "play_url": null,
         "remarks": "HD"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 143769,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "正片"
       }
     ]
   },
