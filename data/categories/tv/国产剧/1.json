@@ -1,5 +1,17 @@
 [
   {
+    "id": 149135,
+    "name": "兰香如故",
+    "type": "国产剧",
+    "category": "剧情,爱情,古装",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260911-1/83e98dec8671f344ece65314d06beca6.jpg",
+    "score": "5.0",
+    "remarks": "第12集",
+    "update_time": "2026-09-15 23:00:50"
+  },
+  {
     "id": 148216,
     "name": "交锋",
     "type": "国产剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第6集",
     "update_time": "2026-08-21 20:17:26"
-  },
-  {
-    "id": 141886,
-    "name": "天才，女友",
-    "type": "国产剧",
-    "category": "剧情,爱情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/ff8b19769fde3320371b3d958cbccc93.jpg",
-    "score": "5.0",
-    "remarks": "第28集完结",
-    "update_time": "2026-08-21 18:40:40"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 149135,
+    "name": "兰香如故",
+    "type": "国产剧",
+    "category": "剧情,爱情,古装",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260911-1/83e98dec8671f344ece65314d06beca6.jpg",
+    "score": "5.0",
+    "remarks": "第12集",
+    "update_time": "2026-09-15 23:00:50"
+  },
+  {
     "id": 149729,
     "name": "2026湖南省足球联赛第6轮全场回放：岳阳队vs张家界队",
     "type": "足球",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-09-12 22:50:14"
-  },
-  {
-    "id": 149332,
-    "name": "今生先守我夫君第三季",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260912-1/9518fc8a36a37249ce5f676fc310aa2f.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-09-12 22:49:44"
   }
 ]

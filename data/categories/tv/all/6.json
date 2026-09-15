@@ -1,5 +1,17 @@
 [
   {
+    "id": 141287,
+    "name": "御廷谣",
+    "type": "国产剧",
+    "category": "爱情,古装",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260728-1/8de42f91b70eb6ca5691367473f465ca.jpg",
+    "score": "5.0",
+    "remarks": "第32集",
+    "update_time": "2026-08-12 14:05:06"
+  },
+  {
     "id": 143425,
     "name": "遗产之影",
     "type": "欧美剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第24集",
     "update_time": "2026-08-05 12:52:43"
-  },
-  {
-    "id": 142271,
-    "name": "孤城照：惊变",
-    "type": "国产剧",
-    "category": "惊悚,战争,古装",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/640e60a52d88ea24cb0975945a41018e.jpg",
-    "score": "5.0",
-    "remarks": "第41集完结",
-    "update_time": "2026-08-05 11:25:15"
   }
 ]
