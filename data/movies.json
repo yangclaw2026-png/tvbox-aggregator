@@ -1,5 +1,31 @@
 [
   {
+    "id": 150010,
+    "name": "女警出更 第2季",
+    "type": "欧美剧",
+    "year": "2026",
+    "area": "墨西哥",
+    "language": "西班牙语",
+    "category": "剧情,犯罪",
+    "poster": "https://dbzy5.com/upload/vod/20260916-1/8de7d25bdb39c24af0bf8424d34adfc8.jpg",
+    "douban_id": 37360979,
+    "score": "5.0",
+    "remarks": "第6集",
+    "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">苹果宣布续订剧集《女警出更》(Women in Blue)第二季。</span></p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01集$https://vodcnd17.ajupf.com/20260916/30622G0B/index.m3u8#第02集$https://vodcnd17.ajupf.com/20260916/9FI4WJQ0/index.m3u8#第03集$https://vodcnd17.ajupf.com/20260916/VReozYeF/index.m3u8#第04集$https://vodcnd17.ajupf.com/20260916/3Qj59NzO/index.m3u8#第05集$https://vodcnd17.ajupf.com/20260916/2mWAgamq/index.m3u8#第06集$https://vodcnd17.ajupf.com/20260916/2XgYVEXJ/index.m3u8$$$第01集$https://vodcnd17.ajupf.com/share/IBDuKZ80hC#第02集$https://vodcnd17.ajupf.com/share/KeIiAS2FcR#第03集$https://vodcnd17.ajupf.com/share/61TqfYwVNU#第04集$https://vodcnd17.ajupf.com/share/EzkZphbmkf#第05集$https://vodcnd17.ajupf.com/share/zoS3BEmplw#第06集$https://vodcnd17.ajupf.com/share/tYT1PSwayl",
+    "update_time": "2026-09-16 22:57:05",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 150338,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第6集"
+      }
+    ]
+  },
+  {
     "id": 150002,
     "name": "凑个热闹",
     "type": "大陆综艺",
@@ -107,6 +133,13 @@
         "source": "速播资源",
         "source_id": 158657,
         "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第14集"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 149465,
+        "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第14集"
       }
@@ -109948,6 +109981,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "完结"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 137833,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "全14集"
       }
     ]
   },
@@ -126597,22 +126637,5 @@
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd16.ajupf.com/20260721/t4xQdL19/index.m3u8$$$全集完结$https://vodcnd16.ajupf.com/share/ywcpqcJdGU",
     "update_time": "2026-07-31 22:57:46"
-  },
-  {
-    "id": 140755,
-    "name": "穿书八零一锅创富",
-    "type": "现代都市",
-    "year": "2026",
-    "area": "中国大陆",
-    "language": "汉语普通话",
-    "category": "短剧",
-    "poster": "https://dbzy5.com/upload/vod/20260724-1/16ccc784b485d9c8ee5c3b6d010f7675.jpg",
-    "douban_id": 0,
-    "score": "0.0",
-    "remarks": "全集完结",
-    "content": "<p><span style=\"color: #666666; font-family: Arial, sans-serif; font-size: 18px; background-color: #FFFFFF;\">穿越回八零年代，主角凭借现代厨艺与商业头脑，从一口大锅起步逆袭人生。这不仅是美食创业爽剧，更是一场跨越时空的财富传奇。由AI制作呈现细腻画面，看女主如何步步为营，打脸势利亲戚，收获真爱与事业。剧情紧凑高能，每一集都充满惊喜反转，带你体验从零到一的创富快感，绝对不容错过的精品AI短剧。</span></p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "全集完结$https://vodcnd16.ajupf.com/20260721/pZfCrVgH/index.m3u8$$$全集完结$https://vodcnd16.ajupf.com/share/4E5iaGtxjG",
-    "update_time": "2026-07-31 22:57:13"
   }
 ]

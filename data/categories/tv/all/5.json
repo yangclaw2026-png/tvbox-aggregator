@@ -1,5 +1,17 @@
 [
   {
+    "id": 143279,
+    "name": "我从黑暗中走来",
+    "type": "国产剧",
+    "category": "剧情,爱情,悬疑",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260811-1/032deeca1b098ea9b859fb3c8a8c6819.jpg",
+    "score": "5.0",
+    "remarks": "第25集",
+    "update_time": "2026-08-20 11:32:41"
+  },
+  {
     "id": 144611,
     "name": "予你远方",
     "type": "国产剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第9集",
     "update_time": "2026-08-12 22:36:57"
-  },
-  {
-    "id": 143545,
-    "name": "街角少年：电影版：南多的两个世界",
-    "type": "欧美剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "巴西",
-    "poster": "https://dbzy5.com/upload/vod/20260812-1/4a6daddb8de8f0235f28bf596e59b005.jpg",
-    "score": "5.0",
-    "remarks": "第1集",
-    "update_time": "2026-08-12 20:42:18"
   }
 ]
