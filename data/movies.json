@@ -27933,6 +27933,27 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第9集"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 169804,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第10集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 151098,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第10集完结"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 115440,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第10集完结"
       }
     ]
   },
