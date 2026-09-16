@@ -1,5 +1,17 @@
 [
   {
+    "id": 134561,
+    "name": "喜欢你我也是 第六季",
+    "type": "大陆综艺",
+    "category": "爱情,真人秀",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260603-1/8960c03ee088c392a2ce24c0ca5669d2.jpg",
+    "score": "5.0",
+    "remarks": "20260823第12期陪看(三)：春雷私下黏人反差超大 馨何纪念日互动众人狂磕",
+    "update_time": "2026-08-23 14:11:47"
+  },
+  {
     "id": 139009,
     "name": "高手云吉",
     "type": "大陆综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第13期",
     "update_time": "2026-08-15 11:09:39"
-  },
-  {
-    "id": 137447,
-    "name": "合宿相亲2",
-    "type": "日韩综艺",
-    "category": "爱情,真人秀",
-    "year": "2026",
-    "area": "韩国",
-    "poster": "https://dbzy5.com/upload/vod/20260626-1/ed104d6b01a2ad100b1ec39a92c86fc4.jpg",
-    "score": "5.0",
-    "remarks": "第8期完结",
-    "update_time": "2026-08-14 22:33:33"
   }
 ]

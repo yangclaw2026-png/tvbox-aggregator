@@ -1,5 +1,17 @@
 [
   {
+    "id": 131640,
+    "name": "创业面对面",
+    "type": "大陆综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260511-1/5c1b2cfe04e3941985b5b02c9c48e65d.jpg",
+    "score": "5.0",
+    "remarks": "第20260817期",
+    "update_time": "2026-08-24 22:27:41"
+  },
+  {
     "id": 145600,
     "name": "手信集青岛篇",
     "type": "大陆综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "20260812第11期下",
     "update_time": "2026-08-12 18:01:40"
-  },
-  {
-    "id": 141405,
-    "name": "中国古代悲情战神",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260729-1/a200d7b7c386b1f999ddd31022ec8178.jpg",
-    "score": "5.0",
-    "remarks": "第5集完结",
-    "update_time": "2026-08-12 17:30:49"
   }
 ]

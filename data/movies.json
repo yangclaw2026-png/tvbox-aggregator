@@ -1,5 +1,57 @@
 [
   {
+    "id": 150002,
+    "name": "凑个热闹",
+    "type": "大陆综艺",
+    "year": "2026",
+    "area": "中国大陆",
+    "language": "汉语普通话",
+    "category": "真人秀",
+    "poster": "https://dbzy5.com/upload/vod/20260916-1/7d861db448fe0dce43de8cfd8b0c7afd.jpg",
+    "douban_id": 0,
+    "score": "5.0",
+    "remarks": "第20260916期张月生日会群像好治愈",
+    "content": "<p>《凑个热闹》将全网娱乐热点进行系统性整合与创意重构，核心聚焦于生产“热点路透”“情绪花絮”与“热梗剪辑”轻量化内容，满足用户碎片化的消费需求。</p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第20260915期唐九洲米卡这俩也太有节目感了$https://vodcnd17.ajupf.com/20260916/DQv6PK0y/index.m3u8#第20260915期文韬读书成家立业 活成很多人心中圆满的人生范本$https://vodcnd17.ajupf.com/20260916/4XNQxBx2/index.m3u8#第20260915期吴君如眼里没有对陌生旅程的恐惧 只有对分到两个帅哥的开心$https://vodcnd17.ajupf.com/20260916/bVD0BQh3/index.m3u8#第20260915期小沈阳得知再当队长“天塌了”$https://vodcnd17.ajupf.com/20260916/JfGnG01a/index.m3u8#第20260916期鞠婧祎十层高空吊威亚！$https://vodcnd17.ajupf.com/20260916/2nlnBefr/index.m3u8#第20260916期蒲熠星陈楚生演唱会相邻开唱$https://vodcnd17.ajupf.com/20260916/8R0clZij/index.m3u8#第20260916期王俊凯歌迷分寸感十足$https://vodcnd17.ajupf.com/20260916/FvpK9oI4/index.m3u8#第20260916期张月生日会群像好治愈$https://vodcnd17.ajupf.com/20260916/8O0bEiw9/index.m3u8$$$第20260915期唐九洲米卡这俩也太有节目感了$https://vodcnd17.ajupf.com/share/UerYT913Ch#第20260915期文韬读书成家立业 活成很多人心中圆满的人生范本$https://vodcnd17.ajupf.com/share/GsjLmY2J0u#第20260915期吴君如眼里没有对陌生旅程的恐惧 只有对分到两个帅哥的开心$https://vodcnd17.ajupf.com/share/aK3isK8jzL#第20260915期小沈阳得知再当队长“天塌了”$https://vodcnd17.ajupf.com/share/cZFeKcJlVr#第20260916期鞠婧祎十层高空吊威亚！$https://vodcnd17.ajupf.com/share/ihqCcraZF5#第20260916期蒲熠星陈楚生演唱会相邻开唱$https://vodcnd17.ajupf.com/share/bx2xNGv08U#第20260916期王俊凯歌迷分寸感十足$https://vodcnd17.ajupf.com/share/giPclRK4Mb#第20260916期张月生日会群像好治愈$https://vodcnd17.ajupf.com/share/3ei6e08M8V#",
+    "update_time": "2026-09-16 18:48:16",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 150331,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第20260916期张月生日会群像好治愈"
+      }
+    ]
+  },
+  {
+    "id": 149999,
+    "name": "流人 第六季",
+    "type": "欧美剧",
+    "year": "2026",
+    "area": "英国,美国",
+    "language": "英语",
+    "category": "剧情,惊悚",
+    "poster": "https://dbzy5.com/upload/vod/20260916-1/d3bacc2538661e648269d0d51cf4dca9.jpg",
+    "douban_id": 36689816,
+    "score": "5.0",
+    "remarks": "7全集",
+    "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">第六季改编自米克·赫隆所著小说系列的第六本《Joe Country》和第七本《Slough House》。</span><br style=\"color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 13px; white-space: normal; background-color: rgb(255, 255, 255);\"/><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">　　Diana Taverner（克里斯汀·斯科特·托马斯 饰）将“流人”们卷入了一场充满复仇的致命高风险游戏中，这群间谍因此踏上了逃亡之路。</span></p>",
+    "play_from": "no",
+    "play_url": "",
+    "update_time": "2026-09-16 18:43:36",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 150329,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第1集"
+      }
+    ]
+  },
+  {
     "id": 149135,
     "name": "兰香如故",
     "type": "国产剧",
@@ -14,7 +66,51 @@
     "content": "<p>该剧根据禾晏山小说《兰香缘》改编。大学士府长孙女沈嘉兰与吏部尚书林家的长孙林锦楼订下婚约，然而朝堂风云突变，祖父沈大学士被判谋逆之罪，沈家惨遭灭门。林家为了自保，与沈家退婚，另与御前新贵赵家结亲。沈嘉兰母亲崔氏曾接济过的林家家奴许万全夫妇用刚病亡的女儿许兰香替下嘉兰。嘉兰从此顶着许 兰香的身份，成为林府的一名三等丫鬟。在艰难的境遇中，兰香没有向命运低头，始终为自己和家人的幸福生活努力着，反抗一切不公与压迫。最终，兰香凭借自己的善良与聪慧，突破阶级身份的束缚，赢得林锦楼倾心的同时也获得了林家上下的信服与尊重，成为林家的当家人，将命运牢牢掌控在自己的手中，为沈家洗刷冤屈讨回公道。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd17.ajupf.com/20260911/G6GuUNi7/index.m3u8#第02集$https://vodcnd17.ajupf.com/20260911/V2RbRJOR/index.m3u8#第03集$https://vodcnd17.ajupf.com/20260911/Z8HLXnpm/index.m3u8#第04集$https://vodcnd16.ajupf.com/20260912/QeklGTSh/index.m3u8#第05集$https://vodcnd17.ajupf.com/20260912/l3C0X9TF/index.m3u8#第06集$https://vodcnd17.ajupf.com/20260913/qQQ5XY1e/index.m3u8#第07集$https://vodcnd17.ajupf.com/20260913/XgEqewhH/index.m3u8#第08集$https://vodcnd16.ajupf.com/20260914/VQ5ZExAv/index.m3u8#第09集$https://vodcnd17.ajupf.com/20260914/Nsm3dBbS/index.m3u8#第10集$https://vodcnd17.ajupf.com/20260915/C6rsVAqG/index.m3u8#第11集$https://vodcnd17.ajupf.com/20260915/JyTfWUhz/index.m3u8#第12集$https://vodcnd17.ajupf.com/20260915/5PXzbAIh/index.m3u8$$$第01集$https://vodcnd17.ajupf.com/share/Jh2CCDMVIW#第02集$https://vodcnd17.ajupf.com/share/hqeAX1nYgH#第03集$https://vodcnd17.ajupf.com/share/JozFmlzAsf#第04集$https://vodcnd16.ajupf.com/share/pk7RpJsooR#第05集$https://vodcnd17.ajupf.com/share/nNc0fM9he2#第06集$https://vodcnd17.ajupf.com/share/AJXu8pWj4b#第07集$https://vodcnd17.ajupf.com/share/q6uORumM3b#第08集$https://vodcnd16.ajupf.com/share/aew9CSMH0g#第09集$https://vodcnd17.ajupf.com/share/BUltvaR4c2#第10集$https://vodcnd17.ajupf.com/share/RiFugsQnRz#第11集$https://vodcnd17.ajupf.com/share/UVCxMWf3Dm#第12集$https://vodcnd17.ajupf.com/share/BjGKS0EbQH",
-    "update_time": "2026-09-15 23:00:50"
+    "update_time": "2026-09-15 23:00:50",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 218164,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第14集"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 194041,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第14集"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 157040,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至第13集"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 154754,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "更新至14集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 162460,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第14集"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 158657,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第14集"
+      }
+    ]
   },
   {
     "id": 149729,
@@ -23946,7 +24042,16 @@
     "content": "<p>综艺《深夜怪谈会 第六季》线上看，深夜怪谈会 第六季免费在线观看。这是2026年韩国地区上映的一部热门综艺作品。 目前更新状态为：第1期，已获得418位观众朋友的青睐。 暂无简介，敬请期待</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd15.ajupf.com/20260624/QjXYJpcG/index.m3u8#第02集$https://vodcnd15.ajupf.com/20260630/Cqnt2m0L/index.m3u8#第03集$https://vodcnd15.ajupf.com/20260707/tsgCAZYy/index.m3u8#第04集$https://vodcnd16.ajupf.com/20260716/h0GTMMUn/index.m3u8#第05集$https://vodcnd16.ajupf.com/20260723/3NBe6Qtx/index.m3u8#第06集$https://vodcnd16.ajupf.com/20260729/yu1yGArD/index.m3u8#第07集$https://vodcnd16.ajupf.com/20260805/IbtAu8K8/index.m3u8#第08集$https://vodcnd17.ajupf.com/20260812/cWy1Snvu/index.m3u8#第09集$https://vodcnd17.ajupf.com/20260819/d16NhtF5/index.m3u8#第10集$https://vodcnd17.ajupf.com/20260826/XL7t3Cs2/index.m3u8$$$第01集$https://vodcnd15.ajupf.com/share/uw8lkHjpYf#第02集$https://vodcnd15.ajupf.com/share/PULWw5WrGe#第03集$https://vodcnd15.ajupf.com/share/SVbQn5Wmtk#第04集$https://vodcnd16.ajupf.com/share/99hT5QolTj#第05集$https://vodcnd16.ajupf.com/share/bWeplzRpKr#第06集$https://vodcnd16.ajupf.com/share/b22XtqfxDb#第07集$https://vodcnd16.ajupf.com/share/vVdPCMC19N#第08集$https://vodcnd17.ajupf.com/share/nfwHFNqt9s#第09集$https://vodcnd17.ajupf.com/share/JbPqg62q70#第10集$https://vodcnd17.ajupf.com/share/6G9TX8Tjsd",
-    "update_time": "2026-08-26 22:05:51"
+    "update_time": "2026-08-26 22:05:51",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 137663,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第13集"
+      }
+    ]
   },
   {
     "id": 111245,
@@ -32299,6 +32404,13 @@
         "play_from": "hnm3u8",
         "play_url": null,
         "remarks": "第6期"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 141594,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第8集"
       }
     ]
   },
@@ -33908,7 +34020,23 @@
     "content": "<p>江池被家族当废物驱逐，被迫娶“全城最丑”苏浅雪。新婚夜觉醒“睡梦修行系统”，梦中苦修，醒得一年功力。明面是江家看门杂役，暗中斩杀仇敌、挑拨江家与飞云寨死斗，一步步血洗耻辱。苏浅雪面纱下竟是绝色容颜，身中奇毒。江池为她杀尽欺辱之人，带她远走宁阳。新城市暗流汹涌——城主中毒、副城主篡权、“天罗宗”暗中布局。他以药铺伙计身份切入漩涡，在护妻路上，逐步揭开二十年前的毒杀谜局。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260703/pwl3OsKe/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/Kr99DVQ8tH",
-    "update_time": "2026-08-25 18:37:52"
+    "update_time": "2026-08-25 18:37:52",
+    "play_sources": [
+      {
+        "source": "红牛资源",
+        "source_id": 194401,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 159017,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 142793,
@@ -33979,7 +34107,23 @@
     "content": "<p>做了五百年无脸女鬼的女主，在冥王的安排下，附身到侯府嫡女叶清凡身上，借尸还阳，继承这具身体剩余五年阳寿。两名心腹属下也跟着一同来到阳间。这具肉身的原主是云阳侯府千金，自幼丧母，继母进门后，她被丢到乡下庄子吃苦。好不容易被接回京城成婚，半路遭人谋害。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260703/wkPT6YCG/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/vamC67LWZ4",
-    "update_time": "2026-08-25 18:36:26"
+    "update_time": "2026-08-25 18:36:26",
+    "play_sources": [
+      {
+        "source": "红牛资源",
+        "source_id": 194391,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 159009,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 145824,
@@ -33996,7 +34140,23 @@
     "content": "<p>陆离是蓝星最后一位大乘妖君，渡劫后本想睡个百年再飞升，一觉醒来竟穿越异世，还被强制绑定河神系统，成了一条破小河的九品河神。他本想继续摆烂睡觉，却被迫处理各种烂摊子，随手镇压吃人水鬼，一指斩杀冒充河神的鱼妖。村民感恩为他立庙，不料引来连云宗弟子上门拆庙，一场大乘妖君的降维打击即将上演。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260703/e9VLI0MG/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/gKGWKMrBEw",
-    "update_time": "2026-08-25 18:34:51"
+    "update_time": "2026-08-25 18:34:51",
+    "play_sources": [
+      {
+        "source": "红牛资源",
+        "source_id": 194378,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 158995,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 145823,
@@ -34013,7 +34173,23 @@
     "content": "<p>青州庶女沈半夏因半脸瘢痕被迫替嫡姐嫁残废，孤注一掷参加太子妃选秀。途中遇自称乞丐的太子萧珩，在其帮助下恢复容貌，凭借才情连夺魁首。真相揭晓后沈半夏拒婚，萧珩穷追不舍终获原谅。她的生父竟是当朝太傅，十七年沉冤昭雪。沈半夏从庶女逆袭为皇后。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260703/sRHZBn1e/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/SKMPCzaTqq",
-    "update_time": "2026-08-25 18:33:24"
+    "update_time": "2026-08-25 18:33:24",
+    "play_sources": [
+      {
+        "source": "红牛资源",
+        "source_id": 194399,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 159015,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 145822,
@@ -34030,7 +34206,23 @@
     "content": "<p>男人意外失忆，记忆停留在少年时期，醒来后惊觉自己早已成婚，还有一个三岁的女儿。过往的疏离冷落让妻女满心不安，他带着赤诚歉意，学着承担丈夫与父亲的责任，用心弥补过往亏欠，在点滴相处中化解隔阂，用真诚与担当重拾家庭的温暖与圆满。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260703/g0RmqBqr/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/8IcvvUIdAI",
-    "update_time": "2026-08-25 18:31:16"
+    "update_time": "2026-08-25 18:31:16",
+    "play_sources": [
+      {
+        "source": "红牛资源",
+        "source_id": 194377,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 158994,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 145821,
@@ -34223,6 +34415,13 @@
         "source": "茅台资源",
         "source_id": 146107,
         "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "全集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 194368,
+        "play_from": "hnm3u8",
         "play_url": null,
         "remarks": "全集完结"
       }
@@ -44412,6 +44611,13 @@
         "source": "速播资源",
         "source_id": 157156,
         "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "正片"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 145875,
+        "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "正片"
       }
@@ -67228,6 +67434,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第10期"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 137650,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第12期"
       }
     ]
   },
@@ -70875,7 +71088,16 @@
     "content": "<p>暂无简介</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd15.ajupf.com/20260612/eIlf5XQk/index.m3u8#第02集$https://vodcnd15.ajupf.com/20260612/GRZCFUc2/index.m3u8#第03集$https://vodcnd15.ajupf.com/20260612/FKnIFh40/index.m3u8#第04集$https://vodcnd15.ajupf.com/20260612/KhC1c3ot/index.m3u8#第05集$https://vodcnd15.ajupf.com/20260612/PlSc9NDD/index.m3u8#第06集$https://vodcnd15.ajupf.com/20260612/P2Tst3ae/index.m3u8#第07集$https://vodcnd15.ajupf.com/20260612/SDOjaDRJ/index.m3u8#第08集$https://vodcnd15.ajupf.com/20260612/0j30iMa6/index.m3u8#第09集$https://vodcnd15.ajupf.com/20260617/OQRN0BF6/index.m3u8#第10集$https://vodcnd15.ajupf.com/20260617/yzyt6asb/index.m3u8#第11集$https://vodcnd15.ajupf.com/20260624/oVY8fbnB/index.m3u8#第12集$https://vodcnd15.ajupf.com/20260624/yCDJymnT/index.m3u8#第13集$https://vodcnd15.ajupf.com/20260701/lStOCGY6/index.m3u8#第14集$https://vodcnd15.ajupf.com/20260701/C8EXXaUd/index.m3u8#第15集$https://vodcnd15.ajupf.com/20260708/nbR8Mkcb/index.m3u8#第16集$https://vodcnd15.ajupf.com/20260708/e18ZBnRz/index.m3u8#第17集$https://vodcnd16.ajupf.com/20260715/FLNzSRdu/index.m3u8#第18集$https://vodcnd16.ajupf.com/20260819/BuhxgGaY/index.m3u8#第19集$https://vodcnd16.ajupf.com/20260819/2WC72QXQ/index.m3u8#第20集$https://vodcnd16.ajupf.com/20260819/bHtsHKQj/index.m3u8#第21集$https://vodcnd16.ajupf.com/20260819/n5NPjpmo/index.m3u8#第22集$https://vodcnd16.ajupf.com/20260819/pgRfas7l/index.m3u8$$$第01集$https://vodcnd15.ajupf.com/share/r40gbuMtYW#第02集$https://vodcnd15.ajupf.com/share/fXRxLxRa9Z#第03集$https://vodcnd15.ajupf.com/share/eFpcHZyCAS#第04集$https://vodcnd15.ajupf.com/share/UnZrUKgexP#第05集$https://vodcnd15.ajupf.com/share/G4VNN3Nv62#第06集$https://vodcnd15.ajupf.com/share/BdnQpKKhy8#第07集$https://vodcnd15.ajupf.com/share/ZhReo3pJZ8#第08集$https://vodcnd15.ajupf.com/share/WLIoeInOS2#第09集$https://vodcnd15.ajupf.com/share/ipqyFdc4l0#第10集$https://vodcnd15.ajupf.com/share/BJJLLSKPpS#第11集$https://vodcnd15.ajupf.com/share/wQ4ZJB7PcU#第12集$https://vodcnd15.ajupf.com/share/9Csdo0q0ny#第13集$https://vodcnd15.ajupf.com/share/0OMxIvEvPg#第14集$https://vodcnd15.ajupf.com/share/efQJG5JbQs#第15集$https://vodcnd15.ajupf.com/share/1BsKQIdZ85#第16集$https://vodcnd15.ajupf.com/share/DM6rPTUDKm#第17集$https://vodcnd16.ajupf.com/share/Ns9FPdRqqn#第18集$https://vodcnd16.ajupf.com/share/gBYZPHa09k#第19集$https://vodcnd16.ajupf.com/share/2ZmshQ0fV8#第20集$https://vodcnd16.ajupf.com/share/y6LluPOw8y#第21集$https://vodcnd16.ajupf.com/share/rFGhZEhhJp#第22集$https://vodcnd16.ajupf.com/share/R0XmS8Fqu4",
-    "update_time": "2026-08-19 11:36:37"
+    "update_time": "2026-08-19 11:36:37",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 136661,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第50集完结"
+      }
+    ]
   },
   {
     "id": 142640,
@@ -96175,7 +96397,16 @@
     "content": "<p>主角江游拥有“影匿者”与“猎杀者”双重位格。“猎杀者”能看见万物的血条，且攻击必定造成伤害；而“影匿者”则让他能穿梭于“世界的暗面”。故事背景设定在一个遭受深渊异种入侵、世界残破的末世。江游凭借“影噬”、“暗影形态”等能力不断成长，挑战神明的法则。当他仰望天空，发现高高在上的神明也亮着血条时，便开启了一场“血条清零”的弑神之旅。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260701/plbXYTPO/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/Mc8ZVqdp9G",
-    "update_time": "2026-08-10 21:33:21"
+    "update_time": "2026-08-10 21:33:21",
+    "play_sources": [
+      {
+        "source": "索尼资源",
+        "source_id": 155049,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "全集"
+      }
+    ]
   },
   {
     "id": 143239,
@@ -102846,7 +103077,16 @@
     "content": "<p>未来地球生态崩溃，“方舟计划”虚拟疗养院本是人类最后的休眠庇护所。项目创始人林梦身患早发性阿尔茨海默症，本欲在方舟中修复记忆、陪儿子长大，却遭昔日伙伴周明背叛。程序被篡改，方舟变囚笼，十万休眠者沦为囚徒，林梦更是被关进了用自己记忆打造的牢笼。影后、精神病患、警察、宫妃她在四重人生里反复轮回，哪怕忘了自己是谁，也始终没忘寻找失踪的儿子。当记忆碎片拼凑出全部真相，她破笼而出踏上寻子与救赎的前路。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260630/MODulGZD/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/W9c3bLyIHZ",
-    "update_time": "2026-08-08 21:57:10"
+    "update_time": "2026-08-08 21:57:10",
+    "play_sources": [
+      {
+        "source": "索尼资源",
+        "source_id": 155044,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "全集"
+      }
+    ]
   },
   {
     "id": 142886,
@@ -109700,7 +109940,16 @@
     "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; text-wrap-mode: wrap; background-color: #FFFFFF;\">　腾讯视频、单向空间联合出品，尤里卡工作室研创的《十三邀》第九季，迎来崭新的开始。在时代巨变中，尝试打破思想的悬浮，深入世界粗砺而真实的肌理。许知远与那些对时代持有独特见解的嘉宾同行，在具体的行动中辨认方向，在不确定中寻找确信。</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd12.ajupf.com/20260128/W2hIdOed/index.m3u8#第02集$https://vodcnd13.ajupf.com/20260211/ejoh6jO3/index.m3u8#第03集$https://vodcnd13.ajupf.com/20260311/vbdz048G/index.m3u8#第04集$https://vodcnd13.ajupf.com/20260325/mQKN4o1A/index.m3u8#第05集$https://vodcnd13.ajupf.com/20260422/VNkFlN4p/index.m3u8#第06集$https://vodcnd13.ajupf.com/20260422/qAd7ImQs/index.m3u8#第07集$https://vodcnd13.ajupf.com/20260513/uqUoCap9/index.m3u8#第08集$https://vodcnd15.ajupf.com/20260527/xPdbYPoe/index.m3u8#第09集$https://vodcnd15.ajupf.com/20260610/RB9luAct/index.m3u8#第10集$https://vodcnd15.ajupf.com/20260624/rnBwHysB/index.m3u8#第11集$https://vodcnd15.ajupf.com/20260708/13OsqVXu/index.m3u8#第12集$https://vodcnd16.ajupf.com/20260722/xt8RMhxF/index.m3u8#第13集$https://vodcnd17.ajupf.com/20260806/Z5O4KANM/index.m3u8#$$$第01集$https://vodcnd12.ajupf.com/share/aOYj1DC4wo#第02集$https://vodcnd13.ajupf.com/share/42DIScxVzY#第03集$https://vodcnd13.ajupf.com/share/cIBhgqt7sC#第04集$https://vodcnd13.ajupf.com/share/bkBKFyWqyq#第05集$https://vodcnd13.ajupf.com/share/bZuE01oLmg#第06集$https://vodcnd13.ajupf.com/share/L5LEGg6yTj#第07集$https://vodcnd13.ajupf.com/share/zVUqgLgU0a#第08集$https://vodcnd15.ajupf.com/share/6XQejFdZGF#第09集$https://vodcnd15.ajupf.com/share/XKJDZzuqa1#第10集$https://vodcnd15.ajupf.com/share/GlyOKE4RUm#第11集$https://vodcnd15.ajupf.com/share/O0X3KDTBw9#第12集$https://vodcnd16.ajupf.com/share/1QCU4GFokH#第13集$https://vodcnd17.ajupf.com/share/shbnuaPfmo#",
-    "update_time": "2026-08-06 19:09:25"
+    "update_time": "2026-08-06 19:09:25",
+    "play_sources": [
+      {
+        "source": "暴风资源",
+        "source_id": 127002,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "完结"
+      }
+    ]
   },
   {
     "id": 142508,
@@ -126365,39 +126614,5 @@
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd16.ajupf.com/20260721/pZfCrVgH/index.m3u8$$$全集完结$https://vodcnd16.ajupf.com/share/4E5iaGtxjG",
     "update_time": "2026-07-31 22:57:13"
-  },
-  {
-    "id": 141308,
-    "name": "韶华错许，王妃说此生不复相见第二季",
-    "type": "古装仙侠",
-    "year": "2026",
-    "area": "中国大陆",
-    "language": "汉语普通话",
-    "category": "短剧",
-    "poster": "https://dbzy5.com/upload/vod/20260728-1/137da92f7840e34323410d17386303a4.jpg",
-    "douban_id": 0,
-    "score": "0.0",
-    "remarks": "全集完结",
-    "content": "<p><span style=\"color: #222222; font-family: -apple-system, BlinkMacSystemFont, \">叶楚颜为爱嫁给清王裴修衍，却因侧室赵语娇的挑拨受尽冷落，意外小产后更被夫君禁足。叶家突遭变故，她发现竟是裴修衍利用自己求来的布防图构陷父兄。为保流放中的母亲与嫂嫂，她忍辱留在王府，与裴修衍虚与委蛇。绝望之际，青梅竹马的乌沐默默守护，帮她解毒疗伤。叶楚颜渐渐找回被尘封的儿时记忆，原来她与裴修衍的缘分始于一场被赵语娇冒认的救命之恩。面对欺骗与背叛，她决心在逆境中守护家人，寻找属于自己的救赎与新生。</span></p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "全集完结$https://vodcnd15.ajupf.com/20260612/OlK1AYfg/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/6HlTSCU1AW",
-    "update_time": "2026-07-31 22:56:36"
-  },
-  {
-    "id": 140757,
-    "name": "当风吹过旷野",
-    "type": "古装仙侠",
-    "year": "2026",
-    "area": "中国大陆",
-    "language": "汉语普通话",
-    "category": "短剧",
-    "poster": "https://dbzy5.com/upload/vod/20260724-1/3e613b98f7ca7e8eada252c52e40c1f0.jpg",
-    "douban_id": 0,
-    "score": "0.0",
-    "remarks": "全集完结",
-    "content": "<p><span style=\"color: #666666; font-family: Arial, sans-serif; font-size: 18px; background-color: #FFFFFF;\">在广袤旷野之上，一场关于成长与救赎的故事悄然上演。《当风吹过旷野》以独特的视角切入，讲述主角在逆境中坚守初心，最终找到自我价值的历程。AI制作短剧技术让自然风光与人物内心戏完美融合，视觉冲击力极强。五十多集的篇幅里，没有狗血套路，只有真实动人的情感流动。适合喜欢深度剧情、追求心灵共鸣的观众细细品味，感受那份来自荒野的力量。</span></p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "全集完结$https://vodcnd16.ajupf.com/20260721/iDKDHWuk/index.m3u8$$$全集完结$https://vodcnd16.ajupf.com/share/3SQNOomruW",
-    "update_time": "2026-07-31 22:56:30"
   }
 ]

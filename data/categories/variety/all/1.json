@@ -1,5 +1,17 @@
 [
   {
+    "id": 150002,
+    "name": "凑个热闹",
+    "type": "大陆综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260916-1/7d861db448fe0dce43de8cfd8b0c7afd.jpg",
+    "score": "5.0",
+    "remarks": "第20260916期张月生日会群像好治愈",
+    "update_time": "2026-09-16 18:48:16"
+  },
+  {
     "id": 149028,
     "name": "梦想改造家第13季",
     "type": "大陆综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "20260826特别策划7：减肥还是吃饭 这是一个好问题",
     "update_time": "2026-08-26 16:17:35"
-  },
-  {
-    "id": 142404,
-    "name": "开“麦”大笑吧",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/9d6d77e3c5e1130f3df0874c47962d54.jpg",
-    "score": "5.0",
-    "remarks": "20260826第30期：脱口秀新人闪亮登场",
-    "update_time": "2026-08-26 14:30:51"
   }
 ]
