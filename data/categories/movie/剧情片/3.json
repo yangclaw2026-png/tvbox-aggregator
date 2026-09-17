@@ -1,5 +1,17 @@
 [
   {
+    "id": 142323,
+    "name": "分手歌单",
+    "type": "剧情片",
+    "category": "剧情,爱情,音乐",
+    "year": "2015",
+    "area": "菲律宾",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/c76b046083bcd96258591740838e30f8.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-05 16:12:31"
+  },
+  {
     "id": 53229,
     "name": "神奇动物：格林德沃之罪(原声版)",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-03 16:30:18"
-  },
-  {
-    "id": 47223,
-    "name": "双重危机",
-    "type": "剧情片",
-    "category": "剧情,悬疑,惊悚,犯罪",
-    "year": "1999",
-    "area": "美国,德国,加拿大",
-    "poster": "https://dbzy5.com/upload/vod/20250108-3/e5d215f6d85b4dc3723cda68ad30c4d3.jpg",
-    "score": "7.2",
-    "remarks": "正片",
-    "update_time": "2026-08-03 16:17:58"
   }
 ]

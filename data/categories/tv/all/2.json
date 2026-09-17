@@ -1,5 +1,41 @@
 [
   {
+    "id": 143523,
+    "name": "欲望的陷阱",
+    "type": "韩剧",
+    "category": "剧情，犯罪",
+    "year": "2026",
+    "area": "韩国",
+    "poster": "https://dbzy5.com/upload/vod/20260812-1/1d2eda308292590fcb5c623ba9f758cc.jpg",
+    "score": "5.0",
+    "remarks": "第13集",
+    "update_time": "2026-08-27 14:54:05"
+  },
+  {
+    "id": 139002,
+    "name": "想要幸福的政宗君",
+    "type": "日本剧",
+    "category": "剧情,爱情",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260708-1/92d60873b9fff74466069a3626f420d9.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-27 14:48:13"
+  },
+  {
+    "id": 138172,
+    "name": "旋转亮片",
+    "type": "日本剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260702-1/5f9572260cbdccafba509440380a2684.jpg",
+    "score": "5.0",
+    "remarks": "第9集",
+    "update_time": "2026-08-27 14:43:59"
+  },
+  {
     "id": 144884,
     "name": "好，我们离婚吧",
     "type": "韩剧",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第6集",
     "update_time": "2026-08-25 19:56:51"
-  },
-  {
-    "id": 145770,
-    "name": "飞出个未来 第十四季",
-    "type": "欧美剧",
-    "category": "喜剧 ，科幻 ，动画",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260825-1/566bb1d8fa561466d1c9e6f0a050eba7.jpg",
-    "score": "5.0",
-    "remarks": "第5集",
-    "update_time": "2026-08-25 16:13:47"
-  },
-  {
-    "id": 145710,
-    "name": "花落朝夕玉无声",
-    "type": "国产剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260825-1/6f59fc1610a85067af578472c3a4aaa7.jpg",
-    "score": "5.0",
-    "remarks": "第24集完结",
-    "update_time": "2026-08-25 12:51:24"
-  },
-  {
-    "id": 143339,
-    "name": "阳角群体里的芹泽，在我面前不太对劲",
-    "type": "日本剧",
-    "category": "爱情,同性",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260811-1/9438c47080a75fd034eca0c4c4664d68.jpg",
-    "score": "5.0",
-    "remarks": "第3集",
-    "update_time": "2026-08-25 12:07:23"
   }
 ]

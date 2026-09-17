@@ -1,5 +1,29 @@
 [
   {
+    "id": 150150,
+    "name": "怪物：丽兹·波顿的故事",
+    "type": "欧美剧",
+    "category": "剧情，惊悚，传记，犯罪",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260917-1/ecc2a26733feb744e1b94ae04050aa2e.webp",
+    "score": "5.0",
+    "remarks": "第8集完结",
+    "update_time": "2026-09-17 22:56:12"
+  },
+  {
+    "id": 150015,
+    "name": "劣探德克尔 第二季",
+    "type": "欧美剧",
+    "category": "剧情,动作,犯罪",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260917-1/fbbaed3dc18c06ab9c538219a60d9ce8.webp",
+    "score": "5.0",
+    "remarks": "第1集",
+    "update_time": "2026-09-17 22:55:13"
+  },
+  {
     "id": 150010,
     "name": "女警出更 第2季",
     "type": "欧美剧",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第6集完结",
     "update_time": "2026-08-18 19:59:52"
-  },
-  {
-    "id": 144211,
-    "name": "寄生游戏 第一季 国语版",
-    "type": "欧美剧",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260817-1/f7ba13842f0203e9d818463368c6c0bb.webp",
-    "score": "0.0",
-    "remarks": "第2集",
-    "update_time": "2026-08-17 22:43:30"
-  },
-  {
-    "id": 144216,
-    "name": "寄生游戏 第一季 英文版",
-    "type": "欧美剧",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260817-1/ef9ecc509661d4a53408667972cedcfd.webp",
-    "score": "0.0",
-    "remarks": "第2集",
-    "update_time": "2026-08-17 13:23:26"
   }
 ]

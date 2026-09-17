@@ -1,5 +1,41 @@
 [
   {
+    "id": 138978,
+    "name": "机器人女友",
+    "type": "泰国剧",
+    "category": "剧情,喜剧,同性",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260708-1/b8ae2c2ed0e0973b1311cb8c828d18d1.jpg",
+    "score": "5.0",
+    "remarks": "第7集",
+    "update_time": "2026-08-13 11:43:59"
+  },
+  {
+    "id": 139145,
+    "name": "走近这片海（第一季）",
+    "type": "国产剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260709-1/0728b6a98e9b1b0804bf20693ae53e61.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-08-12 22:42:16"
+  },
+  {
+    "id": 138117,
+    "name": "X战警97 第二季",
+    "type": "欧美剧",
+    "category": "剧情,动作,科幻,动画,冒险",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260702-1/7b774c00b464b5abe3bb25bab9c4a736.jpg",
+    "score": "5.0",
+    "remarks": "第9集",
+    "update_time": "2026-08-12 22:36:57"
+  },
+  {
     "id": 143545,
     "name": "街角少年：电影版：南多的两个世界",
     "type": "欧美剧",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第13集",
     "update_time": "2026-08-05 20:38:11"
-  },
-  {
-    "id": 137459,
-    "name": "荒野独居 澳洲版（中配版)",
-    "type": "欧美剧",
-    "category": "探险",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260627-1/12d4129ef6259a9a737f7450739c2293.jpg",
-    "score": "5.0",
-    "remarks": "第13集",
-    "update_time": "2026-08-05 20:37:17"
-  },
-  {
-    "id": 137123,
-    "name": "穆菲",
-    "type": "泰国剧",
-    "category": "剧情,悬疑,恐怖",
-    "year": "2026",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260621-1/6e21f22916e096af18bd7f094078150f.jpg",
-    "score": "5.0",
-    "remarks": "第7集",
-    "update_time": "2026-08-05 18:23:13"
-  },
-  {
-    "id": 140963,
-    "name": "扭转死亡时间（泰语版）",
-    "type": "泰国剧",
-    "category": "剧情,爱情,悬疑,奇幻",
-    "year": "2024",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260726-1/85a91548e082c40ebb108bb8a2070174.jpg",
-    "score": "5.0",
-    "remarks": "第13集完结",
-    "update_time": "2026-08-05 15:57:00"
   }
 ]

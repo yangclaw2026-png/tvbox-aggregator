@@ -1,5 +1,29 @@
 [
   {
+    "id": 143832,
+    "name": "我的死党恋爱了",
+    "type": "剧情片",
+    "category": "剧情,喜剧",
+    "year": "2026",
+    "area": "德国",
+    "poster": "https://dbzy5.com/upload/vod/20260814-1/9c989f3eee34013068ef58a48ca23921.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-14 18:33:51"
+  },
+  {
+    "id": 143831,
+    "name": "别说好运",
+    "type": "剧情片",
+    "category": "剧情,歌舞",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260814-1/182f81d04f92c5a99b1e53f1bd075594.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-14 18:25:06"
+  },
+  {
     "id": 143816,
     "name": "火遮眼（英文版）",
     "type": "动作片",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第4集",
     "update_time": "2026-08-11 14:25:22"
-  },
-  {
-    "id": 143284,
-    "name": "无微不至",
-    "type": "剧情片",
-    "category": "剧情,喜剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260811-1/99a1e1bf95505f1f8e640a108f36f526.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-11 12:08:09"
-  },
-  {
-    "id": 141185,
-    "name": "气味游耕 第二季",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260728-1/82042fff9d1443fa5a111d6c54be3208.jpg",
-    "score": "5.0",
-    "remarks": "第3集",
-    "update_time": "2026-08-11 11:26:09"
   }
 ]

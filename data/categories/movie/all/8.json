@@ -1,5 +1,29 @@
 [
   {
+    "id": 142291,
+    "name": "情断悔龙寺",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2024",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/fb7b933a0374b6e58b406b6046e43434.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-05 14:01:46"
+  },
+  {
+    "id": 142288,
+    "name": "心怀恶意",
+    "type": "惊悚片",
+    "category": "惊悚,恐怖",
+    "year": "2018",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/2f534eb2650e82e2269b92ab2d7b387c.jpg",
+    "score": "5.3",
+    "remarks": "正片",
+    "update_time": "2026-08-05 13:43:02"
+  },
+  {
     "id": 142287,
     "name": "黑色党徒",
     "type": "喜剧片",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-04 12:03:48"
-  },
-  {
-    "id": 142111,
-    "name": "图片 2017",
-    "type": "剧情片",
-    "category": "剧情,爱情,歌舞",
-    "year": "2017",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/6a2b5bad1c0ba1b65d5c7520fc0acbcd.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-04 12:03:14"
-  },
-  {
-    "id": 142110,
-    "name": "怒杀",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/b81a83e6b64b22afc41a505dafe6e6c0.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-04 12:01:42"
   }
 ]

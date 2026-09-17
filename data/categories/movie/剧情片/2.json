@@ -1,5 +1,17 @@
 [
   {
+    "id": 143995,
+    "name": "抓特务",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260815-1/b7daecb50323dd02308ea81bedbcb5a4.jpg",
+    "score": "7.4",
+    "remarks": "抢先版",
+    "update_time": "2026-08-15 22:05:54"
+  },
+  {
     "id": 143922,
     "name": "宝莱坞鸡尾酒2",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-05 16:15:26"
-  },
-  {
-    "id": 142323,
-    "name": "分手歌单",
-    "type": "剧情片",
-    "category": "剧情,爱情,音乐",
-    "year": "2015",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/c76b046083bcd96258591740838e30f8.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-05 16:12:31"
   }
 ]

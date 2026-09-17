@@ -1,5 +1,17 @@
 [
   {
+    "id": 139308,
+    "name": "百花杀",
+    "type": "国产剧",
+    "category": "剧情,爱情,古装",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260710-1/84912dd14062017763300bcca1e12ade.jpg",
+    "score": "5.0",
+    "remarks": "第36集完结",
+    "update_time": "2026-08-04 20:00:36"
+  },
+  {
     "id": 139833,
     "name": "废太子胤礽：康熙朝的“囚徒”",
     "type": "国产剧",
@@ -70,65 +82,5 @@
     "score": "5.0",
     "remarks": "第21集完结",
     "update_time": "2026-08-03 16:34:11"
-  },
-  {
-    "id": 136616,
-    "name": "博物馆之城 第四季",
-    "type": "国产剧",
-    "category": "纪录片",
-    "year": "2025",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260615-1/4bc159e229a86d670b064d8819151f31.jpg",
-    "score": "5.0",
-    "remarks": "第8集完结",
-    "update_time": "2026-08-01 15:23:59"
-  },
-  {
-    "id": 137854,
-    "name": "非份之罪 国语版",
-    "type": "国产剧",
-    "category": "剧情,悬疑,犯罪",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260630-1/ac4143eda52eb750ce2c35809f56c09d.jpg",
-    "score": "5.0",
-    "remarks": "第25集完结",
-    "update_time": "2026-08-01 15:23:08"
-  },
-  {
-    "id": 141368,
-    "name": "仙帝的都市生活",
-    "type": "国产剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260729-1/810687c52a3169bdb84a63cd55def92b.jpg",
-    "score": "5.0",
-    "remarks": "第25集完结",
-    "update_time": "2026-08-01 13:09:03"
-  },
-  {
-    "id": 140540,
-    "name": "折金枝",
-    "type": "国产剧",
-    "category": "古装",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260723-1/90de182839ba07e5fd17937ca2e36d4b.jpg",
-    "score": "5.0",
-    "remarks": "第24集完结",
-    "update_time": "2026-08-01 11:31:18"
-  },
-  {
-    "id": 134180,
-    "name": "闪闪的儿科医生 第四季",
-    "type": "国产剧",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260531-1/9116bd413908b4a07603c71fedc421bf.jpg",
-    "score": "5.0",
-    "remarks": "第10集完结",
-    "update_time": "2026-07-31 23:23:12"
   }
 ]

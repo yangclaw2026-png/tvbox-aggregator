@@ -1,5 +1,41 @@
 [
   {
+    "id": 144967,
+    "name": "外滩探秘第五季",
+    "type": "欧美剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260820-1/cac84a575e4660e9874ce9aa69e87763.jpg",
+    "score": "5.0",
+    "remarks": "第10集完结",
+    "update_time": "2026-08-20 21:08:03"
+  },
+  {
+    "id": 138808,
+    "name": "怪奇-伊藤润二令人彻夜难眠的奇异故事",
+    "type": "日本剧",
+    "category": "剧情,恐怖",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260707-1/78c14cba2aecd42d2d22166ef6a3b7c6.jpg",
+    "score": "5.0",
+    "remarks": "第7集",
+    "update_time": "2026-08-20 14:46:09"
+  },
+  {
+    "id": 137747,
+    "name": "舍得智慧人物 第八季",
+    "type": "国产剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260629-1/de1d3d3b4a50d40f2a47344e9ebf2fa8.jpg",
+    "score": "5.0",
+    "remarks": "第4集",
+    "update_time": "2026-08-20 13:05:07"
+  },
+  {
     "id": 143279,
     "name": "我从黑暗中走来",
     "type": "国产剧",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第13集",
     "update_time": "2026-08-13 11:57:11"
-  },
-  {
-    "id": 138978,
-    "name": "机器人女友",
-    "type": "泰国剧",
-    "category": "剧情,喜剧,同性",
-    "year": "2026",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260708-1/b8ae2c2ed0e0973b1311cb8c828d18d1.jpg",
-    "score": "5.0",
-    "remarks": "第7集",
-    "update_time": "2026-08-13 11:43:59"
-  },
-  {
-    "id": 139145,
-    "name": "走近这片海（第一季）",
-    "type": "国产剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260709-1/0728b6a98e9b1b0804bf20693ae53e61.jpg",
-    "score": "5.0",
-    "remarks": "第6集",
-    "update_time": "2026-08-12 22:42:16"
-  },
-  {
-    "id": 138117,
-    "name": "X战警97 第二季",
-    "type": "欧美剧",
-    "category": "剧情,动作,科幻,动画,冒险",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260702-1/7b774c00b464b5abe3bb25bab9c4a736.jpg",
-    "score": "5.0",
-    "remarks": "第9集",
-    "update_time": "2026-08-12 22:36:57"
   }
 ]

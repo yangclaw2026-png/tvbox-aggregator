@@ -1,5 +1,29 @@
 [
   {
+    "id": 146069,
+    "name": "体坛秘史：文斯·扬的人生剖白",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260826-1/386ed01615e78e7db72a407b8a8829c5.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-26 19:54:14"
+  },
+  {
+    "id": 133050,
+    "name": "哆啦A梦：新·大雄的海底鬼岩城",
+    "type": "动漫电影",
+    "category": "喜剧,科幻,动画,冒险",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260522-1/6ed696671b8e92950b5bd65ef31ed669.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-26 19:26:24"
+  },
+  {
     "id": 71131,
     "name": "大男孩",
     "type": "剧情片",
@@ -574,29 +598,5 @@
     "score": "5.6",
     "remarks": "正片",
     "update_time": "2026-08-22 14:29:22"
-  },
-  {
-    "id": 145212,
-    "name": "千古名篇·启福新春季",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260822-1/756ea909358d35f915a91e1e7dfc9ab2.jpg",
-    "score": "5.0",
-    "remarks": "第12集完结",
-    "update_time": "2026-08-22 13:53:45"
-  },
-  {
-    "id": 145210,
-    "name": "蔷薇修剪术",
-    "type": "剧情片",
-    "category": "剧情,惊悚",
-    "year": "2026",
-    "area": "意大利,德国,英国,西班牙",
-    "poster": "https://dbzy5.com/upload/vod/20260822-1/b69cc71e4b155f0afc6453f2ce0c005c.jpg",
-    "score": "5.8",
-    "remarks": "正片",
-    "update_time": "2026-08-22 13:47:40"
   }
 ]

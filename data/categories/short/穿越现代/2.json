@@ -1,5 +1,17 @@
 [
   {
+    "id": 142741,
+    "name": "穿越大唐：我靠情绪召唤诸天",
+    "type": "穿越现代",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260807-1/bc38722274750aa3ad18ba6d0743e819.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-08 22:51:08"
+  },
+  {
     "id": 142875,
     "name": "穿越 1988：废品布衣的逆袭人生",
     "type": "穿越现代",
@@ -226,17 +238,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-01 19:00:59"
-  },
-  {
-    "id": 140752,
-    "name": "穿越大西北，小作精成大厨娘",
-    "type": "穿越现代",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260724-1/caf2bdec254a5c8d1efdbd00d69150a4.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-07-31 22:59:04"
   }
 ]

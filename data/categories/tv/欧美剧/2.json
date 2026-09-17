@@ -1,5 +1,29 @@
 [
   {
+    "id": 144211,
+    "name": "寄生游戏 第一季 国语版",
+    "type": "欧美剧",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260817-1/f7ba13842f0203e9d818463368c6c0bb.webp",
+    "score": "0.0",
+    "remarks": "第2集",
+    "update_time": "2026-08-17 22:43:30"
+  },
+  {
+    "id": 144216,
+    "name": "寄生游戏 第一季 英文版",
+    "type": "欧美剧",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260817-1/ef9ecc509661d4a53408667972cedcfd.webp",
+    "score": "0.0",
+    "remarks": "第2集",
+    "update_time": "2026-08-17 13:23:26"
+  },
+  {
     "id": 144017,
     "name": "西伦敦暗线",
     "type": "欧美剧",
@@ -334,77 +358,5 @@
     "score": "7.0",
     "remarks": "第6集完结",
     "update_time": "2026-08-02 13:32:54"
-  },
-  {
-    "id": 141737,
-    "name": "你能保密吗？ 第一季",
-    "type": "欧美剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "英国",
-    "poster": "https://dbzy5.com/upload/vod/20260801-1/21b0de8c29a3ac39f813d205fa1c6d72.jpg",
-    "score": "7.4",
-    "remarks": "第6集完结",
-    "update_time": "2026-08-01 15:28:39"
-  },
-  {
-    "id": 136601,
-    "name": "Proud 2026",
-    "type": "欧美剧",
-    "category": "剧情,同性",
-    "year": "2026",
-    "area": "波兰",
-    "poster": "https://dbzy5.com/upload/vod/20260801-1/25ce5ae2593be7c2b4fb587ec7f17562.webp",
-    "score": "5.0",
-    "remarks": "第8集完结",
-    "update_time": "2026-08-01 15:13:35"
-  },
-  {
-    "id": 141728,
-    "name": "古拉贡",
-    "type": "欧美剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "澳大利亚",
-    "poster": "https://dbzy5.com/upload/vod/20260801-1/2f585b90ad4ed8f85991c4023d6e6bb2.jpg",
-    "score": "5.0",
-    "remarks": "第3集完结",
-    "update_time": "2026-08-01 14:19:57"
-  },
-  {
-    "id": 111850,
-    "name": "幸福之地 第二季",
-    "type": "欧美剧",
-    "category": "喜剧",
-    "year": "2025",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20251109-1/6e4290cf796eb22436bdc5bdb49dd2ed.jpg",
-    "score": "5.0",
-    "remarks": "第18集完结",
-    "update_time": "2026-08-01 14:14:58"
-  },
-  {
-    "id": 141727,
-    "name": "理发师探案集",
-    "type": "欧美剧",
-    "category": "悬疑,犯罪",
-    "year": "2026",
-    "area": "英国",
-    "poster": "https://dbzy5.com/upload/vod/20260801-1/df419d41ce60a8815465f1cc915a34e3.jpg",
-    "score": "6.7",
-    "remarks": "第6集完结",
-    "update_time": "2026-08-01 14:11:11"
-  },
-  {
-    "id": 141652,
-    "name": "高压监狱",
-    "type": "欧美剧",
-    "category": "伦理",
-    "year": "2023",
-    "area": "法国",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/7a252297e4b733d3fbe9fcd0b6ce6138.jpg",
-    "score": "5.0",
-    "remarks": "第4集完结",
-    "update_time": "2026-08-01 11:29:30"
   }
 ]
