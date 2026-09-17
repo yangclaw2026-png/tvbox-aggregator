@@ -15997,6 +15997,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第4集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 163323,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第7集"
       }
     ]
   },
@@ -18897,6 +18904,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第8集"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 139978,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第11集"
       }
     ]
   },
@@ -18930,6 +18944,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第4集"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 142982,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第7集"
       }
     ]
   },
@@ -53947,7 +53968,16 @@
     "content": "<p>《热浪之外2026》采取纪实+深度访谈形式，由知名主持人陈鲁豫主持。主题聚焦于“和真实的自我对话”。栏目希望能剖析人的真实肌理，寻找不被定义的自由，阐释自我，重新“定义”。栏目形式围绕着热搜解码、纪实互动、深度访谈三部分为核心展开。&nbsp;</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "20260723第1期$https://vodcnd16.ajupf.com/20260724/9y9MZ54F/index.m3u8#20260806萧敬腾澄清造谣落泪$https://vodcnd17.ajupf.com/20260806/GA1tgAuo/index.m3u8#20260819惠英红感谢鲁豫11年前雪中送炭$https://vodcnd17.ajupf.com/20260822/tM6RfTEr/index.m3u8##$$$20260723第1期$https://vodcnd16.ajupf.com/share/5NPAMMQdZR#20260806萧敬腾澄清造谣落泪$https://vodcnd17.ajupf.com/share/JVotMtwAgU#20260819惠英红感谢鲁豫11年前雪中送炭$https://vodcnd17.ajupf.com/share/Hk8zzTSuBV##",
-    "update_time": "2026-08-22 15:15:17"
+    "update_time": "2026-08-22 15:15:17",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 141019,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "20260917第4期"
+      }
+    ]
   },
   {
     "id": 137346,
@@ -54042,7 +54072,16 @@
     "content": "<p>这部 AI 生成的 80 集短剧爽到停不下来！被赶出豪门的假千金带着孩子从头打拼，靠摆摊做小吃逆袭成女老板，疯狂打脸嘲讽她的真千金和 ex 家人，种田 + 逆袭剧情超带感 。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd17.ajupf.com/20260812/lMX9Ufjy/index.m3u8#$$$全集完结$https://vodcnd17.ajupf.com/share/kXNg8L4MVE#",
-    "update_time": "2026-08-22 15:04:04"
+    "update_time": "2026-08-22 15:04:04",
+    "play_sources": [
+      {
+        "source": "量子资源",
+        "source_id": 157945,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
+      }
+    ]
   },
   {
     "id": 145232,
@@ -67203,7 +67242,16 @@
     "content": "<p>时间的长河里，什么是人生最笃定的答案？本季节目给出它的注解：因为热爱，所以舍得。真正的热爱，不是一时的激情，而是无论历经多少起伏与拉扯，依然指引前行的心灯。当一个人找到了心之所向，人生中所有的“舍”便不再是艰难彷徨的算计，而是水到渠成的从容。我们不谈宏大叙事，只聊真实人生。本季节目将讨论范围延伸至教育、爱情、职业、代际、个人成长等具体社会议题。邀请文化、艺术、心理、商业、体育等领域的时代人物，分享他们在人生转折处的关键抉择。在这里，没有生硬的说教，只有同频共振的交心。愿你在这些鲜活的生命样本中，找到稳住人生的锚，以热爱为底色，以舍得为定力，从容奔赴属于你的千重境遇。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd15.ajupf.com/20260629/0mrBFnQw/index.m3u8#第02集$https://vodcnd16.ajupf.com/20260716/jqYvOdIo/index.m3u8#第03集$https://vodcnd16.ajupf.com/20260723/TdvNp5dp/index.m3u8#第04集$https://vodcnd17.ajupf.com/20260820/t4kmW3ww/index.m3u8$$$第01集$https://vodcnd15.ajupf.com/share/CLLdQ5jLg4#第02集$https://vodcnd16.ajupf.com/share/dm41GP0cKe#第03集$https://vodcnd16.ajupf.com/share/G7Xi5HqXM1#第04集$https://vodcnd17.ajupf.com/share/4rECeqCIBd",
-    "update_time": "2026-08-20 13:05:07"
+    "update_time": "2026-08-20 13:05:07",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 138095,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第5集"
+      }
+    ]
   },
   {
     "id": 144808,
@@ -87963,6 +88011,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至20260826"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 142979,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第20260916期"
       }
     ]
   },
