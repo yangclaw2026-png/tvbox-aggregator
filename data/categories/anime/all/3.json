@@ -1,5 +1,17 @@
 [
   {
+    "id": 139150,
+    "name": "澈底对你成瘾",
+    "type": "日本动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260709-1/9252f02da200e95aefa9c934c2680799.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-26 22:33:24"
+  },
+  {
     "id": 109684,
     "name": "动起来！从前有只猫",
     "type": "日本动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第80集完结",
     "update_time": "2026-08-26 11:48:47"
-  },
-  {
-    "id": 145948,
-    "name": "沃福假期安全迷你剧",
-    "type": "国产动漫",
-    "category": "中国动漫",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260826-1/c198ce33961e85b0f230358f1507ee29.jpg",
-    "score": "5.0",
-    "remarks": "第11集",
-    "update_time": "2026-08-26 11:42:36"
   }
 ]

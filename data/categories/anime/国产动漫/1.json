@@ -1,5 +1,17 @@
 [
   {
+    "id": 148609,
+    "name": "制霸联盟：绝杀球我十中十",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260908-1/c3d5b00b263c57e7f6a3895a82194e21.jpg",
+    "score": "0.0",
+    "remarks": "第40集",
+    "update_time": "2026-09-18 11:29:58"
+  },
+  {
     "id": 149557,
     "name": "盲眼驭诡师",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第20集",
     "update_time": "2026-08-27 11:37:28"
-  },
-  {
-    "id": 140852,
-    "name": "大侦探福尔摩斯 第2季",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260725-1/8de76972928fb88870b1291f8a6204f6.jpg",
-    "score": "5.0",
-    "remarks": "第26集",
-    "update_time": "2026-08-27 11:36:48"
   }
 ]

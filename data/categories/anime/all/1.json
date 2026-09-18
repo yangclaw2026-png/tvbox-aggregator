@@ -1,5 +1,17 @@
 [
   {
+    "id": 148609,
+    "name": "制霸联盟：绝杀球我十中十",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260908-1/c3d5b00b263c57e7f6a3895a82194e21.jpg",
+    "score": "0.0",
+    "remarks": "第40集",
+    "update_time": "2026-09-18 11:29:58"
+  },
+  {
     "id": 149557,
     "name": "盲眼驭诡师",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第254集",
     "update_time": "2026-08-27 12:14:19"
-  },
-  {
-    "id": 131275,
-    "name": "星辰帝女：逆转命运之歌",
-    "type": "国产动漫",
-    "category": "恋爱,玄幻,中国动漫",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260507-1/5691821d555dc9eaa36dd436c48c618d.jpg",
-    "score": "5.0",
-    "remarks": "第44集",
-    "update_time": "2026-08-27 11:43:20"
   }
 ]

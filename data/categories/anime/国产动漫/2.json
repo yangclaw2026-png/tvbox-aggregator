@@ -1,5 +1,17 @@
 [
   {
+    "id": 140852,
+    "name": "大侦探福尔摩斯 第2季",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260725-1/8de76972928fb88870b1291f8a6204f6.jpg",
+    "score": "5.0",
+    "remarks": "第26集",
+    "update_time": "2026-08-27 11:36:48"
+  },
+  {
     "id": 499,
     "name": "丹道至尊",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第11集",
     "update_time": "2026-08-26 13:29:22"
-  },
-  {
-    "id": 119,
-    "name": "都市古仙医",
-    "type": "国产动漫",
-    "category": "动作,动画,奇幻,中国动漫",
-    "year": "2024",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250109-6/da1f98534d6bdaac33e244a35dd7854b.jpg",
-    "score": "5.0",
-    "remarks": "第207集",
-    "update_time": "2026-08-26 13:28:53"
   }
 ]

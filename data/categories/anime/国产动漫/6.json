@@ -1,5 +1,17 @@
 [
   {
+    "id": 141184,
+    "name": "瓦罗兰特世界赛，你让我一个黑铁当大哥",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260728-1/39bae013397520ec898888e9eb6c8467.jpg",
+    "score": "5.0",
+    "remarks": "第41集",
+    "update_time": "2026-08-21 12:34:42"
+  },
+  {
     "id": 143812,
     "name": "不白吃•吃透宋朝史第一季",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第85集",
     "update_time": "2026-08-15 11:50:01"
-  },
-  {
-    "id": 107090,
-    "name": "神的欲望游戏 动态漫画",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2025",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250927-1/1331d34bbab880015aed8374d4801288.jpg",
-    "score": "5.0",
-    "remarks": "第165集",
-    "update_time": "2026-08-15 11:44:21"
   }
 ]

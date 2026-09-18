@@ -1,5 +1,17 @@
 [
   {
+    "id": 141187,
+    "name": "柯蒂斯总统",
+    "type": "欧美动漫",
+    "category": "喜剧,科幻,动画",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260728-1/9a37015efdadf19d3122351653287b31.jpg",
+    "score": "5.0",
+    "remarks": "第5集",
+    "update_time": "2026-08-24 21:45:49"
+  },
+  {
     "id": 145671,
     "name": "全球直播惊悚游戏",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第9集",
     "update_time": "2026-08-23 17:52:00"
-  },
-  {
-    "id": 127204,
-    "name": "小书痴的下克上 领主的养女",
-    "type": "日本动漫",
-    "category": "动画,奇幻",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260404-1/d68f078c9d676bfee4137a9c1e7045dd.jpg",
-    "score": "5.0",
-    "remarks": "第19集",
-    "update_time": "2026-08-23 17:47:08"
   }
 ]

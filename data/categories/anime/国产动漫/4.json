@@ -1,5 +1,17 @@
 [
   {
+    "id": 113097,
+    "name": "九阳武神",
+    "type": "国产动漫",
+    "category": "动作,动画,奇幻,武侠,古装",
+    "year": "2025",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20251122-1/9b05bbe9445f15133a0438eadfa28905.jpg",
+    "score": "5.0",
+    "remarks": "第43集",
+    "update_time": "2026-08-25 13:51:52"
+  },
+  {
     "id": 100964,
     "name": "亡灵天灾：我抬手百万骨海 动态漫画",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第15集",
     "update_time": "2026-08-23 12:09:31"
-  },
-  {
-    "id": 91,
-    "name": "牧神记",
-    "type": "国产动漫",
-    "category": "动画,奇幻,冒险",
-    "year": "2024",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250109-6/a0d27e8ebd382d7ffa4cf93eaf547b59.jpg",
-    "score": "8.6",
-    "remarks": "第97集",
-    "update_time": "2026-08-23 12:06:12"
   }
 ]

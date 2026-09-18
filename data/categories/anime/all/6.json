@@ -1,5 +1,17 @@
 [
   {
+    "id": 127204,
+    "name": "小书痴的下克上 领主的养女",
+    "type": "日本动漫",
+    "category": "动画,奇幻",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260404-1/d68f078c9d676bfee4137a9c1e7045dd.jpg",
+    "score": "5.0",
+    "remarks": "第19集",
+    "update_time": "2026-08-23 17:47:08"
+  },
+  {
     "id": 127214,
     "name": "摩绪",
     "type": "日本动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第167集",
     "update_time": "2026-08-22 13:26:38"
-  },
-  {
-    "id": 142813,
-    "name": "不白吃生物真好玩第一季",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260808-1/e370d6b76fce4dbbef8bd91a5e81b05a.jpg",
-    "score": "5.0",
-    "remarks": "第16集",
-    "update_time": "2026-08-22 13:21:45"
   }
 ]

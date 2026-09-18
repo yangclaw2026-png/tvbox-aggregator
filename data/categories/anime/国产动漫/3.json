@@ -1,5 +1,17 @@
 [
   {
+    "id": 119,
+    "name": "都市古仙医",
+    "type": "国产动漫",
+    "category": "动作,动画,奇幻,中国动漫",
+    "year": "2024",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250109-6/da1f98534d6bdaac33e244a35dd7854b.jpg",
+    "score": "5.0",
+    "remarks": "第207集",
+    "update_time": "2026-08-26 13:28:53"
+  },
+  {
     "id": 139888,
     "name": "大千小镇",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第18集",
     "update_time": "2026-08-25 13:55:03"
-  },
-  {
-    "id": 113097,
-    "name": "九阳武神",
-    "type": "国产动漫",
-    "category": "动作,动画,奇幻,武侠,古装",
-    "year": "2025",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20251122-1/9b05bbe9445f15133a0438eadfa28905.jpg",
-    "score": "5.0",
-    "remarks": "第43集",
-    "update_time": "2026-08-25 13:51:52"
   }
 ]
