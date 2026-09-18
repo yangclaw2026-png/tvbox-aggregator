@@ -3720,6 +3720,20 @@
         "play_from": "hnm3u8",
         "play_url": null,
         "remarks": "第260917期"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 218648,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第260918期"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 159140,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第260918期"
       }
     ]
   },
@@ -53373,6 +53387,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第6集"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 192248,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第10集完结"
       }
     ]
   },
@@ -120905,6 +120926,13 @@
         "play_from": "lzm3u8",
         "play_url": null,
         "remarks": "更新至20260905期"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 141262,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "20260913第6期"
       }
     ]
   },
