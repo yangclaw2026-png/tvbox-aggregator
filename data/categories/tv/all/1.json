@@ -1,5 +1,17 @@
 [
   {
+    "id": 150336,
+    "name": "古战场传奇：吾血之亲 第二季",
+    "type": "欧美剧",
+    "category": "剧情,爱情,科幻",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260918-1/c41bbf5b0650a8e320a3e2dfa0f05f89.jpg",
+    "score": "5.0",
+    "remarks": "第1集",
+    "update_time": "2026-09-18 17:48:14"
+  },
+  {
     "id": 150150,
     "name": "怪物：丽兹·波顿的故事",
     "type": "欧美剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第3集",
     "update_time": "2026-08-27 15:08:49"
-  },
-  {
-    "id": 143638,
-    "name": "换座位后，发现身后的男生好像喜欢我 席替",
-    "type": "日本剧",
-    "category": "爱情,同性",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260813-1/527c72c8d929c73ed4716af01020d538.jpg",
-    "score": "5.0",
-    "remarks": "第4集",
-    "update_time": "2026-08-27 14:57:50"
   }
 ]

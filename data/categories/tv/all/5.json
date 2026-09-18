@@ -1,5 +1,17 @@
 [
   {
+    "id": 144975,
+    "name": "极昼血祭",
+    "type": "欧美剧",
+    "category": "剧情 ，惊悚 ， 犯罪",
+    "year": "2026",
+    "area": "瑞典",
+    "poster": "https://dbzy5.com/upload/vod/20260820-1/283d78185025d8b866e04702e3759afb.jpg",
+    "score": "5.0",
+    "remarks": "第5集完结",
+    "update_time": "2026-08-20 21:40:06"
+  },
+  {
     "id": 144967,
     "name": "外滩探秘第五季",
     "type": "欧美剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第19集",
     "update_time": "2026-08-13 14:25:31"
-  },
-  {
-    "id": 139872,
-    "name": "第一声啼哭 母子救命急救班",
-    "type": "日本剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260717-1/e6f99c54dbe6b72065ce199aeaf39581.jpg",
-    "score": "5.0",
-    "remarks": "第13集",
-    "update_time": "2026-08-13 11:57:11"
   }
 ]

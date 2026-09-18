@@ -1,5 +1,17 @@
 [
   {
+    "id": 139896,
+    "name": "人将燃烧",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260718-1/72fc023aba1c777a154ef7c6e3aac99d.jpg",
+    "score": "5.0",
+    "remarks": "第4集",
+    "update_time": "2026-08-01 20:10:40"
+  },
+  {
     "id": 141759,
     "name": "摇滚之夏",
     "type": "喜剧片",
@@ -82,137 +94,5 @@
     "score": "7.2",
     "remarks": "正片",
     "update_time": "2026-08-01 18:57:13"
-  },
-  {
-    "id": 141754,
-    "name": "圣诞有雪，佳期可待",
-    "type": "爱情片",
-    "category": "爱情",
-    "year": "2024",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260801-1/25c1a49f40e418fd705e7697c78be2de.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-01 18:50:27"
-  },
-  {
-    "id": 141747,
-    "name": "嫌疑之下.凯特麦卡恩",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260801-1/67e7a546ce4ab13fc02c5e6b17714b25.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-01 16:35:05"
-  },
-  {
-    "id": 141745,
-    "name": "不是羔羊2",
-    "type": "剧情片",
-    "category": "剧情,动作,传记",
-    "year": "2026",
-    "area": "马来西亚",
-    "poster": "https://dbzy5.com/upload/vod/20260801-1/f620d63dd1362342d5b75a54a9824b15.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-01 16:28:22"
-  },
-  {
-    "id": 454,
-    "name": "流浪地球2：再次冒险",
-    "type": "纪录片",
-    "category": "纪录片,纪录",
-    "year": "2024",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250109-5/3336693c3a62cab94fff81b3242d2bc5.jpg",
-    "score": "8.8",
-    "remarks": "正片",
-    "update_time": "2026-08-01 16:25:32"
-  },
-  {
-    "id": 141629,
-    "name": "都结束了：西班牙女足的夺冠与改革之路",
-    "type": "纪录片",
-    "category": "纪录片,运动",
-    "year": "2024",
-    "area": "西班牙",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/2ac74c8e8bdc45a7a5aa1068d930b50d.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-01 16:25:03"
-  },
-  {
-    "id": 2338,
-    "name": "浴火之路",
-    "type": "剧情片",
-    "category": "剧情,犯罪",
-    "year": "2024",
-    "area": "中国大陆,中国香港",
-    "poster": "https://dbzy5.com/upload/vod/20250109-3/666ceabade5e5c88cba1885e43caf2a6.jpg",
-    "score": "6.3",
-    "remarks": "正片",
-    "update_time": "2026-08-01 16:24:34"
-  },
-  {
-    "id": 141743,
-    "name": "寻爱四次方",
-    "type": "爱情片",
-    "category": "爱情",
-    "year": "2026",
-    "area": "澳大利亚",
-    "poster": "https://dbzy5.com/upload/vod/20260801-1/cb269af782176e6193a8859414e659bf.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-01 16:23:41"
-  },
-  {
-    "id": 21,
-    "name": "埃利亚斯",
-    "type": "动作片",
-    "category": "动作",
-    "year": "2024",
-    "area": "比利时,法国",
-    "poster": "https://dbzy5.com/upload/vod/20250109-6/ee491e1a0a21d55b706db1b487fa9655.jpg",
-    "score": "0.0",
-    "remarks": "正片",
-    "update_time": "2026-08-01 16:22:44"
-  },
-  {
-    "id": 141630,
-    "name": "无私 2018",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2018",
-    "area": "加拿大",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/8c0671cb29d29ad21db7c98b61a19a0f.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-01 16:21:33"
-  },
-  {
-    "id": 141632,
-    "name": "我们所知道的世界",
-    "type": "恐怖片",
-    "category": "恐怖,犯罪",
-    "year": "2020",
-    "area": "英国",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/99a793404c1485eeea0eb9c4965b44d2.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-01 16:19:45"
-  },
-  {
-    "id": 141633,
-    "name": "汉密尔顿街灵异调查",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2010",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/de5ee46883e48f3acc3b2dbffd15aac2.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-01 16:19:05"
   }
 ]

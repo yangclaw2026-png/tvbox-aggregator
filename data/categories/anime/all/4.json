@@ -1,5 +1,17 @@
 [
   {
+    "id": 145949,
+    "name": "我体内囚禁万神万魔",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260826-1/2cbd26385af557f43a1a913c776d188a.jpg",
+    "score": "5.0",
+    "remarks": "第80集完结",
+    "update_time": "2026-08-26 11:48:47"
+  },
+  {
     "id": 145948,
     "name": "沃福假期安全迷你剧",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第8集",
     "update_time": "2026-08-24 22:08:16"
-  },
-  {
-    "id": 138378,
-    "name": "世界在起舞",
-    "type": "日本动漫",
-    "category": "剧情,动画,歌舞",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260704-1/b70648e5fdbaa8326e67ba869d9d8d36.jpg",
-    "score": "5.0",
-    "remarks": "第9集",
-    "update_time": "2026-08-24 21:50:51"
   }
 ]

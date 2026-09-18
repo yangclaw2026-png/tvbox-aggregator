@@ -1,5 +1,17 @@
 [
   {
+    "id": 142933,
+    "name": "等待黎明破晓时",
+    "type": "泰国剧",
+    "category": "剧情 ， 爱情 ， 同性",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260809-1/e3b04674a284328aaddb28418bb0a44c.jpg",
+    "score": "8.9",
+    "remarks": "第10集",
+    "update_time": "2026-08-23 00:10:52"
+  },
+  {
     "id": 139633,
     "name": "梅绽芳华·中国戏剧梅花奖艺术家口述史",
     "type": "国产剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第14期",
     "update_time": "2026-08-20 21:59:28"
-  },
-  {
-    "id": 144975,
-    "name": "极昼血祭",
-    "type": "欧美剧",
-    "category": "剧情 ，惊悚 ， 犯罪",
-    "year": "2026",
-    "area": "瑞典",
-    "poster": "https://dbzy5.com/upload/vod/20260820-1/283d78185025d8b866e04702e3759afb.jpg",
-    "score": "5.0",
-    "remarks": "第5集完结",
-    "update_time": "2026-08-20 21:40:06"
   }
 ]

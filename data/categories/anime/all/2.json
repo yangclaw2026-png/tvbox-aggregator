@@ -1,5 +1,17 @@
 [
   {
+    "id": 142079,
+    "name": "丑妻仙缘",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260803-1/76df14bcc02e1232758159dfb746af39.jpg",
+    "score": "5.0",
+    "remarks": "第254集",
+    "update_time": "2026-08-27 12:14:19"
+  },
+  {
     "id": 131275,
     "name": "星辰帝女：逆转命运之歌",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第70集完结",
     "update_time": "2026-08-27 11:11:19"
-  },
-  {
-    "id": 146115,
-    "name": "凡人炼天罡第二季",
-    "type": "国产动漫",
-    "category": "中国动漫",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260827-1/d729a0b3c60c110a3b3f0c657183a74c.jpg",
-    "score": "5.0",
-    "remarks": "第60集完结",
-    "update_time": "2026-08-27 11:07:20"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 142294,
+    "name": "最终行动",
+    "type": "剧情片",
+    "category": "剧情,传记,历史",
+    "year": "2018",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/52aebe0845bb7c9f9ec5af178d9a75b9.jpg",
+    "score": "6.6",
+    "remarks": "正片",
+    "update_time": "2026-08-05 14:10:31"
+  },
+  {
     "id": 142291,
     "name": "情断悔龙寺",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-04 15:20:33"
-  },
-  {
-    "id": 142112,
-    "name": "龙战士 2020",
-    "type": "动作片",
-    "category": "动作",
-    "year": "2020",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/060e14740186d47e8a410dbc5dfd4127.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-04 12:03:48"
   }
 ]

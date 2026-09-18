@@ -1,5 +1,17 @@
 [
   {
+    "id": 70360,
+    "name": "斗罗大陆2：绝世唐门",
+    "type": "国产动漫",
+    "category": "动画,奇幻",
+    "year": "2024",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250110-1/13e3ba2c79f68b2ae6806244ed0cdb50.jpg",
+    "score": "5.0",
+    "remarks": "第167集",
+    "update_time": "2026-08-22 13:26:38"
+  },
+  {
     "id": 142813,
     "name": "不白吃生物真好玩第一季",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第48集完结",
     "update_time": "2026-08-21 11:57:58"
-  },
-  {
-    "id": 145028,
-    "name": "我以活人镇神明",
-    "type": "国产动漫",
-    "category": "中国动漫",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260821-1/b67fae758ee7d6466bd56a8059f5e47d.jpg",
-    "score": "5.0",
-    "remarks": "第20集完结",
-    "update_time": "2026-08-21 11:46:36"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 143748,
+    "name": "代管废柴班级，育出满班武神",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260813-1/29514494bf673fa7cbef03faa8e46364.jpg",
+    "score": "5.0",
+    "remarks": "第50集完结",
+    "update_time": "2026-08-13 21:08:34"
+  },
+  {
     "id": 143760,
     "name": "断电末日重生筑堡求生",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "9.5",
     "remarks": "第17集",
     "update_time": "2026-08-06 11:40:13"
-  },
-  {
-    "id": 140542,
-    "name": "是王者啊？第六季",
-    "type": "国产动漫",
-    "category": "喜剧,动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260723-1/c0b47592185955dc8416ff9b3d00a3a1.jpg",
-    "score": "5.0",
-    "remarks": "第4集",
-    "update_time": "2026-08-06 11:38:16"
   }
 ]

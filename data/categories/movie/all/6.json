@@ -1,5 +1,17 @@
 [
   {
+    "id": 142770,
+    "name": "地球宝藏",
+    "type": "纪录片",
+    "category": "纪录片,探索",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260807-1/622b2f5ea58f632750c389375d3d220b.jpg",
+    "score": "5.0",
+    "remarks": "第4集",
+    "update_time": "2026-08-11 14:25:22"
+  },
+  {
     "id": 143284,
     "name": "无微不至",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-05 17:28:40"
-  },
-  {
-    "id": 142329,
-    "name": "恶魔之口",
-    "type": "惊悚片",
-    "category": "惊悚,恐怖",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/74f68f5a6f5c06928ce00aaec6c4c403.jpg",
-    "score": "5.5",
-    "remarks": "正片",
-    "update_time": "2026-08-05 17:27:24"
   }
 ]

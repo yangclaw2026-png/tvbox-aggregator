@@ -1,5 +1,17 @@
 [
   {
+    "id": 138378,
+    "name": "世界在起舞",
+    "type": "日本动漫",
+    "category": "剧情,动画,歌舞",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260704-1/b70648e5fdbaa8326e67ba869d9d8d36.jpg",
+    "score": "5.0",
+    "remarks": "第9集",
+    "update_time": "2026-08-24 21:50:51"
+  },
+  {
     "id": 141187,
     "name": "柯蒂斯总统",
     "type": "欧美动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第7集",
     "update_time": "2026-08-23 17:57:14"
-  },
-  {
-    "id": 138380,
-    "name": "猫与龙",
-    "type": "日本动漫",
-    "category": "动画,奇幻",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260704-1/87e2bce404f71b2c6de14c68005eac18.jpg",
-    "score": "5.0",
-    "remarks": "第9集",
-    "update_time": "2026-08-23 17:52:00"
   }
 ]

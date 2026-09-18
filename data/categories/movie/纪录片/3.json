@@ -130,53 +130,5 @@
     "score": "5.0",
     "remarks": "第4集",
     "update_time": "2026-08-01 20:10:40"
-  },
-  {
-    "id": 454,
-    "name": "流浪地球2：再次冒险",
-    "type": "纪录片",
-    "category": "纪录片,纪录",
-    "year": "2024",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250109-5/3336693c3a62cab94fff81b3242d2bc5.jpg",
-    "score": "8.8",
-    "remarks": "正片",
-    "update_time": "2026-08-01 16:25:32"
-  },
-  {
-    "id": 141629,
-    "name": "都结束了：西班牙女足的夺冠与改革之路",
-    "type": "纪录片",
-    "category": "纪录片,运动",
-    "year": "2024",
-    "area": "西班牙",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/2ac74c8e8bdc45a7a5aa1068d930b50d.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-01 16:25:03"
-  },
-  {
-    "id": 141630,
-    "name": "无私 2018",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2018",
-    "area": "加拿大",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/8c0671cb29d29ad21db7c98b61a19a0f.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-01 16:21:33"
-  },
-  {
-    "id": 141633,
-    "name": "汉密尔顿街灵异调查",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2010",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/de5ee46883e48f3acc3b2dbffd15aac2.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-01 16:19:05"
   }
 ]

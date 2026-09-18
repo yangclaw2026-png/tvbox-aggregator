@@ -1,5 +1,17 @@
 [
   {
+    "id": 139872,
+    "name": "第一声啼哭 母子救命急救班",
+    "type": "日本剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260717-1/e6f99c54dbe6b72065ce199aeaf39581.jpg",
+    "score": "5.0",
+    "remarks": "第13集",
+    "update_time": "2026-08-13 11:57:11"
+  },
+  {
     "id": 138978,
     "name": "机器人女友",
     "type": "泰国剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第8集",
     "update_time": "2026-08-05 21:00:43"
-  },
-  {
-    "id": 135791,
-    "name": "荒野独居 澳洲版",
-    "type": "欧美剧",
-    "category": "探险自然",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260609-1/dedbf1347b0800ff7e9d7c3229aed4f9.jpg",
-    "score": "5.0",
-    "remarks": "第13集",
-    "update_time": "2026-08-05 20:38:11"
   }
 ]

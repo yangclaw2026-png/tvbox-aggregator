@@ -1,5 +1,17 @@
 [
   {
+    "id": 141984,
+    "name": "价格战",
+    "type": "剧情片",
+    "category": "剧情,惊悚",
+    "year": "2026",
+    "area": "法国",
+    "poster": "https://dbzy5.com/upload/vod/20260803-1/f1d68ce98d3d4df42bb190c707ae45e0.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-03 15:34:08"
+  },
+  {
     "id": 141981,
     "name": "霹雳80警队",
     "type": "喜剧片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-02 18:32:42"
-  },
-  {
-    "id": 141914,
-    "name": "夜班 2019",
-    "type": "恐怖片",
-    "category": "恐怖",
-    "year": "2019",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/386d4c3df4e47824ab9b7b5db77a47fd.jpg",
-    "score": "4.5",
-    "remarks": "正片",
-    "update_time": "2026-08-02 18:18:13"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 138554,
+    "name": "名侦探柯南：高速公路的堕天使",
+    "type": "动漫电影",
+    "category": "动画,悬疑",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260705-1/ed9899e632356809a1efb245e79a3e84.jpg",
+    "score": "6.0",
+    "remarks": "正片",
+    "update_time": "2026-08-14 19:44:16"
+  },
+  {
     "id": 143832,
     "name": "我的死党恋爱了",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第8集完结",
     "update_time": "2026-08-11 16:37:37"
-  },
-  {
-    "id": 142770,
-    "name": "地球宝藏",
-    "type": "纪录片",
-    "category": "纪录片,探索",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260807-1/622b2f5ea58f632750c389375d3d220b.jpg",
-    "score": "5.0",
-    "remarks": "第4集",
-    "update_time": "2026-08-11 14:25:22"
   }
 ]

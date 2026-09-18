@@ -1,5 +1,17 @@
 [
   {
+    "id": 138380,
+    "name": "猫与龙",
+    "type": "日本动漫",
+    "category": "动画,奇幻",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260704-1/87e2bce404f71b2c6de14c68005eac18.jpg",
+    "score": "5.0",
+    "remarks": "第9集",
+    "update_time": "2026-08-23 17:52:00"
+  },
+  {
     "id": 127204,
     "name": "小书痴的下克上 领主的养女",
     "type": "日本动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第8集",
     "update_time": "2026-08-22 13:39:25"
-  },
-  {
-    "id": 70360,
-    "name": "斗罗大陆2：绝世唐门",
-    "type": "国产动漫",
-    "category": "动画,奇幻",
-    "year": "2024",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250110-1/13e3ba2c79f68b2ae6806244ed0cdb50.jpg",
-    "score": "5.0",
-    "remarks": "第167集",
-    "update_time": "2026-08-22 13:26:38"
   }
 ]

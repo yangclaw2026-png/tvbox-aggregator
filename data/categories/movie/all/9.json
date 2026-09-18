@@ -1,5 +1,17 @@
 [
   {
+    "id": 142112,
+    "name": "龙战士 2020",
+    "type": "动作片",
+    "category": "动作",
+    "year": "2020",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260804-1/060e14740186d47e8a410dbc5dfd4127.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-04 12:03:48"
+  },
+  {
     "id": 142111,
     "name": "图片 2017",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-03 15:36:27"
-  },
-  {
-    "id": 141984,
-    "name": "价格战",
-    "type": "剧情片",
-    "category": "剧情,惊悚",
-    "year": "2026",
-    "area": "法国",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/f1d68ce98d3d4df42bb190c707ae45e0.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-03 15:34:08"
   }
 ]

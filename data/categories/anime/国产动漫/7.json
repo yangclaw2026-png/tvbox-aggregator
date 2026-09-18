@@ -1,5 +1,17 @@
 [
   {
+    "id": 55165,
+    "name": "无限抽取：开局核平修仙世界",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2024",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250107-15/f0dc1a671dd1f80bf16afb275b9f18ea.jpg",
+    "score": "5.0",
+    "remarks": "第85集",
+    "update_time": "2026-08-15 11:50:01"
+  },
+  {
     "id": 107090,
     "name": "神的欲望游戏 动态漫画",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第15集完结",
     "update_time": "2026-08-07 13:20:01"
-  },
-  {
-    "id": 142637,
-    "name": "末世求生：我能看到隐藏提示",
-    "type": "国产动漫",
-    "category": "动漫",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260807-1/45a7b965c70345bab7d5361fa0850a7c.jpg",
-    "score": "0.0",
-    "remarks": "第33集完结",
-    "update_time": "2026-08-07 12:50:43"
   }
 ]

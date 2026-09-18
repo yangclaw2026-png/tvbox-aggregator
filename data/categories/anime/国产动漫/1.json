@@ -1,5 +1,17 @@
 [
   {
+    "id": 147632,
+    "name": "机械飞升",
+    "type": "国产动漫",
+    "category": "动作,动画,奇幻",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260903-1/0d6a7f30fccebbdc4ab5bcbe42bd0c1e.jpg",
+    "score": "5.0",
+    "remarks": "第9集",
+    "update_time": "2026-09-18 18:17:50"
+  },
+  {
     "id": 148609,
     "name": "制霸联盟：绝杀球我十中十",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第21集",
     "update_time": "2026-08-27 11:37:31"
-  },
-  {
-    "id": 144777,
-    "name": "我的同学是美人鱼2之泡泡宝石",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260819-1/a6f897dbab74990a7179923315927825.jpg",
-    "score": "5.0",
-    "remarks": "第20集",
-    "update_time": "2026-08-27 11:37:28"
   }
 ]
