@@ -7233,6 +7233,13 @@
         "play_from": "gsyun,gsm3u8",
         "play_url": "",
         "remarks": "第4集"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 154950,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至第04集"
       }
     ]
   },
@@ -39469,6 +39476,13 @@
         "play_from": "lzm3u8",
         "play_url": null,
         "remarks": "已完结"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 155289,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "全集"
       }
     ]
   },
