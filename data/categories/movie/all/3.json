@@ -1,5 +1,17 @@
 [
   {
+    "id": 145247,
+    "name": "探寻全球，为爱溯源",
+    "type": "纪录片",
+    "category": "人文,纪录片",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260822-1/51d13e716b007350c936227c6e5f8998.jpg",
+    "score": "5.0",
+    "remarks": "第1集",
+    "update_time": "2026-08-22 15:19:25"
+  },
+  {
     "id": 145216,
     "name": "海绵宝宝：皮老板大电影 国语版",
     "type": "动漫电影",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-19 00:05:36"
-  },
-  {
-    "id": 144596,
-    "name": "性格塑造第一季",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260818-1/6082bcd5663625f1f19aec6d35740779.jpg",
-    "score": "5.0",
-    "remarks": "第9集完结",
-    "update_time": "2026-08-18 23:49:00"
   }
 ]

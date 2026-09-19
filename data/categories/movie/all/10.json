@@ -1,5 +1,17 @@
 [
   {
+    "id": 141986,
+    "name": "荣光与暗影",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2026",
+    "area": "法国",
+    "poster": "https://dbzy5.com/upload/vod/20260803-1/f8a88e5c7021246ae4b08a6f45d99e1b.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-03 15:36:27"
+  },
+  {
     "id": 141984,
     "name": "价格战",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-02 18:37:56"
-  },
-  {
-    "id": 141903,
-    "name": "几近天堂",
-    "type": "剧情片",
-    "category": "剧情,喜剧",
-    "year": "2024",
-    "area": "墨西哥,意大利",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/844d60413a79bebc6fc1479a7c506c45.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-02 18:32:42"
   }
 ]

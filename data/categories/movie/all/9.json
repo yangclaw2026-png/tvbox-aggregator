@@ -1,5 +1,17 @@
 [
   {
+    "id": 137458,
+    "name": "精灵猎人",
+    "type": "喜剧片",
+    "category": "喜剧,动作,惊悚,恐怖",
+    "year": "2026",
+    "area": "马来西亚",
+    "poster": "https://dbzy5.com/upload/vod/20260627-1/c57d80ed0503e99453d6ba219b1a784c.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-04 15:20:33"
+  },
+  {
     "id": 142112,
     "name": "龙战士 2020",
     "type": "动作片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-03 15:40:21"
-  },
-  {
-    "id": 141986,
-    "name": "荣光与暗影",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2026",
-    "area": "法国",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/f8a88e5c7021246ae4b08a6f45d99e1b.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-03 15:36:27"
   }
 ]

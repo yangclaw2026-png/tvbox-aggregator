@@ -1,5 +1,17 @@
 [
   {
+    "id": 95478,
+    "name": "他们都是平凡人：被遗忘的大屠杀",
+    "type": "纪录片",
+    "category": "纪录片,历史",
+    "year": "2023",
+    "area": "德国",
+    "poster": "https://dbzy5.com/upload/vod/20250605-1/05190d7c21511ab64c5dedc275fa72bf.jpg",
+    "score": "7.7",
+    "remarks": "正片",
+    "update_time": "2026-08-14 19:45:12"
+  },
+  {
     "id": 138554,
     "name": "名侦探柯南：高速公路的堕天使",
     "type": "动漫电影",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-11 16:41:16"
-  },
-  {
-    "id": 143326,
-    "name": "亚洲街头美食",
-    "type": "纪录片",
-    "category": "纪录片,美食",
-    "year": "2025",
-    "area": "马来西亚",
-    "poster": "https://dbzy5.com/upload/vod/20260811-1/8542e104c353f92a3322b4f0f1ba3837.jpg",
-    "score": "5.0",
-    "remarks": "第8集完结",
-    "update_time": "2026-08-11 16:37:37"
   }
 ]

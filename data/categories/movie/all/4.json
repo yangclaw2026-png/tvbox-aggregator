@@ -1,5 +1,17 @@
 [
   {
+    "id": 144596,
+    "name": "性格塑造第一季",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260818-1/6082bcd5663625f1f19aec6d35740779.jpg",
+    "score": "5.0",
+    "remarks": "第9集完结",
+    "update_time": "2026-08-18 23:49:00"
+  },
+  {
     "id": 144581,
     "name": "阳山城的局中局",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.4",
     "remarks": "正片",
     "update_time": "2026-08-14 19:45:53"
-  },
-  {
-    "id": 95478,
-    "name": "他们都是平凡人：被遗忘的大屠杀",
-    "type": "纪录片",
-    "category": "纪录片,历史",
-    "year": "2023",
-    "area": "德国",
-    "poster": "https://dbzy5.com/upload/vod/20250605-1/05190d7c21511ab64c5dedc275fa72bf.jpg",
-    "score": "7.7",
-    "remarks": "正片",
-    "update_time": "2026-08-14 19:45:12"
   }
 ]

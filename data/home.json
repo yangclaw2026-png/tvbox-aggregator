@@ -1,5 +1,17 @@
 [
   {
+    "id": 150361,
+    "name": "拨乱行动",
+    "type": "动作片",
+    "category": "动作,惊悚",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260918-1/21ca7947c08a1799acb8351a2fca3ed3.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-09-19 23:14:12"
+  },
+  {
     "id": 150349,
     "name": "26_27赛季亚冠二级G组第1轮全场回放：町田泽维亚vs柴桢",
     "type": "足球",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-09-17 22:32:03"
-  },
-  {
-    "id": 150175,
-    "name": "谁说没灵根不能修仙的？之无灵证道第 26 季",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260917-1/8ebade547430894cd603412e4e7d5041.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-09-17 22:30:48"
   }
 ]
