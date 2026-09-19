@@ -41265,6 +41265,20 @@
         "play_from": "hnm3u8",
         "play_url": null,
         "remarks": "第6期"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 177509,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第8期"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 119489,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第8期"
       }
     ]
   },
