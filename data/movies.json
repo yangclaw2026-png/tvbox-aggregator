@@ -1824,6 +1824,34 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第5集"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 218793,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第6集"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 194669,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第6集"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 155291,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "更新至06集"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 159285,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第6集"
       }
     ]
   },
@@ -48687,6 +48715,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第8集"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 151399,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第11集"
       }
     ]
   },
@@ -50502,6 +50537,27 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第09集"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 172334,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第12集"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 150734,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第12集"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 115077,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第12集"
       }
     ]
   },
@@ -51859,6 +51915,20 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第71集"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 151837,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第74集"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 116180,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第74集"
       }
     ]
   },
@@ -114229,6 +114299,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第9集"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 148583,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "更新至07集"
       }
     ]
   },
