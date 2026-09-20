@@ -1,5 +1,17 @@
 [
   {
+    "id": 142325,
+    "name": "永远的三个字",
+    "type": "剧情片",
+    "category": "剧情,喜剧,家庭",
+    "year": "2018",
+    "area": "菲律宾",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/3ea1ebbc936668b39cd4991a495af0d2.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-05 16:15:26"
+  },
+  {
     "id": 142323,
     "name": "分手歌单",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-03 16:38:50"
-  },
-  {
-    "id": 142000,
-    "name": "龙之怒3",
-    "type": "剧情片",
-    "category": "冒险,剧情",
-    "year": "2026",
-    "area": "英国",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/cfe9eb718a8756c361559d16b361fc2e.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-03 16:30:18"
   }
 ]

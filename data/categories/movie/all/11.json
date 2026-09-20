@@ -1,5 +1,17 @@
 [
   {
+    "id": 141915,
+    "name": "亚当雷就是菲尔博士大解放",
+    "type": "喜剧片",
+    "category": "喜剧",
+    "year": "2024",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260802-1/c97a1d9586ae5a8c200b8740c93a98cf.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-02 18:37:56"
+  },
+  {
     "id": 141903,
     "name": "几近天堂",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-01 20:29:08"
-  },
-  {
-    "id": 141529,
-    "name": "人民大街",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260730-1/c67d945c74a00b2d4ca853fc80ba5fb3.jpg",
-    "score": "5.0",
-    "remarks": "第3集",
-    "update_time": "2026-08-01 20:25:28"
   }
 ]

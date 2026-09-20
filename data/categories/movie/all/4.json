@@ -1,5 +1,17 @@
 [
   {
+    "id": 144597,
+    "name": "凯尔西·库克：欢乐时光",
+    "type": "喜剧片",
+    "category": "喜剧",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260819-1/0ce4645085b945cd483facadae69c2bb.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-19 00:05:36"
+  },
+  {
     "id": 144596,
     "name": "性格塑造第一季",
     "type": "纪录片",
@@ -586,17 +598,5 @@
     "score": "7.9",
     "remarks": "正片",
     "update_time": "2026-08-14 21:44:36"
-  },
-  {
-    "id": 70765,
-    "name": "猎人克莱文",
-    "type": "动作片",
-    "category": "动作,惊悚",
-    "year": "2024",
-    "area": "美国,冰岛,加拿大,英国",
-    "poster": "https://dbzy5.com/upload/vod/20250120-1/d672633fb87d078107bd1abb2c848913.jpg",
-    "score": "5.4",
-    "remarks": "正片",
-    "update_time": "2026-08-14 19:45:53"
   }
 ]

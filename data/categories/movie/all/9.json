@@ -1,5 +1,17 @@
 [
   {
+    "id": 142114,
+    "name": "迫切营救",
+    "type": "动作片",
+    "category": "动作",
+    "year": "2020",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260804-1/0bd3f0f25947eee8c33edec33e0872dc.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-04 15:41:22"
+  },
+  {
     "id": 137458,
     "name": "精灵猎人",
     "type": "喜剧片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-03 15:41:19"
-  },
-  {
-    "id": 141987,
-    "name": "鬼新娘 2017",
-    "type": "剧情片",
-    "category": "剧情,恐怖,奇幻",
-    "year": "2017",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/64e5094dc74057fd8469c72a5cbe6c76.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-03 15:40:21"
   }
 ]

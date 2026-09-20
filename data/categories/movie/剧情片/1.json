@@ -1,5 +1,17 @@
 [
   {
+    "id": 150724,
+    "name": "蓝色盒子",
+    "type": "剧情片",
+    "category": "剧情,惊悚",
+    "year": "2026",
+    "area": "美国,加拿大",
+    "poster": "https://dbzy5.com/upload/vod/20260920-1/9b99c6d9ea3e2da47fdfbc8590626b14.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-09-20 22:07:31"
+  },
+  {
     "id": 149118,
     "name": "致命羁绊",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "6.6",
     "remarks": "正片",
     "update_time": "2026-08-16 14:20:31"
-  },
-  {
-    "id": 144018,
-    "name": "伏魔战神",
-    "type": "剧情片",
-    "category": "奇幻",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260816-1/784d5bca8fd7aabdb59b4ccbba1fd74c.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-16 13:03:31"
   }
 ]

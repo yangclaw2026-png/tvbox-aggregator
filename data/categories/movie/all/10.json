@@ -1,5 +1,17 @@
 [
   {
+    "id": 141987,
+    "name": "鬼新娘 2017",
+    "type": "剧情片",
+    "category": "剧情,恐怖,奇幻",
+    "year": "2017",
+    "area": "菲律宾",
+    "poster": "https://dbzy5.com/upload/vod/20260803-1/64e5094dc74057fd8469c72a5cbe6c76.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-03 15:40:21"
+  },
+  {
     "id": 141986,
     "name": "荣光与暗影",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-02 19:14:19"
-  },
-  {
-    "id": 141915,
-    "name": "亚当雷就是菲尔博士大解放",
-    "type": "喜剧片",
-    "category": "喜剧",
-    "year": "2024",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/c97a1d9586ae5a8c200b8740c93a98cf.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-02 18:37:56"
   }
 ]

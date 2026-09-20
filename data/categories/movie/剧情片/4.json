@@ -1,5 +1,17 @@
 [
   {
+    "id": 142000,
+    "name": "龙之怒3",
+    "type": "剧情片",
+    "category": "冒险,剧情",
+    "year": "2026",
+    "area": "英国",
+    "poster": "https://dbzy5.com/upload/vod/20260803-1/cfe9eb718a8756c361559d16b361fc2e.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-03 16:30:18"
+  },
+  {
     "id": 47223,
     "name": "双重危机",
     "type": "剧情片",
@@ -562,29 +574,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-01 19:39:06"
-  },
-  {
-    "id": 141757,
-    "name": "庄园凶祟",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2026",
-    "area": "印度",
-    "poster": "https://dbzy5.com/upload/vod/20260801-1/1c96953cb37607166ac120ca13fdf0d5.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-01 19:28:14"
-  },
-  {
-    "id": 141755,
-    "name": "强扭的瓜也甜",
-    "type": "剧情片",
-    "category": "剧情,喜剧,动作,爱情",
-    "year": "2022",
-    "area": "印度",
-    "poster": "https://dbzy5.com/upload/vod/20260801-1/22d6ea0549b04997a477c473a1cf3d9b.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-01 19:12:06"
   }
 ]
