@@ -1,5 +1,17 @@
 [
   {
+    "id": 142297,
+    "name": "像男人一样死去 2022",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2022",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/5580bd6ce1a55a109aba50d43937efb2.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-05 14:27:19"
+  },
+  {
     "id": 142296,
     "name": "萤火虫之墓 2005",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.7",
     "remarks": "正片",
     "update_time": "2026-08-04 16:07:15"
-  },
-  {
-    "id": 142140,
-    "name": "诃利和湿婆",
-    "type": "剧情片",
-    "category": "剧情,惊悚,犯罪",
-    "year": "2021",
-    "area": "印度",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/168cef25cd77693169204e6f1bd1e5e6.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-04 16:02:57"
   }
 ]

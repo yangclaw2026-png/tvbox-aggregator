@@ -1,5 +1,17 @@
 [
   {
+    "id": 150821,
+    "name": "头号粉丝",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260921-1/0d7c7d551ec5ea04221257bd1bf0b6f1.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-09-21 19:48:48"
+  },
+  {
     "id": 150724,
     "name": "蓝色盒子",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第4集",
     "update_time": "2026-08-27 14:13:23"
-  },
-  {
-    "id": 146137,
-    "name": "门捷列夫很忙 第二季",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260827-1/43cb444580eb08dc8c23d51b75a49298.jpg",
-    "score": "5.0",
-    "remarks": "第1集",
-    "update_time": "2026-08-27 14:02:13"
   }
 ]

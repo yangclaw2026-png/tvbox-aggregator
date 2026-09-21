@@ -1,5 +1,17 @@
 [
   {
+    "id": 142140,
+    "name": "诃利和湿婆",
+    "type": "剧情片",
+    "category": "剧情,惊悚,犯罪",
+    "year": "2021",
+    "area": "印度",
+    "poster": "https://dbzy5.com/upload/vod/20260804-1/168cef25cd77693169204e6f1bd1e5e6.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-04 16:02:57"
+  },
+  {
     "id": 142114,
     "name": "迫切营救",
     "type": "动作片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-03 15:43:49"
-  },
-  {
-    "id": 141985,
-    "name": "我爱你，冤家",
-    "type": "喜剧片",
-    "category": "喜剧,爱情",
-    "year": "2018",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/35928a2a3bcc11f14b2f7088f5cf0342.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-03 15:41:19"
   }
 ]

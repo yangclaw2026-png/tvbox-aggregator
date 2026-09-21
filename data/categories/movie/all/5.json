@@ -1,5 +1,17 @@
 [
   {
+    "id": 143894,
+    "name": "去你的岛",
+    "type": "动漫电影",
+    "category": "爱情,动画,奇幻",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260814-1/8ee712d15628986b35e37dbc5ebdac0f.jpg",
+    "score": "7.9",
+    "remarks": "正片",
+    "update_time": "2026-08-14 21:44:36"
+  },
+  {
     "id": 70765,
     "name": "猎人克莱文",
     "type": "动作片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第2集完结",
     "update_time": "2026-08-11 17:17:13"
-  },
-  {
-    "id": 103325,
-    "name": "罪恶之城 2025",
-    "type": "惊悚片",
-    "category": "惊悚",
-    "year": "2025",
-    "area": "韩国",
-    "poster": "https://dbzy5.com/upload/vod/20250830-1/0631720db88423aceec5a797ff92234d.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-11 16:45:16"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 150821,
+    "name": "头号粉丝",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260921-1/0d7c7d551ec5ea04221257bd1bf0b6f1.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-09-21 19:48:48"
+  },
+  {
     "id": 150724,
     "name": "蓝色盒子",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "8.1",
     "remarks": "正片",
     "update_time": "2026-08-16 19:00:55"
-  },
-  {
-    "id": 144022,
-    "name": "唯有美好",
-    "type": "剧情片",
-    "category": "剧情,同性",
-    "year": "2025",
-    "area": "巴西",
-    "poster": "https://dbzy5.com/upload/vod/20260816-1/3cd306392fa6929153a0a0181d6c9719.jpg",
-    "score": "6.6",
-    "remarks": "正片",
-    "update_time": "2026-08-16 14:20:31"
   }
 ]

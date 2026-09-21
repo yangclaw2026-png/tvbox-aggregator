@@ -1,5 +1,17 @@
 [
   {
+    "id": 103325,
+    "name": "罪恶之城 2025",
+    "type": "惊悚片",
+    "category": "惊悚",
+    "year": "2025",
+    "area": "韩国",
+    "poster": "https://dbzy5.com/upload/vod/20250830-1/0631720db88423aceec5a797ff92234d.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-11 16:45:16"
+  },
+  {
     "id": 143323,
     "name": "呼唤少女特别篇",
     "type": "动漫电影",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第10集完结",
     "update_time": "2026-08-05 17:37:39"
-  },
-  {
-    "id": 142347,
-    "name": "Sid&amp;Aya：并非爱情故事",
-    "type": "喜剧片",
-    "category": "喜剧",
-    "year": "2018",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/0ac9bdbccc28f0f2d1cbe65a303e9825.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-05 17:35:57"
   }
 ]

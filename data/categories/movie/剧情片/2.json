@@ -1,5 +1,17 @@
 [
   {
+    "id": 144022,
+    "name": "唯有美好",
+    "type": "剧情片",
+    "category": "剧情,同性",
+    "year": "2025",
+    "area": "巴西",
+    "poster": "https://dbzy5.com/upload/vod/20260816-1/3cd306392fa6929153a0a0181d6c9719.jpg",
+    "score": "6.6",
+    "remarks": "正片",
+    "update_time": "2026-08-16 14:20:31"
+  },
+  {
     "id": 144018,
     "name": "伏魔战神",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-05 16:51:25"
-  },
-  {
-    "id": 142340,
-    "name": "请只用英语",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2014",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/27cab87d4c31259e7a98a9610160acb8.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-05 16:49:06"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 142340,
+    "name": "请只用英语",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2014",
+    "area": "菲律宾",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/27cab87d4c31259e7a98a9610160acb8.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-05 16:49:06"
+  },
+  {
     "id": 142325,
     "name": "永远的三个字",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-03 16:55:12"
-  },
-  {
-    "id": 142003,
-    "name": "消除 2020",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2020",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/931af4b0eb5bceed0b84dbb7801bd108.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-03 16:38:50"
   }
 ]

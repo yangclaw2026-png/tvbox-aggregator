@@ -1,5 +1,17 @@
 [
   {
+    "id": 44959,
+    "name": "移山的父亲",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2021",
+    "area": "罗马尼亚，瑞典",
+    "poster": "https://dbzy5.com/upload/vod/20250108-5/fffbb715a80b3fa7c06408030c90d6b3.jpg",
+    "score": "6.3",
+    "remarks": "正片",
+    "update_time": "2026-08-19 00:07:29"
+  },
+  {
     "id": 144597,
     "name": "凯尔西·库克：欢乐时光",
     "type": "喜剧片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-14 21:48:53"
-  },
-  {
-    "id": 143894,
-    "name": "去你的岛",
-    "type": "动漫电影",
-    "category": "爱情,动画,奇幻",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260814-1/8ee712d15628986b35e37dbc5ebdac0f.jpg",
-    "score": "7.9",
-    "remarks": "正片",
-    "update_time": "2026-08-14 21:44:36"
   }
 ]

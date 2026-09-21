@@ -1,5 +1,22 @@
 [
   {
+    "id": 150821,
+    "name": "头号粉丝",
+    "type": "剧情片",
+    "year": "2026",
+    "area": "中国大陆",
+    "language": "汉语普通话",
+    "category": "剧情",
+    "poster": "https://dbzy5.com/upload/vod/20260921-1/0d7c7d551ec5ea04221257bd1bf0b6f1.jpg",
+    "douban_id": 0,
+    "score": "5.0",
+    "remarks": "正片",
+    "content": "<p>美艳女星意外落入偏执粉丝的温柔陷阱，被疯狂执念死死觊觎、贴身纠缠。暧昧撩人的肢体拉扯、欲望暗涌的近距离独处，他以爱为名疯狂占有、步步禁锢。孤立无援的女星，在窒息的密闭空间里，一边深陷暧昧性张力拉扯，一边与病态粉丝展开惊悚亡命追逃。</p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "正片$https://vodcnd17.ajupf.com/20260921/2ExWwOVP/index.m3u8$$$正片$https://vodcnd17.ajupf.com/share/FHVq8iu1ZI",
+    "update_time": "2026-09-21 19:48:48"
+  },
+  {
     "id": 150732,
     "name": "26_27赛季英女超第3轮全场回放：查尔顿女足vs伦敦城雌狮女足",
     "type": "足球",
@@ -38552,6 +38569,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第240集"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 47013,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第242集"
       }
     ]
   },
@@ -45075,6 +45099,13 @@
         "play_from": "gsyun,gsm3u8",
         "play_url": "",
         "remarks": "第24集"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 108076,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第25集"
       }
     ]
   },
@@ -50265,7 +50296,23 @@
     "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">三个朋友去水疗中心度周末，结果他们一个不靠谱的朋友也加入了，导致周末变得一团糟，引发了一系列搞笑的后果</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "抢先版$https://vodcnd16.ajupf.com/20260822/CNEwh2aa/index.m3u8$$$抢先版$https://vodcnd16.ajupf.com/share/CpIPyAp9LE",
-    "update_time": "2026-08-23 15:46:12"
+    "update_time": "2026-08-23 15:46:12",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 145708,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "正片"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 163438,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至HD"
+      }
+    ]
   },
   {
     "id": 145355,
@@ -127834,22 +127881,5 @@
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "正片$https://vodcnd16.ajupf.com/20260731/BhZXzyAH/index.m3u8#$$$正片$https://vodcnd16.ajupf.com/share/3UrtOw3b8R#",
     "update_time": "2026-08-01 19:39:06"
-  },
-  {
-    "id": 141330,
-    "name": "退婚后，状元郎又争又抢",
-    "type": "古装仙侠",
-    "year": "2026",
-    "area": "中国大陆",
-    "language": "汉语普通话",
-    "category": "短剧",
-    "poster": "https://dbzy5.com/upload/vod/20260728-1/ad9f58407cf98ef1355ef6cb3a21f0c4.jpg",
-    "douban_id": 0,
-    "score": "0.0",
-    "remarks": "全集完结",
-    "content": "<p><span style=\"color: #222222; font-family: -apple-system, BlinkMacSystemFont, \">步清颜含恨重生，拒负心人顾景初，转嫁寒门秀才池璟年。她借前世记忆夺顾景初机缘，联手池璟年将顾送如大牢。边关告急，步清颜发现池璟年竟也带着两世记忆深爱自己，冒死救夫大破敌军。最终池璟年官拜尚书，儿女双全。她了却前尘，笑看仇敌覆灭。池璟年紧握她的手这辈子又争又抢，终于抢到了我的全世界。</span></p>",
-    "play_from": "no$$$dbyun",
-    "play_url": "全集完结$https://vodcnd15.ajupf.com/20260612/J10SLQJc/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/PYe6A0kYSY",
-    "update_time": "2026-08-01 19:34:04"
   }
 ]
