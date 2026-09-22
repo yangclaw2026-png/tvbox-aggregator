@@ -1,5 +1,17 @@
 [
   {
+    "id": 145957,
+    "name": "光点",
+    "type": "泰国剧",
+    "category": "剧情,爱情,同性,奇幻",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260826-1/78020903324fe122e29048c8d73570c9.jpg",
+    "score": "5.0",
+    "remarks": "第3集",
+    "update_time": "2026-08-27 15:08:49"
+  },
+  {
     "id": 143638,
     "name": "换座位后，发现身后的男生好像喜欢我 席替",
     "type": "日本剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第11集",
     "update_time": "2026-08-25 20:26:25"
-  },
-  {
-    "id": 142022,
-    "name": "我的夏日实习",
-    "type": "泰国剧",
-    "category": "短片,同性",
-    "year": "2026",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/d8c51a14de64d2f3a0dbca41a8e3febb.jpg",
-    "score": "5.0",
-    "remarks": "第14集",
-    "update_time": "2026-08-25 20:20:22"
   }
 ]

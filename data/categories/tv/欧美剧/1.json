@@ -1,5 +1,17 @@
 [
   {
+    "id": 149762,
+    "name": "审判萨达姆",
+    "type": "欧美剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260915-1/b6add113dd345248ce2c51f97b4dcdef.jpg",
+    "score": "5.0",
+    "remarks": "第5集",
+    "update_time": "2026-09-22 23:00:12"
+  },
+  {
     "id": 150336,
     "name": "古战场传奇：吾血之亲 第二季",
     "type": "欧美剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第12集完结",
     "update_time": "2026-08-19 15:12:19"
-  },
-  {
-    "id": 2285,
-    "name": "海豹突击队 第七季",
-    "type": "欧美剧",
-    "category": "剧情,动作,战争",
-    "year": "2024",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20250109-3/bd940031b70757cc5322f59232bf4fb8.jpg",
-    "score": "7.7",
-    "remarks": "第10集完结",
-    "update_time": "2026-08-18 23:27:57"
   }
 ]

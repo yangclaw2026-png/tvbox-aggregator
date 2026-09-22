@@ -1,5 +1,17 @@
 [
   {
+    "id": 142022,
+    "name": "我的夏日实习",
+    "type": "泰国剧",
+    "category": "短片,同性",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260803-1/d8c51a14de64d2f3a0dbca41a8e3febb.jpg",
+    "score": "5.0",
+    "remarks": "第14集",
+    "update_time": "2026-08-25 20:20:22"
+  },
+  {
     "id": 140404,
     "name": "麻辣教师 第二季",
     "type": "日本剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第49集",
     "update_time": "2026-08-23 11:57:54"
-  },
-  {
-    "id": 140911,
-    "name": "律政节拍：逆转法庭",
-    "type": "日本剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260725-1/7fbe0b301b7742b9614a32fc0a8e5ab8.jpg",
-    "score": "5.0",
-    "remarks": "第5集",
-    "update_time": "2026-08-23 00:12:32"
   }
 ]

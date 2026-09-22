@@ -1,5 +1,31 @@
 [
   {
+    "id": 149762,
+    "name": "审判萨达姆",
+    "type": "欧美剧",
+    "year": "2026",
+    "area": "美国",
+    "language": "英语",
+    "category": "剧情",
+    "poster": "https://dbzy5.com/upload/vod/20260915-1/b6add113dd345248ce2c51f97b4dcdef.jpg",
+    "douban_id": 36247429,
+    "score": "5.0",
+    "remarks": "第5集",
+    "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">讲述了中情局分析师约翰·尼克松的故事，他在2003年伊拉克战争（入侵伊拉克）爆发后，成为首位确认并审讯萨达姆·侯赛因的美国人。剧集深入探讨了尼克松在应对任务复杂性时的个人历程。通过与萨达姆的接触，尼克松对这位伊拉克独裁者有了更深刻的认识，同时也更清楚地意识到这场入侵可能带来的后果，以及由此引发的人道主义和地缘政治动荡。</span></p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01集$https://vodcnd16.ajupf.com/20260915/rvAPFzUv/index.m3u8#第02集$https://vodcnd16.ajupf.com/20260915/jdIlMa4f/index.m3u8#第03集$https://vodcnd17.ajupf.com/20260916/Ba5ZJso1/index.m3u8#第04集$https://vodcnd16.ajupf.com/20260922/OFDuNFVW/index.m3u8#第05集$https://vodcnd16.ajupf.com/20260922/qTMCk5B7/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/WXUVxSHJxy#第02集$https://vodcnd16.ajupf.com/share/oq90laE9h2#第03集$https://vodcnd17.ajupf.com/share/VCB2JTdCbT#第04集$https://vodcnd16.ajupf.com/share/NLqwdoPuxh#第05集$https://vodcnd16.ajupf.com/share/Sn3vWP8ISE",
+    "update_time": "2026-09-22 23:00:12",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 150093,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第5集"
+      }
+    ]
+  },
+  {
     "id": 148669,
     "name": "救命我的夫君柔弱不能自理",
     "type": "古装仙侠",
@@ -862,7 +888,16 @@
     "content": "<p>暂无简介</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "20260919$https://vodcnd17.ajupf.com/20260920/FBgnXeH9/index.m3u8$$$20260919$https://vodcnd17.ajupf.com/share/BNEfuLThmv",
-    "update_time": "2026-09-20 22:42:17"
+    "update_time": "2026-09-20 22:42:17",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 151057,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "20260919"
+      }
+    ]
   },
   {
     "id": 150727,
@@ -128327,22 +128362,5 @@
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd16.ajupf.com/20260723/IhUY9zVe/index.m3u8$$$全集完结$https://vodcnd16.ajupf.com/share/mpJ5FkIIuZ",
     "update_time": "2026-08-01 20:57:41"
-  },
-  {
-    "id": 141675,
-    "name": "渡晚棠花开",
-    "type": "古装仙侠",
-    "year": "2026",
-    "area": "中国大陆",
-    "language": "汉语普通话",
-    "category": "短剧",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/cecedbc2d56b1e424e895407d15f9c32.jpg",
-    "douban_id": 0,
-    "score": "0.0",
-    "remarks": "全集完结",
-    "content": "<p><span style=\"color: #666666; font-family: Arial, sans-serif; font-size: 18px; background-color: #FFFFFF;\">晚风拂过海棠树梢，那些被岁月掩埋的遗憾是否终能等到花期？本作以细腻笔触勾勒出一幅温情治愈画卷，讲述主角们穿越市井烟火寻回亲情的故事。全片采用AI渲染技术打造如梦似幻的自然景观，四季流转中的棠花绽放极具电影级美感。没有狗血撕扯与刻意制造矛盾，只有生活流式的互相扶持与自我和解。台词句句戳心，情感铺垫层层递进，适合静下心来细细品味。想要感受久违的温暖陪伴，这部作品定会给你满分答案。</span></p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "全集完结$https://vodcnd16.ajupf.com/20260723/YJnrNLoh/index.m3u8$$$全集完结$https://vodcnd16.ajupf.com/share/zWfhxr7qbb",
-    "update_time": "2026-08-01 20:51:11"
   }
 ]
