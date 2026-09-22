@@ -22,6 +22,27 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "正片"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 218967,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "正片"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 194844,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "正片"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 159458,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "正片"
       }
     ]
   },
