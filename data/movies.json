@@ -2738,6 +2738,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第1集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 163038,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第2集"
       }
     ]
   },
@@ -94275,7 +94282,30 @@
     "content": "<p>暂无简介</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260701/lVRxyUAe/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/YxHD1BLpu8",
-    "update_time": "2026-08-12 16:33:42"
+    "update_time": "2026-08-12 16:33:42",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 219059,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "全集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 194935,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 159552,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 143476,
@@ -94292,7 +94322,30 @@
     "content": "<p>暂无简介</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260701/0nAhseYd/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/iBjicxGEqy",
-    "update_time": "2026-08-12 16:31:28"
+    "update_time": "2026-08-12 16:31:28",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 219066,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "全集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 194941,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 159560,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 143468,
@@ -94326,7 +94379,30 @@
     "content": "<p>深夜暴雨之夜，身陷险境的苏清雪偶遇普通工地工人萧野，萧野出手为她化解危机，二人意外产生纠葛。次日苏醒后，苏清雪知晓了萧野的普通身份。为应对家族联姻的压力，苏清雪提议让萧野做自己的协议丈夫，二人顺利办理结婚登记。可领证过后，苏清雪突然遭人掳走，原本随性淡然的萧野气场骤变，即刻准备出手营救苏清雪。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260701/9xUZAB91/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/nnv4OKOwDX",
-    "update_time": "2026-08-12 16:17:31"
+    "update_time": "2026-08-12 16:17:31",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 219060,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "全集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 194936,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 159553,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 143466,
@@ -94360,7 +94436,30 @@
     "content": "<p>暂无简介</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260701/aIJz8U0A/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/3JZQEiMSkJ",
-    "update_time": "2026-08-12 16:15:42"
+    "update_time": "2026-08-12 16:15:42",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 219056,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "全集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 194933,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 159548,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 143464,
@@ -101234,6 +101333,27 @@
         "source": "茅台资源",
         "source_id": 143456,
         "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "正片"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 215734,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "正片"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 191610,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "正片"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 156227,
+        "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "正片"
       }
