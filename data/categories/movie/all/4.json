@@ -1,5 +1,29 @@
 [
   {
+    "id": 44218,
+    "name": "瑞士军刀男",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2016",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20250108-6/ecec97522dddb651f70c500f43847d7b.jpg",
+    "score": "7.8",
+    "remarks": "正片",
+    "update_time": "2026-08-19 21:15:18"
+  },
+  {
+    "id": 144002,
+    "name": "牛来",
+    "type": "动漫电影",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260815-1/3cd8044e2b9fe964c57bc5c07e0d88f4.jpg",
+    "score": "5.0",
+    "remarks": "抢先版",
+    "update_time": "2026-08-19 17:20:26"
+  },
+  {
     "id": 44959,
     "name": "移山的父亲",
     "type": "剧情片",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第7集完结",
     "update_time": "2026-08-15 13:00:12"
-  },
-  {
-    "id": 143908,
-    "name": "推理竞技场",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260814-1/4417ab57e300f22a6f5e35be08280243.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-14 22:28:22"
-  },
-  {
-    "id": 143896,
-    "name": "狂兽翔空",
-    "type": "剧情片",
-    "category": "剧情,冒险,运动",
-    "year": "2026",
-    "area": "西班牙",
-    "poster": "https://dbzy5.com/upload/vod/20260814-1/df357379298e2e37d0f41ca2388f5381.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-14 21:48:53"
   }
 ]

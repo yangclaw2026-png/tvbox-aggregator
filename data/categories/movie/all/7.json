@@ -1,5 +1,29 @@
 [
   {
+    "id": 142348,
+    "name": "愚蠢的爱",
+    "type": "喜剧片",
+    "category": "喜剧",
+    "year": "2017",
+    "area": "菲律宾",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/f392f50a31887220e524922a53817e3e.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-05 17:39:41"
+  },
+  {
+    "id": 141404,
+    "name": "十大避暑名城2026",
+    "type": "纪录片",
+    "category": "纪录片,自然,风光,人文",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260729-1/40ffa83cf6702160b3b207acc945fade.jpg",
+    "score": "5.0",
+    "remarks": "第10集完结",
+    "update_time": "2026-08-05 17:37:39"
+  },
+  {
     "id": 142347,
     "name": "Sid&amp;Aya：并非爱情故事",
     "type": "喜剧片",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-05 14:40:50"
-  },
-  {
-    "id": 142299,
-    "name": "愚蠢的国家",
-    "type": "惊悚片",
-    "category": "惊悚",
-    "year": "2024",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/d7f03fbed71d981e2ea5e6b3306c1229.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-05 14:36:57"
-  },
-  {
-    "id": 142298,
-    "name": "僵尸泰德",
-    "type": "喜剧片",
-    "category": "喜剧,爱情,恐怖",
-    "year": "2018",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/bd12412f50445cd1e1752eb40d457f2e.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-05 14:31:42"
   }
 ]

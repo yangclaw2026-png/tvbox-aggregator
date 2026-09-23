@@ -1,5 +1,29 @@
 [
   {
+    "id": 145368,
+    "name": "入夜不再",
+    "type": "恐怖片",
+    "category": "惊悚 ，恐怖",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260823-1/c4128e6b666272ca3fa0c13f05b98771.jpg",
+    "score": "5.0",
+    "remarks": "抢先版",
+    "update_time": "2026-08-23 00:27:03"
+  },
+  {
+    "id": 145367,
+    "name": "第二届世界人形机器人运动会",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260822-1/ab92fa42fe33e28ca3b3c2ff085a4822.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-22 23:29:42"
+  },
+  {
     "id": 144395,
     "name": "梅关道",
     "type": "纪录片",
@@ -574,29 +598,5 @@
     "score": "8.2",
     "remarks": "抢先版",
     "update_time": "2026-08-19 21:41:58"
-  },
-  {
-    "id": 44218,
-    "name": "瑞士军刀男",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2016",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20250108-6/ecec97522dddb651f70c500f43847d7b.jpg",
-    "score": "7.8",
-    "remarks": "正片",
-    "update_time": "2026-08-19 21:15:18"
-  },
-  {
-    "id": 144002,
-    "name": "牛来",
-    "type": "动漫电影",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260815-1/3cd8044e2b9fe964c57bc5c07e0d88f4.jpg",
-    "score": "5.0",
-    "remarks": "抢先版",
-    "update_time": "2026-08-19 17:20:26"
   }
 ]

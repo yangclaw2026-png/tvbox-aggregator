@@ -1,5 +1,29 @@
 [
   {
+    "id": 151023,
+    "name": "八面埋伏ี",
+    "type": "动作片",
+    "category": "动作,悬疑,武侠",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260923-1/84c6faaecf7bd56b2a8453a047eaa157.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-09-23 18:47:29"
+  },
+  {
+    "id": 151022,
+    "name": "沁河古堡",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260923-1/dd0683d6c575c957eb731dcb1ad1db66.jpg",
+    "score": "5.0",
+    "remarks": "第5集完结",
+    "update_time": "2026-09-23 16:25:19"
+  },
+  {
     "id": 150821,
     "name": "头号粉丝",
     "type": "剧情片",
@@ -574,29 +598,5 @@
     "score": "0.0",
     "remarks": "第2集",
     "update_time": "2026-08-27 18:41:01"
-  },
-  {
-    "id": 146171,
-    "name": "夏天的照相机",
-    "type": "剧情片",
-    "category": "剧情,同性",
-    "year": "2025",
-    "area": "韩国",
-    "poster": "https://dbzy5.com/upload/vod/20260827-1/de80ea24110e757ec82c105fca13cc34.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-27 15:01:42"
-  },
-  {
-    "id": 145711,
-    "name": "漫长的显影",
-    "type": "纪录片",
-    "category": "纪录片,探索",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260825-1/ffce4caeb65fe2308dbd54e12b2f0385.jpg",
-    "score": "5.0",
-    "remarks": "第4集",
-    "update_time": "2026-08-27 14:13:23"
   }
 ]

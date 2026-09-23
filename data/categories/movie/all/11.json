@@ -1,5 +1,29 @@
 [
   {
+    "id": 141919,
+    "name": "一封圣诞信的自白",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2024",
+    "area": "美国,加拿大",
+    "poster": "https://dbzy5.com/upload/vod/20260802-1/ebd71d18a31cbcca11b65f55987c91b3.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-02 19:27:38"
+  },
+  {
+    "id": 141918,
+    "name": "处决",
+    "type": "剧情片",
+    "category": "冒险,剧情",
+    "year": "2024",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260802-1/e9e6a28d20b1933878dba335e50e88a1.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-02 19:23:05"
+  },
+  {
     "id": 141916,
     "name": "公主坡之人生无憾",
     "type": "剧情片",
@@ -514,65 +538,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-01 22:57:40"
-  },
-  {
-    "id": 141752,
-    "name": "善有善报",
-    "type": "剧情片",
-    "category": "剧情,喜剧,家庭",
-    "year": "2013",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260801-1/ea7a6419ccfd100f28084eb4867009ed.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-01 21:50:21"
-  },
-  {
-    "id": 141751,
-    "name": "缘来圣诞",
-    "type": "喜剧片",
-    "category": "喜剧,爱情",
-    "year": "2022",
-    "area": "英国",
-    "poster": "https://dbzy5.com/upload/vod/20260801-1/1ee396ba73b07d1ace917955670c4e90.jpg",
-    "score": "7.1",
-    "remarks": "正片",
-    "update_time": "2026-08-01 21:48:38"
-  },
-  {
-    "id": 141851,
-    "name": "阿颖",
-    "type": "爱情片",
-    "category": "爱情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260801-1/9407d6bdafa3ab3807dcbb7ae72ea30b.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-01 21:45:23"
-  },
-  {
-    "id": 141850,
-    "name": "陵水之恋",
-    "type": "爱情片",
-    "category": "都市,爱情,歌舞",
-    "year": "2025",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260801-1/c871b1679cf667a9d31302a7157cc3c3.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-01 21:37:09"
-  },
-  {
-    "id": 141847,
-    "name": "盛夏的告别",
-    "type": "剧情片",
-    "category": "剧情,家庭,情感,青春,少儿",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260801-1/12cc9fe3982c8d30c01eb388a1401cd2.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-01 21:31:05"
   }
 ]

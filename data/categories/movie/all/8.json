@@ -1,5 +1,29 @@
 [
   {
+    "id": 142299,
+    "name": "愚蠢的国家",
+    "type": "惊悚片",
+    "category": "惊悚",
+    "year": "2024",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/d7f03fbed71d981e2ea5e6b3306c1229.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-05 14:36:57"
+  },
+  {
+    "id": 142298,
+    "name": "僵尸泰德",
+    "type": "喜剧片",
+    "category": "喜剧,爱情,恐怖",
+    "year": "2018",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/bd12412f50445cd1e1752eb40d457f2e.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-05 14:31:42"
+  },
+  {
     "id": 142297,
     "name": "像男人一样死去 2022",
     "type": "剧情片",
@@ -574,29 +598,5 @@
     "score": "6.4",
     "remarks": "正片",
     "update_time": "2026-08-04 16:43:47"
-  },
-  {
-    "id": 51730,
-    "name": "降龙神掌苏乞儿2",
-    "type": "动作片",
-    "category": "动作",
-    "year": "2020",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250107-19/50936f55586bf35d0f772ad930f32547.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-04 16:41:28"
-  },
-  {
-    "id": 52179,
-    "name": "名世恋人",
-    "type": "爱情片",
-    "category": "爱情",
-    "year": "2020",
-    "area": "印度",
-    "poster": "https://dbzy5.com/upload/vod/20250107-18/e63a9a984ad36528fcf3f964156314e2.jpg",
-    "score": "5.7",
-    "remarks": "正片",
-    "update_time": "2026-08-04 16:07:15"
   }
 ]

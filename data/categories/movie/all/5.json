@@ -1,5 +1,29 @@
 [
   {
+    "id": 143908,
+    "name": "推理竞技场",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260814-1/4417ab57e300f22a6f5e35be08280243.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-14 22:28:22"
+  },
+  {
+    "id": 143896,
+    "name": "狂兽翔空",
+    "type": "剧情片",
+    "category": "剧情,冒险,运动",
+    "year": "2026",
+    "area": "西班牙",
+    "poster": "https://dbzy5.com/upload/vod/20260814-1/df357379298e2e37d0f41ca2388f5381.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-14 21:48:53"
+  },
+  {
     "id": 143894,
     "name": "去你的岛",
     "type": "动漫电影",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-11 17:25:26"
-  },
-  {
-    "id": 143331,
-    "name": "国家公诉人",
-    "type": "剧情片",
-    "category": "剧情,历史",
-    "year": "2025",
-    "area": "法国,德国,荷兰,拉脱维亚,罗马尼亚,立",
-    "poster": "https://dbzy5.com/upload/vod/20260811-1/ed802ef70ad23d912830f94fe7ae3054.jpg",
-    "score": "6.7",
-    "remarks": "正片",
-    "update_time": "2026-08-11 17:21:36"
-  },
-  {
-    "id": 143330,
-    "name": "后李 2025",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2025",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260811-1/a4b5329c977ea43a44acd33227bc8b77.jpg",
-    "score": "5.0",
-    "remarks": "第2集完结",
-    "update_time": "2026-08-11 17:17:13"
   }
 ]

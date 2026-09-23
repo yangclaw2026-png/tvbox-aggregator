@@ -1,5 +1,29 @@
 [
   {
+    "id": 51730,
+    "name": "降龙神掌苏乞儿2",
+    "type": "动作片",
+    "category": "动作",
+    "year": "2020",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250107-19/50936f55586bf35d0f772ad930f32547.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-04 16:41:28"
+  },
+  {
+    "id": 52179,
+    "name": "名世恋人",
+    "type": "爱情片",
+    "category": "爱情",
+    "year": "2020",
+    "area": "印度",
+    "poster": "https://dbzy5.com/upload/vod/20250107-18/e63a9a984ad36528fcf3f964156314e2.jpg",
+    "score": "5.7",
+    "remarks": "正片",
+    "update_time": "2026-08-04 16:07:15"
+  },
+  {
     "id": 142140,
     "name": "诃利和湿婆",
     "type": "剧情片",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-03 15:46:34"
-  },
-  {
-    "id": 141988,
-    "name": "异形 2026",
-    "type": "恐怖片",
-    "category": "恐怖",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/1c8caa8f8d9a8efdcc737d89626afeb2.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-03 15:44:40"
-  },
-  {
-    "id": 141983,
-    "name": "M&amp;M：购物中心越热闹越好",
-    "type": "喜剧片",
-    "category": "喜剧,奇幻",
-    "year": "2019",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/ae21fe2173a41640b576ff0dba079767.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-03 15:43:49"
   }
 ]

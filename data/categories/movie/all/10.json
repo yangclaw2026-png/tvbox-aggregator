@@ -1,5 +1,29 @@
 [
   {
+    "id": 141988,
+    "name": "异形 2026",
+    "type": "恐怖片",
+    "category": "恐怖",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260803-1/1c8caa8f8d9a8efdcc737d89626afeb2.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-03 15:44:40"
+  },
+  {
+    "id": 141983,
+    "name": "M&amp;M：购物中心越热闹越好",
+    "type": "喜剧片",
+    "category": "喜剧,奇幻",
+    "year": "2019",
+    "area": "菲律宾",
+    "poster": "https://dbzy5.com/upload/vod/20260803-1/ae21fe2173a41640b576ff0dba079767.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-03 15:43:49"
+  },
+  {
     "id": 141985,
     "name": "我爱你，冤家",
     "type": "喜剧片",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-02 19:32:23"
-  },
-  {
-    "id": 141919,
-    "name": "一封圣诞信的自白",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2024",
-    "area": "美国,加拿大",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/ebd71d18a31cbcca11b65f55987c91b3.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-02 19:27:38"
-  },
-  {
-    "id": 141918,
-    "name": "处决",
-    "type": "剧情片",
-    "category": "冒险,剧情",
-    "year": "2024",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/e9e6a28d20b1933878dba335e50e88a1.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-02 19:23:05"
   }
 ]

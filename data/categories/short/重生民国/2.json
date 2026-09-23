@@ -1,5 +1,17 @@
 [
   {
+    "id": 143167,
+    "name": "重生武大郎",
+    "type": "重生民国",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260810-1/5c4d1663351b0959e6d62fd04448e3dd.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-11 18:36:24"
+  },
+  {
     "id": 140503,
     "name": "重生到老婆女儿惨死前",
     "type": "重生民国",
@@ -190,41 +202,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-02 16:02:00"
-  },
-  {
-    "id": 140740,
-    "name": "重生替嫁：九王爷他不装了",
-    "type": "重生民国",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260724-1/2503ae4de8541c113fb73aabeb8f67a8.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-01 21:42:51"
-  },
-  {
-    "id": 140738,
-    "name": "重生选妃宴，我把太子妃位让给仇人",
-    "type": "重生民国",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260724-1/9015a0a3a911d16a1e3bfd41664c9473.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-01 21:41:33"
-  },
-  {
-    "id": 140733,
-    "name": "小公爷，夫人带着前世记忆重生救府",
-    "type": "重生民国",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260724-1/04c381899a935749e94cc05eb7471c84.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-01 21:38:12"
   }
 ]

@@ -1,5 +1,29 @@
 [
   {
+    "id": 146171,
+    "name": "夏天的照相机",
+    "type": "剧情片",
+    "category": "剧情,同性",
+    "year": "2025",
+    "area": "韩国",
+    "poster": "https://dbzy5.com/upload/vod/20260827-1/de80ea24110e757ec82c105fca13cc34.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-27 15:01:42"
+  },
+  {
+    "id": 145711,
+    "name": "漫长的显影",
+    "type": "纪录片",
+    "category": "纪录片,探索",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260825-1/ffce4caeb65fe2308dbd54e12b2f0385.jpg",
+    "score": "5.0",
+    "remarks": "第4集",
+    "update_time": "2026-08-27 14:13:23"
+  },
+  {
     "id": 146137,
     "name": "门捷列夫很忙 第二季",
     "type": "纪录片",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-23 12:51:47"
-  },
-  {
-    "id": 145368,
-    "name": "入夜不再",
-    "type": "恐怖片",
-    "category": "惊悚 ，恐怖",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260823-1/c4128e6b666272ca3fa0c13f05b98771.jpg",
-    "score": "5.0",
-    "remarks": "抢先版",
-    "update_time": "2026-08-23 00:27:03"
-  },
-  {
-    "id": 145367,
-    "name": "第二届世界人形机器人运动会",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260822-1/ab92fa42fe33e28ca3b3c2ff085a4822.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-22 23:29:42"
   }
 ]
