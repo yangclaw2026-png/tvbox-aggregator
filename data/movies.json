@@ -3093,7 +3093,23 @@
     "content": "",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd17.ajupf.com/20260917/RpZi0LMC/index.m3u8$$$第01集$https://vodcnd17.ajupf.com/share/7JXm0RpRbY",
-    "update_time": "2026-09-17 22:55:13"
+    "update_time": "2026-09-17 22:55:13",
+    "play_sources": [
+      {
+        "source": "索尼资源",
+        "source_id": 155094,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "更新至02集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 163188,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第2集"
+      }
+    ]
   },
   {
     "id": 150048,
@@ -24636,6 +24652,13 @@
         "play_from": "lzm3u8",
         "play_url": null,
         "remarks": "更新至第09集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 151562,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第12集"
       }
     ]
   },
@@ -29693,6 +29716,13 @@
         "play_from": "lzm3u8",
         "play_url": null,
         "remarks": "更新至第47集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 113103,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第50集"
       }
     ]
   },
@@ -102697,6 +102727,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "正片"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 163450,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至HD"
       }
     ]
   },
