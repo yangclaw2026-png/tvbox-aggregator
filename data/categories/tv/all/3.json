@@ -1,5 +1,17 @@
 [
   {
+    "id": 135575,
+    "name": "无尽雨季",
+    "type": "泰国剧",
+    "category": "爱情",
+    "year": "2025",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260608-1/8b86dea114c72083d189e68a52fc2f75.jpg",
+    "score": "5.0",
+    "remarks": "第11集",
+    "update_time": "2026-08-25 20:26:25"
+  },
+  {
     "id": 142022,
     "name": "我的夏日实习",
     "type": "泰国剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第20集完结",
     "update_time": "2026-08-23 12:35:50"
-  },
-  {
-    "id": 104486,
-    "name": "假面骑士ZEZTZ",
-    "type": "日本剧",
-    "category": "剧情,动作,科幻",
-    "year": "2025",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20250907-1/ca520395da4a32076bfdf1492e30313b.jpg",
-    "score": "5.0",
-    "remarks": "第49集",
-    "update_time": "2026-08-23 11:57:54"
   }
 ]

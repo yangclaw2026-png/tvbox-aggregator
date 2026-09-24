@@ -1,5 +1,17 @@
 [
   {
+    "id": 149227,
+    "name": "要我和你交往也不是不行",
+    "type": "日本剧",
+    "category": "剧情,爱情,同性",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260912-1/43bbf88696ea9ecdefee9bfedd3c6c7c.jpg",
+    "score": "5.0",
+    "remarks": "第2集",
+    "update_time": "2026-09-24 23:06:32"
+  },
+  {
     "id": 141892,
     "name": "东京三十而已",
     "type": "日本剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第7集",
     "update_time": "2026-08-16 13:04:25"
-  },
-  {
-    "id": 140821,
-    "name": "八神瑛子：上野中央署组织犯罪对策课 八神瑛子",
-    "type": "日本剧",
-    "category": "悬疑,犯罪",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260725-1/74327c9f3f098380f47bdf3672946b47.jpg",
-    "score": "5.0",
-    "remarks": "第5集完结",
-    "update_time": "2026-08-15 21:44:52"
   }
 ]

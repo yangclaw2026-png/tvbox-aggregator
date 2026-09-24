@@ -1,5 +1,17 @@
 [
   {
+    "id": 104486,
+    "name": "假面骑士ZEZTZ",
+    "type": "日本剧",
+    "category": "剧情,动作,科幻",
+    "year": "2025",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20250907-1/ca520395da4a32076bfdf1492e30313b.jpg",
+    "score": "5.0",
+    "remarks": "第49集",
+    "update_time": "2026-08-23 11:57:54"
+  },
+  {
     "id": 140911,
     "name": "律政节拍：逆转法庭",
     "type": "日本剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第6集完结",
     "update_time": "2026-08-21 11:41:26"
-  },
-  {
-    "id": 145025,
-    "name": "平凡的乔 第二季",
-    "type": "欧美剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260820-1/bba242feb55607fdec8d59b4c3bd61a9.jpg",
-    "score": "5.0",
-    "remarks": "第2集",
-    "update_time": "2026-08-20 23:54:01"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 145025,
+    "name": "平凡的乔 第二季",
+    "type": "欧美剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260820-1/bba242feb55607fdec8d59b4c3bd61a9.jpg",
+    "score": "5.0",
+    "remarks": "第2集",
+    "update_time": "2026-08-20 23:54:01"
+  },
+  {
     "id": 134708,
     "name": "“皮行者牧场”的秘密 第七季",
     "type": "欧美剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第30集完结",
     "update_time": "2026-08-13 18:46:06"
-  },
-  {
-    "id": 142648,
-    "name": "吾凰在上之凤御四方",
-    "type": "国产剧",
-    "category": "爱情,短片,奇幻,古装",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260807-1/67e6554bd2aa5a7ea725a8ccbdd501c9.jpg",
-    "score": "5.0",
-    "remarks": "第16集",
-    "update_time": "2026-08-13 14:37:28"
   }
 ]

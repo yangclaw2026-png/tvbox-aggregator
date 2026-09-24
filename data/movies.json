@@ -1,5 +1,31 @@
 [
   {
+    "id": 149227,
+    "name": "要我和你交往也不是不行",
+    "type": "日本剧",
+    "year": "2026",
+    "area": "日本",
+    "language": "日语",
+    "category": "剧情,爱情,同性",
+    "poster": "https://dbzy5.com/upload/vod/20260912-1/43bbf88696ea9ecdefee9bfedd3c6c7c.jpg",
+    "douban_id": 38544583,
+    "score": "5.0",
+    "remarks": "第2集",
+    "content": "<p>大学生犬冢美和渴望爱情，却从未有过成功的恋爱经历。即使喜欢上某人，她也迈不出第一步；即使迈出了第一步，也无法完全表达自己的感情。她有些无奈地接受了现状，开始了大学生活。在大学期间，她在轻音乐社遇到了猿渡冴子，一个开朗外向、善于与人保持距离的女孩。两人性格和思维方式截然相反，但有一天，她们发现彼此有一个共同的兴趣：她们都喜欢女生。意识到这种共同点的难得，冴子随意地问道：“要不要试试交往？”，两人就这样开始了恋爱。这段一时冲动的恋情，起初轻松愉快，充满新鲜感。然而，随着关系的逐渐加深，她们的价值观、焦虑和渴望也逐渐显露出来。</p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01集$https://vodcnd17.ajupf.com/20260911/gtUsGOJd/index.m3u8#第02集$https://vodcnd17.ajupf.com/20260924/jHeBkBel/index.m3u8$$$第01集$https://vodcnd17.ajupf.com/share/VUosZZt049#第02集$https://vodcnd17.ajupf.com/share/gIPJKWgF1D",
+    "update_time": "2026-09-24 23:06:32",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 149558,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第2集"
+      }
+    ]
+  },
+  {
     "id": 151030,
     "name": "在大乾开便利店",
     "type": "AI短剧",
@@ -128989,22 +129015,5 @@
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd16.ajupf.com/20260721/jI0uB5e9/index.m3u8$$$全集完结$https://vodcnd16.ajupf.com/share/BGs63VIkCV",
     "update_time": "2026-08-01 22:00:10"
-  },
-  {
-    "id": 140629,
-    "name": "罗生",
-    "type": "现代都市",
-    "year": "2026",
-    "area": "中国大陆",
-    "language": "汉语普通话",
-    "category": "短剧",
-    "poster": "https://dbzy5.com/upload/vod/20260723-1/6ac11bca47a6657f8c26b35f579b67aa.jpg",
-    "douban_id": 0,
-    "score": "0.0",
-    "remarks": "全集完结",
-    "content": "<p>真相往往隐藏在层层迷雾之后，人性在极端环境下究竟会暴露出何种面貌？该剧以紧凑节奏和悬疑氛围牢牢抓住观众眼球。黄宇炯和陈哲的精彩对手戏，让每一个眼神都充满张力。剧情跌宕起伏，多重反转令人拍案叫绝，探讨正义与邪恶的边界。短短三十集，全程无尿点，烧脑情节层层递进，带你体验一场智力与情感的双重冲击，感受人性深处的复杂与挣扎，极具观赏价值。</p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "全集完结$https://vodcnd16.ajupf.com/20260721/tCHmUpWg/index.m3u8$$$全集完结$https://vodcnd16.ajupf.com/share/K5Zrhbbrlu",
-    "update_time": "2026-08-01 21:59:30"
   }
 ]

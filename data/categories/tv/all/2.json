@@ -1,5 +1,17 @@
 [
   {
+    "id": 142641,
+    "name": "新男友",
+    "type": "泰国剧",
+    "category": "爱情,同性",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260807-1/c1338d0426217595bd82f58011684e45.jpg",
+    "score": "5.0",
+    "remarks": "第4集",
+    "update_time": "2026-08-27 15:11:44"
+  },
+  {
     "id": 145957,
     "name": "光点",
     "type": "泰国剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第6集",
     "update_time": "2026-08-25 20:29:40"
-  },
-  {
-    "id": 135575,
-    "name": "无尽雨季",
-    "type": "泰国剧",
-    "category": "爱情",
-    "year": "2025",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260608-1/8b86dea114c72083d189e68a52fc2f75.jpg",
-    "score": "5.0",
-    "remarks": "第11集",
-    "update_time": "2026-08-25 20:26:25"
   }
 ]

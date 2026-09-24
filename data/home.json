@@ -1,5 +1,17 @@
 [
   {
+    "id": 149227,
+    "name": "要我和你交往也不是不行",
+    "type": "日本剧",
+    "category": "剧情,爱情,同性",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260912-1/43bbf88696ea9ecdefee9bfedd3c6c7c.jpg",
+    "score": "5.0",
+    "remarks": "第2集",
+    "update_time": "2026-09-24 23:06:32"
+  },
+  {
     "id": 151030,
     "name": "在大乾开便利店",
     "type": "AI短剧",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-09-23 17:45:20"
-  },
-  {
-    "id": 150993,
-    "name": "穿书七十年代，吃瓜群众的自我修养第三季",
-    "type": "AI短剧",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260923-1/b9bf4a99deaa9ed197d62f25a595136a.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-09-23 17:44:48"
   }
 ]

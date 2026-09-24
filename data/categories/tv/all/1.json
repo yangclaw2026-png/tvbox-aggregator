@@ -1,5 +1,17 @@
 [
   {
+    "id": 149227,
+    "name": "要我和你交往也不是不行",
+    "type": "日本剧",
+    "category": "剧情,爱情,同性",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260912-1/43bbf88696ea9ecdefee9bfedd3c6c7c.jpg",
+    "score": "5.0",
+    "remarks": "第2集",
+    "update_time": "2026-09-24 23:06:32"
+  },
+  {
     "id": 149762,
     "name": "审判萨达姆",
     "type": "欧美剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第106集",
     "update_time": "2026-08-27 15:34:16"
-  },
-  {
-    "id": 142641,
-    "name": "新男友",
-    "type": "泰国剧",
-    "category": "爱情,同性",
-    "year": "2026",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260807-1/c1338d0426217595bd82f58011684e45.jpg",
-    "score": "5.0",
-    "remarks": "第4集",
-    "update_time": "2026-08-27 15:11:44"
   }
 ]
