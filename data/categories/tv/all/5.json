@@ -1,5 +1,29 @@
 [
   {
+    "id": 143888,
+    "name": "寒冷 2026",
+    "type": "海外剧",
+    "category": "剧情,动作,惊悚,犯罪",
+    "year": "2026",
+    "area": "俄罗斯",
+    "poster": "https://dbzy5.com/upload/vod/20260814-1/1339e57016b4292a7fe09d88059d4152.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-08-21 11:42:34"
+  },
+  {
+    "id": 132212,
+    "name": "哈达克一家 第二季",
+    "type": "欧美剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "英国,爱尔兰",
+    "poster": "https://dbzy5.com/upload/vod/20260516-1/1f344ad4bc21ff109b68ae8166b75fff.jpg",
+    "score": "5.0",
+    "remarks": "第6集完结",
+    "update_time": "2026-08-21 11:41:26"
+  },
+  {
     "id": 145025,
     "name": "平凡的乔 第二季",
     "type": "欧美剧",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第6集完结",
     "update_time": "2026-08-13 21:36:03"
-  },
-  {
-    "id": 136458,
-    "name": "替名情臻",
-    "type": "泰国剧",
-    "category": "剧情,爱情,历史",
-    "year": "2026",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260614-1/e14800c022062cd549c22f9dd0b909a2.jpg",
-    "score": "5.0",
-    "remarks": "第19集完结",
-    "update_time": "2026-08-13 18:46:52"
-  },
-  {
-    "id": 139032,
-    "name": "黑珊瑚",
-    "type": "泰国剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260708-1/3a4d51ae723bac72a75bcc4f86b3fbc1.jpg",
-    "score": "5.0",
-    "remarks": "第30集完结",
-    "update_time": "2026-08-13 18:46:06"
   }
 ]

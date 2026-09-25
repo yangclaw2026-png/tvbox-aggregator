@@ -1,5 +1,29 @@
 [
   {
+    "id": 146220,
+    "name": "黑沙",
+    "type": "国产剧",
+    "category": "悬疑",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260827-1/94a07881bab90099633ef0e959e0829b.jpg",
+    "score": "5.0",
+    "remarks": "第14集完结",
+    "update_time": "2026-08-27 16:25:08"
+  },
+  {
+    "id": 126771,
+    "name": "我们愉快的好日子",
+    "type": "韩剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "韩国",
+    "poster": "https://dbzy5.com/upload/vod/20260331-1/81d6defc4141158c6454a9017b29d445.jpg",
+    "score": "5.0",
+    "remarks": "第106集",
+    "update_time": "2026-08-27 15:34:16"
+  },
+  {
     "id": 142641,
     "name": "新男友",
     "type": "泰国剧",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第12集",
     "update_time": "2026-08-25 20:56:11"
-  },
-  {
-    "id": 143814,
-    "name": "寒衣入心",
-    "type": "国产剧",
-    "category": "剧情,爱情,古装",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260814-1/8694178fbbe1b804e638371af2271893.jpg",
-    "score": "5.0",
-    "remarks": "第24集完结",
-    "update_time": "2026-08-25 20:54:21"
-  },
-  {
-    "id": 144432,
-    "name": "珍爱 2026",
-    "type": "泰国剧",
-    "category": "剧情,爱情,家庭",
-    "year": "2026",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260818-1/2aa46ad6c5b4d3030446240712344e48.jpg",
-    "score": "5.0",
-    "remarks": "第6集",
-    "update_time": "2026-08-25 20:29:40"
   }
 ]

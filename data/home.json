@@ -1,5 +1,29 @@
 [
   {
+    "id": 146394,
+    "name": "人生复本 第二季",
+    "type": "欧美剧",
+    "category": "科幻",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260828-1/7406aaa8c367458744810a87fae90b4a.jpg",
+    "score": "5.0",
+    "remarks": "第5集",
+    "update_time": "2026-09-26 00:37:45"
+  },
+  {
+    "id": 150184,
+    "name": "黑帮领地 第二季",
+    "type": "欧美剧",
+    "category": "剧情,犯罪",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260918-1/2dabce0390077f8d1e56a02923433e26.jpg",
+    "score": "5.0",
+    "remarks": "第2集",
+    "update_time": "2026-09-26 00:36:42"
+  },
+  {
     "id": 149227,
     "name": "要我和你交往也不是不行",
     "type": "日本剧",
@@ -574,29 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-09-23 17:46:25"
-  },
-  {
-    "id": 150996,
-    "name": "夫人别凶，小侯爷乖乖受宠",
-    "type": "AI短剧",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260923-1/af2a758a656f7ffb26b146c38ebc81b0.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-09-23 17:45:51"
-  },
-  {
-    "id": 150995,
-    "name": "此生良辰，憨憨女友暴击我",
-    "type": "AI短剧",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260923-1/9bd9fb6a97decd044cd34bf09225f8eb.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-09-23 17:45:20"
   }
 ]

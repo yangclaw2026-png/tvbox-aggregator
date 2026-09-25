@@ -1,5 +1,57 @@
 [
   {
+    "id": 146394,
+    "name": "人生复本 第二季",
+    "type": "欧美剧",
+    "year": "2026",
+    "area": "美国",
+    "language": "英语",
+    "category": "科幻",
+    "poster": "https://dbzy5.com/upload/vod/20260828-1/7406aaa8c367458744810a87fae90b4a.jpg",
+    "douban_id": 36850912,
+    "score": "5.0",
+    "remarks": "第5集",
+    "content": "<p>在第二季中，Dessen一家终于在一个看似安全的世界里安顿了下来，过着平静的生活，直到难以想象的变故迫使他们再次逃亡。随着Jason对“盒子”的痴迷日益加深，Daniela心中日渐增长的偏执将她逼至崩溃边缘，一切都威胁着他们本就脆弱的安定。与此同时，Amanda和Ryan联手，竭力寻找回家的办法。面对势必要阻止自己的Blair，Leighton执着地追逐着创造完美世界的宏伟愿景。</p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01集$https://vodcnd17.ajupf.com/20260828/mP1VR6ra/index.m3u8#第02集$https://vodcnd17.ajupf.com/20260904/snXxpi2P/index.m3u8#第03集$https://vodcnd17.ajupf.com/20260911/FD4q8e00/index.m3u8#第04集$https://vodcnd17.ajupf.com/20260918/5YesUcVV/index.m3u8#第05集$https://vodcnd17.ajupf.com/20260925/MyefAswf/index.m3u8$$$第01集$https://vodcnd17.ajupf.com/share/KTflMv5Brz#第02集$https://vodcnd17.ajupf.com/share/dWn4YeMy6j#第03集$https://vodcnd17.ajupf.com/share/M63kWhZuwL#第04集$https://vodcnd17.ajupf.com/share/AeezlCEySe#第05集$https://vodcnd17.ajupf.com/share/jSPcxm3Luz",
+    "update_time": "2026-09-26 00:37:45",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 146736,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第5集"
+      }
+    ]
+  },
+  {
+    "id": 150184,
+    "name": "黑帮领地 第二季",
+    "type": "欧美剧",
+    "year": "2026",
+    "area": "美国",
+    "language": "英语",
+    "category": "剧情,犯罪",
+    "poster": "https://dbzy5.com/upload/vod/20260918-1/2dabce0390077f8d1e56a02923433e26.jpg",
+    "douban_id": 37403692,
+    "score": "5.0",
+    "remarks": "第2集",
+    "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">北伦敦最大的黑帮家族——哈里根家族正处于内战边缘，而他们的对手也察觉到了。随着哈里根家族内部的紧张局势不断升级，他们的“斡旋者”哈里·达·索萨（汤姆·哈迪 饰）成了唯一能阻止家族分崩离析的人。</span>&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01集$https://vodcnd16.ajupf.com/20260918/QKWBQcHk/index.m3u8#第02集$https://vodcnd17.ajupf.com/20260925/Qat2YZiE/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/YryJqTfxWD#第02集$https://vodcnd17.ajupf.com/share/RCtAcddpuw",
+    "update_time": "2026-09-26 00:36:42",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 150509,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第2集"
+      }
+    ]
+  },
+  {
     "id": 149227,
     "name": "要我和你交往也不是不行",
     "type": "日本剧",
@@ -8261,6 +8313,13 @@
         "source_id": 158442,
         "play_from": "subyun,subm3u8",
         "play_url": null,
+        "remarks": "第6集"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 217949,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
         "remarks": "第6集"
       }
     ]
@@ -59212,6 +59271,13 @@
         "play_from": "hnm3u8",
         "play_url": null,
         "remarks": "第8集"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 116208,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第11集"
       }
     ]
   },
@@ -129034,39 +129100,5 @@
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd16.ajupf.com/20260721/cQ1i3Z24/index.m3u8$$$全集完结$https://vodcnd16.ajupf.com/share/TempLxkpsm",
     "update_time": "2026-08-01 22:01:57"
-  },
-  {
-    "id": 140633,
-    "name": "错认网恋对象后心动",
-    "type": "现代都市",
-    "year": "2026",
-    "area": "中国大陆",
-    "language": "汉语普通话",
-    "category": "短剧",
-    "poster": "https://dbzy5.com/upload/vod/20260723-1/c38a296df01912f33f9ea6b4cecd8536.jpg",
-    "douban_id": 0,
-    "score": "0.0",
-    "remarks": "全集完结",
-    "content": "<p><span style=\"color: #666666; font-family: Arial, sans-serif; font-size: 18px; background-color: #FFFFFF;\">误把高冷上司当网恋男友，这场乌龙情缘该如何收场？本剧由AI制作呈现，画面精致唯美。女主在虚拟与现实的交错中逐渐沦陷，男主则暗中守护步步为营。当身份揭晓那一刻，心跳同频的浪漫瞬间爆发。甜宠剧情跌宕起伏，反转不断，让人欲罢不能。看AI如何演绎这段从误解到深爱的都市奇缘，每一帧都充满惊喜，绝对不容错过。</span></p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "全集完结$https://vodcnd16.ajupf.com/20260721/dQ3KvpBu/index.m3u8$$$全集完结$https://vodcnd16.ajupf.com/share/8yc08SEs3M",
-    "update_time": "2026-08-01 22:00:37"
-  },
-  {
-    "id": 140631,
-    "name": "杀手老婆虽厉害，纨绔老公更无敌",
-    "type": "现代都市",
-    "year": "2026",
-    "area": "中国大陆",
-    "language": "汉语普通话",
-    "category": "短剧",
-    "poster": "https://dbzy5.com/upload/vod/20260723-1/dd9b7239ccaf573152a1b76bc135b4bc.jpg",
-    "douban_id": 0,
-    "score": "0.0",
-    "remarks": "全集完结",
-    "content": "<p><span style=\"color: #666666; font-family: Arial, sans-serif; font-size: 18px; background-color: #FFFFFF;\">表面是吃喝玩乐的纨绔子弟，实则是深藏不露的顶级强者！当冷酷杀手妻子遇上隐藏实力的老公，这对夫妻档简直炸裂。高凯与修雨秀演技在线，将反转剧情演绎得淋漓尽致。从被轻视到惊艳全场，打脸情节爽感十足，甜宠与动作完美结合。看他们如何联手横扫一切障碍，揭开彼此神秘身份，上演一场惊心动魄又甜蜜爆棚的爱恋大戏，绝对不容错过。</span></p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "全集完结$https://vodcnd16.ajupf.com/20260721/jI0uB5e9/index.m3u8$$$全集完结$https://vodcnd16.ajupf.com/share/BGs63VIkCV",
-    "update_time": "2026-08-01 22:00:10"
   }
 ]

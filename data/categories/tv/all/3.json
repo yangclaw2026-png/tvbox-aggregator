@@ -1,5 +1,29 @@
 [
   {
+    "id": 143814,
+    "name": "寒衣入心",
+    "type": "国产剧",
+    "category": "剧情,爱情,古装",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260814-1/8694178fbbe1b804e638371af2271893.jpg",
+    "score": "5.0",
+    "remarks": "第24集完结",
+    "update_time": "2026-08-25 20:54:21"
+  },
+  {
+    "id": 144432,
+    "name": "珍爱 2026",
+    "type": "泰国剧",
+    "category": "剧情,爱情,家庭",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260818-1/2aa46ad6c5b4d3030446240712344e48.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-08-25 20:29:40"
+  },
+  {
     "id": 135575,
     "name": "无尽雨季",
     "type": "泰国剧",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第5集",
     "update_time": "2026-08-23 13:32:00"
-  },
-  {
-    "id": 141889,
-    "name": "记忆管理局",
-    "type": "国产剧",
-    "category": "动作,科幻,动画,奇幻",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/a87804bbe4b989875e64cae17105499d.jpg",
-    "score": "5.0",
-    "remarks": "第6集",
-    "update_time": "2026-08-23 12:42:33"
-  },
-  {
-    "id": 145034,
-    "name": "兴安岭老猎人",
-    "type": "国产剧",
-    "category": "张浩,惊悚,悬疑,奇幻",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260821-1/bcf34fa9a0ec384ffcc376bf97d6a910.jpg",
-    "score": "5.0",
-    "remarks": "第20集完结",
-    "update_time": "2026-08-23 12:35:50"
   }
 ]

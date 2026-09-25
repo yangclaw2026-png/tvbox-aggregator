@@ -1,5 +1,29 @@
 [
   {
+    "id": 136458,
+    "name": "替名情臻",
+    "type": "泰国剧",
+    "category": "剧情,爱情,历史",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260614-1/e14800c022062cd549c22f9dd0b909a2.jpg",
+    "score": "5.0",
+    "remarks": "第19集完结",
+    "update_time": "2026-08-13 18:46:52"
+  },
+  {
+    "id": 139032,
+    "name": "黑珊瑚",
+    "type": "泰国剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260708-1/3a4d51ae723bac72a75bcc4f86b3fbc1.jpg",
+    "score": "5.0",
+    "remarks": "第30集完结",
+    "update_time": "2026-08-13 18:46:06"
+  },
+  {
     "id": 142648,
     "name": "吾凰在上之凤御四方",
     "type": "国产剧",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第2集完结",
     "update_time": "2026-08-06 12:43:40"
-  },
-  {
-    "id": 140545,
-    "name": "昭阳公主",
-    "type": "国产剧",
-    "category": "剧情,爱情,古装",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260723-1/6e71ccc037e2e290dbda9d7050142897.jpg",
-    "score": "5.0",
-    "remarks": "第18集",
-    "update_time": "2026-08-06 12:41:40"
-  },
-  {
-    "id": 142360,
-    "name": "波兰家族 第三季",
-    "type": "欧美剧",
-    "category": "喜剧",
-    "year": "2026",
-    "area": "波兰",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/afce7c81fedd42449a25e826d0f868b6.jpg",
-    "score": "5.0",
-    "remarks": "第8集完结",
-    "update_time": "2026-08-05 23:03:50"
   }
 ]

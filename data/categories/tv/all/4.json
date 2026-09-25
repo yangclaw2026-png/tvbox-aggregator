@@ -1,5 +1,29 @@
 [
   {
+    "id": 141889,
+    "name": "记忆管理局",
+    "type": "国产剧",
+    "category": "动作,科幻,动画,奇幻",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260802-1/a87804bbe4b989875e64cae17105499d.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-08-23 12:42:33"
+  },
+  {
+    "id": 145034,
+    "name": "兴安岭老猎人",
+    "type": "国产剧",
+    "category": "张浩,惊悚,悬疑,奇幻",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260821-1/bcf34fa9a0ec384ffcc376bf97d6a910.jpg",
+    "score": "5.0",
+    "remarks": "第20集完结",
+    "update_time": "2026-08-23 12:35:50"
+  },
+  {
     "id": 104486,
     "name": "假面骑士ZEZTZ",
     "type": "日本剧",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第5集",
     "update_time": "2026-08-21 11:45:11"
-  },
-  {
-    "id": 143888,
-    "name": "寒冷 2026",
-    "type": "海外剧",
-    "category": "剧情,动作,惊悚,犯罪",
-    "year": "2026",
-    "area": "俄罗斯",
-    "poster": "https://dbzy5.com/upload/vod/20260814-1/1339e57016b4292a7fe09d88059d4152.jpg",
-    "score": "5.0",
-    "remarks": "第6集",
-    "update_time": "2026-08-21 11:42:34"
-  },
-  {
-    "id": 132212,
-    "name": "哈达克一家 第二季",
-    "type": "欧美剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "英国,爱尔兰",
-    "poster": "https://dbzy5.com/upload/vod/20260516-1/1f344ad4bc21ff109b68ae8166b75fff.jpg",
-    "score": "5.0",
-    "remarks": "第6集完结",
-    "update_time": "2026-08-21 11:41:26"
   }
 ]
