@@ -3120,6 +3120,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第15集"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 218617,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第30集已完结"
       }
     ]
   },
@@ -67815,7 +67822,37 @@
     "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">故事讲述了李惠贞（陈意涵 饰）在狱中生下了女儿芸熙，却因故不得不和她分离。为了给即将离开的女儿留下美好回忆，惠贞决定组建一支合唱团。在排练与相处的过程中，不完美的她们彼此治愈，与过往和解，在爱与歌声中找到希望</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "正片$https://vodcnd17.ajupf.com/20260820/pmD8g6Oh/index.m3u8$$$正片$https://vodcnd17.ajupf.com/share/vFHO3LOEID",
-    "update_time": "2026-08-20 22:19:59"
+    "update_time": "2026-08-20 22:19:59",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 216394,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "正片"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 192270,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "正片"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 145342,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "正片"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 156886,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "正片"
+      }
+    ]
   },
   {
     "id": 144998,
