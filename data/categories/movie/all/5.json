@@ -1,5 +1,17 @@
 [
   {
+    "id": 143283,
+    "name": "数智化生存",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260811-1/bd99862b14db7248581f73391bfbcb49.jpg",
+    "score": "5.0",
+    "remarks": "第7集完结",
+    "update_time": "2026-08-15 13:00:12"
+  },
+  {
     "id": 143908,
     "name": "推理竞技场",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-11 17:29:15"
-  },
-  {
-    "id": 143333,
-    "name": "欢迎回家，宝贝",
-    "type": "惊悚片",
-    "category": "悬疑,惊悚",
-    "year": "2026",
-    "area": "奥地利,德国",
-    "poster": "https://dbzy5.com/upload/vod/20260811-1/ac938a3222651a4dca39336f31f62bf7.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-11 17:25:26"
   }
 ]

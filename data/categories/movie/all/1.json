@@ -1,5 +1,17 @@
 [
   {
+    "id": 140805,
+    "name": "花绿青绽放之日‎",
+    "type": "剧情片",
+    "category": "剧情 ，动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260725-1/a3717faf512904c62c4764e8cc9d516b.jpg",
+    "score": "6.0",
+    "remarks": "抢先版",
+    "update_time": "2026-09-27 19:30:18"
+  },
+  {
     "id": 151023,
     "name": "八面埋伏ี",
     "type": "动作片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-27 19:33:01"
-  },
-  {
-    "id": 146263,
-    "name": "世界战史 第四季",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260827-1/720b9128ec9d50c5ccd98261e2b9f896.jpg",
-    "score": "0.0",
-    "remarks": "第2集",
-    "update_time": "2026-08-27 18:41:01"
   }
 ]

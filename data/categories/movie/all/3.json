@@ -1,5 +1,17 @@
 [
   {
+    "id": 145370,
+    "name": "第九层反转",
+    "type": "惊悚片",
+    "category": "惊悚",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260823-1/68a64f590bdaf2b077fe9a67bf9e2d68.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-23 12:51:47"
+  },
+  {
     "id": 145368,
     "name": "入夜不再",
     "type": "恐怖片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-19 22:25:40"
-  },
-  {
-    "id": 132207,
-    "name": "机动战士高达 闪光的哈萨维 喀耳刻的魔女",
-    "type": "动漫电影",
-    "category": "剧情,科幻,动画,战争",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260516-1/fd8b991958d82a69b9c6d5ebbdfc5e8d.jpg",
-    "score": "8.2",
-    "remarks": "抢先版",
-    "update_time": "2026-08-19 21:41:58"
   }
 ]

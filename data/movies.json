@@ -1,5 +1,22 @@
 [
   {
+    "id": 140805,
+    "name": "花绿青绽放之日‎",
+    "type": "剧情片",
+    "year": "2026",
+    "area": "日本",
+    "language": "日语",
+    "category": "剧情 ，动画",
+    "poster": "https://dbzy5.com/upload/vod/20260725-1/a3717faf512904c62c4764e8cc9d516b.jpg",
+    "douban_id": 36872791,
+    "score": "6.0",
+    "remarks": "抢先版",
+    "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">在绿意盎然的森林深处，有一家名为“带刀烟火店”的烟花工厂，因小镇重新开发，该工厂被迫面临拆迁，带刀敬太郎已经在这里坚持了四年，代替失踪的父亲，专注于制作被称为“幻之烟花”的＜守破离＞，希望将其完成</span></p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01集$https://vodcnd17.ajupf.com/20260927/3aHhZWou/index.m3u8$$$第01集$https://vodcnd17.ajupf.com/share/rM1DAcmmgn",
+    "update_time": "2026-09-27 19:30:18"
+  },
+  {
     "id": 151209,
     "name": "御狐",
     "type": "AI短剧",
@@ -49798,6 +49815,20 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第9集"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 172297,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第12集完结"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 115177,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第12集完结"
       }
     ]
   },
@@ -129127,22 +129158,5 @@
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd16.ajupf.com/20260721/MtSKhtcx/index.m3u8$$$全集完结$https://vodcnd16.ajupf.com/share/XO9fD87XVx",
     "update_time": "2026-08-01 22:03:24"
-  },
-  {
-    "id": 140637,
-    "name": "巧手养战神甜宠日常",
-    "type": "古装仙侠",
-    "year": "2026",
-    "area": "中国大陆",
-    "language": "汉语普通话",
-    "category": "短剧",
-    "poster": "https://dbzy5.com/upload/vod/20260723-1/d4b31b825b312ec468f2406a6e9878c6.jpg",
-    "douban_id": 0,
-    "score": "0.0",
-    "remarks": "全集完结",
-    "content": "<p><span style=\"color: #666666; font-family: Arial, sans-serif; font-size: 18px; background-color: #FFFFFF;\">当柔弱女子遇上落魄战神，会擦出怎样的火花？这部AI短剧以独特的视角讲述温馨治愈故事。女主凭借一双巧手，不仅照顾好了战神的饮食起居，更温暖了他冰冷的心。剧情融合了种田文的平淡幸福与战神归来的热血元素，甜度爆表。八十年长篇幅细细描绘两人感情升温过程，适合喜欢慢热甜宠和日常互动的观众观看。</span></p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "全集完结$https://vodcnd16.ajupf.com/20260721/tKZ1c9YR/index.m3u8$$$全集完结$https://vodcnd16.ajupf.com/share/lcdW7yErRh",
-    "update_time": "2026-08-01 22:02:48"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 141990,
+    "name": "血与锈",
+    "type": "恐怖片",
+    "category": "恐怖,冒险",
+    "year": "2025",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260803-1/115bc95d6bd4a7455d69f9c9a055746e.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-03 15:46:34"
+  },
+  {
     "id": 141988,
     "name": "异形 2026",
     "type": "恐怖片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-02 19:59:03"
-  },
-  {
-    "id": 141920,
-    "name": "死了都要美2016",
-    "type": "剧情片",
-    "category": "剧情,喜剧",
-    "year": "2016",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/6f87df2cb2e6d14c01fb5957cc1c7880.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-02 19:32:23"
   }
 ]

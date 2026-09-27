@@ -1,5 +1,17 @@
 [
   {
+    "id": 132207,
+    "name": "机动战士高达 闪光的哈萨维 喀耳刻的魔女",
+    "type": "动漫电影",
+    "category": "剧情,科幻,动画,战争",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260516-1/fd8b991958d82a69b9c6d5ebbdfc5e8d.jpg",
+    "score": "8.2",
+    "remarks": "抢先版",
+    "update_time": "2026-08-19 21:41:58"
+  },
+  {
     "id": 44218,
     "name": "瑞士军刀男",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-15 13:09:30"
-  },
-  {
-    "id": 143283,
-    "name": "数智化生存",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260811-1/bd99862b14db7248581f73391bfbcb49.jpg",
-    "score": "5.0",
-    "remarks": "第7集完结",
-    "update_time": "2026-08-15 13:00:12"
   }
 ]

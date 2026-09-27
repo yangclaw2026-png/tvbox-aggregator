@@ -1,5 +1,17 @@
 [
   {
+    "id": 142349,
+    "name": "凸槌三兄弟2",
+    "type": "喜剧片",
+    "category": "喜剧",
+    "year": "2021",
+    "area": "菲律宾",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/1a1486ba39fa849e47b78d1f2c7cc92e.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-05 17:45:08"
+  },
+  {
     "id": 142348,
     "name": "愚蠢的爱",
     "type": "喜剧片",
@@ -586,17 +598,5 @@
     "score": "6.6",
     "remarks": "正片",
     "update_time": "2026-08-05 14:45:12"
-  },
-  {
-    "id": 142300,
-    "name": "反抗者罗宾汉",
-    "type": "动作片",
-    "category": "动作,历史",
-    "year": "2018",
-    "area": "英国",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/b10f7ca3bbc0943fa37545fda03b8c7c.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-05 14:40:50"
   }
 ]

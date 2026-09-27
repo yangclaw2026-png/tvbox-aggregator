@@ -1,5 +1,17 @@
 [
   {
+    "id": 63488,
+    "name": "龙纹身的女孩",
+    "type": "剧情片",
+    "category": "剧情,悬疑,惊悚,犯罪",
+    "year": "2011",
+    "area": "美国,瑞典,挪威",
+    "poster": "https://dbzy5.com/upload/vod/20250107-7/c973ba1ada0a7f8a8d07a5e534b57be9.jpg",
+    "score": "8.1",
+    "remarks": "正片",
+    "update_time": "2026-08-16 19:00:55"
+  },
+  {
     "id": 144022,
     "name": "唯有美好",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-05 16:53:51"
-  },
-  {
-    "id": 142339,
-    "name": "这里那里",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2021",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/acd54a2903bf16be3d66798df057d0af.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-05 16:51:25"
   }
 ]
