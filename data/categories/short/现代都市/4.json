@@ -1,5 +1,17 @@
 [
   {
+    "id": 147746,
+    "name": "窄巷有光",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260904-1/e30f90d218f7f8e4b318d3ae5cf505b5.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-09-04 22:42:44"
+  },
+  {
     "id": 147743,
     "name": "岁月生珠",
     "type": "现代都市",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-28 22:58:09"
-  },
-  {
-    "id": 146449,
-    "name": "紫袍僵王，我有一锤可镇万妖",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260828-1/ba3102b90d86264585b73b1715702e05.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-28 22:55:28"
   }
 ]

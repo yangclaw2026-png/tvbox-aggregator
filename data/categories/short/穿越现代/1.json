@@ -1,5 +1,17 @@
 [
   {
+    "id": 151343,
+    "name": "穿越未来二十年，我开启情绪收集系统",
+    "type": "穿越现代",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260927-1/412d0e75477b1fb6cb1996759f155645.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-09-27 23:00:54"
+  },
+  {
     "id": 150057,
     "name": "穿越农女捡个王爷来种田第二季",
     "type": "穿越现代",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-11 22:42:14"
-  },
-  {
-    "id": 143191,
-    "name": "穿书三女闯商途",
-    "type": "穿越现代",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260810-1/6eb880cd7c2357d46ac658cf4e0d6768.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-11 18:27:04"
   }
 ]

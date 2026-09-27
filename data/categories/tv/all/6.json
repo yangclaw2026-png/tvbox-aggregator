@@ -1,5 +1,29 @@
 [
   {
+    "id": 138661,
+    "name": "当光芒消逝",
+    "type": "泰国剧",
+    "category": "剧情,同性",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260706-1/64b86ad1a3aacd4afeed7a261694c633.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-13 23:01:16"
+  },
+  {
+    "id": 143778,
+    "name": "我的璀璨生涯",
+    "type": "欧美剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "澳大利亚",
+    "poster": "https://dbzy5.com/upload/vod/20260813-1/b089ccec97b79b008cbeb532b2ee92f4.jpg",
+    "score": "5.0",
+    "remarks": "第6集完结",
+    "update_time": "2026-08-13 21:36:03"
+  },
+  {
     "id": 136458,
     "name": "替名情臻",
     "type": "泰国剧",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第13集",
     "update_time": "2026-08-06 19:09:25"
-  },
-  {
-    "id": 142425,
-    "name": "长歌莫问",
-    "type": "国产剧",
-    "category": "剧情,爱情,短片",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260806-1/4c857410b8ecb3676eb6700c45f06fd2.jpg",
-    "score": "5.0",
-    "remarks": "第24集完结",
-    "update_time": "2026-08-06 12:50:27"
-  },
-  {
-    "id": 142424,
-    "name": "民间奇案录",
-    "type": "国产剧",
-    "category": "悬疑,惊悚",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260806-1/10ea6e40f30679d845f531867d6cdf5e.jpg",
-    "score": "5.0",
-    "remarks": "第2集完结",
-    "update_time": "2026-08-06 12:43:40"
   }
 ]

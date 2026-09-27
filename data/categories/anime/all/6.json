@@ -1,5 +1,29 @@
 [
   {
+    "id": 138524,
+    "name": "暗黑灯火",
+    "type": "日本动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260705-1/69d7ed96d410bcddafb8ea93433b6007.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-23 17:59:19"
+  },
+  {
+    "id": 139632,
+    "name": "花织同学转生后还是想干架",
+    "type": "日本动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260712-1/38ce202c1db28014d86cd9386174ae00.jpg",
+    "score": "5.0",
+    "remarks": "第7集",
+    "update_time": "2026-08-23 17:57:14"
+  },
+  {
     "id": 138380,
     "name": "猫与龙",
     "type": "日本动漫",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第9集完结",
     "update_time": "2026-08-22 14:57:55"
-  },
-  {
-    "id": 145209,
-    "name": "当厉鬼遇上中二病",
-    "type": "国产动漫",
-    "category": "中国动漫",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260822-1/06703ac242a5236a6e8c239e256c2548.jpg",
-    "score": "5.0",
-    "remarks": "第36集完结",
-    "update_time": "2026-08-22 14:13:58"
-  },
-  {
-    "id": 138389,
-    "name": "正后方的神威",
-    "type": "日本动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260704-1/5508f98410a4ca5b446ae9472d888650.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-22 13:39:25"
   }
 ]

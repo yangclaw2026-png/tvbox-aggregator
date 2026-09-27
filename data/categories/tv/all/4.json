@@ -1,5 +1,29 @@
 [
   {
+    "id": 139734,
+    "name": "四大元素之火之爱链",
+    "type": "泰国剧",
+    "category": "剧情,同性",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260715-1/9a6784f58951c2da0bea5b1cf18e6a60.jpg",
+    "score": "5.0",
+    "remarks": "第7集",
+    "update_time": "2026-08-23 14:06:34"
+  },
+  {
+    "id": 145374,
+    "name": "深渊之上",
+    "type": "国产剧",
+    "category": "动作,动画,奇幻,灾难",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260823-1/072fb40946b993c7afe79fd12f85f1a1.jpg",
+    "score": "5.0",
+    "remarks": "第5集",
+    "update_time": "2026-08-23 13:32:00"
+  },
+  {
     "id": 141889,
     "name": "记忆管理局",
     "type": "国产剧",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第7集完结",
     "update_time": "2026-08-21 13:21:23"
-  },
-  {
-    "id": 142631,
-    "name": "青春碎片",
-    "type": "欧美剧",
-    "category": "剧情 ， 悬疑 ， 惊悚",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260807-1/a35e470e9953b95778cabb6e19389789.jpg",
-    "score": "5.0",
-    "remarks": "第5集",
-    "update_time": "2026-08-21 11:55:26"
-  },
-  {
-    "id": 140678,
-    "name": "星际迷航：奇异新世界 第四季",
-    "type": "欧美剧",
-    "category": "动作,科幻,冒险",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260724-1/9e29c2d0bac918d3535ddd03781c48e3.jpg",
-    "score": "5.0",
-    "remarks": "第5集",
-    "update_time": "2026-08-21 11:45:11"
   }
 ]

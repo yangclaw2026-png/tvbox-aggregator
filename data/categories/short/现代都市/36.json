@@ -1,5 +1,17 @@
 [
   {
+    "id": 142610,
+    "name": "功成之后见人心",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260806-1/8b09226c7d8313afa068052279968606.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-06 21:02:45"
+  },
+  {
     "id": 142607,
     "name": "一碗盒饭，两样人心",
     "type": "现代都市",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-05 22:37:41"
-  },
-  {
-    "id": 142377,
-    "name": "我一瘦魔尊就出世",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/c49f940c874f354e3217acd698b7995b.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-05 22:37:00"
   }
 ]

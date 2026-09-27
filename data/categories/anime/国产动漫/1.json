@@ -1,5 +1,29 @@
 [
   {
+    "id": 151346,
+    "name": "人身保护令",
+    "type": "国产动漫",
+    "category": "剧情",
+    "year": "2026",
+    "area": "巴西",
+    "poster": "https://dbzy5.com/upload/vod/20260927-1/a7ca90a5f731a8b6e1c927c139fd588b.webp",
+    "score": "5.0",
+    "remarks": "第1集",
+    "update_time": "2026-09-27 23:09:25"
+  },
+  {
+    "id": 151344,
+    "name": "神探牧奇尔",
+    "type": "国产动漫",
+    "category": "动漫",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260927-1/691ccde6d581845695731e0119f417e5.jpg",
+    "score": "5.0",
+    "remarks": "第15集",
+    "update_time": "2026-09-27 23:06:07"
+  },
+  {
     "id": 147632,
     "name": "机械飞升",
     "type": "国产动漫",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第17集",
     "update_time": "2026-08-27 11:38:50"
-  },
-  {
-    "id": 143811,
-    "name": "开局重生一千次 2026",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260814-1/371ad7416fcb8f195ff683b764fb3ec7.jpg",
-    "score": "5.0",
-    "remarks": "第156集",
-    "update_time": "2026-08-27 11:38:13"
-  },
-  {
-    "id": 142646,
-    "name": "从乱葬岗到幽冥之主",
-    "type": "国产动漫",
-    "category": "动作,动画,奇幻,古装",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260807-1/ef17e0ee625d9bf6b40b7a662767fe8d.jpg",
-    "score": "5.0",
-    "remarks": "第21集",
-    "update_time": "2026-08-27 11:37:31"
   }
 ]

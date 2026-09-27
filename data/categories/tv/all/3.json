@@ -1,5 +1,29 @@
 [
   {
+    "id": 145704,
+    "name": "丁香花开的兽道 第二季",
+    "type": "日本剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260824-1/e872bd8c7c9e47b0f1e56f16e6aab1e0.jpg",
+    "score": "5.0",
+    "remarks": "第1集",
+    "update_time": "2026-08-25 21:34:19"
+  },
+  {
+    "id": 140316,
+    "name": "家有恶猫 第九季",
+    "type": "欧美剧",
+    "category": "真人秀",
+    "year": "2018",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260721-1/f0c35f758523deeba687301d91e3f193.jpg",
+    "score": "5.0",
+    "remarks": "第12集",
+    "update_time": "2026-08-25 20:56:11"
+  },
+  {
     "id": 143814,
     "name": "寒衣入心",
     "type": "国产剧",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第6集",
     "update_time": "2026-08-23 14:09:12"
-  },
-  {
-    "id": 139734,
-    "name": "四大元素之火之爱链",
-    "type": "泰国剧",
-    "category": "剧情,同性",
-    "year": "2026",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260715-1/9a6784f58951c2da0bea5b1cf18e6a60.jpg",
-    "score": "5.0",
-    "remarks": "第7集",
-    "update_time": "2026-08-23 14:06:34"
-  },
-  {
-    "id": 145374,
-    "name": "深渊之上",
-    "type": "国产剧",
-    "category": "动作,动画,奇幻,灾难",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260823-1/072fb40946b993c7afe79fd12f85f1a1.jpg",
-    "score": "5.0",
-    "remarks": "第5集",
-    "update_time": "2026-08-23 13:32:00"
   }
 ]

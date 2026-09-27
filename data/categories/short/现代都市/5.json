@@ -1,5 +1,17 @@
 [
   {
+    "id": 146449,
+    "name": "紫袍僵王，我有一锤可镇万妖",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260828-1/ba3102b90d86264585b73b1715702e05.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-28 22:55:28"
+  },
+  {
     "id": 146452,
     "name": "七零空间：重生从下乡开始",
     "type": "现代都市",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-27 21:49:28"
-  },
-  {
-    "id": 146210,
-    "name": "八零错位剧本",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260827-1/34173ec916fbca80177868fb12a597f5.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-27 21:49:10"
   }
 ]

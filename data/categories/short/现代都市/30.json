@@ -1,5 +1,17 @@
 [
   {
+    "id": 143177,
+    "name": "资本风云之执手破局",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260810-1/0aba631da57a14e29e0e7109755e169a.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-11 18:33:20"
+  },
+  {
     "id": 143180,
     "name": "瞳中魅影",
     "type": "现代都市",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-10 21:08:24"
-  },
-  {
-    "id": 143223,
-    "name": "报告掌门，又去进货了",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260810-1/38d2de7ffa46457918f080dc279a4c24.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-10 21:07:42"
   }
 ]

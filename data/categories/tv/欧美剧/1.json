@@ -1,5 +1,17 @@
 [
   {
+    "id": 151242,
+    "name": "美国人质",
+    "type": "欧美剧",
+    "category": "剧情,惊悚,犯罪",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260927-1/36e51d83fc1b90f9d29bab1c2aff3013.webp",
+    "score": "5.0",
+    "remarks": "第3集",
+    "update_time": "2026-09-27 22:55:52"
+  },
+  {
     "id": 146394,
     "name": "人生复本 第二季",
     "type": "欧美剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第5集完结",
     "update_time": "2026-08-20 21:40:06"
-  },
-  {
-    "id": 144967,
-    "name": "外滩探秘第五季",
-    "type": "欧美剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260820-1/cac84a575e4660e9874ce9aa69e87763.jpg",
-    "score": "5.0",
-    "remarks": "第10集完结",
-    "update_time": "2026-08-20 21:08:03"
   }
 ]

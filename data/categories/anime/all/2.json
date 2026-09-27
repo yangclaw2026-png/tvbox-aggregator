@@ -1,5 +1,29 @@
 [
   {
+    "id": 142091,
+    "name": "魔道之路",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260803-1/d5246a98c3fd7d931d2ee1228eadec60.jpg",
+    "score": "5.0",
+    "remarks": "第27集",
+    "update_time": "2026-08-27 13:10:23"
+  },
+  {
+    "id": 143416,
+    "name": "阿木的摸金日记",
+    "type": "国产动漫",
+    "category": "剧情,动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260811-1/fc3a6a91f6ddb36289caae50d8b3c8c2.jpg",
+    "score": "5.0",
+    "remarks": "第20集",
+    "update_time": "2026-08-27 13:08:19"
+  },
+  {
     "id": 142079,
     "name": "丑妻仙缘",
     "type": "国产动漫",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第149集",
     "update_time": "2026-08-27 11:15:51"
-  },
-  {
-    "id": 124255,
-    "name": "冰封末世，我打造完美领地 动态漫画动态漫",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260225-1/b873c27610cd84d5d160d3aaf2492bcc.jpg",
-    "score": "5.0",
-    "remarks": "第238集",
-    "update_time": "2026-08-27 11:14:41"
-  },
-  {
-    "id": 146116,
-    "name": "丹武双修踏碎旧神途",
-    "type": "国产动漫",
-    "category": "中国动漫",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260827-1/b3303818ec71f1f917f19b5b9fd53c10.jpg",
-    "score": "5.0",
-    "remarks": "第70集完结",
-    "update_time": "2026-08-27 11:11:19"
   }
 ]

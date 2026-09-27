@@ -1,5 +1,29 @@
 [
   {
+    "id": 143912,
+    "name": "我靠规则艰难求生",
+    "type": "国产动漫",
+    "category": "动画,逆袭,重生,异能",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260815-1/49f67c938b4380540896546a1b0835fc.jpg",
+    "score": "5.0",
+    "remarks": "第78集完结",
+    "update_time": "2026-08-15 12:40:37"
+  },
+  {
+    "id": 140533,
+    "name": "云月大陆",
+    "type": "国产动漫",
+    "category": "动作,动画,奇幻",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260723-1/f71737a1d81d584c8a10bbe142514d53.jpg",
+    "score": "5.0",
+    "remarks": "第12集",
+    "update_time": "2026-08-15 12:27:50"
+  },
+  {
     "id": 55165,
     "name": "无限抽取：开局核平修仙世界",
     "type": "国产动漫",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第10集完结",
     "update_time": "2026-08-07 13:35:06"
-  },
-  {
-    "id": 142645,
-    "name": "仙帝打筑基",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260807-1/83135a5b38e715a5c4fde05a713d005c.jpg",
-    "score": "5.0",
-    "remarks": "第15集完结",
-    "update_time": "2026-08-07 13:26:09"
-  },
-  {
-    "id": 142644,
-    "name": "捡漏人生",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260807-1/23ca998b03b14e21efcb707efb504b7c.jpg",
-    "score": "5.0",
-    "remarks": "第15集完结",
-    "update_time": "2026-08-07 13:20:01"
   }
 ]

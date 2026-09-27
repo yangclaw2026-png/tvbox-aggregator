@@ -1,5 +1,29 @@
 [
   {
+    "id": 138817,
+    "name": "被遗弃圣女的异世界美食之旅 用隐藏技能召唤了露营车",
+    "type": "日本动漫",
+    "category": "动画,冒险",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260707-1/46902d8c970229eedfbde84cf8ad6f59.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-24 23:09:45"
+  },
+  {
+    "id": 138816,
+    "name": "与奔跑在透明之夜的你，谈一场看不见的恋爱",
+    "type": "日本动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260707-1/5d144ecf6abd12267388248cfec5ddf7.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-24 22:08:16"
+  },
+  {
     "id": 138378,
     "name": "世界在起舞",
     "type": "日本动漫",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第8集",
     "update_time": "2026-08-23 18:01:57"
-  },
-  {
-    "id": 138524,
-    "name": "暗黑灯火",
-    "type": "日本动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260705-1/69d7ed96d410bcddafb8ea93433b6007.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-23 17:59:19"
-  },
-  {
-    "id": 139632,
-    "name": "花织同学转生后还是想干架",
-    "type": "日本动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260712-1/38ce202c1db28014d86cd9386174ae00.jpg",
-    "score": "5.0",
-    "remarks": "第7集",
-    "update_time": "2026-08-23 17:57:14"
   }
 ]

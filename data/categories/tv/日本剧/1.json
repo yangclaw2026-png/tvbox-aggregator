@@ -1,5 +1,17 @@
 [
   {
+    "id": 148335,
+    "name": "虚无的十字架",
+    "type": "日本剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260907-1/cc040e3c67319a5124beb8d3e0f61f7d.jpg",
+    "score": "5.0",
+    "remarks": "第2集",
+    "update_time": "2026-09-27 23:02:24"
+  },
+  {
     "id": 149227,
     "name": "要我和你交往也不是不行",
     "type": "日本剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第6集",
     "update_time": "2026-08-17 12:53:44"
-  },
-  {
-    "id": 140044,
-    "name": "提欧奥特曼",
-    "type": "日本剧",
-    "category": "剧情,动作,科幻",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260719-1/22a0e51e59078df8cd245b54dc55375c.jpg",
-    "score": "5.0",
-    "remarks": "第7集",
-    "update_time": "2026-08-16 13:04:25"
   }
 ]

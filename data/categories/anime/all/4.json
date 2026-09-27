@@ -1,5 +1,29 @@
 [
   {
+    "id": 144778,
+    "name": "漫画世说新语",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260819-1/b0b5abf660d36b756b3e6de86e765529.jpg",
+    "score": "5.0",
+    "remarks": "第9集",
+    "update_time": "2026-08-26 11:51:24"
+  },
+  {
+    "id": 145039,
+    "name": "国家宝藏小剧 第二季",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260821-1/57c0328a3b3b060cd24ef5befc9a5364.jpg",
+    "score": "5.0",
+    "remarks": "第10集",
+    "update_time": "2026-08-26 11:49:49"
+  },
+  {
     "id": 145949,
     "name": "我体内囚禁万神万魔",
     "type": "国产动漫",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第14集",
     "update_time": "2026-08-25 11:14:02"
-  },
-  {
-    "id": 138817,
-    "name": "被遗弃圣女的异世界美食之旅 用隐藏技能召唤了露营车",
-    "type": "日本动漫",
-    "category": "动画,冒险",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260707-1/46902d8c970229eedfbde84cf8ad6f59.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-24 23:09:45"
-  },
-  {
-    "id": 138816,
-    "name": "与奔跑在透明之夜的你，谈一场看不见的恋爱",
-    "type": "日本动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260707-1/5d144ecf6abd12267388248cfec5ddf7.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-24 22:08:16"
   }
 ]

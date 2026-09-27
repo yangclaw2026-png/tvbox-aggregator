@@ -1,5 +1,17 @@
 [
   {
+    "id": 148386,
+    "name": "打开时空门后我盘活老工厂",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260907-1/4cf66ee2857e7fc1f531610633433a3f.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-09-07 22:49:05"
+  },
+  {
     "id": 148388,
     "name": "娇莺：猎心沦陷",
     "type": "现代都市",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-09-04 22:45:08"
-  },
-  {
-    "id": 147746,
-    "name": "窄巷有光",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260904-1/e30f90d218f7f8e4b318d3ae5cf505b5.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-09-04 22:42:44"
   }
 ]

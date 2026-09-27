@@ -1,5 +1,29 @@
 [
   {
+    "id": 135797,
+    "name": "万人之上 2026",
+    "type": "国产动漫",
+    "category": "动作,动画,奇幻",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260609-1/7467169c9e2aa22b7b4af3a1ac9905c0.jpg",
+    "score": "5.0",
+    "remarks": "第14集完结",
+    "update_time": "2026-08-25 15:09:38"
+  },
+  {
+    "id": 142635,
+    "name": "掌门低调点 2026",
+    "type": "国产动漫",
+    "category": "喜剧,动作,动画,奇幻",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260807-1/d36f09c0da46f29701044ebd15cbdc47.jpg",
+    "score": "5.0",
+    "remarks": "第22集",
+    "update_time": "2026-08-25 14:20:08"
+  },
+  {
     "id": 137267,
     "name": "绝世战魂 第二季",
     "type": "国产动漫",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第8集",
     "update_time": "2026-08-23 12:12:31"
-  },
-  {
-    "id": 141609,
-    "name": "当上神明后，我带着信徒干翻了废土",
-    "type": "国产动漫",
-    "category": "漫剧,奇幻",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/e188cda999b90e9b49395ee38b3416c0.jpg",
-    "score": "5.0",
-    "remarks": "第9集",
-    "update_time": "2026-08-23 12:11:39"
-  },
-  {
-    "id": 143807,
-    "name": "孟婆辞职，阎王哭着求我回来上班",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260814-1/b391425334927f7fb3afc6fe1d404dda.jpg",
-    "score": "5.0",
-    "remarks": "第6集",
-    "update_time": "2026-08-23 12:10:47"
   }
 ]

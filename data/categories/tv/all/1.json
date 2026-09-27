@@ -1,5 +1,29 @@
 [
   {
+    "id": 148335,
+    "name": "虚无的十字架",
+    "type": "日本剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260907-1/cc040e3c67319a5124beb8d3e0f61f7d.jpg",
+    "score": "5.0",
+    "remarks": "第2集",
+    "update_time": "2026-09-27 23:02:24"
+  },
+  {
+    "id": 151242,
+    "name": "美国人质",
+    "type": "欧美剧",
+    "category": "剧情,惊悚,犯罪",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260927-1/36e51d83fc1b90f9d29bab1c2aff3013.webp",
+    "score": "5.0",
+    "remarks": "第3集",
+    "update_time": "2026-09-27 22:55:52"
+  },
+  {
     "id": 146394,
     "name": "人生复本 第二季",
     "type": "欧美剧",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第17集",
     "update_time": "2026-08-27 16:30:53"
-  },
-  {
-    "id": 145793,
-    "name": "满分恋人",
-    "type": "国产剧",
-    "category": "剧情 ，爱情 ，短片",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260825-1/7516582fd1025aa1a6a2cc7f7396dad3.jpg",
-    "score": "5.0",
-    "remarks": "第13集",
-    "update_time": "2026-08-27 16:29:01"
-  },
-  {
-    "id": 145035,
-    "name": "法医秦明之蚀骨时差",
-    "type": "国产剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260821-1/2a695468bd50937bc2abaf685ee72d29.jpg",
-    "score": "5.0",
-    "remarks": "第15集",
-    "update_time": "2026-08-27 16:26:53"
   }
 ]

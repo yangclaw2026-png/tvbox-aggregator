@@ -1,5 +1,29 @@
 [
   {
+    "id": 131750,
+    "name": "全球御鬼时代，我成了最终BOSS 动态漫",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2025",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260512-1/341d0dba59fa4e987a14a4b9e7a82bff.jpg",
+    "score": "5.0",
+    "remarks": "第81集",
+    "update_time": "2026-08-21 13:08:07"
+  },
+  {
+    "id": 145027,
+    "name": "仙帝下山，高手竟是我自己",
+    "type": "国产动漫",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260821-1/6d1f9ab29b1835842c3174357d3c999b.jpg",
+    "score": "5.0",
+    "remarks": "第80集完结",
+    "update_time": "2026-08-21 13:04:17"
+  },
+  {
     "id": 5665,
     "name": "沧元图3D动漫版",
     "type": "国产动漫",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第33集完结",
     "update_time": "2026-08-15 12:47:22"
-  },
-  {
-    "id": 143912,
-    "name": "我靠规则艰难求生",
-    "type": "国产动漫",
-    "category": "动画,逆袭,重生,异能",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260815-1/49f67c938b4380540896546a1b0835fc.jpg",
-    "score": "5.0",
-    "remarks": "第78集完结",
-    "update_time": "2026-08-15 12:40:37"
-  },
-  {
-    "id": 140533,
-    "name": "云月大陆",
-    "type": "国产动漫",
-    "category": "动作,动画,奇幻",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260723-1/f71737a1d81d584c8a10bbe142514d53.jpg",
-    "score": "5.0",
-    "remarks": "第12集",
-    "update_time": "2026-08-15 12:27:50"
   }
 ]
