@@ -95,6 +95,34 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第4集"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 217807,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第4集"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 193684,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第4集"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 156100,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至第04集"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 158300,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第4集"
       }
     ]
   },
@@ -198,7 +226,16 @@
     "content": "<p><br/></p><p>据《最后期限》消息，《广告狂人》主演乔恩·哈姆，与制作人肖恩·瑞安（《反恐特警组》《暗夜情报员》）将联手，把播客节目《美国人质》改编为真人电视剧，哈姆将继续出演他在音频节目里的角色。</p><p>&nbsp;</p><p>《美国人质》被定义为一部心理惊悚剧，讲述弗雷德·赫克曼一段惊心动魄的真实故事。他是印第安纳波利斯深受听众喜爱的电台记者，劫持者托尼·基里西斯要求在他热门的电台新闻节目中接受采访，赫克曼就此被卷入一场生死危机当中。</p><p>&nbsp;</p><p>哈姆将继续饰演播客里的赫克曼这一角色。</p><p><br/></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.ajupf.com/20260921/iL3SyqCF/index.m3u8#第02集$https://vodcnd17.ajupf.com/20260927/5g7v44vL/index.m3u8#第03集$https://vodcnd17.ajupf.com/20260927/c97sueaw/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/lLLbpTxqst#第02集$https://vodcnd17.ajupf.com/share/VBChUsnoyX#第03集$https://vodcnd17.ajupf.com/share/OCIkiaDLWi",
-    "update_time": "2026-09-27 22:55:52"
+    "update_time": "2026-09-27 22:55:52",
+    "play_sources": [
+      {
+        "source": "量子资源",
+        "source_id": 158185,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至第03集"
+      }
+    ]
   },
   {
     "id": 140805,
