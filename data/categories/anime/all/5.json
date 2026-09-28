@@ -1,5 +1,17 @@
 [
   {
+    "id": 135991,
+    "name": "反派魔女自救计划",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260610-1/4eeb8cfccd24192281716e195ed81c0e.jpg",
+    "score": "5.0",
+    "remarks": "第14集",
+    "update_time": "2026-08-25 11:14:02"
+  },
+  {
     "id": 138817,
     "name": "被遗弃圣女的异世界美食之旅 用隐藏技能召唤了露营车",
     "type": "日本动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第8集",
     "update_time": "2026-08-23 18:05:44"
-  },
-  {
-    "id": 138526,
-    "name": "岩元前辈的推荐",
-    "type": "日本动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260705-1/461fbff8ea383e5d923c3e649c9bf6ad.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-23 18:01:57"
   }
 ]

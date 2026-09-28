@@ -1,5 +1,17 @@
 [
   {
+    "id": 131020,
+    "name": "三国小剧",
+    "type": "国产动漫",
+    "category": "少儿",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260505-1/771e2d4840ec36db4f20abaeccac7af9.jpg",
+    "score": "5.0",
+    "remarks": "第60集",
+    "update_time": "2026-08-14 12:12:05"
+  },
+  {
     "id": 138371,
     "name": "花仙子之魔法香对论",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第8集",
     "update_time": "2026-08-06 17:10:53"
-  },
-  {
-    "id": 128560,
-    "name": "蛀在糖糖裡",
-    "type": "日本动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260416-1/55b75b7fd94772b74fd681b7ca960765.jpg",
-    "score": "5.0",
-    "remarks": "第17集",
-    "update_time": "2026-08-06 13:40:46"
   }
 ]

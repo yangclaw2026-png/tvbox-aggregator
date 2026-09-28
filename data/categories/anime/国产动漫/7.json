@@ -1,5 +1,17 @@
 [
   {
+    "id": 143914,
+    "name": "废柴纸系异能",
+    "type": "国产动漫",
+    "category": "动画,脑洞,反转,异能",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260815-1/880fa8f0882a4ebd7ed3a1b90b1a12d5.jpg",
+    "score": "5.0",
+    "remarks": "第33集完结",
+    "update_time": "2026-08-15 12:47:22"
+  },
+  {
     "id": 143912,
     "name": "我靠规则艰难求生",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第21集",
     "update_time": "2026-08-07 19:39:51"
-  },
-  {
-    "id": 142647,
-    "name": "重来一次我绝不选择你",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260807-1/55d8c4ec0a12f1c5478917f39467a5ab.jpg",
-    "score": "5.0",
-    "remarks": "第10集完结",
-    "update_time": "2026-08-07 13:35:06"
   }
 ]

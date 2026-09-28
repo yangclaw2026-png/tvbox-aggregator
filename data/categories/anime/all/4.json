@@ -1,5 +1,17 @@
 [
   {
+    "id": 141364,
+    "name": "聊斋小剧",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260729-1/da629274e1c7c0aab313c160241e12ef.jpg",
+    "score": "5.0",
+    "remarks": "第18集",
+    "update_time": "2026-08-26 11:52:15"
+  },
+  {
     "id": 144778,
     "name": "漫画世说新语",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第60集",
     "update_time": "2026-08-25 11:19:30"
-  },
-  {
-    "id": 135991,
-    "name": "反派魔女自救计划",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260610-1/4eeb8cfccd24192281716e195ed81c0e.jpg",
-    "score": "5.0",
-    "remarks": "第14集",
-    "update_time": "2026-08-25 11:14:02"
   }
 ]

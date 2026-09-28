@@ -1,5 +1,17 @@
 [
   {
+    "id": 138526,
+    "name": "岩元前辈的推荐",
+    "type": "日本动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260705-1/461fbff8ea383e5d923c3e649c9bf6ad.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-23 18:01:57"
+  },
+  {
     "id": 138524,
     "name": "暗黑灯火",
     "type": "日本动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第9集完结",
     "update_time": "2026-08-22 15:07:12"
-  },
-  {
-    "id": 145229,
-    "name": "神奇数字马戏团",
-    "type": "欧美动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260822-1/4af1d59074c78ee53a17dad694f42b66.jpg",
-    "score": "5.0",
-    "remarks": "第9集完结",
-    "update_time": "2026-08-22 14:57:55"
   }
 ]

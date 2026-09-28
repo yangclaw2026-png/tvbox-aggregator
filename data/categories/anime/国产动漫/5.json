@@ -1,5 +1,17 @@
 [
   {
+    "id": 141720,
+    "name": "千金归来：我清算了枕边人",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260801-1/b83e82544832077ebeb2373d5b5d2078.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-23 12:12:31"
+  },
+  {
     "id": 141609,
     "name": "当上神明后，我带着信徒干翻了废土",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第8集",
     "update_time": "2026-08-22 11:21:42"
-  },
-  {
-    "id": 90375,
-    "name": "开心锤锤世界​",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2025",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250511-1/a5c9a0a1e9ad8c0b409db45e85cd8891.jpg",
-    "score": "5.0",
-    "remarks": "第68集",
-    "update_time": "2026-08-21 22:01:58"
   }
 ]
