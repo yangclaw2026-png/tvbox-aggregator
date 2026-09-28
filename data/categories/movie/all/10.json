@@ -1,5 +1,17 @@
 [
   {
+    "id": 141989,
+    "name": "阿奎纳多总统",
+    "type": "剧情片",
+    "category": "剧情,动作,惊悚,传记,历史,战争",
+    "year": "2012",
+    "area": "菲律宾",
+    "poster": "https://dbzy5.com/upload/vod/20260803-1/8cf6271dd54d593fb1f12b148d698fec.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-03 15:47:38"
+  },
+  {
     "id": 141990,
     "name": "血与锈",
     "type": "恐怖片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-02 20:01:05"
-  },
-  {
-    "id": 141925,
-    "name": "初爱情歌",
-    "type": "剧情片",
-    "category": "剧情,爱情",
-    "year": "2018",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/cb128302d9ccdcfd6b6cff20ab3e6bca.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-02 19:59:03"
   }
 ]

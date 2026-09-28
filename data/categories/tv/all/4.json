@@ -1,5 +1,41 @@
 [
   {
+    "id": 142922,
+    "name": "指尖浪漫 第二季",
+    "type": "泰国剧",
+    "category": "剧情,爱情,同性",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260809-1/69090dc59e76c8399c02470206975f49.jpg",
+    "score": "5.0",
+    "remarks": "第3集",
+    "update_time": "2026-08-23 14:33:11"
+  },
+  {
+    "id": 142787,
+    "name": "财阀X刑警 第二季",
+    "type": "韩剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "韩国",
+    "poster": "https://dbzy5.com/upload/vod/20260808-1/5c5d498a46836bfa49d9f4a7513b151d.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-08-23 14:11:02"
+  },
+  {
+    "id": 139874,
+    "name": "未婚欺诈 我所不知他的真面目 未婚詐欺",
+    "type": "日本剧",
+    "category": "剧情,爱情",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260717-1/bea353ebefe59931ffe24345ea624e7b.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-08-23 14:09:12"
+  },
+  {
     "id": 139734,
     "name": "四大元素之火之爱链",
     "type": "泰国剧",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第6集",
     "update_time": "2026-08-21 13:57:16"
-  },
-  {
-    "id": 143884,
-    "name": "等一下啦，春虎同学",
-    "type": "日本剧",
-    "category": "爱情,同性",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260814-1/7c12806d2e79ab7a2552c568f1575a5a.jpg",
-    "score": "5.0",
-    "remarks": "第2集",
-    "update_time": "2026-08-21 13:55:17"
-  },
-  {
-    "id": 145038,
-    "name": "谜探路德维希 第二季",
-    "type": "欧美剧",
-    "category": "剧情,喜剧,悬疑,犯罪",
-    "year": "2026",
-    "area": "英国",
-    "poster": "https://dbzy5.com/upload/vod/20260821-1/3533fddd42152699464f3858e499d420.jpg",
-    "score": "5.0",
-    "remarks": "第3集",
-    "update_time": "2026-08-21 13:51:52"
-  },
-  {
-    "id": 145036,
-    "name": "心生 2026",
-    "type": "日本剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260821-1/8da468120bd1a48032dd7c558f643477.jpg",
-    "score": "5.0",
-    "remarks": "第7集完结",
-    "update_time": "2026-08-21 13:21:23"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 142142,
+    "name": "看我杀戮",
+    "type": "惊悚片",
+    "category": "惊悚",
+    "year": "2019",
+    "area": "菲律宾",
+    "poster": "https://dbzy5.com/upload/vod/20260804-1/07ac58440fcb973b766752ac319c8d22.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-04 17:00:34"
+  },
+  {
     "id": 51872,
     "name": "老大不小",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-03 15:48:51"
-  },
-  {
-    "id": 141989,
-    "name": "阿奎纳多总统",
-    "type": "剧情片",
-    "category": "剧情,动作,惊悚,传记,历史,战争",
-    "year": "2012",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/8cf6271dd54d593fb1f12b148d698fec.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-03 15:47:38"
   }
 ]

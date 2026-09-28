@@ -1,5 +1,41 @@
 [
   {
+    "id": 143884,
+    "name": "等一下啦，春虎同学",
+    "type": "日本剧",
+    "category": "爱情,同性",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260814-1/7c12806d2e79ab7a2552c568f1575a5a.jpg",
+    "score": "5.0",
+    "remarks": "第2集",
+    "update_time": "2026-08-21 13:55:17"
+  },
+  {
+    "id": 145038,
+    "name": "谜探路德维希 第二季",
+    "type": "欧美剧",
+    "category": "剧情,喜剧,悬疑,犯罪",
+    "year": "2026",
+    "area": "英国",
+    "poster": "https://dbzy5.com/upload/vod/20260821-1/3533fddd42152699464f3858e499d420.jpg",
+    "score": "5.0",
+    "remarks": "第3集",
+    "update_time": "2026-08-21 13:51:52"
+  },
+  {
+    "id": 145036,
+    "name": "心生 2026",
+    "type": "日本剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260821-1/8da468120bd1a48032dd7c558f643477.jpg",
+    "score": "5.0",
+    "remarks": "第7集完结",
+    "update_time": "2026-08-21 13:21:23"
+  },
+  {
     "id": 142631,
     "name": "青春碎片",
     "type": "欧美剧",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第8集",
     "update_time": "2026-08-14 21:50:07"
-  },
-  {
-    "id": 141717,
-    "name": "度假法则",
-    "type": "日本剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260801-1/30d7e10cf6c05d00b5f074b6f621c0f2.jpg",
-    "score": "5.0",
-    "remarks": "第9集",
-    "update_time": "2026-08-14 21:39:55"
-  },
-  {
-    "id": 143846,
-    "name": "法律边缘",
-    "type": "欧美剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "南非",
-    "poster": "https://dbzy5.com/upload/vod/20260814-1/9eec98f5108717bd7fa6edc44afa3e5e.jpg",
-    "score": "5.0",
-    "remarks": "第7集完结",
-    "update_time": "2026-08-14 19:50:59"
-  },
-  {
-    "id": 141729,
-    "name": "米良与麦青",
-    "type": "国产剧",
-    "category": "剧情,爱情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260801-1/3ce82af006b607d14e84f338de770d05.jpg",
-    "score": "5.0",
-    "remarks": "第26集完结",
-    "update_time": "2026-08-14 13:11:33"
   }
 ]

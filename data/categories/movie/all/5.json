@@ -1,5 +1,17 @@
 [
   {
+    "id": 143915,
+    "name": "摇滚夏令营3",
+    "type": "喜剧片",
+    "category": "喜剧 ， 音乐 ， 歌舞",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260815-1/d4025a4f89578be84c9672c4ba224bf9.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-15 13:09:30"
+  },
+  {
     "id": 143283,
     "name": "数智化生存",
     "type": "纪录片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-11 17:41:01"
-  },
-  {
-    "id": 143327,
-    "name": "埃莉莎",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2025",
-    "area": "意大利,瑞士",
-    "poster": "https://dbzy5.com/upload/vod/20260811-1/3ac54391f81d482d1cc3c98a67883006.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-11 17:29:15"
   }
 ]

@@ -1,5 +1,41 @@
 [
   {
+    "id": 144024,
+    "name": "我当寻龙魁首的那些年",
+    "type": "国产剧",
+    "category": "奇幻,冒险",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260816-1/d753d830dc29985e32c84945e80b4bcd.jpg",
+    "score": "5.0",
+    "remarks": "第21集",
+    "update_time": "2026-08-27 16:33:38"
+  },
+  {
+    "id": 146125,
+    "name": "万里江山待我耕",
+    "type": "国产剧",
+    "category": "奇幻,古装",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260827-1/87e5aaed7e903bf234272d6ac2eff516.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-08-27 16:32:17"
+  },
+  {
+    "id": 144609,
+    "name": "她的涅槃日",
+    "type": "国产剧",
+    "category": "剧情,爱情,奇幻",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260819-1/fd147d4da5b13cced26023a5993cfdd7.jpg",
+    "score": "5.0",
+    "remarks": "第17集",
+    "update_time": "2026-08-27 16:30:53"
+  },
+  {
     "id": 145793,
     "name": "满分恋人",
     "type": "国产剧",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第5集完结",
     "update_time": "2026-08-25 22:36:31"
-  },
-  {
-    "id": 140403,
-    "name": "黑色诡计～操控审判的辩护人",
-    "type": "日本剧",
-    "category": "剧情,悬疑",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260722-1/3de2fc80119695d2742b257591067f6b.jpg",
-    "score": "5.0",
-    "remarks": "第6集",
-    "update_time": "2026-08-25 22:06:18"
-  },
-  {
-    "id": 139839,
-    "name": "我遇见的精神病态者",
-    "type": "韩剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "韩国",
-    "poster": "https://dbzy5.com/upload/vod/20260717-1/b86d800e647c5f496f6c5bf06642e29c.jpg",
-    "score": "5.0",
-    "remarks": "第7集",
-    "update_time": "2026-08-25 22:02:18"
-  },
-  {
-    "id": 141252,
-    "name": "王子与乞丐",
-    "type": "韩剧",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "韩国",
-    "poster": "https://dbzy5.com/upload/vod/20260728-1/886700f707508b909415572ce604d6fd.jpg",
-    "score": "5.0",
-    "remarks": "第5集",
-    "update_time": "2026-08-25 22:00:09"
   }
 ]

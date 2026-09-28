@@ -1,5 +1,41 @@
 [
   {
+    "id": 141717,
+    "name": "度假法则",
+    "type": "日本剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260801-1/30d7e10cf6c05d00b5f074b6f621c0f2.jpg",
+    "score": "5.0",
+    "remarks": "第9集",
+    "update_time": "2026-08-14 21:39:55"
+  },
+  {
+    "id": 143846,
+    "name": "法律边缘",
+    "type": "欧美剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "南非",
+    "poster": "https://dbzy5.com/upload/vod/20260814-1/9eec98f5108717bd7fa6edc44afa3e5e.jpg",
+    "score": "5.0",
+    "remarks": "第7集完结",
+    "update_time": "2026-08-14 19:50:59"
+  },
+  {
+    "id": 141729,
+    "name": "米良与麦青",
+    "type": "国产剧",
+    "category": "剧情,爱情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260801-1/3ce82af006b607d14e84f338de770d05.jpg",
+    "score": "5.0",
+    "remarks": "第26集完结",
+    "update_time": "2026-08-14 13:11:33"
+  },
+  {
     "id": 138661,
     "name": "当光芒消逝",
     "type": "泰国剧",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第3集",
     "update_time": "2026-08-06 23:46:30"
-  },
-  {
-    "id": 141049,
-    "name": "我当卧底这件事",
-    "type": "国产剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260727-1/835db1e121457cdb89016eb62c34e439.jpg",
-    "score": "5.0",
-    "remarks": "第23集完结",
-    "update_time": "2026-08-06 22:31:29"
-  },
-  {
-    "id": 142590,
-    "name": "我与沃尔特家男孩的生活 第三季",
-    "type": "欧美剧",
-    "category": "剧情,爱情",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260806-1/64e718a923460c3887d8264e6eeb886a.jpg",
-    "score": "5.0",
-    "remarks": "第10集完结",
-    "update_time": "2026-08-06 20:43:23"
-  },
-  {
-    "id": 119806,
-    "name": "十三邀 第九季",
-    "type": "国产剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260128-1/cc47d34d35bb3f8f2b593a761703d5cc.jpg",
-    "score": "5.0",
-    "remarks": "第13集",
-    "update_time": "2026-08-06 19:09:25"
   }
 ]

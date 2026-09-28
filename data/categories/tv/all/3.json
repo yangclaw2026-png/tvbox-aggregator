@@ -1,5 +1,41 @@
 [
   {
+    "id": 140403,
+    "name": "黑色诡计～操控审判的辩护人",
+    "type": "日本剧",
+    "category": "剧情,悬疑",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260722-1/3de2fc80119695d2742b257591067f6b.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-08-25 22:06:18"
+  },
+  {
+    "id": 139839,
+    "name": "我遇见的精神病态者",
+    "type": "韩剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "韩国",
+    "poster": "https://dbzy5.com/upload/vod/20260717-1/b86d800e647c5f496f6c5bf06642e29c.jpg",
+    "score": "5.0",
+    "remarks": "第7集",
+    "update_time": "2026-08-25 22:02:18"
+  },
+  {
+    "id": 141252,
+    "name": "王子与乞丐",
+    "type": "韩剧",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "韩国",
+    "poster": "https://dbzy5.com/upload/vod/20260728-1/886700f707508b909415572ce604d6fd.jpg",
+    "score": "5.0",
+    "remarks": "第5集",
+    "update_time": "2026-08-25 22:00:09"
+  },
+  {
     "id": 145704,
     "name": "丁香花开的兽道 第二季",
     "type": "日本剧",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第7集",
     "update_time": "2026-08-23 14:36:41"
-  },
-  {
-    "id": 142922,
-    "name": "指尖浪漫 第二季",
-    "type": "泰国剧",
-    "category": "剧情,爱情,同性",
-    "year": "2026",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260809-1/69090dc59e76c8399c02470206975f49.jpg",
-    "score": "5.0",
-    "remarks": "第3集",
-    "update_time": "2026-08-23 14:33:11"
-  },
-  {
-    "id": 142787,
-    "name": "财阀X刑警 第二季",
-    "type": "韩剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "韩国",
-    "poster": "https://dbzy5.com/upload/vod/20260808-1/5c5d498a46836bfa49d9f4a7513b151d.jpg",
-    "score": "5.0",
-    "remarks": "第6集",
-    "update_time": "2026-08-23 14:11:02"
-  },
-  {
-    "id": 139874,
-    "name": "未婚欺诈 我所不知他的真面目 未婚詐欺",
-    "type": "日本剧",
-    "category": "剧情,爱情",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260717-1/bea353ebefe59931ffe24345ea624e7b.jpg",
-    "score": "5.0",
-    "remarks": "第6集",
-    "update_time": "2026-08-23 14:09:12"
   }
 ]

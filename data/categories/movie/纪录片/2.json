@@ -1,5 +1,17 @@
 [
   {
+    "id": 145022,
+    "name": "世界战史第三季",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260820-1/883d24eb53a30f9fd0937ef2e6e422a1.jpg",
+    "score": "5.0",
+    "remarks": "第15集完结",
+    "update_time": "2026-08-20 23:01:09"
+  },
+  {
     "id": 142356,
     "name": "热流第4季",
     "type": "纪录片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-04 18:14:27"
-  },
-  {
-    "id": 142108,
-    "name": "花开中国",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/012c1f3b1e94c3b81d54a678e9edbb3c.jpg",
-    "score": "5.0",
-    "remarks": "第3集",
-    "update_time": "2026-08-03 22:39:55"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 142350,
+    "name": "冬季：战场",
+    "type": "科幻片",
+    "category": "行动,科幻,惊悚,战争",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/1e86b8c01e08ddf444e6c5b9c9f2e741.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-05 17:48:49"
+  },
+  {
     "id": 142349,
     "name": "凸槌三兄弟2",
     "type": "喜剧片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-05 14:49:27"
-  },
-  {
-    "id": 142301,
-    "name": "法律的阴影",
-    "type": "惊悚片",
-    "category": "惊悚",
-    "year": "2018",
-    "area": "西班牙",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/668ce1b6135e1927690a9920ba7d6154.jpg",
-    "score": "6.6",
-    "remarks": "正片",
-    "update_time": "2026-08-05 14:45:12"
   }
 ]

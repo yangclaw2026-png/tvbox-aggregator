@@ -1,5 +1,41 @@
 [
   {
+    "id": 151535,
+    "name": "无可替代",
+    "type": "国产剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260928-1/6b1488768ec120529f7416f9c8879360.webp",
+    "score": "5.0",
+    "remarks": "第3集",
+    "update_time": "2026-09-28 23:06:11"
+  },
+  {
+    "id": 151539,
+    "name": "大农商",
+    "type": "国产剧",
+    "category": "剧情,家庭",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260928-1/f2f843d04adce6c2eafa5ce6f3785735.webp",
+    "score": "5.0",
+    "remarks": "第2集",
+    "update_time": "2026-09-28 23:05:47"
+  },
+  {
+    "id": 148594,
+    "name": "镇灵",
+    "type": "泰国剧",
+    "category": "剧情,爱情,悬疑,惊悚,恐怖,同性,奇幻",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260908-1/fbab2fb1f750745ee68ff66b64706740.jpg",
+    "score": "5.0",
+    "remarks": "第4集",
+    "update_time": "2026-09-28 22:34:16"
+  },
+  {
     "id": 148335,
     "name": "虚无的十字架",
     "type": "日本剧",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第32集完结",
     "update_time": "2026-08-27 16:35:50"
-  },
-  {
-    "id": 144024,
-    "name": "我当寻龙魁首的那些年",
-    "type": "国产剧",
-    "category": "奇幻,冒险",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260816-1/d753d830dc29985e32c84945e80b4bcd.jpg",
-    "score": "5.0",
-    "remarks": "第21集",
-    "update_time": "2026-08-27 16:33:38"
-  },
-  {
-    "id": 146125,
-    "name": "万里江山待我耕",
-    "type": "国产剧",
-    "category": "奇幻,古装",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260827-1/87e5aaed7e903bf234272d6ac2eff516.jpg",
-    "score": "5.0",
-    "remarks": "第6集",
-    "update_time": "2026-08-27 16:32:17"
-  },
-  {
-    "id": 144609,
-    "name": "她的涅槃日",
-    "type": "国产剧",
-    "category": "剧情,爱情,奇幻",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260819-1/fd147d4da5b13cced26023a5993cfdd7.jpg",
-    "score": "5.0",
-    "remarks": "第17集",
-    "update_time": "2026-08-27 16:30:53"
   }
 ]

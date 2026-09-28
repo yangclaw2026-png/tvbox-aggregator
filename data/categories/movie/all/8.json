@@ -1,5 +1,17 @@
 [
   {
+    "id": 142301,
+    "name": "法律的阴影",
+    "type": "惊悚片",
+    "category": "惊悚",
+    "year": "2018",
+    "area": "西班牙",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/668ce1b6135e1927690a9920ba7d6154.jpg",
+    "score": "6.6",
+    "remarks": "正片",
+    "update_time": "2026-08-05 14:45:12"
+  },
+  {
     "id": 142300,
     "name": "反抗者罗宾汉",
     "type": "动作片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-04 17:01:04"
-  },
-  {
-    "id": 142142,
-    "name": "看我杀戮",
-    "type": "惊悚片",
-    "category": "惊悚",
-    "year": "2019",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/07ac58440fcb973b766752ac319c8d22.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-04 17:00:34"
   }
 ]

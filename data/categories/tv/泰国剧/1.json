@@ -1,5 +1,17 @@
 [
   {
+    "id": 148594,
+    "name": "镇灵",
+    "type": "泰国剧",
+    "category": "剧情,爱情,悬疑,惊悚,恐怖,同性,奇幻",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260908-1/fbab2fb1f750745ee68ff66b64706740.jpg",
+    "score": "5.0",
+    "remarks": "第4集",
+    "update_time": "2026-09-28 22:34:16"
+  },
+  {
     "id": 148571,
     "name": "请记住我的名字",
     "type": "泰国剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第10集",
     "update_time": "2026-08-02 21:42:56"
-  },
-  {
-    "id": 134242,
-    "name": "偿还",
-    "type": "泰国剧",
-    "category": "剧情,同性",
-    "year": "2026",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260601-1/da2ccbe7e3f6348127d8bcf3918f2b1f.jpg",
-    "score": "5.0",
-    "remarks": "第10集",
-    "update_time": "2026-08-02 12:26:51"
   }
 ]
