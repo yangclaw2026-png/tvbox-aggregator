@@ -1,5 +1,17 @@
 [
   {
+    "id": 139000,
+    "name": "Crossroad～救命救急的约定",
+    "type": "日本剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260708-1/8ac87f26dfc9d10fd0d509530660c441.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-25 22:55:05"
+  },
+  {
     "id": 135566,
     "name": "踮起脚尖",
     "type": "欧美剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第8集",
     "update_time": "2026-08-23 15:59:35"
-  },
-  {
-    "id": 141917,
-    "name": "你的天空～晴转恋",
-    "type": "日本剧",
-    "category": "爱情,同性",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/4f268a13d3f4bd929f029cf86d7edb8f.jpg",
-    "score": "5.0",
-    "remarks": "第4集",
-    "update_time": "2026-08-23 15:35:51"
   }
 ]

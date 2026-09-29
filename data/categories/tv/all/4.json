@@ -1,5 +1,17 @@
 [
   {
+    "id": 141917,
+    "name": "你的天空～晴转恋",
+    "type": "日本剧",
+    "category": "爱情,同性",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260802-1/4f268a13d3f4bd929f029cf86d7edb8f.jpg",
+    "score": "5.0",
+    "remarks": "第4集",
+    "update_time": "2026-08-23 15:35:51"
+  },
+  {
     "id": 139758,
     "name": "夏色之云掀起恋爱与风暴",
     "type": "日本剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第8集",
     "update_time": "2026-08-21 17:03:59"
-  },
-  {
-    "id": 144402,
-    "name": "罪爱 (2026)",
-    "type": "国产剧",
-    "category": "剧情,爱情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260818-1/990aff032839d9c9cea30148eff3aeba.jpg",
-    "score": "5.0",
-    "remarks": "第24集完结",
-    "update_time": "2026-08-21 16:39:00"
   }
 ]
