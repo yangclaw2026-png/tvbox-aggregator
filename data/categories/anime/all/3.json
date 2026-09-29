@@ -1,5 +1,17 @@
 [
   {
+    "id": 101138,
+    "name": "全民御兽：开局山海经，我横扫全球 动态漫画",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2025",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250806-1/9f85b3a322d3188465de97e4ddaa1fe9.jpg",
+    "score": "5.0",
+    "remarks": "第305集",
+    "update_time": "2026-08-27 11:16:36"
+  },
+  {
     "id": 134337,
     "name": "苍绝剑尊",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第15集",
     "update_time": "2026-08-26 11:52:53"
-  },
-  {
-    "id": 145950,
-    "name": "致命内鬼游戏",
-    "type": "国产动漫",
-    "category": "中国动漫",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260826-1/5a8bbb22151972acd511eb50622e2233.jpg",
-    "score": "5.0",
-    "remarks": "第30集完结",
-    "update_time": "2026-08-26 11:52:18"
   }
 ]

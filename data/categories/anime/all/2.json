@@ -1,5 +1,17 @@
 [
   {
+    "id": 139151,
+    "name": "幼女战记 第二季",
+    "type": "日本动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260709-1/a11e229d19517213a6844f0610164a0d.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-27 13:15:28"
+  },
+  {
     "id": 139159,
     "name": "乙女游戏世界对路人角色很不友好 第二季",
     "type": "日本动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第34集",
     "update_time": "2026-08-27 11:17:04"
-  },
-  {
-    "id": 101138,
-    "name": "全民御兽：开局山海经，我横扫全球 动态漫画",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2025",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250806-1/9f85b3a322d3188465de97e4ddaa1fe9.jpg",
-    "score": "5.0",
-    "remarks": "第305集",
-    "update_time": "2026-08-27 11:16:36"
   }
 ]

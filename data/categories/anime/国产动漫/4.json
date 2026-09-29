@@ -1,5 +1,17 @@
 [
   {
+    "id": 138980,
+    "name": "百日成王",
+    "type": "国产动漫",
+    "category": "喜剧,动作,动画,奇幻",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260708-1/815d3a03ba2d93fef1a4721b75a06617.jpg",
+    "score": "5.0",
+    "remarks": "第19集",
+    "update_time": "2026-08-25 17:05:03"
+  },
+  {
     "id": 141197,
     "name": "一斩苍穹",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第114集",
     "update_time": "2026-08-23 12:37:27"
-  },
-  {
-    "id": 136,
-    "name": "我家娘子竟然是女帝 动态漫画",
-    "type": "国产动漫",
-    "category": "搞笑,玄幻,中国动漫",
-    "year": "2024",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250109-6/f71dbd58f4760e320531d0d69dda6ca9.jpg",
-    "score": "5.0",
-    "remarks": "第104集",
-    "update_time": "2026-08-23 12:29:17"
   }
 ]

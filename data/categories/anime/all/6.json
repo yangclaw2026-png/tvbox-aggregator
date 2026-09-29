@@ -1,5 +1,17 @@
 [
   {
+    "id": 138377,
+    "name": "少女怪兽焦糖味",
+    "type": "日本动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260704-1/a8ea7cae58d82b28e058fb0ad80bce9f.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-23 18:05:44"
+  },
+  {
     "id": 138526,
     "name": "岩元前辈的推荐",
     "type": "日本动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第7集",
     "update_time": "2026-08-22 16:32:26"
-  },
-  {
-    "id": 145237,
-    "name": "神奇数字马戏团普通话",
-    "type": "欧美动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260822-1/260a8f8c513f4cb185cb3256282f5171.jpg",
-    "score": "5.0",
-    "remarks": "第9集完结",
-    "update_time": "2026-08-22 15:07:12"
   }
 ]

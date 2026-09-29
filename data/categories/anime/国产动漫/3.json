@@ -1,5 +1,17 @@
 [
   {
+    "id": 145959,
+    "name": "全民深渊：我喝药能增加属性上限",
+    "type": "国产动漫",
+    "category": "动画,热血,冒险,奇幻",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260826-1/ca7f5df8fec6451a73ddb411d1eca1a7.jpg",
+    "score": "5.0",
+    "remarks": "第77集",
+    "update_time": "2026-08-26 13:31:32"
+  },
+  {
     "id": 107750,
     "name": "启运丹田：开局签到至尊丹田",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第686集",
     "update_time": "2026-08-25 17:28:13"
-  },
-  {
-    "id": 138980,
-    "name": "百日成王",
-    "type": "国产动漫",
-    "category": "喜剧,动作,动画,奇幻",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260708-1/815d3a03ba2d93fef1a4721b75a06617.jpg",
-    "score": "5.0",
-    "remarks": "第19集",
-    "update_time": "2026-08-25 17:05:03"
   }
 ]

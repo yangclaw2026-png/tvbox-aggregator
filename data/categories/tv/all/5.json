@@ -1,5 +1,17 @@
 [
   {
+    "id": 139898,
+    "name": "做我的专属队友",
+    "type": "泰国剧",
+    "category": "剧情,同性",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260718-1/9847687da511c16b3d70bcc06424b8f6.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-08-21 13:57:16"
+  },
+  {
     "id": 143884,
     "name": "等一下啦，春虎同学",
     "type": "日本剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第9集",
     "update_time": "2026-08-15 13:48:28"
-  },
-  {
-    "id": 137485,
-    "name": "心动禁止",
-    "type": "泰国剧",
-    "category": "剧情,爱情,悬疑,同性,奇幻",
-    "year": "2026",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260627-1/da9ec581ece0a8ab1e13c2c0641f46ce.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-14 21:50:07"
   }
 ]

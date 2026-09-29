@@ -1,5 +1,17 @@
 [
   {
+    "id": 151581,
+    "name": "厨娘",
+    "type": "泰国剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260929-1/52707ff3482d18b9546bf65e4372753f.webp",
+    "score": "0.0",
+    "remarks": "",
+    "update_time": "2026-09-29 12:24:49"
+  },
+  {
     "id": 151535,
     "name": "无可替代",
     "type": "国产剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第4集",
     "update_time": "2026-08-27 18:38:23"
-  },
-  {
-    "id": 144025,
-    "name": "我们的少年时代2",
-    "type": "国产剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260816-1/7cd81edd28dc4573f018c3be6c5382f5.jpg",
-    "score": "5.0",
-    "remarks": "第32集完结",
-    "update_time": "2026-08-27 16:35:50"
   }
 ]

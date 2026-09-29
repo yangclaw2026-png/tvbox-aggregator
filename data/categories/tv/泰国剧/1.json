@@ -1,5 +1,17 @@
 [
   {
+    "id": 151581,
+    "name": "厨娘",
+    "type": "泰国剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260929-1/52707ff3482d18b9546bf65e4372753f.webp",
+    "score": "0.0",
+    "remarks": "",
+    "update_time": "2026-09-29 12:24:49"
+  },
+  {
     "id": 148594,
     "name": "镇灵",
     "type": "泰国剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第4集完结",
     "update_time": "2026-08-03 13:08:51"
-  },
-  {
-    "id": 134057,
-    "name": "爱冲云霄",
-    "type": "泰国剧",
-    "category": "剧情,爱情,同性",
-    "year": "2026",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260530-1/363226bd21ac6347e9239d162d3462b7.jpg",
-    "score": "5.0",
-    "remarks": "第10集",
-    "update_time": "2026-08-02 21:42:56"
   }
 ]

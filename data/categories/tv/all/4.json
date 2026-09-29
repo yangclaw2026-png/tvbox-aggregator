@@ -1,5 +1,17 @@
 [
   {
+    "id": 139758,
+    "name": "夏色之云掀起恋爱与风暴",
+    "type": "日本剧",
+    "category": "剧情,爱情,同性",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260715-1/432d2d91f1812b33eb0b59155a7a7da0.jpg",
+    "score": "5.0",
+    "remarks": "第7集",
+    "update_time": "2026-08-23 14:36:41"
+  },
+  {
     "id": 142922,
     "name": "指尖浪漫 第二季",
     "type": "泰国剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第24集完结",
     "update_time": "2026-08-21 16:39:00"
-  },
-  {
-    "id": 139898,
-    "name": "做我的专属队友",
-    "type": "泰国剧",
-    "category": "剧情,同性",
-    "year": "2026",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260718-1/9847687da511c16b3d70bcc06424b8f6.jpg",
-    "score": "5.0",
-    "remarks": "第6集",
-    "update_time": "2026-08-21 13:57:16"
   }
 ]

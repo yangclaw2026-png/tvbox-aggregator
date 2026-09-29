@@ -1,5 +1,17 @@
 [
   {
+    "id": 140664,
+    "name": "死灵法师！我即是天灾",
+    "type": "国产动漫",
+    "category": "动画,奇幻,冒险",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260724-1/ad17022f01ed3d4a2aa05e452c5c9366.jpg",
+    "score": "5.0",
+    "remarks": "第11集",
+    "update_time": "2026-08-27 11:39:59"
+  },
+  {
     "id": 143454,
     "name": "狼狼少女蓝之沉睡之章",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第22集",
     "update_time": "2026-08-26 13:42:51"
-  },
-  {
-    "id": 145959,
-    "name": "全民深渊：我喝药能增加属性上限",
-    "type": "国产动漫",
-    "category": "动画,热血,冒险,奇幻",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260826-1/ca7f5df8fec6451a73ddb411d1eca1a7.jpg",
-    "score": "5.0",
-    "remarks": "第77集",
-    "update_time": "2026-08-26 13:31:32"
   }
 ]

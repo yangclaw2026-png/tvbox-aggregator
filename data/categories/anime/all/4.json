@@ -1,5 +1,17 @@
 [
   {
+    "id": 145950,
+    "name": "致命内鬼游戏",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260826-1/5a8bbb22151972acd511eb50622e2233.jpg",
+    "score": "5.0",
+    "remarks": "第30集完结",
+    "update_time": "2026-08-26 11:52:18"
+  },
+  {
     "id": 141364,
     "name": "聊斋小剧",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第180集",
     "update_time": "2026-08-25 11:23:42"
-  },
-  {
-    "id": 142615,
-    "name": "时停起手，我横行废土之一秒定生死",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260806-1/98e34a699c5c7abe5a6e371d443e82e8.png",
-    "score": "5.0",
-    "remarks": "第60集",
-    "update_time": "2026-08-25 11:19:30"
   }
 ]
