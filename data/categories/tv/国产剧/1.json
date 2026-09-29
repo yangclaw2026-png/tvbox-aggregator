@@ -1,5 +1,41 @@
 [
   {
+    "id": 151363,
+    "name": "替身",
+    "type": "国产剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260928-1/f5a96a6be1b5b2c18d4f27780782bbf1.webp",
+    "score": "5.0",
+    "remarks": "第1集",
+    "update_time": "2026-09-29 23:00:30"
+  },
+  {
+    "id": 151215,
+    "name": "大刑伺候",
+    "type": "国产剧",
+    "category": "爱情,古装",
+    "year": "2027",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260927-1/7a4ce91f236cc24cda93ef2e98796037.webp",
+    "score": "5.0",
+    "remarks": "第8集完结",
+    "update_time": "2026-09-29 22:59:47"
+  },
+  {
+    "id": 151364,
+    "name": "染指流年",
+    "type": "国产剧",
+    "category": "爱情,历史",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260928-1/40c6a83aeb3fbdeb9cb30afaf053ce73.webp",
+    "score": "5.0",
+    "remarks": "第10集",
+    "update_time": "2026-09-29 22:59:17"
+  },
+  {
     "id": 151600,
     "name": "余红旧事",
     "type": "国产剧",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第16集完结",
     "update_time": "2026-08-22 20:43:20"
-  },
-  {
-    "id": 142154,
-    "name": "人鱼 (2026)",
-    "type": "国产剧",
-    "category": "剧情,悬疑",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/1c16483a537dfe94e8c72a28255549b5.jpg",
-    "score": "5.0",
-    "remarks": "第22集完结",
-    "update_time": "2026-08-22 20:18:04"
-  },
-  {
-    "id": 143074,
-    "name": "狂徒 2026",
-    "type": "国产剧",
-    "category": "剧情,犯罪",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260810-1/f2cf0a0540fe1069e52a19cc3bc047d0.jpg",
-    "score": "5.0",
-    "remarks": "第24集完结",
-    "update_time": "2026-08-22 19:24:04"
-  },
-  {
-    "id": 140679,
-    "name": "世界未解之谜",
-    "type": "国产剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260724-1/67d256c74f17075047b0ba6f8ed7c018.jpg",
-    "score": "5.0",
-    "remarks": "第7集",
-    "update_time": "2026-08-22 19:18:03"
   }
 ]

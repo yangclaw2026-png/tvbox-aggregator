@@ -1,5 +1,41 @@
 [
   {
+    "id": 137232,
+    "name": "快乐你懂的",
+    "type": "大陆综艺",
+    "category": "明星,搞笑",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260624-1/fee55283d39e98128adde854730eed4d.jpg",
+    "score": "5.0",
+    "remarks": "第20260811期",
+    "update_time": "2026-08-13 17:01:38"
+  },
+  {
+    "id": 139779,
+    "name": "非遗中国",
+    "type": "大陆综艺",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260716-1/12fedbe1fd1906ee81db0ec0afddc9ee.jpg",
+    "score": "5.0",
+    "remarks": "第5集",
+    "update_time": "2026-08-12 19:34:45"
+  },
+  {
+    "id": 134706,
+    "name": "​我们与恋爱的距离奔赴季​",
+    "type": "大陆综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260617-1/53babf25455693d957b2373cfeb31eea.jpg",
+    "score": "5.0",
+    "remarks": "20260812第11期下",
+    "update_time": "2026-08-12 18:01:40"
+  },
+  {
     "id": 141405,
     "name": "中国古代悲情战神",
     "type": "大陆综艺",
@@ -310,29 +346,5 @@
     "score": "5.0",
     "remarks": "20260801第2期",
     "update_time": "2026-08-03 11:24:55"
-  },
-  {
-    "id": 141897,
-    "name": "〈诗经〉有佳人",
-    "type": "大陆综艺",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/af68e494baeea0a2855476f39cbf5aaa.jpg",
-    "score": "5.0",
-    "remarks": "第7集",
-    "update_time": "2026-08-02 16:56:27"
-  },
-  {
-    "id": 137598,
-    "name": "东北超好吃",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260628-1/c63be8e4acb7d1d8eece4d35e1e7be59.jpg",
-    "score": "5.0",
-    "remarks": "20260801第11期",
-    "update_time": "2026-08-02 12:47:51"
   }
 ]

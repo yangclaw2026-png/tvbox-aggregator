@@ -1,5 +1,53 @@
 [
   {
+    "id": 151216,
+    "name": "多多的小世界",
+    "type": "国产动漫",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260927-1/33e3a119ce9676570acdee2f165e6516.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-09-29 23:12:00"
+  },
+  {
+    "id": 151217,
+    "name": "九州行：剑起青萍",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260927-1/7fd7fea8ed5ddc4b62f5fb9667bc8565.jpg",
+    "score": "5.0",
+    "remarks": "第70集完结",
+    "update_time": "2026-09-29 23:11:45"
+  },
+  {
+    "id": 151367,
+    "name": "萌友请就位",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260928-1/79c37f8eda1fb4f002dfc42fde35ecd7.jpg",
+    "score": "5.0",
+    "remarks": "第08集",
+    "update_time": "2026-09-29 23:00:02"
+  },
+  {
+    "id": 151368,
+    "name": "三角洲行动之带着校花加入GTI小组",
+    "type": "国产动漫",
+    "category": "竞技,泡面,热血",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260928-1/c712ae2ebda41c4cd3ae5ec6ae14b9ee.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-09-29 22:59:28"
+  },
+  {
     "id": 147939,
     "name": "喵喵我爱我家 第二季",
     "type": "国产动漫",
@@ -550,53 +598,5 @@
     "score": "5.0",
     "remarks": "第29集",
     "update_time": "2026-08-27 11:42:18"
-  },
-  {
-    "id": 344,
-    "name": "原来我早就无敌了 动态漫画",
-    "type": "国产动漫",
-    "category": "中国动漫",
-    "year": "2023",
-    "area": "中国大陆",
-    "poster": "https://image.maimn.com/cover/4731930038e535c8a92a63282a1bdf7f.jpg#err2025-01-09",
-    "score": "5.0",
-    "remarks": "第535集",
-    "update_time": "2026-08-27 11:41:48"
-  },
-  {
-    "id": 131277,
-    "name": "锦绣钱途",
-    "type": "国产动漫",
-    "category": "剧情,动漫",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260507-1/bab7639169fb0abab5d15a256a2e150a.jpg",
-    "score": "5.0",
-    "remarks": "第25集",
-    "update_time": "2026-08-27 11:41:44"
-  },
-  {
-    "id": 88379,
-    "name": "师尊：这个冲师逆徒才不是圣子 动态漫画",
-    "type": "国产动漫",
-    "category": "中国动漫",
-    "year": "2025",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250502-1/ae8bb6354a18d5a27de6026b2b5b459b.jpg",
-    "score": "0.0",
-    "remarks": "第193集",
-    "update_time": "2026-08-27 11:41:12"
-  },
-  {
-    "id": 104061,
-    "name": "全民转职：我组建了BOSS军团 动态漫画",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2025",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250904-1/9479c0c837386963b83a8c2397027349.jpg",
-    "score": "5.0",
-    "remarks": "第408集",
-    "update_time": "2026-08-27 11:40:26"
   }
 ]

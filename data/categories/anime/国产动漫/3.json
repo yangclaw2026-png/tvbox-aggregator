@@ -1,5 +1,53 @@
 [
   {
+    "id": 134277,
+    "name": "魔道重生的女武神",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260601-1/e9e89ef7001812a20ebc1cbf5b872c25.jpg",
+    "score": "5.0",
+    "remarks": "第162集",
+    "update_time": "2026-08-26 14:07:13"
+  },
+  {
+    "id": 136437,
+    "name": "家有悍妻惹不得",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260614-1/8fc23cadb93508bca6755d58132a054e.jpg",
+    "score": "0.0",
+    "remarks": "第152集",
+    "update_time": "2026-08-26 14:06:42"
+  },
+  {
+    "id": 138998,
+    "name": "刚毕业就末日：万亿开局当神豪 动态漫画",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260708-1/bc7c6a1e35aa39355679f08aa3157863.jpg",
+    "score": "5.0",
+    "remarks": "第344集",
+    "update_time": "2026-08-26 13:49:28"
+  },
+  {
+    "id": 145954,
+    "name": "神奇毛豆救护站",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260826-1/d8ed794a47086a49a2ae189185f59bf4.jpg",
+    "score": "5.0",
+    "remarks": "第22集",
+    "update_time": "2026-08-26 13:42:51"
+  },
+  {
     "id": 145959,
     "name": "全民深渊：我喝药能增加属性上限",
     "type": "国产动漫",
@@ -550,53 +598,5 @@
     "score": "5.0",
     "remarks": "第17集",
     "update_time": "2026-08-25 17:33:40"
-  },
-  {
-    "id": 141516,
-    "name": "软饭男是大佬",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260730-1/d93c31fbf726f5ff6d87ed73d22af942.jpg",
-    "score": "5.0",
-    "remarks": "第33集",
-    "update_time": "2026-08-25 17:32:58"
-  },
-  {
-    "id": 141520,
-    "name": "这个仙君不想谈恋爱",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260730-1/8e85c900d5bc3033e33d26184b13cdaa.jpg",
-    "score": "5.0",
-    "remarks": "第17集",
-    "update_time": "2026-08-25 17:32:16"
-  },
-  {
-    "id": 2765,
-    "name": "万界独尊",
-    "type": "国产动漫",
-    "category": "其它,动漫,中国动漫,动画",
-    "year": "2021",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250109-3/62d6d59825d60b9155e0b3a0285af870.jpg",
-    "score": "6.5",
-    "remarks": "第477集",
-    "update_time": "2026-08-25 17:31:34"
-  },
-  {
-    "id": 659,
-    "name": "武神主宰 2020",
-    "type": "国产动漫",
-    "category": "其他,中国动漫,动画",
-    "year": "2020",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250109-5/34f751a1d9bf9d6af19c09a1aab5f264.jpg",
-    "score": "5.0",
-    "remarks": "第686集",
-    "update_time": "2026-08-25 17:28:13"
   }
 ]

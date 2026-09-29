@@ -1,5 +1,53 @@
 [
   {
+    "id": 139339,
+    "name": "说了不打算爱我的公爵继承人，不知为何对我宠爱有加",
+    "type": "日本动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260710-1/0b38e1377e3d80259dfd172e2ee8231c.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-23 22:31:24"
+  },
+  {
+    "id": 143124,
+    "name": "古玄少主：漓城源能录",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260810-1/f8625ad963b7fbae93522e6447ed59de.jpg",
+    "score": "5.0",
+    "remarks": "第14集",
+    "update_time": "2026-08-23 22:27:43"
+  },
+  {
+    "id": 139332,
+    "name": "炒翻天",
+    "type": "日本动漫",
+    "category": "剧情,动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260710-1/7d9fce8c39b238df273e2dd8c282e0e5.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-23 22:26:35"
+  },
+  {
+    "id": 139338,
+    "name": "Let&#039;s Go 怪奇组",
+    "type": "日本动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260710-1/0554d229c716eb438583dde2a32f683b.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-23 22:24:37"
+  },
+  {
     "id": 138377,
     "name": "少女怪兽焦糖味",
     "type": "日本动漫",
@@ -550,53 +598,5 @@
     "score": "5.0",
     "remarks": "第8集",
     "update_time": "2026-08-22 16:53:22"
-  },
-  {
-    "id": 127114,
-    "name": "关于我转生变成史莱姆这档事 第四季 Part 2",
-    "type": "日本动漫",
-    "category": "动画,奇幻",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260404-1/8e89c49172d3f7e1d3f59e9da42f4ec9.jpg",
-    "score": "5.0",
-    "remarks": "第19集",
-    "update_time": "2026-08-22 16:50:37"
-  },
-  {
-    "id": 127732,
-    "name": "神之水滴",
-    "type": "日本动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260411-1/b94ac3858cac6d8940e6f666b54e7faa.jpg",
-    "score": "5.0",
-    "remarks": "第20集",
-    "update_time": "2026-08-22 16:48:13"
-  },
-  {
-    "id": 141884,
-    "name": "1999！神秘学对策部（中配版）",
-    "type": "国产动漫",
-    "category": "科幻,动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/b482327f474b07b830d04c4c14421f69.jpg",
-    "score": "5.0",
-    "remarks": "第5集",
-    "update_time": "2026-08-22 16:37:54"
-  },
-  {
-    "id": 144520,
-    "name": "无良系统变向导，我被四个哨兵拿捏了",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260818-1/9c5dc097ce953606873f56fbae747bf0.jpg",
-    "score": "5.0",
-    "remarks": "第7集",
-    "update_time": "2026-08-22 16:32:26"
   }
 ]

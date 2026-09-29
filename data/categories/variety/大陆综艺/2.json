@@ -1,5 +1,41 @@
 [
   {
+    "id": 139830,
+    "name": "群英会 2026",
+    "type": "大陆综艺",
+    "category": "综艺",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260717-1/05c2c98c47dc40c16104fbee6987057b.jpg",
+    "score": "5.0",
+    "remarks": "第42期",
+    "update_time": "2026-08-25 17:40:29"
+  },
+  {
+    "id": 141212,
+    "name": "伊抹风味",
+    "type": "大陆综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260728-1/e253902e18133c88eefb8865d783d484.jpg",
+    "score": "5.0",
+    "remarks": "第5集",
+    "update_time": "2026-08-25 13:57:11"
+  },
+  {
+    "id": 18606,
+    "name": "这就是中国",
+    "type": "大陆综艺",
+    "category": "脱口秀",
+    "year": "2019",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250108-57/a7b1c371b1ccf97cbccb38ab7eeb73be.jpg",
+    "score": "5.0",
+    "remarks": "第345期",
+    "update_time": "2026-08-25 12:45:15"
+  },
+  {
     "id": 131640,
     "name": "创业面对面",
     "type": "大陆综艺",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "20260813李诞李娟一场拒绝美化的对谈",
     "update_time": "2026-08-14 11:26:27"
-  },
-  {
-    "id": 137232,
-    "name": "快乐你懂的",
-    "type": "大陆综艺",
-    "category": "明星,搞笑",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260624-1/fee55283d39e98128adde854730eed4d.jpg",
-    "score": "5.0",
-    "remarks": "第20260811期",
-    "update_time": "2026-08-13 17:01:38"
-  },
-  {
-    "id": 139779,
-    "name": "非遗中国",
-    "type": "大陆综艺",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260716-1/12fedbe1fd1906ee81db0ec0afddc9ee.jpg",
-    "score": "5.0",
-    "remarks": "第5集",
-    "update_time": "2026-08-12 19:34:45"
-  },
-  {
-    "id": 134706,
-    "name": "​我们与恋爱的距离奔赴季​",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260617-1/53babf25455693d957b2373cfeb31eea.jpg",
-    "score": "5.0",
-    "remarks": "20260812第11期下",
-    "update_time": "2026-08-12 18:01:40"
   }
 ]

@@ -1,5 +1,53 @@
 [
   {
+    "id": 8901,
+    "name": "大主宰年番",
+    "type": "国产动漫",
+    "category": "动画,中国动漫",
+    "year": "2022",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250108-67/5d3130b950fccec407fce311886679b9.jpg",
+    "score": "5.0",
+    "remarks": "第87集",
+    "update_time": "2026-08-21 12:07:10"
+  },
+  {
+    "id": 143070,
+    "name": "咕噜比事务所",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260810-1/2540138a4080dff00afee81b4bb865ce.jpg",
+    "score": "5.0",
+    "remarks": "第26集完结",
+    "update_time": "2026-08-21 12:05:07"
+  },
+  {
+    "id": 134914,
+    "name": "公爵小姐不想被宠坏",
+    "type": "国产动漫",
+    "category": "爱情,动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260605-1/82f2f00bbccc1dff51b38f761e74c2bc.jpg",
+    "score": "5.0",
+    "remarks": "第14集",
+    "update_time": "2026-08-21 12:02:16"
+  },
+  {
+    "id": 131729,
+    "name": "丧尸末世：重生精神病院开始成神",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260512-1/94d1ccfc82098ac20689ba9f6d922dca.jpg",
+    "score": "5.0",
+    "remarks": "第80集完结",
+    "update_time": "2026-08-21 12:01:18"
+  },
+  {
     "id": 131320,
     "name": "​喵地瓜欢乐蛋仔岛 第三季",
     "type": "国产动漫",
@@ -550,53 +598,5 @@
     "score": "5.0",
     "remarks": "第16集",
     "update_time": "2026-08-14 14:32:41"
-  },
-  {
-    "id": 143810,
-    "name": "哈小浪上学记 第5季",
-    "type": "国产动漫",
-    "category": "动画,冒险,搞笑",
-    "year": "2025",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260814-1/824aade041e3abc23a448269953c3d3b.jpg",
-    "score": "5.0",
-    "remarks": "第40集完结",
-    "update_time": "2026-08-14 13:08:14"
-  },
-  {
-    "id": 140922,
-    "name": "末世摸大金 开局百倍爆率",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260726-1/0a16422b12fd5f4f00de5dc02604f53f.jpg",
-    "score": "5.0",
-    "remarks": "第5集",
-    "update_time": "2026-08-14 12:47:38"
-  },
-  {
-    "id": 102491,
-    "name": "从野怪开始升级 动态漫画",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2024",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250822-1/24c063b322c633a673dac4389f1da742.jpg",
-    "score": "5.0",
-    "remarks": "第45集",
-    "update_time": "2026-08-14 12:33:13"
-  },
-  {
-    "id": 519,
-    "name": "百炼成神 动态漫画 第三季",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2024",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250109-5/af0983c7d15d222205ecc7736da5d491.jpg",
-    "score": "5.0",
-    "remarks": "第104集完结",
-    "update_time": "2026-08-14 12:24:54"
   }
 ]

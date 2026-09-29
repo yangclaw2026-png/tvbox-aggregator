@@ -1,5 +1,53 @@
 [
   {
+    "id": 143124,
+    "name": "古玄少主：漓城源能录",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260810-1/f8625ad963b7fbae93522e6447ed59de.jpg",
+    "score": "5.0",
+    "remarks": "第14集",
+    "update_time": "2026-08-23 22:27:43"
+  },
+  {
+    "id": 134305,
+    "name": "破防临界线 诡契无上限",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260601-1/87b7e62838aeadf84273021dc1906a91.jpg",
+    "score": "5.0",
+    "remarks": "第58集",
+    "update_time": "2026-08-23 13:23:51"
+  },
+  {
+    "id": 139735,
+    "name": "邪魔墨然",
+    "type": "国产动漫",
+    "category": "动作,动画,惊悚,奇幻",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260715-1/10c046c308f3c119ba8f888a7a57a9e9.jpg",
+    "score": "5.0",
+    "remarks": "第20集",
+    "update_time": "2026-08-23 13:03:02"
+  },
+  {
+    "id": 112593,
+    "name": "只有我能用召唤术 动态漫画",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2024",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20251117-1/e486340e7e5ea97e8f019df60342dbfe.jpg",
+    "score": "5.0",
+    "remarks": "第114集",
+    "update_time": "2026-08-23 12:37:27"
+  },
+  {
     "id": 136,
     "name": "我家娘子竟然是女帝 动态漫画",
     "type": "国产动漫",
@@ -550,53 +598,5 @@
     "score": "5.0",
     "remarks": "第36集",
     "update_time": "2026-08-22 11:44:46"
-  },
-  {
-    "id": 271,
-    "name": "顶级气运，悄悄修练千年 动态漫画",
-    "type": "国产动漫",
-    "category": "中国动漫",
-    "year": "2024",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250109-5/85b1ddda564197f3cbeef2ac8fbb17d4.jpg",
-    "score": "5.0",
-    "remarks": "第130集",
-    "update_time": "2026-08-22 11:35:34"
-  },
-  {
-    "id": 331,
-    "name": "超神宠兽店·动态漫画",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2024",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250109-5/fc87433d762fe74611ad06820ece3e1f.jpg",
-    "score": "5.0",
-    "remarks": "第202集",
-    "update_time": "2026-08-22 11:31:55"
-  },
-  {
-    "id": 250,
-    "name": "超级神基因 动态漫画",
-    "type": "国产动漫",
-    "category": "奇幻,神怪,中国动漫",
-    "year": "2024",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250109-5/53180f2c9005aa2bcdca951295569913.jpg",
-    "score": "5.0",
-    "remarks": "第134集",
-    "update_time": "2026-08-22 11:31:13"
-  },
-  {
-    "id": 6777,
-    "name": "妖神记",
-    "type": "国产动漫",
-    "category": "动作,动画,奇幻,冒险,中国动漫",
-    "year": "2021",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250108-69/fb73ac078edb03ca42bcde7db5dbf17e.jpg",
-    "score": "5.0",
-    "remarks": "第445集",
-    "update_time": "2026-08-22 11:24:00"
   }
 ]

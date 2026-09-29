@@ -1,5 +1,53 @@
 [
   {
+    "id": 144782,
+    "name": "归墟道主",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260819-1/374c9ebfa6a644af4caa0b335de0e0cf.jpg",
+    "score": "5.0",
+    "remarks": "第40集完结",
+    "update_time": "2026-08-25 11:37:05"
+  },
+  {
+    "id": 130968,
+    "name": "仙界第一残魄，可她悟性超绝",
+    "type": "国产动漫",
+    "category": "恋爱,玄幻,动漫",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260505-1/206c29948c25009b0e92b421372ac32b.jpg",
+    "score": "5.0",
+    "remarks": "第45集",
+    "update_time": "2026-08-25 11:35:15"
+  },
+  {
+    "id": 142632,
+    "name": "奇变偶不变，我俩造反建工业",
+    "type": "国产动漫",
+    "category": "动画,短片",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260807-1/cadaa28ac1dc14ef5fa5e0df0dc3a09a.jpg",
+    "score": "5.0",
+    "remarks": "第60集",
+    "update_time": "2026-08-25 11:28:08"
+  },
+  {
+    "id": 133669,
+    "name": "​快穿系统：偏执BOSS不好惹​",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260526-1/c980e6ed932661f93ceef83030a36fe2.jpg",
+    "score": "5.0",
+    "remarks": "第180集",
+    "update_time": "2026-08-25 11:23:42"
+  },
+  {
     "id": 142615,
     "name": "时停起手，我横行废土之一秒定生死",
     "type": "国产动漫",
@@ -550,53 +598,5 @@
     "score": "5.0",
     "remarks": "第5集",
     "update_time": "2026-08-23 23:39:46"
-  },
-  {
-    "id": 139339,
-    "name": "说了不打算爱我的公爵继承人，不知为何对我宠爱有加",
-    "type": "日本动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260710-1/0b38e1377e3d80259dfd172e2ee8231c.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-23 22:31:24"
-  },
-  {
-    "id": 143124,
-    "name": "古玄少主：漓城源能录",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260810-1/f8625ad963b7fbae93522e6447ed59de.jpg",
-    "score": "5.0",
-    "remarks": "第14集",
-    "update_time": "2026-08-23 22:27:43"
-  },
-  {
-    "id": 139332,
-    "name": "炒翻天",
-    "type": "日本动漫",
-    "category": "剧情,动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260710-1/7d9fce8c39b238df273e2dd8c282e0e5.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-23 22:26:35"
-  },
-  {
-    "id": 139338,
-    "name": "Let&#039;s Go 怪奇组",
-    "type": "日本动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260710-1/0554d229c716eb438583dde2a32f683b.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-23 22:24:37"
   }
 ]

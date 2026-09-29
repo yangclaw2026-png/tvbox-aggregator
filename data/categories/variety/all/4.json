@@ -1,5 +1,41 @@
 [
   {
+    "id": 142125,
+    "name": "耀眼角色番综·耀眼一夏",
+    "type": "大陆综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260804-1/e064ce3938d87389e5a14468f086f55b.jpg",
+    "score": "5.0",
+    "remarks": "第20260815期",
+    "update_time": "2026-08-15 16:29:56"
+  },
+  {
+    "id": 136613,
+    "name": "国医少年志 第三季",
+    "type": "大陆综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260615-1/dc83ddedc918bb1b5e03db19096c2c61.jpg",
+    "score": "5.0",
+    "remarks": "20260814第10期：国医少年团毕业礼",
+    "update_time": "2026-08-15 12:05:46"
+  },
+  {
+    "id": 130556,
+    "name": "虽然没准备什么菜 第四季",
+    "type": "日韩综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "韩国",
+    "poster": "https://dbzy5.com/upload/vod/20260501-1/85049e4e8faccc1018517a49d8d3bb9a.jpg",
+    "score": "5.0",
+    "remarks": "第13期",
+    "update_time": "2026-08-15 11:09:39"
+  },
+  {
     "id": 137447,
     "name": "合宿相亲2",
     "type": "日韩综艺",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "20260804第八期",
     "update_time": "2026-08-04 13:56:16"
-  },
-  {
-    "id": 140063,
-    "name": "中华才女风华录",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260720-1/0e1b0d18c9c5fc0affa73777a076b095.jpg",
-    "score": "5.0",
-    "remarks": "第6期",
-    "update_time": "2026-08-03 21:20:50"
-  },
-  {
-    "id": 132505,
-    "name": "锻刀大赛 第五季",
-    "type": "欧美综艺",
-    "category": "真人秀",
-    "year": "2018",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260519-1/e4c4e71c31a4539587667ba9eb4bfc01.jpg",
-    "score": "8.8",
-    "remarks": "第40期",
-    "update_time": "2026-08-03 19:56:31"
-  },
-  {
-    "id": 141970,
-    "name": "时代追梦人",
-    "type": "大陆综艺",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/ec2ea40870b82bb0c04f8b0b068a06e3.jpg",
-    "score": "5.0",
-    "remarks": "第3期",
-    "update_time": "2026-08-03 15:19:15"
   }
 ]

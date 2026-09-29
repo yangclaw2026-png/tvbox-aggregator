@@ -1,5 +1,41 @@
 [
   {
+    "id": 151133,
+    "name": "超级玩家 •芭莎之夜",
+    "type": "大陆综艺",
+    "category": "真人秀,晚会",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260926-1/11bdfe08c5a942fa70d29dac1eb865e8.jpg",
+    "score": "5.0",
+    "remarks": "第1期完结",
+    "update_time": "2026-09-29 23:15:27"
+  },
+  {
+    "id": 151134,
+    "name": "2026香港小姐竞选决赛",
+    "type": "大陆综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "中国香港",
+    "poster": "https://dbzy5.com/upload/vod/20260926-1/3d70d54801655a511628bc1a08b761e1.webp",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-09-29 23:15:08"
+  },
+  {
+    "id": 151152,
+    "name": "2026湖南卫视芒果TV中秋之夜",
+    "type": "大陆综艺",
+    "category": "综艺,明星,晚会",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260926-1/092fc06110a81c412006ac8eb2398d98.jpg",
+    "score": "5.0",
+    "remarks": "第20260926期舞台纯享版",
+    "update_time": "2026-09-29 23:12:26"
+  },
+  {
     "id": 150002,
     "name": "凑个热闹",
     "type": "大陆综艺",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "20260826宿舍不熄灯：曾舜晞拿捏孟子义",
     "update_time": "2026-08-26 18:37:04"
-  },
-  {
-    "id": 137241,
-    "name": "食神·百厨大战",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260624-1/91567483dee461dc4db8d29985692d53.jpg",
-    "score": "5.0",
-    "remarks": "20260826(抢先版EP11)",
-    "update_time": "2026-08-26 16:22:39"
-  },
-  {
-    "id": 136808,
-    "name": "少年无尽夏",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260617-1/058c73bf63d10b6926b4aa0bae65f302.jpg",
-    "score": "5.0",
-    "remarks": "20260826（下）",
-    "update_time": "2026-08-26 16:21:10"
-  },
-  {
-    "id": 138370,
-    "name": "喜剧之王单口季 第三季",
-    "type": "大陆综艺",
-    "category": "喜剧,脱口秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260704-1/1a082f554dfa9275077a40c825f2d8fe.jpg",
-    "score": "5.0",
-    "remarks": "20260826特别策划7：减肥还是吃饭 这是一个好问题",
-    "update_time": "2026-08-26 16:17:35"
   }
 ]

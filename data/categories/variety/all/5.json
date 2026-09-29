@@ -1,5 +1,41 @@
 [
   {
+    "id": 140063,
+    "name": "中华才女风华录",
+    "type": "大陆综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260720-1/0e1b0d18c9c5fc0affa73777a076b095.jpg",
+    "score": "5.0",
+    "remarks": "第6期",
+    "update_time": "2026-08-03 21:20:50"
+  },
+  {
+    "id": 132505,
+    "name": "锻刀大赛 第五季",
+    "type": "欧美综艺",
+    "category": "真人秀",
+    "year": "2018",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260519-1/e4c4e71c31a4539587667ba9eb4bfc01.jpg",
+    "score": "8.8",
+    "remarks": "第40期",
+    "update_time": "2026-08-03 19:56:31"
+  },
+  {
+    "id": 141970,
+    "name": "时代追梦人",
+    "type": "大陆综艺",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260803-1/ec2ea40870b82bb0c04f8b0b068a06e3.jpg",
+    "score": "5.0",
+    "remarks": "第3期",
+    "update_time": "2026-08-03 15:19:15"
+  },
+  {
     "id": 134283,
     "name": "歌手2026 直拍REACTION",
     "type": "大陆综艺",
@@ -94,29 +130,5 @@
     "score": "5.0",
     "remarks": "20260801第2期",
     "update_time": "2026-08-03 11:24:55"
-  },
-  {
-    "id": 141897,
-    "name": "〈诗经〉有佳人",
-    "type": "大陆综艺",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/af68e494baeea0a2855476f39cbf5aaa.jpg",
-    "score": "5.0",
-    "remarks": "第7集",
-    "update_time": "2026-08-02 16:56:27"
-  },
-  {
-    "id": 137598,
-    "name": "东北超好吃",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260628-1/c63be8e4acb7d1d8eece4d35e1e7be59.jpg",
-    "score": "5.0",
-    "remarks": "20260801第11期",
-    "update_time": "2026-08-02 12:47:51"
   }
 ]

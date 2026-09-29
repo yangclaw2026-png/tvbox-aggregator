@@ -1,5 +1,29 @@
 [
   {
+    "id": 151087,
+    "name": "今天也不知悔改的我们",
+    "type": "日本剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260924-1/fec98e5e2c179d20e779ae4621cc1f02.webp",
+    "score": "5.0",
+    "remarks": "第1集",
+    "update_time": "2026-09-29 23:41:21"
+  },
+  {
+    "id": 151359,
+    "name": "死亡（青春）游戏",
+    "type": "日本剧",
+    "category": "剧情,悬疑,冒险",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260928-1/e625c99e1854c5fa92748b65bc77afb4.webp",
+    "score": "5.0",
+    "remarks": "第4集完结",
+    "update_time": "2026-09-29 23:00:51"
+  },
+  {
     "id": 148335,
     "name": "虚无的十字架",
     "type": "日本剧",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第8集",
     "update_time": "2026-08-17 22:51:38"
-  },
-  {
-    "id": 144247,
-    "name": "医龙",
-    "type": "日本剧",
-    "category": "剧情",
-    "year": "2006",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260817-1/71fb737c3f9da686342f4f5d7bc867b6.webp",
-    "score": "8.9",
-    "remarks": "第11集完结",
-    "update_time": "2026-08-17 14:48:12"
-  },
-  {
-    "id": 140111,
-    "name": "尾调",
-    "type": "日本剧",
-    "category": "爱情",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260720-1/ba4d4498d57d3f0240f0d856792bc2bb.jpg",
-    "score": "5.0",
-    "remarks": "第6集",
-    "update_time": "2026-08-17 12:53:44"
   }
 ]

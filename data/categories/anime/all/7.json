@@ -1,5 +1,53 @@
 [
   {
+    "id": 127114,
+    "name": "关于我转生变成史莱姆这档事 第四季 Part 2",
+    "type": "日本动漫",
+    "category": "动画,奇幻",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260404-1/8e89c49172d3f7e1d3f59e9da42f4ec9.jpg",
+    "score": "5.0",
+    "remarks": "第19集",
+    "update_time": "2026-08-22 16:50:37"
+  },
+  {
+    "id": 127732,
+    "name": "神之水滴",
+    "type": "日本动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260411-1/b94ac3858cac6d8940e6f666b54e7faa.jpg",
+    "score": "5.0",
+    "remarks": "第20集",
+    "update_time": "2026-08-22 16:48:13"
+  },
+  {
+    "id": 141884,
+    "name": "1999！神秘学对策部（中配版）",
+    "type": "国产动漫",
+    "category": "科幻,动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260802-1/b482327f474b07b830d04c4c14421f69.jpg",
+    "score": "5.0",
+    "remarks": "第5集",
+    "update_time": "2026-08-22 16:37:54"
+  },
+  {
+    "id": 144520,
+    "name": "无良系统变向导，我被四个哨兵拿捏了",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260818-1/9c5dc097ce953606873f56fbae747bf0.jpg",
+    "score": "5.0",
+    "remarks": "第7集",
+    "update_time": "2026-08-22 16:32:26"
+  },
+  {
     "id": 145237,
     "name": "神奇数字马戏团普通话",
     "type": "欧美动漫",
@@ -550,53 +598,5 @@
     "score": "5.0",
     "remarks": "第96集",
     "update_time": "2026-08-21 12:23:19"
-  },
-  {
-    "id": 8901,
-    "name": "大主宰年番",
-    "type": "国产动漫",
-    "category": "动画,中国动漫",
-    "year": "2022",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250108-67/5d3130b950fccec407fce311886679b9.jpg",
-    "score": "5.0",
-    "remarks": "第87集",
-    "update_time": "2026-08-21 12:07:10"
-  },
-  {
-    "id": 143070,
-    "name": "咕噜比事务所",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260810-1/2540138a4080dff00afee81b4bb865ce.jpg",
-    "score": "5.0",
-    "remarks": "第26集完结",
-    "update_time": "2026-08-21 12:05:07"
-  },
-  {
-    "id": 134914,
-    "name": "公爵小姐不想被宠坏",
-    "type": "国产动漫",
-    "category": "爱情,动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260605-1/82f2f00bbccc1dff51b38f761e74c2bc.jpg",
-    "score": "5.0",
-    "remarks": "第14集",
-    "update_time": "2026-08-21 12:02:16"
-  },
-  {
-    "id": 131729,
-    "name": "丧尸末世：重生精神病院开始成神",
-    "type": "国产动漫",
-    "category": "中国动漫",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260512-1/94d1ccfc82098ac20689ba9f6d922dca.jpg",
-    "score": "5.0",
-    "remarks": "第80集完结",
-    "update_time": "2026-08-21 12:01:18"
   }
 ]

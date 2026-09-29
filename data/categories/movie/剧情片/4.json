@@ -1,5 +1,29 @@
 [
   {
+    "id": 142098,
+    "name": "纯真童影",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2010",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260803-1/d86839873b21ada0ff296e38002e36b1.jpg",
+    "score": "7.7",
+    "remarks": "正片",
+    "update_time": "2026-08-03 21:24:00"
+  },
+  {
+    "id": 142018,
+    "name": "欧盟制造",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2025",
+    "area": "德国,保加利亚,捷克",
+    "poster": "https://dbzy5.com/upload/vod/20260803-1/a6ca5572466e4c36cc9991b8d07ece2e.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-03 18:14:32"
+  },
+  {
     "id": 142007,
     "name": "谍网女金刚",
     "type": "剧情片",
@@ -394,125 +418,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-02 18:32:42"
-  },
-  {
-    "id": 141913,
-    "name": "再试一次",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2012",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/170bf8996f319ce98611c6baddce7084.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-02 17:58:08"
-  },
-  {
-    "id": 141905,
-    "name": "坂本日常 真人版",
-    "type": "剧情片",
-    "category": "剧情,动作",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/07b3e62ff11d79579f5764f558813055.jpg",
-    "score": "5.0",
-    "remarks": "抢先版",
-    "update_time": "2026-08-02 17:51:43"
-  },
-  {
-    "id": 141912,
-    "name": "我们奇特的深度聆听",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2020",
-    "area": "印度",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/6e8a072fec042ba29c398bc7a6c72c4e.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-02 17:15:57"
-  },
-  {
-    "id": 141910,
-    "name": "小仙女们",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2015",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/8fc6f3e2861e45905d9f5e141bc7f718.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-02 17:02:17"
-  },
-  {
-    "id": 66152,
-    "name": "李宗伟：败者为王",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2018",
-    "area": "马来西亚",
-    "poster": "https://dbzy5.com/upload/vod/20250107-5/d48cea167002b2904d5d65dce9604478.jpg",
-    "score": "6.9",
-    "remarks": "正片",
-    "update_time": "2026-08-02 16:44:12"
-  },
-  {
-    "id": 141907,
-    "name": "达罗与达罗：谋杀之钥",
-    "type": "剧情片",
-    "category": "悬疑",
-    "year": "2018",
-    "area": "加拿大",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/69bc8ee8f1def6cc93ccaa0d0643dcde.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-02 16:34:27"
-  },
-  {
-    "id": 141902,
-    "name": "孪生陌生人",
-    "type": "剧情片",
-    "category": "剧情,悬疑,纪录片,传记",
-    "year": "2018",
-    "area": "英国",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/3f4ba1b079ee02f26d07ed7283d12b55.jpg",
-    "score": "7.7",
-    "remarks": "正片",
-    "update_time": "2026-08-02 16:18:23"
-  },
-  {
-    "id": 141040,
-    "name": "侵入性思维",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260727-1/7484b2d584a58c8d131de2f3e8fbe704.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-02 14:55:07"
-  },
-  {
-    "id": 141878,
-    "name": "将你催眠",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2020",
-    "area": "印度",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/c96474a966ef0a486a8bcc6bea0192a1.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-02 11:37:03"
-  },
-  {
-    "id": 141746,
-    "name": "我们的命运",
-    "type": "剧情片",
-    "category": "剧情,爱情",
-    "year": "2018",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260801-1/b6ae8fff8ece17136bdbb70e1fc02f80.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-01 23:01:18"
   }
 ]

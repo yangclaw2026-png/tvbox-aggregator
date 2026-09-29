@@ -1,5 +1,41 @@
 [
   {
+    "id": 137241,
+    "name": "食神·百厨大战",
+    "type": "大陆综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260624-1/91567483dee461dc4db8d29985692d53.jpg",
+    "score": "5.0",
+    "remarks": "20260826(抢先版EP11)",
+    "update_time": "2026-08-26 16:22:39"
+  },
+  {
+    "id": 136808,
+    "name": "少年无尽夏",
+    "type": "大陆综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260617-1/058c73bf63d10b6926b4aa0bae65f302.jpg",
+    "score": "5.0",
+    "remarks": "20260826（下）",
+    "update_time": "2026-08-26 16:21:10"
+  },
+  {
+    "id": 138370,
+    "name": "喜剧之王单口季 第三季",
+    "type": "大陆综艺",
+    "category": "喜剧,脱口秀",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260704-1/1a082f554dfa9275077a40c825f2d8fe.jpg",
+    "score": "5.0",
+    "remarks": "20260826特别策划7：减肥还是吃饭 这是一个好问题",
+    "update_time": "2026-08-26 16:17:35"
+  },
+  {
     "id": 142404,
     "name": "开“麦”大笑吧",
     "type": "大陆综艺",
@@ -562,41 +598,5 @@
     "score": "6.1",
     "remarks": "第20260823期 特别企划：张月发言笑翻刘宇",
     "update_time": "2026-08-23 18:31:24"
-  },
-  {
-    "id": 75,
-    "name": "闲着干嘛呢？",
-    "type": "日韩综艺",
-    "category": "日韩综艺,综艺",
-    "year": "2019",
-    "area": "韩国",
-    "poster": "https://dbzy5.com/upload/vod/20250109-6/069e04cd3ad12a3e610c6e72fa3a9ad1.jpg",
-    "score": "4.7",
-    "remarks": "第20260822期",
-    "update_time": "2026-08-23 16:06:19"
-  },
-  {
-    "id": 144197,
-    "name": "幸福来敲门 医探究竟",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260817-1/b410208661acee291ed91fddedf840ec.jpg",
-    "score": "5.0",
-    "remarks": "20260821第33期",
-    "update_time": "2026-08-23 15:35:05"
-  },
-  {
-    "id": 145391,
-    "name": "新花路放",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260823-1/8b475eae7d6ff904ad7fff03dd6a9377.jpg",
-    "score": "5.0",
-    "remarks": "第2集",
-    "update_time": "2026-08-23 15:11:00"
   }
 ]

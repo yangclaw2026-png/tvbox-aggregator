@@ -1,5 +1,53 @@
 [
   {
+    "id": 151237,
+    "name": "家囚惊魂",
+    "type": "惊悚片",
+    "category": "犯罪,惊悚",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260927-1/548dfcd4ccbddb022352c1499d935aec.webp",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-09-29 23:10:46"
+  },
+  {
+    "id": 151245,
+    "name": "末世行者",
+    "type": "惊悚片",
+    "category": "科幻,惊悚,冒险",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260927-1/6cf88ef00168a398a3ef175f14e97d52.webp",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-09-29 23:10:24"
+  },
+  {
+    "id": 151244,
+    "name": "当妈妈成为杀人犯",
+    "type": "惊悚片",
+    "category": "惊悚",
+    "year": "2024",
+    "area": "加拿大",
+    "poster": "https://dbzy5.com/upload/vod/20260927-1/ef19bcee3fcceb1f5888892f078877de.webp",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-09-29 23:09:58"
+  },
+  {
+    "id": 151362,
+    "name": "怪屋",
+    "type": "惊悚片",
+    "category": "悬疑,惊悚,恐怖",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260928-1/d1d33ab6d928763f59a1bf262b723e62.webp",
+    "score": "5.8",
+    "remarks": "正片",
+    "update_time": "2026-09-29 23:00:40"
+  },
+  {
     "id": 141181,
     "name": "怖偶惊情",
     "type": "惊悚片",
@@ -418,41 +466,5 @@
     "score": "5.9",
     "remarks": "正片",
     "update_time": "2026-08-02 22:13:21"
-  },
-  {
-    "id": 141904,
-    "name": "使徒",
-    "type": "惊悚片",
-    "category": "悬疑,惊悚,恐怖",
-    "year": "2018",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/1f7b1c6c088f85d18137fb51f67604f2.jpg",
-    "score": "6.3",
-    "remarks": "正片",
-    "update_time": "2026-08-02 16:25:52"
-  },
-  {
-    "id": 141898,
-    "name": "埃德加·爱伦·坡的椭圆形肖像",
-    "type": "惊悚片",
-    "category": "惊悚,恐怖",
-    "year": "2025",
-    "area": "加拿大",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/119be009fca4bdf1bc82fafab6e8eee7.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-02 16:00:43"
-  },
-  {
-    "id": 141895,
-    "name": "圣咒：罪上之罪",
-    "type": "惊悚片",
-    "category": "惊悚,恐怖",
-    "year": "2025",
-    "area": "印度尼西亚",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/0b54b2703f047034dca36f41360c0a26.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-02 15:14:44"
   }
 ]

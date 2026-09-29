@@ -1,5 +1,41 @@
 [
   {
+    "id": 151133,
+    "name": "超级玩家 •芭莎之夜",
+    "type": "大陆综艺",
+    "category": "真人秀,晚会",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260926-1/11bdfe08c5a942fa70d29dac1eb865e8.jpg",
+    "score": "5.0",
+    "remarks": "第1期完结",
+    "update_time": "2026-09-29 23:15:27"
+  },
+  {
+    "id": 151134,
+    "name": "2026香港小姐竞选决赛",
+    "type": "大陆综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "中国香港",
+    "poster": "https://dbzy5.com/upload/vod/20260926-1/3d70d54801655a511628bc1a08b761e1.webp",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-09-29 23:15:08"
+  },
+  {
+    "id": 151152,
+    "name": "2026湖南卫视芒果TV中秋之夜",
+    "type": "大陆综艺",
+    "category": "综艺,明星,晚会",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260926-1/092fc06110a81c412006ac8eb2398d98.jpg",
+    "score": "5.0",
+    "remarks": "第20260926期舞台纯享版",
+    "update_time": "2026-09-29 23:12:26"
+  },
+  {
     "id": 150002,
     "name": "凑个热闹",
     "type": "大陆综艺",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第20260825期 合伙人日记：早餐分享营销理念",
     "update_time": "2026-08-25 18:37:04"
-  },
-  {
-    "id": 139830,
-    "name": "群英会 2026",
-    "type": "大陆综艺",
-    "category": "综艺",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260717-1/05c2c98c47dc40c16104fbee6987057b.jpg",
-    "score": "5.0",
-    "remarks": "第42期",
-    "update_time": "2026-08-25 17:40:29"
-  },
-  {
-    "id": 141212,
-    "name": "伊抹风味",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260728-1/e253902e18133c88eefb8865d783d484.jpg",
-    "score": "5.0",
-    "remarks": "第5集",
-    "update_time": "2026-08-25 13:57:11"
-  },
-  {
-    "id": 18606,
-    "name": "这就是中国",
-    "type": "大陆综艺",
-    "category": "脱口秀",
-    "year": "2019",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250108-57/a7b1c371b1ccf97cbccb38ab7eeb73be.jpg",
-    "score": "5.0",
-    "remarks": "第345期",
-    "update_time": "2026-08-25 12:45:15"
   }
 ]

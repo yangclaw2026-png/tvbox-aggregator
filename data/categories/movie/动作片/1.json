@@ -1,5 +1,53 @@
 [
   {
+    "id": 151117,
+    "name": "零号街区 4",
+    "type": "动作片",
+    "category": "犯罪",
+    "year": "2026",
+    "area": "德国,美国",
+    "poster": "https://dbzy5.com/upload/vod/20260926-1/5931865f52430d8a38bdd6de049d60ae.webp",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-09-29 23:18:40"
+  },
+  {
+    "id": 151150,
+    "name": "外星人揭秘日",
+    "type": "动作片",
+    "category": "动作,科幻,冒险",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260926-1/e7ebf5e1b5d23cde25c7ee7e3e60228c.webp",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-09-29 23:12:37"
+  },
+  {
+    "id": 151238,
+    "name": "失控劫案",
+    "type": "动作片",
+    "category": "",
+    "year": "2026",
+    "area": "荷兰",
+    "poster": "https://dbzy5.com/upload/vod/20260927-1/0ad245eb1d4102e5c922509d862b0a73.webp",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-09-29 23:10:32"
+  },
+  {
+    "id": 151371,
+    "name": "为了你的母亲",
+    "type": "动作片",
+    "category": "剧情,动作,惊悚,犯罪",
+    "year": "2026",
+    "area": "美国,英国",
+    "poster": "https://dbzy5.com/upload/vod/20260928-1/0919ad7287f4a228ec0c6be9780579c3.webp",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-09-29 22:59:37"
+  },
+  {
     "id": 151023,
     "name": "八面埋伏ี",
     "type": "动作片",
@@ -418,41 +466,5 @@
     "score": "5.1",
     "remarks": "正片",
     "update_time": "2026-08-02 22:17:38"
-  },
-  {
-    "id": 141883,
-    "name": "宗师叶问 2026",
-    "type": "动作片",
-    "category": "动作",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/305b8f00037bdc8d65d79eb4efe7e9e0.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-02 13:13:08"
-  },
-  {
-    "id": 141879,
-    "name": "热血篮球之永不放弃",
-    "type": "动作片",
-    "category": "动作,张超,青春",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/b604f05e87def33e327e974551a3641b.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-02 12:05:04"
-  },
-  {
-    "id": 141876,
-    "name": "曼谷斗犬",
-    "type": "动作片",
-    "category": "动作",
-    "year": "2024",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/ea759a333b98f5d9759a92816e07c3ab.jpg",
-    "score": "4.2",
-    "remarks": "正片",
-    "update_time": "2026-08-02 11:15:31"
   }
 ]

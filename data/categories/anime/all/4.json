@@ -1,5 +1,53 @@
 [
   {
+    "id": 145952,
+    "name": "一块荒地撬动电子商圈",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260826-1/19c7a7f17767eda473ac594629bb793f.jpg",
+    "score": "5.0",
+    "remarks": "第42集完结",
+    "update_time": "2026-08-26 12:14:21"
+  },
+  {
+    "id": 136583,
+    "name": "废土求生之无限积分",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260615-1/b4e92cf34f8f7f711c5c2a884b6a6e90.jpg",
+    "score": "5.0",
+    "remarks": "第31集",
+    "update_time": "2026-08-26 12:05:03"
+  },
+  {
+    "id": 145951,
+    "name": "凭一卷唐诗，劈开整座江湖",
+    "type": "国产动漫",
+    "category": "动画,武侠,玄幻",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260826-1/9cb13f3cd50897b91f3bca7b7c9452d7.jpg",
+    "score": "5.0",
+    "remarks": "第65集完结",
+    "update_time": "2026-08-26 11:58:13"
+  },
+  {
+    "id": 140047,
+    "name": "顾长歌：我！天命大反派",
+    "type": "国产动漫",
+    "category": "动作,动画,奇幻",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260719-1/1f9462bc78c6b9a2dda9e189861a08c0.jpg",
+    "score": "5.0",
+    "remarks": "第15集",
+    "update_time": "2026-08-26 11:52:53"
+  },
+  {
     "id": 145950,
     "name": "致命内鬼游戏",
     "type": "国产动漫",
@@ -550,53 +598,5 @@
     "score": "5.0",
     "remarks": "第160集完结",
     "update_time": "2026-08-25 11:37:48"
-  },
-  {
-    "id": 144782,
-    "name": "归墟道主",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260819-1/374c9ebfa6a644af4caa0b335de0e0cf.jpg",
-    "score": "5.0",
-    "remarks": "第40集完结",
-    "update_time": "2026-08-25 11:37:05"
-  },
-  {
-    "id": 130968,
-    "name": "仙界第一残魄，可她悟性超绝",
-    "type": "国产动漫",
-    "category": "恋爱,玄幻,动漫",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260505-1/206c29948c25009b0e92b421372ac32b.jpg",
-    "score": "5.0",
-    "remarks": "第45集",
-    "update_time": "2026-08-25 11:35:15"
-  },
-  {
-    "id": 142632,
-    "name": "奇变偶不变，我俩造反建工业",
-    "type": "国产动漫",
-    "category": "动画,短片",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260807-1/cadaa28ac1dc14ef5fa5e0df0dc3a09a.jpg",
-    "score": "5.0",
-    "remarks": "第60集",
-    "update_time": "2026-08-25 11:28:08"
-  },
-  {
-    "id": 133669,
-    "name": "​快穿系统：偏执BOSS不好惹​",
-    "type": "国产动漫",
-    "category": "中国动漫",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260526-1/c980e6ed932661f93ceef83030a36fe2.jpg",
-    "score": "5.0",
-    "remarks": "第180集",
-    "update_time": "2026-08-25 11:23:42"
   }
 ]

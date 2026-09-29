@@ -1,5 +1,41 @@
 [
   {
+    "id": 142154,
+    "name": "人鱼 (2026)",
+    "type": "国产剧",
+    "category": "剧情,悬疑",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260804-1/1c16483a537dfe94e8c72a28255549b5.jpg",
+    "score": "5.0",
+    "remarks": "第22集完结",
+    "update_time": "2026-08-22 20:18:04"
+  },
+  {
+    "id": 143074,
+    "name": "狂徒 2026",
+    "type": "国产剧",
+    "category": "剧情,犯罪",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260810-1/f2cf0a0540fe1069e52a19cc3bc047d0.jpg",
+    "score": "5.0",
+    "remarks": "第24集完结",
+    "update_time": "2026-08-22 19:24:04"
+  },
+  {
+    "id": 140679,
+    "name": "世界未解之谜",
+    "type": "国产剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260724-1/67d256c74f17075047b0ba6f8ed7c018.jpg",
+    "score": "5.0",
+    "remarks": "第7集",
+    "update_time": "2026-08-22 19:18:03"
+  },
+  {
     "id": 134919,
     "name": "被意外拿捏的科学",
     "type": "国产剧",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第8集",
     "update_time": "2026-08-05 21:00:43"
-  },
-  {
-    "id": 142275,
-    "name": "幽冥教主是公主",
-    "type": "国产剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/0215c53b1ab6aa4ed794ccd7184a9eae.jpg",
-    "score": "5.0",
-    "remarks": "第15集完结",
-    "update_time": "2026-08-05 13:39:20"
-  },
-  {
-    "id": 141052,
-    "name": "忘川花未央",
-    "type": "国产剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260727-1/fec9bf6f230c54fe19562ed6d0862434.jpg",
-    "score": "5.0",
-    "remarks": "第24集",
-    "update_time": "2026-08-05 12:52:43"
-  },
-  {
-    "id": 142271,
-    "name": "孤城照：惊变",
-    "type": "国产剧",
-    "category": "惊悚,战争,古装",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/640e60a52d88ea24cb0975945a41018e.jpg",
-    "score": "5.0",
-    "remarks": "第41集完结",
-    "update_time": "2026-08-05 11:25:15"
   }
 ]

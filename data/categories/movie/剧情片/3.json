@@ -1,5 +1,29 @@
 [
   {
+    "id": 142330,
+    "name": "海洋对岸",
+    "type": "剧情片",
+    "category": "剧情,动作,爱情,惊悚,犯罪",
+    "year": "1996",
+    "area": "巴西,葡萄牙",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/9c167e87064208049468cd385095ba86.jpg",
+    "score": "7.6",
+    "remarks": "正片",
+    "update_time": "2026-08-05 16:56:22"
+  },
+  {
+    "id": 142333,
+    "name": "你要嫁人吗",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2021",
+    "area": "菲律宾",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/c5ba16ce4ca72ba0b85f238086e7f746.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-05 16:53:51"
+  },
+  {
     "id": 142339,
     "name": "这里那里",
     "type": "剧情片",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-03 22:32:07"
-  },
-  {
-    "id": 142098,
-    "name": "纯真童影",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2010",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/d86839873b21ada0ff296e38002e36b1.jpg",
-    "score": "7.7",
-    "remarks": "正片",
-    "update_time": "2026-08-03 21:24:00"
-  },
-  {
-    "id": 142018,
-    "name": "欧盟制造",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2025",
-    "area": "德国,保加利亚,捷克",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/a6ca5572466e4c36cc9991b8d07ece2e.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-03 18:14:32"
   }
 ]

@@ -1,5 +1,53 @@
 [
   {
+    "id": 151113,
+    "name": "长尾豹历险记",
+    "type": "喜剧片",
+    "category": "喜剧,家庭,冒险",
+    "year": "2026",
+    "area": "法国,比利时",
+    "poster": "https://dbzy5.com/upload/vod/20260925-1/f3863c015d63636b490e7c5739d4e4a7.jpg",
+    "score": "7.0",
+    "remarks": "正片",
+    "update_time": "2026-09-29 23:20:56"
+  },
+  {
+    "id": 151116,
+    "name": "慢投垒球",
+    "type": "喜剧片",
+    "category": "喜剧",
+    "year": "2026",
+    "area": "加拿大",
+    "poster": "https://dbzy5.com/upload/vod/20260926-1/33168cc8f83bfce50bd11cd18f3db972.webp",
+    "score": "5.0",
+    "remarks": "第2集",
+    "update_time": "2026-09-29 23:19:12"
+  },
+  {
+    "id": 151121,
+    "name": "冒牌暴徒",
+    "type": "喜剧片",
+    "category": "剧情,喜剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260926-1/596357f4d3b302380be5a9d28ba07f71.webp",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-09-29 23:16:57"
+  },
+  {
+    "id": 151246,
+    "name": "奶油色的梦",
+    "type": "喜剧片",
+    "category": "",
+    "year": "2023",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260927-1/c04b26350d43e12d14689a6c92487658.webp",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-09-29 23:10:15"
+  },
+  {
     "id": 150178,
     "name": "婚礼告急",
     "type": "喜剧片",
@@ -550,53 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-03 16:46:33"
-  },
-  {
-    "id": 142005,
-    "name": "节日欢歌 2003",
-    "type": "喜剧片",
-    "category": "喜剧",
-    "year": "2003",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/88233afbfcb6418c9f90b633fed4c404.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-03 16:42:30"
-  },
-  {
-    "id": 141999,
-    "name": "爱的一份心意",
-    "type": "喜剧片",
-    "category": "喜剧,爱情",
-    "year": "2017",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/2b58f42e68e5dca4d77f3a8e46fb503b.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-03 16:28:27"
-  },
-  {
-    "id": 141998,
-    "name": "玫瑰圣诞情缘",
-    "type": "喜剧片",
-    "category": "喜剧,爱情",
-    "year": "2017",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/4bc78298f2e79a857caf9f85a28c323b.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-03 16:24:19"
-  },
-  {
-    "id": 141996,
-    "name": "夺金三王",
-    "type": "喜剧片",
-    "category": "喜剧,动作,冒险",
-    "year": "1999",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/f3e63829741ba5dc334cf5937775c6ff.jpg",
-    "score": "7.0",
-    "remarks": "正片",
-    "update_time": "2026-08-03 16:20:54"
   }
 ]

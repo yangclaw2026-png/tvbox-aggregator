@@ -1,5 +1,53 @@
 [
   {
+    "id": 144598,
+    "name": "璇镖振乱世",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260819-1/14551f397ae67aef1744494f7e4b3198.jpg",
+    "score": "5.0",
+    "remarks": "第39集",
+    "update_time": "2026-08-27 11:19:09"
+  },
+  {
+    "id": 357,
+    "name": "我真的不想当第一",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2024",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250109-5/43c72f3a79001bdd847dc82c84184509.jpg",
+    "score": "5.0",
+    "remarks": "第127集",
+    "update_time": "2026-08-27 11:18:16"
+  },
+  {
+    "id": 137855,
+    "name": "水鬼怀龙胎,开局揍皇帝",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260630-1/753fc353cf80c0b992392b373990d8d6.jpg",
+    "score": "5.0",
+    "remarks": "第102集",
+    "update_time": "2026-08-27 11:17:38"
+  },
+  {
+    "id": 137742,
+    "name": "末世：觉醒抗体超能力​",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260629-1/1b03f7721b38d399fdc6a34a166e3b8d.jpg",
+    "score": "5.0",
+    "remarks": "第34集",
+    "update_time": "2026-08-27 11:17:04"
+  },
+  {
     "id": 101138,
     "name": "全民御兽：开局山海经，我横扫全球 动态漫画",
     "type": "国产动漫",
@@ -550,53 +598,5 @@
     "score": "5.0",
     "remarks": "第160集",
     "update_time": "2026-08-26 12:18:39"
-  },
-  {
-    "id": 145952,
-    "name": "一块荒地撬动电子商圈",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260826-1/19c7a7f17767eda473ac594629bb793f.jpg",
-    "score": "5.0",
-    "remarks": "第42集完结",
-    "update_time": "2026-08-26 12:14:21"
-  },
-  {
-    "id": 136583,
-    "name": "废土求生之无限积分",
-    "type": "国产动漫",
-    "category": "中国动漫",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260615-1/b4e92cf34f8f7f711c5c2a884b6a6e90.jpg",
-    "score": "5.0",
-    "remarks": "第31集",
-    "update_time": "2026-08-26 12:05:03"
-  },
-  {
-    "id": 145951,
-    "name": "凭一卷唐诗，劈开整座江湖",
-    "type": "国产动漫",
-    "category": "动画,武侠,玄幻",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260826-1/9cb13f3cd50897b91f3bca7b7c9452d7.jpg",
-    "score": "5.0",
-    "remarks": "第65集完结",
-    "update_time": "2026-08-26 11:58:13"
-  },
-  {
-    "id": 140047,
-    "name": "顾长歌：我！天命大反派",
-    "type": "国产动漫",
-    "category": "动作,动画,奇幻",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260719-1/1f9462bc78c6b9a2dda9e189861a08c0.jpg",
-    "score": "5.0",
-    "remarks": "第15集",
-    "update_time": "2026-08-26 11:52:53"
   }
 ]

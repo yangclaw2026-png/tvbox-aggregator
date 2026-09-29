@@ -1,5 +1,29 @@
 [
   {
+    "id": 144198,
+    "name": "哈雷与卡蒂亚",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2022",
+    "area": "澳大利亚",
+    "poster": "https://dbzy5.com/upload/vod/20260817-1/93fd1692b7c3d75d8b7bfd94059ac7a3.webp",
+    "score": "0.0",
+    "remarks": "正片",
+    "update_time": "2026-08-17 13:01:52"
+  },
+  {
+    "id": 106772,
+    "name": "恐怖来袭：马塞拉·博尔赫斯的故事",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2025",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20250925-1/10f8bc65c8a484df5a6d5f28f711bb43.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-17 12:54:31"
+  },
+  {
     "id": 63488,
     "name": "龙纹身的女孩",
     "type": "剧情片",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-05 16:56:59"
-  },
-  {
-    "id": 142330,
-    "name": "海洋对岸",
-    "type": "剧情片",
-    "category": "剧情,动作,爱情,惊悚,犯罪",
-    "year": "1996",
-    "area": "巴西,葡萄牙",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/9c167e87064208049468cd385095ba86.jpg",
-    "score": "7.6",
-    "remarks": "正片",
-    "update_time": "2026-08-05 16:56:22"
-  },
-  {
-    "id": 142333,
-    "name": "你要嫁人吗",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2021",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/c5ba16ce4ca72ba0b85f238086e7f746.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-05 16:53:51"
   }
 ]

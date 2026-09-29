@@ -1,5 +1,53 @@
 [
   {
+    "id": 141516,
+    "name": "软饭男是大佬",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260730-1/d93c31fbf726f5ff6d87ed73d22af942.jpg",
+    "score": "5.0",
+    "remarks": "第33集",
+    "update_time": "2026-08-25 17:32:58"
+  },
+  {
+    "id": 141520,
+    "name": "这个仙君不想谈恋爱",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260730-1/8e85c900d5bc3033e33d26184b13cdaa.jpg",
+    "score": "5.0",
+    "remarks": "第17集",
+    "update_time": "2026-08-25 17:32:16"
+  },
+  {
+    "id": 2765,
+    "name": "万界独尊",
+    "type": "国产动漫",
+    "category": "其它,动漫,中国动漫,动画",
+    "year": "2021",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250109-3/62d6d59825d60b9155e0b3a0285af870.jpg",
+    "score": "6.5",
+    "remarks": "第477集",
+    "update_time": "2026-08-25 17:31:34"
+  },
+  {
+    "id": 659,
+    "name": "武神主宰 2020",
+    "type": "国产动漫",
+    "category": "其他,中国动漫,动画",
+    "year": "2020",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250109-5/34f751a1d9bf9d6af19c09a1aab5f264.jpg",
+    "score": "5.0",
+    "remarks": "第686集",
+    "update_time": "2026-08-25 17:28:13"
+  },
+  {
     "id": 138980,
     "name": "百日成王",
     "type": "国产动漫",
@@ -550,53 +598,5 @@
     "score": "5.0",
     "remarks": "第19集",
     "update_time": "2026-08-24 11:05:37"
-  },
-  {
-    "id": 143124,
-    "name": "古玄少主：漓城源能录",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260810-1/f8625ad963b7fbae93522e6447ed59de.jpg",
-    "score": "5.0",
-    "remarks": "第14集",
-    "update_time": "2026-08-23 22:27:43"
-  },
-  {
-    "id": 134305,
-    "name": "破防临界线 诡契无上限",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260601-1/87b7e62838aeadf84273021dc1906a91.jpg",
-    "score": "5.0",
-    "remarks": "第58集",
-    "update_time": "2026-08-23 13:23:51"
-  },
-  {
-    "id": 139735,
-    "name": "邪魔墨然",
-    "type": "国产动漫",
-    "category": "动作,动画,惊悚,奇幻",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260715-1/10c046c308f3c119ba8f888a7a57a9e9.jpg",
-    "score": "5.0",
-    "remarks": "第20集",
-    "update_time": "2026-08-23 13:03:02"
-  },
-  {
-    "id": 112593,
-    "name": "只有我能用召唤术 动态漫画",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2024",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20251117-1/e486340e7e5ea97e8f019df60342dbfe.jpg",
-    "score": "5.0",
-    "remarks": "第114集",
-    "update_time": "2026-08-23 12:37:27"
   }
 ]
