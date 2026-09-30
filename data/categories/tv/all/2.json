@@ -1,5 +1,17 @@
 [
   {
+    "id": 145866,
+    "name": "金色 2026",
+    "type": "国产剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260825-1/70fee3b059a796f7f1348bc9601aab0a.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-08-27 20:51:34"
+  },
+  {
     "id": 138167,
     "name": "今晚也要和连环杀手约会",
     "type": "日本剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第7集",
     "update_time": "2026-08-26 14:23:53"
-  },
-  {
-    "id": 145956,
-    "name": "月下之影",
-    "type": "泰国剧",
-    "category": "剧情,爱情,同性",
-    "year": "2026",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260826-1/1672b2b7362643cdf691999dcdc3108e.jpg",
-    "score": "5.0",
-    "remarks": "第2集",
-    "update_time": "2026-08-26 14:20:53"
   }
 ]

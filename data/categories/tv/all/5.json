@@ -1,5 +1,17 @@
 [
   {
+    "id": 141880,
+    "name": "战斗之地",
+    "type": "欧美剧",
+    "category": "剧情,犯罪",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260802-1/547631c4ed8666dcd0f9da6f2bb377b1.jpg",
+    "score": "5.0",
+    "remarks": "第4集",
+    "update_time": "2026-08-21 20:15:57"
+  },
+  {
     "id": 141036,
     "name": "斯图尔特未能拯救宇宙",
     "type": "欧美剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第6集",
     "update_time": "2026-08-17 12:53:44"
-  },
-  {
-    "id": 139465,
-    "name": "袁子弹会客厅",
-    "type": "国产剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260711-1/1e42256db1db0d13f72996d57863f5e4.jpg",
-    "score": "5.0",
-    "remarks": "第6集",
-    "update_time": "2026-08-16 21:45:00"
   }
 ]

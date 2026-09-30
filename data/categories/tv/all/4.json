@@ -1,5 +1,17 @@
 [
   {
+    "id": 143075,
+    "name": "四时有信 盛夏札记",
+    "type": "国产剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260810-1/876a11c12419f489af0ac2f3f5b7148d.jpg",
+    "score": "5.0",
+    "remarks": "第3集",
+    "update_time": "2026-08-24 11:11:40"
+  },
+  {
     "id": 140046,
     "name": "毛骨悚然的恋爱 (2026)",
     "type": "韩剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第6集",
     "update_time": "2026-08-21 20:17:26"
-  },
-  {
-    "id": 141880,
-    "name": "战斗之地",
-    "type": "欧美剧",
-    "category": "剧情,犯罪",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/547631c4ed8666dcd0f9da6f2bb377b1.jpg",
-    "score": "5.0",
-    "remarks": "第4集",
-    "update_time": "2026-08-21 20:15:57"
   }
 ]

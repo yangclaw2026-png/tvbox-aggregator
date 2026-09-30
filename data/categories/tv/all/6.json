@@ -1,5 +1,17 @@
 [
   {
+    "id": 139465,
+    "name": "袁子弹会客厅",
+    "type": "国产剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260711-1/1e42256db1db0d13f72996d57863f5e4.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-08-16 21:45:00"
+  },
+  {
     "id": 143809,
     "name": "愿为你重来一次",
     "type": "国产剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第8集完结",
     "update_time": "2026-08-08 00:50:47"
-  },
-  {
-    "id": 142778,
-    "name": "萨菲德萨加尔行动",
-    "type": "欧美剧",
-    "category": "剧情 ， 动作 ， 冒险",
-    "year": "2026",
-    "area": "印度",
-    "poster": "https://dbzy5.com/upload/vod/20260808-1/1745bb11d58bc3055a25853e0096c295.jpg",
-    "score": "5.0",
-    "remarks": "第6集完结",
-    "update_time": "2026-08-08 00:40:04"
   }
 ]
