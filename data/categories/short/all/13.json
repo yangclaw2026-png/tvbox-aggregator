@@ -1,5 +1,41 @@
 [
   {
+    "id": 146221,
+    "name": "金算王妃",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260827-1/f20345ebc5f6e7e86e097f075ce493c8.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-27 16:26:22"
+  },
+  {
+    "id": 146219,
+    "name": "打败恶龙的是公主啊",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260827-1/d729dd0b641850c9f5a1d0787bfe0ab3.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-27 16:23:39"
+  },
+  {
+    "id": 146218,
+    "name": "重生归来，假少爷要掀桌",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260827-1/c19e948d11a59fa124d3f25822471fe2.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-27 16:21:41"
+  },
+  {
     "id": 146216,
     "name": "上司竟是旧爱",
     "type": "现代都市",
@@ -562,41 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-26 22:49:36"
-  },
-  {
-    "id": 146009,
-    "name": "三分帝意，七世虚情",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260826-1/9bb612546707d409f40307012776df7a.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-26 22:48:48"
-  },
-  {
-    "id": 146006,
-    "name": "错嫁成后：冷傲陛下非我不娶",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260826-1/e6113660c8f4995f3e501e766495be63.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-26 22:48:04"
-  },
-  {
-    "id": 146000,
-    "name": "流放千里：神车伴女帝重掌山河",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260826-1/0113c3dc543cc1365423bba5869e8654.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-26 22:47:11"
   }
 ]
