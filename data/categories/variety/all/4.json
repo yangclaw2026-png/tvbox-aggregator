@@ -1,5 +1,17 @@
 [
   {
+    "id": 143934,
+    "name": "百城头牌菜 第二季",
+    "type": "大陆综艺",
+    "category": "真人秀",
+    "year": "2025",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260815-1/66b3c2bd95433dd139b66633832d220b.jpg",
+    "score": "5.0",
+    "remarks": "第15期完结",
+    "update_time": "2026-08-15 16:34:39"
+  },
+  {
     "id": 142125,
     "name": "耀眼角色番综·耀眼一夏",
     "type": "大陆综艺",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "第7期",
     "update_time": "2026-08-04 19:40:45"
-  },
-  {
-    "id": 136819,
-    "name": "户外成长计划",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260617-1/9edc618f9990d4f1cdc8f6c102014f10.jpg",
-    "score": "5.0",
-    "remarks": "20260804第八期",
-    "update_time": "2026-08-04 13:56:16"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 140111,
+    "name": "尾调",
+    "type": "日本剧",
+    "category": "爱情",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260720-1/ba4d4498d57d3f0240f0d856792bc2bb.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-08-17 12:53:44"
+  },
+  {
     "id": 139465,
     "name": "袁子弹会客厅",
     "type": "国产剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第12集完结",
     "update_time": "2026-08-08 11:02:20"
-  },
-  {
-    "id": 142779,
-    "name": "斯特林角",
-    "type": "欧美剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260808-1/f6c3bfc7460d6530a8d5e0455624088c.jpg",
-    "score": "5.0",
-    "remarks": "第8集完结",
-    "update_time": "2026-08-08 00:50:47"
   }
 ]

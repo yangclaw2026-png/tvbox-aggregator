@@ -1,5 +1,17 @@
 [
   {
+    "id": 146071,
+    "name": "醒来 2026",
+    "type": "国产剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260826-1/88dcfaa6221c303f9937110f08163f37.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-08-27 21:03:10"
+  },
+  {
     "id": 145866,
     "name": "金色 2026",
     "type": "国产剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第108集",
     "update_time": "2026-08-26 16:20:03"
-  },
-  {
-    "id": 139846,
-    "name": "你的喜欢无与伦比",
-    "type": "日本剧",
-    "category": "剧情,喜剧,爱情",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260717-1/ae7db1d046f11ea4fca7bce0b97d3455.jpg",
-    "score": "5.0",
-    "remarks": "第7集",
-    "update_time": "2026-08-26 14:23:53"
   }
 ]

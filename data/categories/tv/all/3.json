@@ -1,5 +1,17 @@
 [
   {
+    "id": 139846,
+    "name": "你的喜欢无与伦比",
+    "type": "日本剧",
+    "category": "剧情,喜剧,爱情",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260717-1/ae7db1d046f11ea4fca7bce0b97d3455.jpg",
+    "score": "5.0",
+    "remarks": "第7集",
+    "update_time": "2026-08-26 14:23:53"
+  },
+  {
     "id": 145956,
     "name": "月下之影",
     "type": "泰国剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第5集",
     "update_time": "2026-08-24 12:04:50"
-  },
-  {
-    "id": 144204,
-    "name": "爱的三次方",
-    "type": "泰国剧",
-    "category": "爱情",
-    "year": "2026",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260817-1/4322aca854cd6fefa23e2fc796b3ea7d.webp",
-    "score": "0.0",
-    "remarks": "第2集",
-    "update_time": "2026-08-24 12:02:48"
   }
 ]

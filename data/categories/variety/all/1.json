@@ -1,5 +1,17 @@
 [
   {
+    "id": 151826,
+    "name": "现在就出发 第四季",
+    "type": "大陆综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261001-1/86601e51e97f6dea0bad02d6cc99fc04.webp",
+    "score": "5.0",
+    "remarks": "第9集",
+    "update_time": "2026-10-01 20:24:53"
+  },
+  {
     "id": 151133,
     "name": "超级玩家 •芭莎之夜",
     "type": "大陆综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第20260826期",
     "update_time": "2026-08-26 18:47:28"
-  },
-  {
-    "id": 135781,
-    "name": "我们的宿舍·归心季",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260609-1/d27e847f91c42877be208834dadfcf1a.jpg",
-    "score": "5.0",
-    "remarks": "20260826宿舍不熄灯：曾舜晞拿捏孟子义",
-    "update_time": "2026-08-26 18:37:04"
   }
 ]

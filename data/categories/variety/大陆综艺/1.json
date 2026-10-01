@@ -1,5 +1,17 @@
 [
   {
+    "id": 151826,
+    "name": "现在就出发 第四季",
+    "type": "大陆综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261001-1/86601e51e97f6dea0bad02d6cc99fc04.webp",
+    "score": "5.0",
+    "remarks": "第9集",
+    "update_time": "2026-10-01 20:24:53"
+  },
+  {
     "id": 151133,
     "name": "超级玩家 •芭莎之夜",
     "type": "大陆综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第20260825期忙里偷闲录：全员 K 歌之王",
     "update_time": "2026-08-25 18:43:42"
-  },
-  {
-    "id": 142793,
-    "name": "伦敦合伙人",
-    "type": "大陆综艺",
-    "category": "时尚,明星,真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260808-1/e8f57d967214f1dc3148be00efe6113d.jpg",
-    "score": "5.0",
-    "remarks": "第20260825期 合伙人日记：早餐分享营销理念",
-    "update_time": "2026-08-25 18:37:04"
   }
 ]

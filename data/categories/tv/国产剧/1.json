@@ -1,5 +1,17 @@
 [
   {
+    "id": 151825,
+    "name": "爱在山海间",
+    "type": "国产剧",
+    "category": "剧情",
+    "year": "2027",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261001-1/a38d8f88f02481d970a2e3a5c40b6f4f.webp",
+    "score": "5.0",
+    "remarks": "第9集",
+    "update_time": "2026-10-01 20:10:24"
+  },
+  {
     "id": 149586,
     "name": "云雀叫天录",
     "type": "国产剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第7集",
     "update_time": "2026-08-23 00:04:04"
-  },
-  {
-    "id": 139147,
-    "name": "蓝嘴唇",
-    "type": "国产剧",
-    "category": "同性",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260709-1/c47e273c15c96d32ff04f8fe77c3da5e.jpg",
-    "score": "5.0",
-    "remarks": "第16集完结",
-    "update_time": "2026-08-22 21:02:02"
   }
 ]
