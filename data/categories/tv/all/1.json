@@ -1,5 +1,17 @@
 [
   {
+    "id": 146408,
+    "name": "接招吧！制作人",
+    "type": "国产剧",
+    "category": "剧情,音乐",
+    "year": "2026",
+    "area": "中国台湾",
+    "poster": "https://dbzy5.com/upload/vod/20260828-1/e82384f2fab73e4d54d64e18f6088403.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-10-02 22:57:18"
+  },
+  {
     "id": 151825,
     "name": "爱在山海间",
     "type": "国产剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第8集完结",
     "update_time": "2026-08-27 21:17:30"
-  },
-  {
-    "id": 146299,
-    "name": "欢迎来到蕾安家 第二季",
-    "type": "欧美剧",
-    "category": "喜剧",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260827-1/9783515b69404f5bc54977361d72a67a.jpg",
-    "score": "5.0",
-    "remarks": "第10集完结",
-    "update_time": "2026-08-27 21:13:59"
   }
 ]

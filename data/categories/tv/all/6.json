@@ -1,5 +1,17 @@
 [
   {
+    "id": 137840,
+    "name": "顽皮千金的贴身侍卫",
+    "type": "泰国剧",
+    "category": "剧情,爱情,同性,古装",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260629-1/db22a7b9a9f00aa31ef0b7f1eb56c1d0.jpg",
+    "score": "5.0",
+    "remarks": "第9集",
+    "update_time": "2026-08-17 12:58:45"
+  },
+  {
     "id": 140111,
     "name": "尾调",
     "type": "日本剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第102集",
     "update_time": "2026-08-08 12:26:03"
-  },
-  {
-    "id": 142771,
-    "name": "我的荒糖恋爱",
-    "type": "韩剧",
-    "category": "剧情，爱情",
-    "year": "2026",
-    "area": "韩国",
-    "poster": "https://dbzy5.com/upload/vod/20260807-1/351772d0864a08e689efcc4324000896.jpg",
-    "score": "5.0",
-    "remarks": "第12集完结",
-    "update_time": "2026-08-08 11:02:20"
   }
 ]
