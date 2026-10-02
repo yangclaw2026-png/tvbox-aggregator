@@ -1210,7 +1210,16 @@
     "content": "<p>《萌友请就位》是一部人宠社交互动竞技节目。节目联动三座城市开展线下萌宠选拔，参赛人宠搭档依次通过城市突围赛、全国巅峰争霸赛层层比拼，设置定力服从、灵敏竞速、人宠默契等多元竞技关卡。节目以“萌力值”为纽</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.ajupf.com/20260928/meeXcIaF/index.m3u8#第02集$https://vodcnd16.ajupf.com/20260928/E9sI8mJ7/index.m3u8#第03集$https://vodcnd16.ajupf.com/20260928/Ksld4F3z/index.m3u8#第04集$https://vodcnd16.ajupf.com/20260928/J8ULj97N/index.m3u8#第05集$https://vodcnd16.ajupf.com/20260928/aCCFZkLf/index.m3u8#第06集$https://vodcnd16.ajupf.com/20260928/F13iPOct/index.m3u8#第07集$https://vodcnd16.ajupf.com/20260928/FMxkjHTX/index.m3u8#第08集$https://vodcnd16.ajupf.com/20260928/AG7q6jDM/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/zwT92CaTyC#第02集$https://vodcnd16.ajupf.com/share/Uh658fHMbb#第03集$https://vodcnd16.ajupf.com/share/wTx4yrxVeD#第04集$https://vodcnd16.ajupf.com/share/dtvPIAWRPe#第05集$https://vodcnd16.ajupf.com/share/5fgZSVDPXn#第06集$https://vodcnd16.ajupf.com/share/0emDvp5mAy#第07集$https://vodcnd16.ajupf.com/share/6BSEsKoNBW#第08集$https://vodcnd16.ajupf.com/share/ky6eDbRrmO",
-    "update_time": "2026-09-29 23:00:02"
+    "update_time": "2026-09-29 23:00:02",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 151897,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第9集"
+      }
+    ]
   },
   {
     "id": 151215,
@@ -1602,6 +1611,20 @@
         "play_from": "hnm3u8",
         "play_url": null,
         "remarks": "第8集"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 219515,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第9集"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 160006,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第9集"
       }
     ]
   },
@@ -2550,6 +2573,20 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第5集"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 153739,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "更新至06集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 159954,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第6集"
       }
     ]
   },
@@ -2623,6 +2660,13 @@
         "play_from": "hnm3u8",
         "play_url": null,
         "remarks": "第3集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 162247,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第4集"
       }
     ]
   },
