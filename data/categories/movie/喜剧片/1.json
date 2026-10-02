@@ -1,5 +1,17 @@
 [
   {
+    "id": 141219,
+    "name": "开膛手杰克",
+    "type": "喜剧片",
+    "category": "喜剧",
+    "year": "2026",
+    "area": "英国",
+    "poster": "https://dbzy5.com/upload/vod/20260728-1/6c2dfbcd1aa21965e055f6a0e1f36ede.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-10-02 19:45:56"
+  },
+  {
     "id": 151113,
     "name": "长尾豹历险记",
     "type": "喜剧片",
@@ -586,17 +598,5 @@
     "score": "7.2",
     "remarks": "正片",
     "update_time": "2026-08-03 16:49:28"
-  },
-  {
-    "id": 142008,
-    "name": "家庭圣诞节",
-    "type": "喜剧片",
-    "category": "喜剧,家庭",
-    "year": "2024",
-    "area": "法国,比利时",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/3a96ddd2d5033ffe7f16a4ab7d687fe3.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-03 16:46:33"
   }
 ]

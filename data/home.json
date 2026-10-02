@@ -1,5 +1,17 @@
 [
   {
+    "id": 141219,
+    "name": "开膛手杰克",
+    "type": "喜剧片",
+    "category": "喜剧",
+    "year": "2026",
+    "area": "英国",
+    "poster": "https://dbzy5.com/upload/vod/20260728-1/6c2dfbcd1aa21965e055f6a0e1f36ede.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-10-02 19:45:56"
+  },
+  {
     "id": 151831,
     "name": "梦回大安，我为他守满城星火",
     "type": "现代都市",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "20260926",
     "update_time": "2026-09-29 23:09:37"
-  },
-  {
-    "id": 151272,
-    "name": "2026广东省城市足球超级联赛半决赛第1回合全场回放：广州vs深圳",
-    "type": "足球",
-    "category": "体育",
-    "year": "2026",
-    "area": "",
-    "poster": "https://dbzy5.com/upload/vod/20260927-1/79422056caeab64f32b88f31200c02aa.jpg",
-    "score": "5.0",
-    "remarks": "20260926",
-    "update_time": "2026-09-29 23:09:27"
   }
 ]

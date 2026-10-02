@@ -1,5 +1,17 @@
 [
   {
+    "id": 147623,
+    "name": "绅士们第二季",
+    "type": "喜剧片",
+    "category": "动作 ，犯罪",
+    "year": "2026",
+    "area": "英国 ，美国",
+    "poster": "https://dbzy5.com/upload/vod/20260903-1/db428357b3167bb78658c2eb410037d0.webp",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-09-03 18:39:58"
+  },
+  {
     "id": 147502,
     "name": "转折点：911世代",
     "type": "纪录片",
@@ -586,17 +598,5 @@
     "score": "8.9",
     "remarks": "第149集",
     "update_time": "2026-08-25 12:46:50"
-  },
-  {
-    "id": 145706,
-    "name": "自然世界：家里的章鱼",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2019",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260825-1/e4b8f0baca6e2af66c6167ff9eb92a23.jpg",
-    "score": "8.4",
-    "remarks": "第一期",
-    "update_time": "2026-08-25 12:23:51"
   }
 ]

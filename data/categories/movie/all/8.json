@@ -1,5 +1,17 @@
 [
   {
+    "id": 142315,
+    "name": "庇护所",
+    "type": "惊悚片",
+    "category": "悬疑,惊悚,恐怖",
+    "year": "2010",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/3e247ba25147698f9a76a325d28cb9b5.jpg",
+    "score": "6.4",
+    "remarks": "正片",
+    "update_time": "2026-08-05 16:03:17"
+  },
+  {
     "id": 53229,
     "name": "神奇动物：格林德沃之罪(原声版)",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-04 19:51:47"
-  },
-  {
-    "id": 142135,
-    "name": "译文：九条命",
-    "type": "恐怖片",
-    "category": "恐怖",
-    "year": "2013",
-    "area": "(Philippines)",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/28502fd77940ffd68bce6c419bb8b299.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-04 19:51:03"
   }
 ]

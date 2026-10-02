@@ -1,5 +1,17 @@
 [
   {
+    "id": 142781,
+    "name": "野兽赛跑",
+    "type": "动作片",
+    "category": "动作,科幻,惊悚,犯罪,冒险",
+    "year": "2026",
+    "area": "巴西",
+    "poster": "https://dbzy5.com/upload/vod/20260808-1/55f0bdebd02e4d367efd759eaee41f8f.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-08 11:10:11"
+  },
+  {
     "id": 142780,
     "name": "破碎的面包第二季",
     "type": "纪录片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-05 16:06:08"
-  },
-  {
-    "id": 142315,
-    "name": "庇护所",
-    "type": "惊悚片",
-    "category": "悬疑,惊悚,恐怖",
-    "year": "2010",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/3e247ba25147698f9a76a325d28cb9b5.jpg",
-    "score": "6.4",
-    "remarks": "正片",
-    "update_time": "2026-08-05 16:03:17"
   }
 ]
