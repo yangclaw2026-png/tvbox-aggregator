@@ -1,5 +1,17 @@
 [
   {
+    "id": 144203,
+    "name": "脑波猎场",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260817-1/bf2da3de2922f219e2d48b009359bc47.webp",
+    "score": "0.0",
+    "remarks": "抢先版",
+    "update_time": "2026-08-17 13:23:04"
+  },
+  {
     "id": 144198,
     "name": "哈雷与卡蒂亚",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-05 16:58:04"
-  },
-  {
-    "id": 118421,
-    "name": "关于她",
-    "type": "剧情片",
-    "category": "剧情,喜剧",
-    "year": "2016",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260111-1/c2fd20cb0212df49d233d8498060c497.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-05 16:56:59"
   }
 ]

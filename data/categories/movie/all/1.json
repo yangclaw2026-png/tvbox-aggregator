@@ -1,5 +1,17 @@
 [
   {
+    "id": 151928,
+    "name": "庆州纪行",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2025",
+    "area": "韩国",
+    "poster": "https://dbzy5.com/upload/vod/20261003-1/dc2faa0cee23c62585a034eab217af7c.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-10-03 23:04:27"
+  },
+  {
     "id": 141219,
     "name": "开膛手杰克",
     "type": "喜剧片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-09-05 16:03:17"
-  },
-  {
-    "id": 147896,
-    "name": "神拳赌约",
-    "type": "动作片",
-    "category": "动作,奇幻",
-    "year": "2026",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260904-1/b07d408650f6c69f0168db561141cc96.jpg",
-    "score": "5.0",
-    "remarks": "抢先版",
-    "update_time": "2026-09-04 22:59:14"
   }
 ]

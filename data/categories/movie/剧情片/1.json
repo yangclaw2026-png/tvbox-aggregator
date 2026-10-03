@@ -1,5 +1,17 @@
 [
   {
+    "id": 151928,
+    "name": "庆州纪行",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2025",
+    "area": "韩国",
+    "poster": "https://dbzy5.com/upload/vod/20261003-1/dc2faa0cee23c62585a034eab217af7c.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-10-03 23:04:27"
+  },
+  {
     "id": 151109,
     "name": "别害羞！",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "6.6",
     "remarks": "抢先版",
     "update_time": "2026-08-17 16:46:55"
-  },
-  {
-    "id": 144203,
-    "name": "脑波猎场",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260817-1/bf2da3de2922f219e2d48b009359bc47.webp",
-    "score": "0.0",
-    "remarks": "抢先版",
-    "update_time": "2026-08-17 13:23:04"
   }
 ]

@@ -1,5 +1,31 @@
 [
   {
+    "id": 151928,
+    "name": "庆州纪行",
+    "type": "剧情片",
+    "year": "2025",
+    "area": "韩国",
+    "language": "韩语",
+    "category": "剧情",
+    "poster": "https://dbzy5.com/upload/vod/20261003-1/dc2faa0cee23c62585a034eab217af7c.jpg",
+    "douban_id": 36748050,
+    "score": "5.0",
+    "remarks": "正片",
+    "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; text-wrap-mode: wrap; background-color: #FFFFFF;\">　母亲玉实（李姃垠 饰）在杀害小女儿京珠的犯人出狱当天，和三个女儿前往庆州展开的特别家庭旅行，目的就是为小女儿复仇。</span></p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "正片$https://vodcnd16.ajupf.com/20261003/oMvzf7HE/index.m3u8#$$$正片$https://vodcnd16.ajupf.com/share/nAT7RRIEan",
+    "update_time": "2026-10-03 23:04:27",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 152499,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "正片"
+      }
+    ]
+  },
+  {
     "id": 190,
     "name": "斗破苍穹年番",
     "type": "国产动漫",
@@ -59834,6 +59860,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "番外1"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 140614,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
@@ -130293,22 +130326,5 @@
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd16.ajupf.com/20260717/xoFBRLKp/index.m3u8$$$全集完结$https://vodcnd16.ajupf.com/share/tZil2vfNzX",
     "update_time": "2026-08-02 19:17:26"
-  },
-  {
-    "id": 141916,
-    "name": "公主坡之人生无憾",
-    "type": "剧情片",
-    "year": "2026",
-    "area": "中国大陆",
-    "language": "汉语普通话",
-    "category": "剧情",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/0b3ea6cdd71e78bdcc7b33046223be54.jpg",
-    "douban_id": 0,
-    "score": "5.0",
-    "remarks": "正片",
-    "content": "<p>偏僻山村公主坡四面环山交通不便，多为留守老人妇女儿童。退休市文化局干部张乐进心系故土，毅然回村助力振兴，虽遭部分人反对，仍顶压力带领干群攻坚克难。在他感召下村民纷纷转变，村里建成旅游景点外出青年返乡创业，病重的张乐进望着新貌，感叹此生无憾。</p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "正片$https://vodcnd17.ajupf.com/20260802/KZKa3gcH/index.m3u8#$$$正片$https://vodcnd17.ajupf.com/share/LnsdOJCo6m#",
-    "update_time": "2026-08-02 19:14:19"
   }
 ]

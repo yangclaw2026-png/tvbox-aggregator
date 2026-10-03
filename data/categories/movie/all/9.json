@@ -1,5 +1,17 @@
 [
   {
+    "id": 142133,
+    "name": "距离 2018",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2018",
+    "area": "菲律宾",
+    "poster": "https://dbzy5.com/upload/vod/20260804-1/d4a1abc19f8333e486e90b936033f78b.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-04 19:51:47"
+  },
+  {
     "id": 142135,
     "name": "译文：九条命",
     "type": "恐怖片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-03 16:46:33"
-  },
-  {
-    "id": 142005,
-    "name": "节日欢歌 2003",
-    "type": "喜剧片",
-    "category": "喜剧",
-    "year": "2003",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/88233afbfcb6418c9f90b633fed4c404.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-03 16:42:30"
   }
 ]

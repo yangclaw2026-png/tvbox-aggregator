@@ -1,5 +1,17 @@
 [
   {
+    "id": 142321,
+    "name": "奇妙 2018",
+    "type": "喜剧片",
+    "category": "喜剧,奇幻",
+    "year": "2018",
+    "area": "菲律宾",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/9b11c06f9ae8a0b664e64f81e6f0a704.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-05 16:06:08"
+  },
+  {
     "id": 142315,
     "name": "庇护所",
     "type": "惊悚片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-04 19:52:32"
-  },
-  {
-    "id": 142133,
-    "name": "距离 2018",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2018",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/d4a1abc19f8333e486e90b936033f78b.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-04 19:51:47"
   }
 ]

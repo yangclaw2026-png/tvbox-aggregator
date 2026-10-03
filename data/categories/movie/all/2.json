@@ -1,5 +1,17 @@
 [
   {
+    "id": 147896,
+    "name": "神拳赌约",
+    "type": "动作片",
+    "category": "动作,奇幻",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260904-1/b07d408650f6c69f0168db561141cc96.jpg",
+    "score": "5.0",
+    "remarks": "抢先版",
+    "update_time": "2026-09-04 22:59:14"
+  },
+  {
     "id": 147623,
     "name": "绅士们第二季",
     "type": "喜剧片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-25 13:46:09"
-  },
-  {
-    "id": 130984,
-    "name": "档案",
-    "type": "纪录片",
-    "category": "纪录片,历史",
-    "year": "2009",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260505-1/3fa1b27148990cac711286aeaa4ce4b9.jpg",
-    "score": "8.9",
-    "remarks": "第149集",
-    "update_time": "2026-08-25 12:46:50"
   }
 ]

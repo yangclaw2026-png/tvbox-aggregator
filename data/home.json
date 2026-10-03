@@ -1,5 +1,17 @@
 [
   {
+    "id": 151928,
+    "name": "庆州纪行",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2025",
+    "area": "韩国",
+    "poster": "https://dbzy5.com/upload/vod/20261003-1/dc2faa0cee23c62585a034eab217af7c.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-10-03 23:04:27"
+  },
+  {
     "id": 190,
     "name": "斗破苍穹年番",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-09-29 23:10:15"
-  },
-  {
-    "id": 151244,
-    "name": "当妈妈成为杀人犯",
-    "type": "惊悚片",
-    "category": "惊悚",
-    "year": "2024",
-    "area": "加拿大",
-    "poster": "https://dbzy5.com/upload/vod/20260927-1/ef19bcee3fcceb1f5888892f078877de.webp",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-09-29 23:09:58"
   }
 ]
