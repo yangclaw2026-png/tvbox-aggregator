@@ -84886,7 +84886,23 @@
     "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">“至尊无敌杯”开赛在即，一众顶尖球队即将展开一场前所未有的巅峰对决！而此时的功夫女足队员们开局直接拿了地狱难度剧本？！对手各个身怀绝技，外界也在层层施压，赛场诡计一环套一环…...她们能否靠功夫在绿茵场上逆风翻盘？</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "抢先版$https://vodcnd16.ajupf.com/20260817/ugWrau0F/index.m3u8#$$$抢先版$https://vodcnd16.ajupf.com/share/czFZCPifS0#",
-    "update_time": "2026-08-17 16:46:55"
+    "update_time": "2026-08-17 16:46:55",
+    "play_sources": [
+      {
+        "source": "索尼资源",
+        "source_id": 150608,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "HD国语"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 151900,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至HD"
+      }
+    ]
   },
   {
     "id": 144331,
