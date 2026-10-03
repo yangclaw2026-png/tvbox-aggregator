@@ -1,5 +1,17 @@
 [
   {
+    "id": 141039,
+    "name": "角醒猎人欧米茄号角",
+    "type": "日本动漫",
+    "category": "剧情,动作,科幻",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260727-1/6fa9f9a5bd3f1ce373f883c75640c8e0.jpg",
+    "score": "5.0",
+    "remarks": "第5集",
+    "update_time": "2026-08-23 23:39:46"
+  },
+  {
     "id": 139339,
     "name": "说了不打算爱我的公爵继承人，不知为何对我宠爱有加",
     "type": "日本动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第8集",
     "update_time": "2026-08-22 17:01:03"
-  },
-  {
-    "id": 138384,
-    "name": "从0位居民开始的边境领主大人",
-    "type": "日本动漫",
-    "category": "动画,奇幻,冒险",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260704-1/426fdc32b12f0c8c5f9c4f116628c3b8.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-22 16:53:22"
   }
 ]

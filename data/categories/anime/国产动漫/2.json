@@ -1,5 +1,17 @@
 [
   {
+    "id": 141719,
+    "name": "山海异闻",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260801-1/9c0c92667eba410d96de3623b5ae789d.jpg",
+    "score": "5.0",
+    "remarks": "第29集",
+    "update_time": "2026-08-27 11:42:18"
+  },
+  {
     "id": 344,
     "name": "原来我早就无敌了 动态漫画",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第35集",
     "update_time": "2026-08-26 14:49:32"
-  },
-  {
-    "id": 145964,
-    "name": "魔女叛变？我反手养成病娇炽焰天使",
-    "type": "国产动漫",
-    "category": "动画,都市,奇幻,热血,校园",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260826-1/e4c3555e339ae2f0247967fd7070da9b.jpg",
-    "score": "5.0",
-    "remarks": "第6集",
-    "update_time": "2026-08-26 14:22:51"
   }
 ]
