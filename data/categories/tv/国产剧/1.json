@@ -1,5 +1,17 @@
 [
   {
+    "id": 151844,
+    "name": "魅影神捕",
+    "type": "国产剧",
+    "category": "悬疑",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261002-1/6f14c14c6de863b465368afbc2fa34c6.jpg",
+    "score": "5.0",
+    "remarks": "第10集",
+    "update_time": "2026-10-04 12:37:59"
+  },
+  {
     "id": 146408,
     "name": "接招吧！制作人",
     "type": "国产剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第6集",
     "update_time": "2026-08-23 12:42:33"
-  },
-  {
-    "id": 145034,
-    "name": "兴安岭老猎人",
-    "type": "国产剧",
-    "category": "张浩,惊悚,悬疑,奇幻",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260821-1/bcf34fa9a0ec384ffcc376bf97d6a910.jpg",
-    "score": "5.0",
-    "remarks": "第20集完结",
-    "update_time": "2026-08-23 12:35:50"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 144209,
+    "name": "幽山降妖传",
+    "type": "国产剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260817-1/dbffe6603e9b16fb02d6b27bf189e151.jpg",
+    "score": "5.0",
+    "remarks": "第6集完结",
+    "update_time": "2026-08-17 13:00:57"
+  },
+  {
     "id": 137840,
     "name": "顽皮千金的贴身侍卫",
     "type": "泰国剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第1集",
     "update_time": "2026-08-08 15:17:39"
-  },
-  {
-    "id": 124159,
-    "name": "红色珍珠",
-    "type": "韩剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "韩国",
-    "poster": "https://dbzy5.com/upload/vod/20260224-1/5cbfcf48ea3e5325b96e8544573a52d9.jpg",
-    "score": "5.0",
-    "remarks": "第102集",
-    "update_time": "2026-08-08 12:26:03"
   }
 ]
