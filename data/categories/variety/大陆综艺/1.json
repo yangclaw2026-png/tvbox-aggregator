@@ -1,5 +1,17 @@
 [
   {
+    "id": 151993,
+    "name": "遵义三日",
+    "type": "大陆综艺",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261004-1/66c25d26fb251388875b0f070ba0f0f9.jpg",
+    "score": "5.0",
+    "remarks": "第05期完结",
+    "update_time": "2026-10-04 19:40:00"
+  },
+  {
     "id": 151826,
     "name": "现在就出发 第四季",
     "type": "大陆综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "20260825第3期：猛士决赛！刘涛郑恺战队对决燃起来了",
     "update_time": "2026-08-25 19:31:40"
-  },
-  {
-    "id": 137126,
-    "name": "忙忙碌碌寻宝藏2",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260621-1/4e76db6dd96ee912b8223aae24a47a81.jpg",
-    "score": "5.0",
-    "remarks": "第20260825期忙里偷闲录：全员 K 歌之王",
-    "update_time": "2026-08-25 18:43:42"
   }
 ]

@@ -1,5 +1,53 @@
 [
   {
+    "id": 94,
+    "name": "我夺舍了系统玩家 动态漫画",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2024",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250109-6/55ab76421a529d8743581a371a389d1b.jpg",
+    "score": "5.0",
+    "remarks": "第153集",
+    "update_time": "2026-08-21 12:26:27"
+  },
+  {
+    "id": 491,
+    "name": "我召唤出了诸天神魔 动态漫画 第一季",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2024",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250109-5/4ca0ce32b1f7a394cd9975b294d9635f.jpg",
+    "score": "5.0",
+    "remarks": "第129集",
+    "update_time": "2026-08-21 12:25:55"
+  },
+  {
+    "id": 102423,
+    "name": "异变降临，我刷爆了全球副本！动态漫画",
+    "type": "国产动漫",
+    "category": "动漫",
+    "year": "2025",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250822-1/76c8983d9b2c4ff86abccd3188beccbb.jpg",
+    "score": "5.0",
+    "remarks": "第97集",
+    "update_time": "2026-08-21 12:25:24"
+  },
+  {
+    "id": 502,
+    "name": "全民御兽：开局觉醒神话级天赋 动态漫画",
+    "type": "国产动漫",
+    "category": "热血,穿越,中国动漫",
+    "year": "2024",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250109-5/d0ecccdb707ef3b70155370f6a6c9726.jpg",
+    "score": "5.0",
+    "remarks": "第97集",
+    "update_time": "2026-08-21 12:24:41"
+  },
+  {
     "id": 478,
     "name": "全民转职：驭龙师是最弱职业 动态漫画",
     "type": "国产动漫",
@@ -550,53 +598,5 @@
     "score": "5.0",
     "remarks": "第85集",
     "update_time": "2026-08-15 11:50:01"
-  },
-  {
-    "id": 107090,
-    "name": "神的欲望游戏 动态漫画",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2025",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250927-1/1331d34bbab880015aed8374d4801288.jpg",
-    "score": "5.0",
-    "remarks": "第165集",
-    "update_time": "2026-08-15 11:44:21"
-  },
-  {
-    "id": 83631,
-    "name": "逆天邪神 动态漫画",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2019",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250405-1/19ac6b9a238248dcc041908d9307d20f.jpg",
-    "score": "0.0",
-    "remarks": "第384集完结",
-    "update_time": "2026-08-15 11:39:52"
-  },
-  {
-    "id": 138116,
-    "name": "精神病面前，鬼东西算个球 动态漫画 第1季",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2024",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260702-1/22c870c0b63b79f026252024fb6feaff.jpg",
-    "score": "5.0",
-    "remarks": "第237集",
-    "update_time": "2026-08-15 11:38:33"
-  },
-  {
-    "id": 140817,
-    "name": "气运世界杯，我能复制所有球星技能",
-    "type": "国产动漫",
-    "category": "动画,运动",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260725-1/f55f485731d0cf831911dea757212591.jpg",
-    "score": "5.0",
-    "remarks": "第9集",
-    "update_time": "2026-08-15 11:31:12"
   }
 ]

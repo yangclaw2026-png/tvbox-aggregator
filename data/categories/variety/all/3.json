@@ -1,5 +1,17 @@
 [
   {
+    "id": 61,
+    "name": "惊人的星期六",
+    "type": "日韩综艺",
+    "category": "真人秀,脱口秀",
+    "year": "2018",
+    "area": "韩国",
+    "poster": "https://dbzy5.com/upload/vod/20250109-6/ad1f4cade3544e042498b5f01298a79b.jpg",
+    "score": "7.5",
+    "remarks": "第20260822期",
+    "update_time": "2026-08-23 18:43:00"
+  },
+  {
     "id": 154,
     "name": "你好，星期六 2022",
     "type": "大陆综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第20260815期宋亚轩黄子弘凡正太扭腰 周深陈小春同台《借过一下》",
     "update_time": "2026-08-16 15:28:44"
-  },
-  {
-    "id": 143818,
-    "name": "八仙：人生破局大师",
-    "type": "大陆综艺",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260814-1/acf1f94e83d20f1f57f3542726c7c761.jpg",
-    "score": "5.0",
-    "remarks": "第4期",
-    "update_time": "2026-08-16 13:02:50"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 143539,
+    "name": "侠探杰克 第四季",
+    "type": "欧美剧",
+    "category": "剧情,动作",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260812-1/a1dbfe80b153247210d236752558e660.jpg",
+    "score": "5.0",
+    "remarks": "第5集",
+    "update_time": "2026-08-26 18:56:10"
+  },
+  {
     "id": 139073,
     "name": "尝试 第五季",
     "type": "欧美剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第5集",
     "update_time": "2026-08-24 12:19:52"
-  },
-  {
-    "id": 141043,
-    "name": "行尸走肉：死亡之城 第三季",
-    "type": "欧美剧",
-    "category": "剧情,惊悚,恐怖,冒险",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260727-1/b763ea41e3ccaf94a5f0057108b3d03f.jpg",
-    "score": "5.0",
-    "remarks": "第5集",
-    "update_time": "2026-08-24 12:18:44"
   }
 ]

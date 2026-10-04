@@ -1,5 +1,17 @@
 [
   {
+    "id": 151993,
+    "name": "遵义三日",
+    "type": "大陆综艺",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261004-1/66c25d26fb251388875b0f070ba0f0f9.jpg",
+    "score": "5.0",
+    "remarks": "第05期完结",
+    "update_time": "2026-10-04 19:40:00"
+  },
+  {
     "id": 151826,
     "name": "现在就出发 第四季",
     "type": "大陆综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第26期",
     "update_time": "2026-08-26 19:06:05"
-  },
-  {
-    "id": 146047,
-    "name": "滚烫夜话",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260826-1/d7fa712f2d4b65b82c500bccd8ae977d.jpg",
-    "score": "5.0",
-    "remarks": "第20260826期",
-    "update_time": "2026-08-26 18:47:28"
   }
 ]

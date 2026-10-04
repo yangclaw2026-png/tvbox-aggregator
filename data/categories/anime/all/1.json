@@ -1,5 +1,53 @@
 [
   {
+    "id": 152002,
+    "name": "乱马1/2 第三季",
+    "type": "日本动漫",
+    "category": "剧情",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20261004-1/9a3f5beecc429ebf15506cbfa26e8f93.jpg",
+    "score": "5.0",
+    "remarks": "第1集",
+    "update_time": "2026-10-04 19:49:16"
+  },
+  {
+    "id": 152000,
+    "name": "借出去的魔力要用【分期还款】强制收回",
+    "type": "日本动漫",
+    "category": "剧情",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20261004-1/104611101455ecfa2dec7364549116e7.jpg",
+    "score": "5.0",
+    "remarks": "第1集",
+    "update_time": "2026-10-04 19:46:21"
+  },
+  {
+    "id": 151996,
+    "name": "黑色五叶草 第二季",
+    "type": "日本动漫",
+    "category": "剧情",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20261004-1/d0491ed333dd82033cae65a7889a03d1.jpg",
+    "score": "5.0",
+    "remarks": "第1集",
+    "update_time": "2026-10-04 19:43:21"
+  },
+  {
+    "id": 29823,
+    "name": "肥志百科",
+    "type": "国产动漫",
+    "category": "短片,动漫",
+    "year": "2021",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250108-46/25bfd405b7d596302b24100fb7cf0723.jpg",
+    "score": "5.0",
+    "remarks": "第171集",
+    "update_time": "2026-10-04 19:34:21"
+  },
+  {
     "id": 190,
     "name": "斗破苍穹年番",
     "type": "国产动漫",
@@ -550,53 +598,5 @@
     "score": "5.0",
     "remarks": "第6集",
     "update_time": "2026-08-27 16:17:00"
-  },
-  {
-    "id": 146214,
-    "name": "潘金莲：这大郎不对劲",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260827-1/1c5dc43c7eeb835c4a03bcac35de3948.jpg",
-    "score": "5.0",
-    "remarks": "第60集完结",
-    "update_time": "2026-08-27 16:09:14"
-  },
-  {
-    "id": 139631,
-    "name": "乡下大叔成为剑圣 第二季",
-    "type": "日本动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260712-1/f2b0539ce1da754ea6d75476d220bcaf.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-27 15:17:43"
-  },
-  {
-    "id": 139630,
-    "name": "雷霆三人行",
-    "type": "日本动漫",
-    "category": "科幻,动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260712-1/0dbb9efb19cfcace012a89be7d7ccce2.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-27 15:14:02"
-  },
-  {
-    "id": 139163,
-    "name": "我独自盗墓",
-    "type": "日本动漫",
-    "category": "动作,动画,奇幻,冒险",
-    "year": "2026",
-    "area": "韩国",
-    "poster": "https://dbzy5.com/upload/vod/20260709-1/d7533da34884ea2f3d97d9848e3fb717.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-27 14:40:35"
   }
 ]

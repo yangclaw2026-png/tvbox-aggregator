@@ -1,5 +1,53 @@
 [
   {
+    "id": 140676,
+    "name": "暗芝居第十七季",
+    "type": "日本动漫",
+    "category": "动画 ， 惊悚 ，恐怖",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260724-1/801598b7e62f46acd3233363a69099b9.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-08-22 17:28:30"
+  },
+  {
+    "id": 138390,
+    "name": "『你们先走我断后』，于是10年后我成为了传说",
+    "type": "日本动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260704-1/ba294c52652666a7052c91d7e114e5c1.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-22 17:15:10"
+  },
+  {
+    "id": 138375,
+    "name": "尼古喵喵",
+    "type": "日本动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260704-1/4227fdda634b6a881135682a170a038b.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-22 17:03:23"
+  },
+  {
+    "id": 138388,
+    "name": "我家的弟弟们真是让您费心了",
+    "type": "日本动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260704-1/1c6ce3cf66b2937d24ad86eb8a7d9adc.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-22 17:01:03"
+  },
+  {
     "id": 138384,
     "name": "从0位居民开始的边境领主大人",
     "type": "日本动漫",
@@ -550,53 +598,5 @@
     "score": "5.0",
     "remarks": "第20集",
     "update_time": "2026-08-21 12:26:30"
-  },
-  {
-    "id": 94,
-    "name": "我夺舍了系统玩家 动态漫画",
-    "type": "国产动漫",
-    "category": "中国动漫",
-    "year": "2024",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250109-6/55ab76421a529d8743581a371a389d1b.jpg",
-    "score": "5.0",
-    "remarks": "第153集",
-    "update_time": "2026-08-21 12:26:27"
-  },
-  {
-    "id": 491,
-    "name": "我召唤出了诸天神魔 动态漫画 第一季",
-    "type": "国产动漫",
-    "category": "中国动漫",
-    "year": "2024",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250109-5/4ca0ce32b1f7a394cd9975b294d9635f.jpg",
-    "score": "5.0",
-    "remarks": "第129集",
-    "update_time": "2026-08-21 12:25:55"
-  },
-  {
-    "id": 102423,
-    "name": "异变降临，我刷爆了全球副本！动态漫画",
-    "type": "国产动漫",
-    "category": "动漫",
-    "year": "2025",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250822-1/76c8983d9b2c4ff86abccd3188beccbb.jpg",
-    "score": "5.0",
-    "remarks": "第97集",
-    "update_time": "2026-08-21 12:25:24"
-  },
-  {
-    "id": 502,
-    "name": "全民御兽：开局觉醒神话级天赋 动态漫画",
-    "type": "国产动漫",
-    "category": "热血,穿越,中国动漫",
-    "year": "2024",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250109-5/d0ecccdb707ef3b70155370f6a6c9726.jpg",
-    "score": "5.0",
-    "remarks": "第97集",
-    "update_time": "2026-08-21 12:24:41"
   }
 ]

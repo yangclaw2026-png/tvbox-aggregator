@@ -1,5 +1,17 @@
 [
   {
+    "id": 143818,
+    "name": "八仙：人生破局大师",
+    "type": "大陆综艺",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260814-1/acf1f94e83d20f1f57f3542726c7c761.jpg",
+    "score": "5.0",
+    "remarks": "第4期",
+    "update_time": "2026-08-16 13:02:50"
+  },
+  {
     "id": 143934,
     "name": "百城头牌菜 第二季",
     "type": "大陆综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第10期完结",
     "update_time": "2026-08-04 21:17:10"
-  },
-  {
-    "id": 136976,
-    "name": "一万元舞台2026",
-    "type": "大陆综艺",
-    "category": "歌舞,真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260618-1/3988703c56e8842089c5d60ed80f4372.jpg",
-    "score": "0.0",
-    "remarks": "第7期",
-    "update_time": "2026-08-04 19:40:45"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 144344,
+    "name": "藏锋 2026",
+    "type": "国产剧",
+    "category": "剧情,喜剧,犯罪",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260817-1/d5fb7bd88d9ef1d457dd345137163481.jpg",
+    "score": "5.0",
+    "remarks": "第18集",
+    "update_time": "2026-08-27 21:21:10"
+  },
+  {
     "id": 146303,
     "name": "黑色丽人 第三季",
     "type": "欧美剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第8集完结",
     "update_time": "2026-08-26 18:58:49"
-  },
-  {
-    "id": 143539,
-    "name": "侠探杰克 第四季",
-    "type": "欧美剧",
-    "category": "剧情,动作",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260812-1/a1dbfe80b153247210d236752558e660.jpg",
-    "score": "5.0",
-    "remarks": "第5集",
-    "update_time": "2026-08-26 18:56:10"
   }
 ]

@@ -1,5 +1,41 @@
 [
   {
+    "id": 152002,
+    "name": "乱马1/2 第三季",
+    "type": "日本动漫",
+    "category": "剧情",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20261004-1/9a3f5beecc429ebf15506cbfa26e8f93.jpg",
+    "score": "5.0",
+    "remarks": "第1集",
+    "update_time": "2026-10-04 19:49:16"
+  },
+  {
+    "id": 152000,
+    "name": "借出去的魔力要用【分期还款】强制收回",
+    "type": "日本动漫",
+    "category": "剧情",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20261004-1/104611101455ecfa2dec7364549116e7.jpg",
+    "score": "5.0",
+    "remarks": "第1集",
+    "update_time": "2026-10-04 19:46:21"
+  },
+  {
+    "id": 151996,
+    "name": "黑色五叶草 第二季",
+    "type": "日本动漫",
+    "category": "剧情",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20261004-1/d0491ed333dd82033cae65a7889a03d1.jpg",
+    "score": "5.0",
+    "remarks": "第1集",
+    "update_time": "2026-10-04 19:43:21"
+  },
+  {
     "id": 138256,
     "name": "班格梦想！无限大缪型",
     "type": "日本动漫",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第1175集",
     "update_time": "2026-08-24 11:35:30"
-  },
-  {
-    "id": 141039,
-    "name": "角醒猎人欧米茄号角",
-    "type": "日本动漫",
-    "category": "剧情,动作,科幻",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260727-1/6fa9f9a5bd3f1ce373f883c75640c8e0.jpg",
-    "score": "5.0",
-    "remarks": "第5集",
-    "update_time": "2026-08-23 23:39:46"
-  },
-  {
-    "id": 139339,
-    "name": "说了不打算爱我的公爵继承人，不知为何对我宠爱有加",
-    "type": "日本动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260710-1/0b38e1377e3d80259dfd172e2ee8231c.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-23 22:31:24"
-  },
-  {
-    "id": 139332,
-    "name": "炒翻天",
-    "type": "日本动漫",
-    "category": "剧情,动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260710-1/7d9fce8c39b238df273e2dd8c282e0e5.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-23 22:26:35"
   }
 ]

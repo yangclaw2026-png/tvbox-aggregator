@@ -1,5 +1,53 @@
 [
   {
+    "id": 142616,
+    "name": "全城通缉：我和学霸的夺命猫鼠局",
+    "type": "国产动漫",
+    "category": "动画,重生,脑洞,热血",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260806-1/7ce3085915f5949a3db57977c3071f19.jpg",
+    "score": "5.0",
+    "remarks": "第23集",
+    "update_time": "2026-08-27 11:22:16"
+  },
+  {
+    "id": 143779,
+    "name": "布衣镇九州",
+    "type": "国产动漫",
+    "category": "动画,剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260813-1/ced4303927567139c45b769b2cc053c4.jpg",
+    "score": "5.0",
+    "remarks": "第200集",
+    "update_time": "2026-08-27 11:21:49"
+  },
+  {
+    "id": 144555,
+    "name": "仙界法务部：专治神仙劳动纠纷",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260818-1/89690a4bb1859987988d657c889a8716.jpg",
+    "score": "5.0",
+    "remarks": "第50集",
+    "update_time": "2026-08-27 11:21:06"
+  },
+  {
+    "id": 144560,
+    "name": "凶宅保姆",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260818-1/dfd57593b534f4aec157617943760ec2.jpg",
+    "score": "5.0",
+    "remarks": "第30集",
+    "update_time": "2026-08-27 11:20:31"
+  },
+  {
     "id": 144593,
     "name": "玄学王妃 逆天改命",
     "type": "国产动漫",
@@ -550,53 +598,5 @@
     "score": "5.0",
     "remarks": "第22集",
     "update_time": "2026-08-26 12:33:18"
-  },
-  {
-    "id": 11495,
-    "name": "有兽焉",
-    "type": "国产动漫",
-    "category": "中国动漫,动画",
-    "year": "2023",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250108-64/1bbd743f04e97bd65df21946219492cf.jpg",
-    "score": "5.0",
-    "remarks": "第65集",
-    "update_time": "2026-08-26 12:22:44"
-  },
-  {
-    "id": 70871,
-    "name": "我被困在同一天一千年 动态漫画 第一季",
-    "type": "国产动漫",
-    "category": "国产,动漫",
-    "year": "2022",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250122-1/62163c731538300ee2310d7f9dd04ac9.jpg",
-    "score": "0.0",
-    "remarks": "第282集",
-    "update_time": "2026-08-26 12:21:07"
-  },
-  {
-    "id": 131053,
-    "name": "我在末世搬金砖 第二季 动态漫",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260506-1/869153df38d4fae87dc14831b74d7014.jpg",
-    "score": "5.0",
-    "remarks": "第32集",
-    "update_time": "2026-08-26 12:19:59"
-  },
-  {
-    "id": 84114,
-    "name": "全民转职：无职的我终结了神明",
-    "type": "国产动漫",
-    "category": "动漫",
-    "year": "2025",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250409-1/90b54b5206a951ed219b7574fdb7253a.jpg",
-    "score": "0.0",
-    "remarks": "第76集",
-    "update_time": "2026-08-26 12:19:16"
   }
 ]

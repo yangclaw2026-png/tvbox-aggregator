@@ -1,5 +1,17 @@
 [
   {
+    "id": 148191,
+    "name": "双城记2026",
+    "type": "欧美剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "英国",
+    "poster": "https://dbzy5.com/upload/vod/20260906-1/e3a2953ac18f56caa62fc6b3d23a59de.jpg",
+    "score": "5.0",
+    "remarks": "第4集完结",
+    "update_time": "2026-10-04 19:32:00"
+  },
+  {
     "id": 151844,
     "name": "魅影神捕",
     "type": "国产剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第8集完结",
     "update_time": "2026-08-27 22:15:15"
-  },
-  {
-    "id": 144344,
-    "name": "藏锋 2026",
-    "type": "国产剧",
-    "category": "剧情,喜剧,犯罪",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260817-1/d5fb7bd88d9ef1d457dd345137163481.jpg",
-    "score": "5.0",
-    "remarks": "第18集",
-    "update_time": "2026-08-27 21:21:10"
   }
 ]

@@ -1,5 +1,53 @@
 [
   {
+    "id": 11495,
+    "name": "有兽焉",
+    "type": "国产动漫",
+    "category": "中国动漫,动画",
+    "year": "2023",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250108-64/1bbd743f04e97bd65df21946219492cf.jpg",
+    "score": "5.0",
+    "remarks": "第65集",
+    "update_time": "2026-08-26 12:22:44"
+  },
+  {
+    "id": 70871,
+    "name": "我被困在同一天一千年 动态漫画 第一季",
+    "type": "国产动漫",
+    "category": "国产,动漫",
+    "year": "2022",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250122-1/62163c731538300ee2310d7f9dd04ac9.jpg",
+    "score": "0.0",
+    "remarks": "第282集",
+    "update_time": "2026-08-26 12:21:07"
+  },
+  {
+    "id": 131053,
+    "name": "我在末世搬金砖 第二季 动态漫",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260506-1/869153df38d4fae87dc14831b74d7014.jpg",
+    "score": "5.0",
+    "remarks": "第32集",
+    "update_time": "2026-08-26 12:19:59"
+  },
+  {
+    "id": 84114,
+    "name": "全民转职：无职的我终结了神明",
+    "type": "国产动漫",
+    "category": "动漫",
+    "year": "2025",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250409-1/90b54b5206a951ed219b7574fdb7253a.jpg",
+    "score": "0.0",
+    "remarks": "第76集",
+    "update_time": "2026-08-26 12:19:16"
+  },
+  {
     "id": 111823,
     "name": "神级奸商：全服求我别薅了 动态漫画",
     "type": "国产动漫",
@@ -550,53 +598,5 @@
     "score": "5.0",
     "remarks": "第8集",
     "update_time": "2026-08-25 12:17:57"
-  },
-  {
-    "id": 139334,
-    "name": "与奔驰于透明之夜的你，谈一场看不见的恋爱 动漫",
-    "type": "日本动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260710-1/aefcfe80493af119355e464428a7b302.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-25 12:17:25"
-  },
-  {
-    "id": 138522,
-    "name": "骸骨骑士大人异世界冒险中Ⅱ 骸骨騎士様",
-    "type": "日本动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260705-1/335f7b1402d5ea6ee669d2e355e56a8a.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-25 12:16:45"
-  },
-  {
-    "id": 138818,
-    "name": "斗球儿弹子",
-    "type": "日本动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260707-1/2a05bd0ef38718019389f890640607e9.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-25 12:02:09"
-  },
-  {
-    "id": 141493,
-    "name": "星卡梦少女5奇迹绽放",
-    "type": "国产动漫",
-    "category": "动画,魔法,公主",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260730-1/5420ab5be2c45ff2ea3d0a2a67d35529.jpg",
-    "score": "5.0",
-    "remarks": "第30集完结",
-    "update_time": "2026-08-25 12:00:02"
   }
 ]

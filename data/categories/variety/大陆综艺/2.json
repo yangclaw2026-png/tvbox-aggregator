@@ -1,5 +1,17 @@
 [
   {
+    "id": 137126,
+    "name": "忙忙碌碌寻宝藏2",
+    "type": "大陆综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260621-1/4e76db6dd96ee912b8223aae24a47a81.jpg",
+    "score": "5.0",
+    "remarks": "第20260825期忙里偷闲录：全员 K 歌之王",
+    "update_time": "2026-08-25 18:43:42"
+  },
+  {
     "id": 142793,
     "name": "伦敦合伙人",
     "type": "大陆综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "20260814第10期：国医少年团毕业礼",
     "update_time": "2026-08-15 12:05:46"
-  },
-  {
-    "id": 133072,
-    "name": "歌手2026",
-    "type": "大陆综艺",
-    "category": "音乐,真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260523-1/8547df4bfe9b0b2433695ca5d680707b.jpg",
-    "score": "5.0",
-    "remarks": "20260814纯享典藏版：歌手舞台全记录",
-    "update_time": "2026-08-14 16:56:53"
   }
 ]

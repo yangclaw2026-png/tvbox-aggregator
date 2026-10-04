@@ -1,5 +1,17 @@
 [
   {
+    "id": 144216,
+    "name": "寄生游戏 第一季 英文版",
+    "type": "欧美剧",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260817-1/ef9ecc509661d4a53408667972cedcfd.webp",
+    "score": "0.0",
+    "remarks": "第2集",
+    "update_time": "2026-08-17 13:23:26"
+  },
+  {
     "id": 144209,
     "name": "幽山降妖传",
     "type": "国产剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第26集完结",
     "update_time": "2026-08-08 15:41:18"
-  },
-  {
-    "id": 142794,
-    "name": "一旦被发现就完了",
-    "type": "日本剧",
-    "category": "爱情,短片,同性",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260808-1/264ed1e08de1ee720cebbcfac07e1317.jpg",
-    "score": "5.0",
-    "remarks": "第1集",
-    "update_time": "2026-08-08 15:17:39"
   }
 ]
