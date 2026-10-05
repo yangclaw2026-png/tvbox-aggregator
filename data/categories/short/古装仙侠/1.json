@@ -1,5 +1,29 @@
 [
   {
+    "id": 152132,
+    "name": "我气哭了百万修仙者",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261005-1/e8c0094758ac6892e6a77e5c8aaa2073.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-10-05 22:54:29"
+  },
+  {
+    "id": 152121,
+    "name": "长生仙游",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261005-1/c311045320efb52603252039677bf1fa.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-10-05 22:26:44"
+  },
+  {
     "id": 148512,
     "name": "天降好运，我的萌猫竟是上古神兽",
     "type": "古装仙侠",
@@ -574,29 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-09-12 17:59:16"
-  },
-  {
-    "id": 149250,
-    "name": "王妃她武力值爆表第二季",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260912-1/ab9ca0cd58118b9fa98dcc9a85765c06.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-09-12 17:57:44"
-  },
-  {
-    "id": 149255,
-    "name": "夏末萤凉",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260912-1/6977cd0f30476e91f44d55b75606b2c2.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-09-12 17:56:27"
   }
 ]
