@@ -1,5 +1,17 @@
 [
   {
+    "id": 142800,
+    "name": "极致宠溺",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260808-1/7d6778874269c3dc710948b0a0e19d23.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-08 16:12:13"
+  },
+  {
     "id": 142728,
     "name": "团宠锦鲤喵，您的首席铲屎官来啦！",
     "type": "现代都市",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-06 22:52:53"
-  },
-  {
-    "id": 142468,
-    "name": "别拦我，我要养虾",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260806-1/7fd1ab43bec0083406a52b7f71a1b48c.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-06 22:52:24"
   }
 ]

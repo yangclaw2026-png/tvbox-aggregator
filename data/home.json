@@ -1,5 +1,53 @@
 [
   {
+    "id": 152095,
+    "name": "八零俏当家：挣钱宠娃两不误",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261005-1/3ff0eae4abbc5cd24f72f9253520f1bc.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-10-05 21:46:59"
+  },
+  {
+    "id": 152094,
+    "name": "重生北地，我赶山养全家",
+    "type": "重生民国",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261005-1/50bc5510de232c1601bbdadb5afc8500.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-10-05 21:45:50"
+  },
+  {
+    "id": 152093,
+    "name": "小花卷致富：我的小吃店通古今",
+    "type": "AI短剧",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261005-1/69e10531181e65b24a35bd7e7f4a33b1.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-10-05 21:44:39"
+  },
+  {
+    "id": 152092,
+    "name": "我！反向带货第一人",
+    "type": "AI短剧",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261005-1/4264d5f3ca8b57151b0cc354591aa50b.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-10-05 21:43:29"
+  },
+  {
     "id": 151537,
     "name": "小星帽尼欧欧",
     "type": "国产动漫",
@@ -550,53 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-10-01 20:01:40"
-  },
-  {
-    "id": 151823,
-    "name": "穿成农女，带崽种田爽翻天！第六季",
-    "type": "AI短剧",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261001-1/6ed5b1dfd4c89c76fbcdc7e5d3c58392.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-01 20:00:23"
-  },
-  {
-    "id": 149586,
-    "name": "云雀叫天录",
-    "type": "国产剧",
-    "category": "剧情,古装",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260914-1/825fd788dca2f0ace6906fc2fd5cf6dd.jpg",
-    "score": "5.0",
-    "remarks": "第40集",
-    "update_time": "2026-09-30 19:52:50"
-  },
-  {
-    "id": 151087,
-    "name": "今天也不知悔改的我们",
-    "type": "日本剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260924-1/fec98e5e2c179d20e779ae4621cc1f02.webp",
-    "score": "5.0",
-    "remarks": "第1集",
-    "update_time": "2026-09-29 23:41:21"
-  },
-  {
-    "id": 151094,
-    "name": "玄战",
-    "type": "香港剧",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国香港",
-    "poster": "https://dbzy5.com/upload/vod/20260925-1/a9b09144fe2123e5065f09be66dd4901.webp",
-    "score": "5.0",
-    "remarks": "第10集完结",
-    "update_time": "2026-09-29 23:41:12"
   }
 ]

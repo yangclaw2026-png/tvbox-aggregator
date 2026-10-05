@@ -1,5 +1,17 @@
 [
   {
+    "id": 143904,
+    "name": "赴星川",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260814-1/c8ec646be6a4e87ffbe38bca370859e2.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-14 22:23:11"
+  },
+  {
     "id": 143901,
     "name": "说好养猪对半分最后只给我两万",
     "type": "现代都市",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-13 22:19:14"
-  },
-  {
-    "id": 143694,
-    "name": "从前说：七零良缘伴朝夕",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260813-1/60ca813ce437e9488c96c927744dcea4.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-13 22:17:28"
   }
 ]

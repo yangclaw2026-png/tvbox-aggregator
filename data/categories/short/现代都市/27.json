@@ -1,5 +1,17 @@
 [
   {
+    "id": 143639,
+    "name": "战神归乡：谁敢动我姐姐",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260813-1/3a54ce824e1b3d4bc940d0e1e34071fa.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-13 14:24:49"
+  },
+  {
     "id": 143637,
     "name": "零五逆袭",
     "type": "现代都市",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-12 21:40:30"
-  },
-  {
-    "id": 143570,
-    "name": "真千金她自带磁场",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260812-1/8011c419a7a74d1f0cf1aba86fa953ef.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-12 21:39:54"
   }
 ]

@@ -1,5 +1,29 @@
 [
   {
+    "id": 142696,
+    "name": "诡异宠物店",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260807-1/856498b0ad4491a456f2f1eeac8a9ff5.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-09 11:35:07"
+  },
+  {
+    "id": 142915,
+    "name": "重生古代代嫁皇商",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260809-1/04fceead53b34cd4fafa7d6ca44510d4.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-09 11:33:55"
+  },
+  {
     "id": 142697,
     "name": "法棍开荒：从零打造蛮荒营地",
     "type": "现代都市",
@@ -574,29 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-08 22:20:51"
-  },
-  {
-    "id": 142903,
-    "name": "听懂动物说话后，我成了动物神医",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260808-1/39bc11bf5f8034016a472ed54ce8dacc.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-08 22:20:39"
-  },
-  {
-    "id": 142902,
-    "name": "鸿蒙帝师：弟子是重生女帝",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260808-1/1b4b7cc9ba02cfbf7e8eaab92279fd5c.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-08 22:19:06"
   }
 ]
