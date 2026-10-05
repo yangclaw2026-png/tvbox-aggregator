@@ -1,5 +1,53 @@
 [
   {
+    "id": 247,
+    "name": "炼气十万年",
+    "type": "国产动漫",
+    "category": "动作,动画,奇幻,古装",
+    "year": "2023",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250109-5/cfd5780b13197c0c2d1ae1969d02912e.jpg",
+    "score": "7.1",
+    "remarks": "第371集",
+    "update_time": "2026-08-25 12:40:53"
+  },
+  {
+    "id": 139058,
+    "name": "转学后班上的清纯可爱美少女竟是小时候玩在一起的哥儿们",
+    "type": "国产动漫",
+    "category": "动漫",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260708-1/17e819eea603986d00359fbcf74b6767.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-25 12:19:15"
+  },
+  {
+    "id": 138819,
+    "name": "碧蓝之海 第三季",
+    "type": "日本动漫",
+    "category": "喜剧,动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260707-1/acc8b835523364bc94a0cb2092136b51.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-25 12:18:33"
+  },
+  {
+    "id": 139337,
+    "name": "暴走千金立誓复仇。～用魔导书之力碾碎祖国",
+    "type": "日本动漫",
+    "category": "动画,奇幻",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260710-1/194d3326c81e39585556cac000a676dc.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-25 12:17:57"
+  },
+  {
     "id": 139334,
     "name": "与奔驰于透明之夜的你，谈一场看不见的恋爱 动漫",
     "type": "日本动漫",
@@ -550,53 +598,5 @@
     "score": "5.0",
     "remarks": "第6集",
     "update_time": "2026-08-24 11:33:04"
-  },
-  {
-    "id": 904,
-    "name": "仙逆",
-    "type": "国产动漫",
-    "category": "中国动漫",
-    "year": "2023",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250109-5/4ee8cdeb1a450f7f8f4a566934e5508b.jpg",
-    "score": "5.0",
-    "remarks": "第155集",
-    "update_time": "2026-08-24 11:32:22"
-  },
-  {
-    "id": 145534,
-    "name": "三千两起家，皇子靠金融革新",
-    "type": "国产动漫",
-    "category": "动画,权谋,经济",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260824-1/56c6948aac4ca1302802f3e50a059f72.jpg",
-    "score": "5.0",
-    "remarks": "第46集",
-    "update_time": "2026-08-24 11:30:51"
-  },
-  {
-    "id": 140203,
-    "name": "万古至尊：李云霄传",
-    "type": "国产动漫",
-    "category": "动漫",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260721-1/55994c1260ebc350eb21c6d9196c3be6.jpg",
-    "score": "5.0",
-    "remarks": "第13集",
-    "update_time": "2026-08-24 11:15:58"
-  },
-  {
-    "id": 139859,
-    "name": "十二层宝塔",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260717-1/39eccca735ebe8768e612de0f1d9cd13.jpg",
-    "score": "5.0",
-    "remarks": "第12集",
-    "update_time": "2026-08-24 11:14:19"
   }
 ]

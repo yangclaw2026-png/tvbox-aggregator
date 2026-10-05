@@ -1,5 +1,53 @@
 [
   {
+    "id": 143078,
+    "name": "女帝归来",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260810-1/abafa87ffee9accad6828c09f1730515.jpg",
+    "score": "5.0",
+    "remarks": "第12集完结",
+    "update_time": "2026-08-10 13:45:24"
+  },
+  {
+    "id": 142634,
+    "name": "谷雨街后巷",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260807-1/1ccba54362632334d4c0ce945c082419.jpg",
+    "score": "5.0",
+    "remarks": "第5集",
+    "update_time": "2026-08-10 12:34:33"
+  },
+  {
+    "id": 143071,
+    "name": "炼气三层扛大狙碾压金丹老祖",
+    "type": "国产动漫",
+    "category": "动画,奇幻,机战,热血",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260810-1/5a92f0b0f63a1586bd050697307e9b54.jpg",
+    "score": "5.0",
+    "remarks": "第38集完结",
+    "update_time": "2026-08-10 12:26:39"
+  },
+  {
+    "id": 143063,
+    "name": "凡剑仙",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260810-1/dc3021048c3decf5a59d4f63c6179d29.jpg",
+    "score": "5.0",
+    "remarks": "第5集完结",
+    "update_time": "2026-08-10 11:50:40"
+  },
+  {
     "id": 143062,
     "name": "一剑护苍生",
     "type": "国产动漫",

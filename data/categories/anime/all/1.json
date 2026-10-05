@@ -1,5 +1,53 @@
 [
   {
+    "id": 151537,
+    "name": "小星帽尼欧欧",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260928-1/918ce7928fe6760e6262da363c47d6ee.jpg",
+    "score": "5.0",
+    "remarks": "第36集",
+    "update_time": "2026-10-05 12:05:24"
+  },
+  {
+    "id": 150948,
+    "name": "归途七侠奇遇记",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260923-1/f65324a0bf1d9ff2e10b12fb45d0e0ea.jpg",
+    "score": "5.0",
+    "remarks": "第16集",
+    "update_time": "2026-10-05 12:04:54"
+  },
+  {
+    "id": 151212,
+    "name": "萌宝战警5之深海奇渊",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260927-1/99fe61990c953fe5e2ead2a70942d3cc.jpg",
+    "score": "5.0",
+    "remarks": "第23集",
+    "update_time": "2026-10-05 12:04:16"
+  },
+  {
+    "id": 151048,
+    "name": "甲武神",
+    "type": "国产动漫",
+    "category": "动作,动画,儿童,奇幻",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260924-1/d298dd015d0fea00cca307254464f779.jpg",
+    "score": "5.0",
+    "remarks": "第32集",
+    "update_time": "2026-10-05 12:03:24"
+  },
+  {
     "id": 152002,
     "name": "乱马1/2 第三季",
     "type": "日本动漫",
@@ -550,53 +598,5 @@
     "score": "5.0",
     "remarks": "第163集",
     "update_time": "2026-08-27 17:37:34"
-  },
-  {
-    "id": 144019,
-    "name": "毒医帝妃指南录",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260816-1/21eb3c1ccedc149c167573bb6fe34f97.jpg",
-    "score": "0.0",
-    "remarks": "第147集",
-    "update_time": "2026-08-27 17:24:51"
-  },
-  {
-    "id": 134280,
-    "name": "禅王渡尘",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260601-1/ce3c7357c18b714e76e3a1981050787d.jpg",
-    "score": "5.0",
-    "remarks": "第142集",
-    "update_time": "2026-08-27 16:56:30"
-  },
-  {
-    "id": 90373,
-    "name": "开心锤锤",
-    "type": "国产动漫",
-    "category": "剧情,喜剧,动画",
-    "year": "2020",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250511-1/3dff1b997d17bb1b8ce48624381cfcb1.jpg",
-    "score": "5.0",
-    "remarks": "第1446集",
-    "update_time": "2026-08-27 16:49:05"
-  },
-  {
-    "id": 146153,
-    "name": "疯了吧！这座城市的人都在找死",
-    "type": "国产动漫",
-    "category": "科 幻, 悬 疑 ,科 幻, 冒 险",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260827-1/e8d5dbd6302b95dafe0018fc6546c08c.jpg",
-    "score": "5.0",
-    "remarks": "第6集",
-    "update_time": "2026-08-27 16:17:00"
   }
 ]

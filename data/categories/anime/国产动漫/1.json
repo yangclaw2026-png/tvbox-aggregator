@@ -1,5 +1,53 @@
 [
   {
+    "id": 151537,
+    "name": "小星帽尼欧欧",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260928-1/918ce7928fe6760e6262da363c47d6ee.jpg",
+    "score": "5.0",
+    "remarks": "第36集",
+    "update_time": "2026-10-05 12:05:24"
+  },
+  {
+    "id": 150948,
+    "name": "归途七侠奇遇记",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260923-1/f65324a0bf1d9ff2e10b12fb45d0e0ea.jpg",
+    "score": "5.0",
+    "remarks": "第16集",
+    "update_time": "2026-10-05 12:04:54"
+  },
+  {
+    "id": 151212,
+    "name": "萌宝战警5之深海奇渊",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260927-1/99fe61990c953fe5e2ead2a70942d3cc.jpg",
+    "score": "5.0",
+    "remarks": "第23集",
+    "update_time": "2026-10-05 12:04:16"
+  },
+  {
+    "id": 151048,
+    "name": "甲武神",
+    "type": "国产动漫",
+    "category": "动作,动画,儿童,奇幻",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260924-1/d298dd015d0fea00cca307254464f779.jpg",
+    "score": "5.0",
+    "remarks": "第32集",
+    "update_time": "2026-10-05 12:03:24"
+  },
+  {
     "id": 29823,
     "name": "肥志百科",
     "type": "国产动漫",
@@ -550,53 +598,5 @@
     "score": "5.0",
     "remarks": "第7集",
     "update_time": "2026-08-27 14:26:41"
-  },
-  {
-    "id": 142091,
-    "name": "魔道之路",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/d5246a98c3fd7d931d2ee1228eadec60.jpg",
-    "score": "5.0",
-    "remarks": "第27集",
-    "update_time": "2026-08-27 13:10:23"
-  },
-  {
-    "id": 143416,
-    "name": "阿木的摸金日记",
-    "type": "国产动漫",
-    "category": "剧情,动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260811-1/fc3a6a91f6ddb36289caae50d8b3c8c2.jpg",
-    "score": "5.0",
-    "remarks": "第20集",
-    "update_time": "2026-08-27 13:08:19"
-  },
-  {
-    "id": 142079,
-    "name": "丑妻仙缘",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/76df14bcc02e1232758159dfb746af39.jpg",
-    "score": "5.0",
-    "remarks": "第254集",
-    "update_time": "2026-08-27 12:14:19"
-  },
-  {
-    "id": 131275,
-    "name": "星辰帝女：逆转命运之歌",
-    "type": "国产动漫",
-    "category": "恋爱,玄幻,中国动漫",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260507-1/5691821d555dc9eaa36dd436c48c618d.jpg",
-    "score": "5.0",
-    "remarks": "第44集",
-    "update_time": "2026-08-27 11:43:20"
   }
 ]

@@ -1,5 +1,53 @@
 [
   {
+    "id": 82728,
+    "name": "末日狠人：开局囤积万亿物资 动态漫画",
+    "type": "国产动漫",
+    "category": "动漫",
+    "year": "",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250401-1/a1ff3e0bef11130d24480a154dd03b49.jpg",
+    "score": "5.0",
+    "remarks": "第75集",
+    "update_time": "2026-08-18 11:48:51"
+  },
+  {
+    "id": 143065,
+    "name": "独角兽骑士队 第2季（英文版）",
+    "type": "国产动漫",
+    "category": "动画,儿童,历险",
+    "year": "2024",
+    "area": "加拿大",
+    "poster": "https://dbzy5.com/upload/vod/20260810-1/d9a194687f1e4714b2871dc9917c4b0e.jpg",
+    "score": "5.0",
+    "remarks": "第22集",
+    "update_time": "2026-08-18 11:45:56"
+  },
+  {
+    "id": 143064,
+    "name": "独角兽骑士队 第2季（国语版）",
+    "type": "国产动漫",
+    "category": "动画,儿童,历险",
+    "year": "2024",
+    "area": "加拿大",
+    "poster": "https://dbzy5.com/upload/vod/20260810-1/ec9237adbff8ea21b9932c9d095b02b1.jpg",
+    "score": "5.0",
+    "remarks": "第22集",
+    "update_time": "2026-08-18 11:44:58"
+  },
+  {
+    "id": 144394,
+    "name": "斩神之凡尘神域第一季",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2024",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260818-1/758ebf95ca1db2de12efaeae75b1c17a.jpg",
+    "score": "8.4",
+    "remarks": "第15集完结",
+    "update_time": "2026-08-18 00:11:53"
+  },
+  {
     "id": 144392,
     "name": "我见过那些大神",
     "type": "国产动漫",
@@ -550,53 +598,5 @@
     "score": "5.0",
     "remarks": "第19集完结",
     "update_time": "2026-08-10 14:34:42"
-  },
-  {
-    "id": 143078,
-    "name": "女帝归来",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260810-1/abafa87ffee9accad6828c09f1730515.jpg",
-    "score": "5.0",
-    "remarks": "第12集完结",
-    "update_time": "2026-08-10 13:45:24"
-  },
-  {
-    "id": 142634,
-    "name": "谷雨街后巷",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260807-1/1ccba54362632334d4c0ce945c082419.jpg",
-    "score": "5.0",
-    "remarks": "第5集",
-    "update_time": "2026-08-10 12:34:33"
-  },
-  {
-    "id": 143071,
-    "name": "炼气三层扛大狙碾压金丹老祖",
-    "type": "国产动漫",
-    "category": "动画,奇幻,机战,热血",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260810-1/5a92f0b0f63a1586bd050697307e9b54.jpg",
-    "score": "5.0",
-    "remarks": "第38集完结",
-    "update_time": "2026-08-10 12:26:39"
-  },
-  {
-    "id": 143063,
-    "name": "凡剑仙",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260810-1/dc3021048c3decf5a59d4f63c6179d29.jpg",
-    "score": "5.0",
-    "remarks": "第5集完结",
-    "update_time": "2026-08-10 11:50:40"
   }
 ]

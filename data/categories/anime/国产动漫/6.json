@@ -1,5 +1,53 @@
 [
   {
+    "id": 107091,
+    "name": "亡灵行者！从鱼人地下城开始 动态漫画",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2025",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250927-1/bc22d113536ffde4024b6c2dae500045.jpg",
+    "score": "5.0",
+    "remarks": "第194集",
+    "update_time": "2026-08-22 11:50:30"
+  },
+  {
+    "id": 85004,
+    "name": "死灵法师！我即是天灾 动态漫画",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2025",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250413-1/6c027ee784228e6d968f4c1455877bf3.jpg",
+    "score": "0.0",
+    "remarks": "第286集",
+    "update_time": "2026-08-22 11:48:43"
+  },
+  {
+    "id": 102544,
+    "name": "系统送我避难所 第一季 动态漫画",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2025",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250824-1/a01ae871cc913c35fd2111aa86b3fe76.jpg",
+    "score": "5.0",
+    "remarks": "第82集",
+    "update_time": "2026-08-22 11:48:32"
+  },
+  {
+    "id": 327,
+    "name": "全球诡异时代 第二季",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2024",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250109-5/dcab018b055e8600423dacdbd90468d7.jpg",
+    "score": "5.0",
+    "remarks": "第354集",
+    "update_time": "2026-08-22 11:47:54"
+  },
+  {
     "id": 105313,
     "name": "欠债亿万，我被迫成为邪神打工人",
     "type": "国产动漫",
@@ -550,53 +598,5 @@
     "score": "5.0",
     "remarks": "第11集",
     "update_time": "2026-08-18 11:57:24"
-  },
-  {
-    "id": 82728,
-    "name": "末日狠人：开局囤积万亿物资 动态漫画",
-    "type": "国产动漫",
-    "category": "动漫",
-    "year": "",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250401-1/a1ff3e0bef11130d24480a154dd03b49.jpg",
-    "score": "5.0",
-    "remarks": "第75集",
-    "update_time": "2026-08-18 11:48:51"
-  },
-  {
-    "id": 143065,
-    "name": "独角兽骑士队 第2季（英文版）",
-    "type": "国产动漫",
-    "category": "动画,儿童,历险",
-    "year": "2024",
-    "area": "加拿大",
-    "poster": "https://dbzy5.com/upload/vod/20260810-1/d9a194687f1e4714b2871dc9917c4b0e.jpg",
-    "score": "5.0",
-    "remarks": "第22集",
-    "update_time": "2026-08-18 11:45:56"
-  },
-  {
-    "id": 143064,
-    "name": "独角兽骑士队 第2季（国语版）",
-    "type": "国产动漫",
-    "category": "动画,儿童,历险",
-    "year": "2024",
-    "area": "加拿大",
-    "poster": "https://dbzy5.com/upload/vod/20260810-1/ec9237adbff8ea21b9932c9d095b02b1.jpg",
-    "score": "5.0",
-    "remarks": "第22集",
-    "update_time": "2026-08-18 11:44:58"
-  },
-  {
-    "id": 144394,
-    "name": "斩神之凡尘神域第一季",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2024",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260818-1/758ebf95ca1db2de12efaeae75b1c17a.jpg",
-    "score": "8.4",
-    "remarks": "第15集完结",
-    "update_time": "2026-08-18 00:11:53"
   }
 ]

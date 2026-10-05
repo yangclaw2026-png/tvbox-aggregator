@@ -1,5 +1,53 @@
 [
   {
+    "id": 144019,
+    "name": "毒医帝妃指南录",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260816-1/21eb3c1ccedc149c167573bb6fe34f97.jpg",
+    "score": "0.0",
+    "remarks": "第147集",
+    "update_time": "2026-08-27 17:24:51"
+  },
+  {
+    "id": 134280,
+    "name": "禅王渡尘",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260601-1/ce3c7357c18b714e76e3a1981050787d.jpg",
+    "score": "5.0",
+    "remarks": "第142集",
+    "update_time": "2026-08-27 16:56:30"
+  },
+  {
+    "id": 90373,
+    "name": "开心锤锤",
+    "type": "国产动漫",
+    "category": "剧情,喜剧,动画",
+    "year": "2020",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250511-1/3dff1b997d17bb1b8ce48624381cfcb1.jpg",
+    "score": "5.0",
+    "remarks": "第1446集",
+    "update_time": "2026-08-27 16:49:05"
+  },
+  {
+    "id": 146153,
+    "name": "疯了吧！这座城市的人都在找死",
+    "type": "国产动漫",
+    "category": "科 幻, 悬 疑 ,科 幻, 冒 险",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260827-1/e8d5dbd6302b95dafe0018fc6546c08c.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-08-27 16:17:00"
+  },
+  {
     "id": 146214,
     "name": "潘金莲：这大郎不对劲",
     "type": "国产动漫",
@@ -550,53 +598,5 @@
     "score": "5.0",
     "remarks": "第92集",
     "update_time": "2026-08-27 11:27:07"
-  },
-  {
-    "id": 139904,
-    "name": "规则怪谈：开局无限诡币",
-    "type": "国产动漫",
-    "category": "动漫",
-    "year": "2025",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260718-1/5a9eae4a11dc97718489b52cc86e37fd.jpg",
-    "score": "5.0",
-    "remarks": "第169集",
-    "update_time": "2026-08-27 11:26:27"
-  },
-  {
-    "id": 634,
-    "name": "仙武帝尊",
-    "type": "国产动漫",
-    "category": "其它,动漫,中国动漫",
-    "year": "2021",
-    "area": "大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250109-5/9a325958608b833d14e9bf2426062c3b.jpg",
-    "score": "5.0",
-    "remarks": "第529集",
-    "update_time": "2026-08-27 11:25:40"
-  },
-  {
-    "id": 146118,
-    "name": "珍妮马斯：小毛球宇宙探索队",
-    "type": "国产动漫",
-    "category": "动画,少儿",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260827-1/b2c2f0bbe916727554bcf0968ae673a0.jpg",
-    "score": "5.0",
-    "remarks": "第27集",
-    "update_time": "2026-08-27 11:23:38"
-  },
-  {
-    "id": 142612,
-    "name": "开局F级菜青虫，我靠吞噬成神了",
-    "type": "国产动漫",
-    "category": "动画,逆袭,热血",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260806-1/09d52e6516d5ed2491268fd816b34dbc.jpg",
-    "score": "5.0",
-    "remarks": "第14集",
-    "update_time": "2026-08-27 11:22:45"
   }
 ]
