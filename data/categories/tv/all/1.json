@@ -1,5 +1,17 @@
 [
   {
+    "id": 152244,
+    "name": "皮埃尔",
+    "type": "欧美剧",
+    "category": "剧情,犯罪",
+    "year": "2026",
+    "area": "英国",
+    "poster": "https://dbzy5.com/upload/vod/20261006-1/ba2282f449f9d5b64f988e20bc840f91.jpg",
+    "score": "5.0",
+    "remarks": "第6集完结",
+    "update_time": "2026-10-06 21:57:58"
+  },
+  {
     "id": 152235,
     "name": "狐狸女士 第三季",
     "type": "欧美剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第8集完结",
     "update_time": "2026-08-27 22:50:12"
-  },
-  {
-    "id": 141892,
-    "name": "东京三十而已",
-    "type": "日本剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/fa27b65b43b754d05d22f0314eb491c6.jpg",
-    "score": "7.0",
-    "remarks": "第6集",
-    "update_time": "2026-08-27 22:30:08"
   }
 ]

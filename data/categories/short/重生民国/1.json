@@ -1,5 +1,29 @@
 [
   {
+    "id": 152266,
+    "name": "隐姓埋名为国铸剑",
+    "type": "重生民国",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261006-1/bb1c73b56d93b8b1edb19393a4d7d430.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-10-06 22:25:55"
+  },
+  {
+    "id": 152264,
+    "name": "重生不赴旧亲情",
+    "type": "重生民国",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-10-06 22:22:06"
+  },
+  {
     "id": 152122,
     "name": "重生八零逆袭：从养猪场到商业帝国崛起",
     "type": "重生民国",
@@ -574,29 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-17 18:51:11"
-  },
-  {
-    "id": 144074,
-    "name": "重生七零，我把老公宠成宝",
-    "type": "重生民国",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260816-1/83c7be4c839f7a5867995b40880544b0.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-16 23:00:12"
-  },
-  {
-    "id": 143881,
-    "name": "重生后我靠医术逆天改命",
-    "type": "重生民国",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260814-1/b3166442ca716b04599aaf88f91b43b7.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-14 21:42:34"
   }
 ]

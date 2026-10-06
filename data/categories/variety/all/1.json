@@ -1,5 +1,17 @@
 [
   {
+    "id": 150944,
+    "name": "旗安84的奇趣民宿 第二季",
+    "type": "日韩综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "韩国",
+    "poster": "https://dbzy5.com/upload/vod/20260923-1/d0d60bf9656cfc8b2be9ecbce91e1a55.jpg",
+    "score": "5.0",
+    "remarks": "第10期",
+    "update_time": "2026-10-06 22:53:22"
+  },
+  {
     "id": 152234,
     "name": "天网",
     "type": "大陆综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "20260826特别加更第9期",
     "update_time": "2026-08-26 19:10:36"
-  },
-  {
-    "id": 142362,
-    "name": "姐姐快醒醒",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/e06d0d614641fa66699a1b8fe0e48d0f.jpg",
-    "score": "5.0",
-    "remarks": "第4期：陈晓靖说上节目只为争名利，分享权谋必杀技",
-    "update_time": "2026-08-26 19:09:21"
   }
 ]

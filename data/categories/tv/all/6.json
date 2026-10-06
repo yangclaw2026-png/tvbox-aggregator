@@ -1,5 +1,17 @@
 [
   {
+    "id": 139691,
+    "name": "公寓黑风暴",
+    "type": "韩剧",
+    "category": "剧情,喜剧",
+    "year": "2026",
+    "area": "韩国",
+    "poster": "https://dbzy5.com/upload/vod/20260712-1/4cc206f1c1c1d223bd6bfee86b365018.jpg",
+    "score": "5.0",
+    "remarks": "第12集",
+    "update_time": "2026-08-17 13:55:37"
+  },
+  {
     "id": 142126,
     "name": "盲盒 2026",
     "type": "国产剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第8集",
     "update_time": "2026-08-08 18:42:22"
-  },
-  {
-    "id": 138503,
-    "name": "生活、拉里与不快乐的追求：一部美国史",
-    "type": "欧美剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260704-1/4d6aafc8d07ce45e2382596a95a15582.jpg",
-    "score": "5.0",
-    "remarks": "第7集",
-    "update_time": "2026-08-08 16:39:35"
   }
 ]

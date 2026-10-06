@@ -1,5 +1,17 @@
 [
   {
+    "id": 152244,
+    "name": "皮埃尔",
+    "type": "欧美剧",
+    "category": "剧情,犯罪",
+    "year": "2026",
+    "area": "英国",
+    "poster": "https://dbzy5.com/upload/vod/20261006-1/ba2282f449f9d5b64f988e20bc840f91.jpg",
+    "score": "5.0",
+    "remarks": "第6集完结",
+    "update_time": "2026-10-06 21:57:58"
+  },
+  {
     "id": 152235,
     "name": "狐狸女士 第三季",
     "type": "欧美剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第5集",
     "update_time": "2026-08-21 11:45:11"
-  },
-  {
-    "id": 132212,
-    "name": "哈达克一家 第二季",
-    "type": "欧美剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "英国,爱尔兰",
-    "poster": "https://dbzy5.com/upload/vod/20260516-1/1f344ad4bc21ff109b68ae8166b75fff.jpg",
-    "score": "5.0",
-    "remarks": "第6集完结",
-    "update_time": "2026-08-21 11:41:26"
   }
 ]

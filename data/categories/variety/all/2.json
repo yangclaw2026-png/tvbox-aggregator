@@ -1,5 +1,17 @@
 [
   {
+    "id": 142362,
+    "name": "姐姐快醒醒",
+    "type": "大陆综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/e06d0d614641fa66699a1b8fe0e48d0f.jpg",
+    "score": "5.0",
+    "remarks": "第4期：陈晓靖说上节目只为争名利，分享权谋必杀技",
+    "update_time": "2026-08-26 19:09:21"
+  },
+  {
     "id": 131120,
     "name": "文明之旅 第3季",
     "type": "大陆综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第13集完结",
     "update_time": "2026-08-23 19:19:58"
-  },
-  {
-    "id": 141896,
-    "name": "家乡美食大赛",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/6e2cce95be28713f21f94b48625a904e.jpg",
-    "score": "5.0",
-    "remarks": "20260823江苏站第1集",
-    "update_time": "2026-08-23 18:55:33"
   }
 ]

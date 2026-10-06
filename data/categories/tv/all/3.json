@@ -1,5 +1,17 @@
 [
   {
+    "id": 142361,
+    "name": "足球教练 第四季",
+    "type": "欧美剧",
+    "category": "剧情,喜剧,运动",
+    "year": "2026",
+    "area": "美国,英国",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/d20e5910f9d1391b00b82733d9f7fd95.jpg",
+    "score": "5.0",
+    "remarks": "第4集",
+    "update_time": "2026-08-26 19:00:06"
+  },
+  {
     "id": 142358,
     "name": "百年孤独 第二季",
     "type": "海外剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第5集",
     "update_time": "2026-08-24 12:24:13"
-  },
-  {
-    "id": 140961,
-    "name": "爱情来了",
-    "type": "韩剧",
-    "category": "剧情,爱情",
-    "year": "2026",
-    "area": "韩国",
-    "poster": "https://dbzy5.com/upload/vod/20260726-1/1b3aaa68bc8f4862db3359d606dab07c.jpg",
-    "score": "5.0",
-    "remarks": "第10集",
-    "update_time": "2026-08-24 12:21:24"
   }
 ]

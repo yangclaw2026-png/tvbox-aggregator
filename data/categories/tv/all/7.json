@@ -1,5 +1,17 @@
 [
   {
+    "id": 138503,
+    "name": "生活、拉里与不快乐的追求：一部美国史",
+    "type": "欧美剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260704-1/4d6aafc8d07ce45e2382596a95a15582.jpg",
+    "score": "5.0",
+    "remarks": "第7集",
+    "update_time": "2026-08-08 16:39:35"
+  },
+  {
     "id": 142278,
     "name": "凛冬下的罪恶",
     "type": "国产剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第10集完结",
     "update_time": "2026-08-03 13:39:22"
-  },
-  {
-    "id": 139733,
-    "name": "清醒点，泰尔先生 番外",
-    "type": "泰国剧",
-    "category": "喜剧,同性",
-    "year": "2026",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260715-1/12dc4ee5ea029c6eb7ba0b75f98d7ee8.jpg",
-    "score": "5.0",
-    "remarks": "第4集完结",
-    "update_time": "2026-08-03 13:08:51"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 141892,
+    "name": "东京三十而已",
+    "type": "日本剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260802-1/fa27b65b43b754d05d22f0314eb491c6.jpg",
+    "score": "7.0",
+    "remarks": "第6集",
+    "update_time": "2026-08-27 22:30:08"
+  },
+  {
     "id": 139463,
     "name": "冷淡同期的溺爱癖",
     "type": "日本剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第7集",
     "update_time": "2026-08-26 19:12:14"
-  },
-  {
-    "id": 142361,
-    "name": "足球教练 第四季",
-    "type": "欧美剧",
-    "category": "剧情,喜剧,运动",
-    "year": "2026",
-    "area": "美国,英国",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/d20e5910f9d1391b00b82733d9f7fd95.jpg",
-    "score": "5.0",
-    "remarks": "第4集",
-    "update_time": "2026-08-26 19:00:06"
   }
 ]
