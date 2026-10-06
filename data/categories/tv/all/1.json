@@ -1,5 +1,17 @@
 [
   {
+    "id": 152235,
+    "name": "狐狸女士 第三季",
+    "type": "欧美剧",
+    "category": "剧情,悬疑,犯罪",
+    "year": "2026",
+    "area": "英国",
+    "poster": "https://dbzy5.com/upload/vod/20261006-1/05c611a54978a12c633326a1cffd259b.webp",
+    "score": "5.0",
+    "remarks": "第1集",
+    "update_time": "2026-10-06 20:31:49"
+  },
+  {
     "id": 148191,
     "name": "双城记2026",
     "type": "欧美剧",
@@ -586,17 +598,5 @@
     "score": "7.0",
     "remarks": "第6集",
     "update_time": "2026-08-27 22:30:08"
-  },
-  {
-    "id": 139463,
-    "name": "冷淡同期的溺爱癖",
-    "type": "日本剧",
-    "category": "剧情,爱情",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260711-1/e3ceca201a347d96f617f490347e506c.jpg",
-    "score": "5.0",
-    "remarks": "第8集完结",
-    "update_time": "2026-08-27 22:15:15"
   }
 ]

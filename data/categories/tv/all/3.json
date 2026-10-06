@@ -1,5 +1,17 @@
 [
   {
+    "id": 142358,
+    "name": "百年孤独 第二季",
+    "type": "海外剧",
+    "category": "剧情,历史,奇幻",
+    "year": "2026",
+    "area": "哥伦比亚",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/7dcedf4965b591ca17ed97df46969514.jpg",
+    "score": "5.0",
+    "remarks": "第8集完结",
+    "update_time": "2026-08-26 18:58:49"
+  },
+  {
     "id": 143539,
     "name": "侠探杰克 第四季",
     "type": "欧美剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第10集",
     "update_time": "2026-08-24 12:21:24"
-  },
-  {
-    "id": 141952,
-    "name": "爱情决胜点",
-    "type": "泰国剧",
-    "category": "剧情,爱情,同性",
-    "year": "2026",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/37852959652f6634e2b18361758769eb.jpg",
-    "score": "5.0",
-    "remarks": "第5集",
-    "update_time": "2026-08-24 12:19:52"
   }
 ]

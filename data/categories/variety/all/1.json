@@ -1,5 +1,17 @@
 [
   {
+    "id": 152234,
+    "name": "天网",
+    "type": "大陆综艺",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261006-1/3ac043e105244623019cb467c0b75668.jpg",
+    "score": "5.0",
+    "remarks": "第4集",
+    "update_time": "2026-10-06 20:25:45"
+  },
+  {
     "id": 151993,
     "name": "遵义三日",
     "type": "大陆综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第4期：陈晓靖说上节目只为争名利，分享权谋必杀技",
     "update_time": "2026-08-26 19:09:21"
-  },
-  {
-    "id": 131120,
-    "name": "文明之旅 第3季",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260506-1/9aaed93aada75c016bb686215a29ec17.jpg",
-    "score": "5.0",
-    "remarks": "第26期",
-    "update_time": "2026-08-26 19:06:05"
   }
 ]

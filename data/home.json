@@ -1,5 +1,53 @@
 [
   {
+    "id": 152237,
+    "name": "联邦调查局 第九季",
+    "type": "动作片",
+    "category": "剧情,犯罪",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20261006-1/256aa1af4e6d80d5d495efefce163211.webp",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-10-06 20:37:51"
+  },
+  {
+    "id": 152236,
+    "name": "中央情报局 第二季",
+    "type": "动作片",
+    "category": "剧情,动作,悬疑,惊悚,犯罪,冒险",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20261006-1/e12e96da7aa46b15838d531244bd6d94.webp",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-10-06 20:35:18"
+  },
+  {
+    "id": 152235,
+    "name": "狐狸女士 第三季",
+    "type": "欧美剧",
+    "category": "剧情,悬疑,犯罪",
+    "year": "2026",
+    "area": "英国",
+    "poster": "https://dbzy5.com/upload/vod/20261006-1/05c611a54978a12c633326a1cffd259b.webp",
+    "score": "5.0",
+    "remarks": "第1集",
+    "update_time": "2026-10-06 20:31:49"
+  },
+  {
+    "id": 152234,
+    "name": "天网",
+    "type": "大陆综艺",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261006-1/3ac043e105244623019cb467c0b75668.jpg",
+    "score": "5.0",
+    "remarks": "第4集",
+    "update_time": "2026-10-06 20:25:45"
+  },
+  {
     "id": 152132,
     "name": "我气哭了百万修仙者",
     "type": "古装仙侠",
@@ -550,53 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-10-04 22:58:56"
-  },
-  {
-    "id": 152050,
-    "name": "兽娘部落，我的商城可购万物",
-    "type": "AI短剧",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261004-1/77f8621ebc1d7af8394824d31161151d.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-04 22:57:47"
-  },
-  {
-    "id": 152049,
-    "name": "替嫁督军府，我反压了活阎王",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261004-1/a28d10ee8ea292c50e05a24b1d93c7ba.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-04 22:56:31"
-  },
-  {
-    "id": 152048,
-    "name": "余生念沐兮",
-    "type": "AI短剧",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261004-1/459694032e76576ce6f0d520b866dbbe.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-04 22:55:20"
-  },
-  {
-    "id": 152047,
-    "name": "我为救校花而死，她重生后倒追我2",
-    "type": "AI短剧",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261004-1/e489ea11d5a77d85120ee6285814c91e.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-04 22:54:13"
   }
 ]

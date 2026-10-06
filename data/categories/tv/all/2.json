@@ -1,5 +1,17 @@
 [
   {
+    "id": 139463,
+    "name": "冷淡同期的溺爱癖",
+    "type": "日本剧",
+    "category": "剧情,爱情",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260711-1/e3ceca201a347d96f617f490347e506c.jpg",
+    "score": "5.0",
+    "remarks": "第8集完结",
+    "update_time": "2026-08-27 22:15:15"
+  },
+  {
     "id": 144344,
     "name": "藏锋 2026",
     "type": "国产剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第4集",
     "update_time": "2026-08-26 19:00:06"
-  },
-  {
-    "id": 142358,
-    "name": "百年孤独 第二季",
-    "type": "海外剧",
-    "category": "剧情,历史,奇幻",
-    "year": "2026",
-    "area": "哥伦比亚",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/7dcedf4965b591ca17ed97df46969514.jpg",
-    "score": "5.0",
-    "remarks": "第8集完结",
-    "update_time": "2026-08-26 18:58:49"
   }
 ]

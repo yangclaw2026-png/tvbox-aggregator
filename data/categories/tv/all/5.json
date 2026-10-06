@@ -1,5 +1,17 @@
 [
   {
+    "id": 138511,
+    "name": "普通的恋爱",
+    "type": "日本剧",
+    "category": "剧情,爱情,同性",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260705-1/de6ed0ddf42b75165d60d9f9ba033056.jpg",
+    "score": "5.0",
+    "remarks": "第8集完结",
+    "update_time": "2026-08-22 13:32:28"
+  },
+  {
     "id": 144400,
     "name": "公主驾到，天才厨子已超神",
     "type": "国产剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第12集",
     "update_time": "2026-08-17 13:55:37"
-  },
-  {
-    "id": 142126,
-    "name": "盲盒 2026",
-    "type": "国产剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/f670795882a7bb606ac85c855807654c.jpg",
-    "score": "5.0",
-    "remarks": "第24集完结",
-    "update_time": "2026-08-17 13:25:21"
   }
 ]

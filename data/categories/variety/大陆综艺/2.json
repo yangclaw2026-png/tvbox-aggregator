@@ -1,5 +1,17 @@
 [
   {
+    "id": 143328,
+    "name": "加油！汪汪",
+    "type": "大陆综艺",
+    "category": "真人秀,闯关节目",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260811-1/5cd534f2df139396efef4f6e0266337a.jpg",
+    "score": "5.0",
+    "remarks": "20260825第3期：猛士决赛！刘涛郑恺战队对决燃起来了",
+    "update_time": "2026-08-25 19:31:40"
+  },
+  {
     "id": 137126,
     "name": "忙忙碌碌寻宝藏2",
     "type": "大陆综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第20260815期",
     "update_time": "2026-08-15 16:29:56"
-  },
-  {
-    "id": 136613,
-    "name": "国医少年志 第三季",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260615-1/dc83ddedc918bb1b5e03db19096c2c61.jpg",
-    "score": "5.0",
-    "remarks": "20260814第10期：国医少年团毕业礼",
-    "update_time": "2026-08-15 12:05:46"
   }
 ]

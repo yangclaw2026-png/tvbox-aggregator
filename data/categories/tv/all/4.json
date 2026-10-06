@@ -1,5 +1,17 @@
 [
   {
+    "id": 141952,
+    "name": "爱情决胜点",
+    "type": "泰国剧",
+    "category": "剧情,爱情,同性",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260803-1/37852959652f6634e2b18361758769eb.jpg",
+    "score": "5.0",
+    "remarks": "第5集",
+    "update_time": "2026-08-24 12:19:52"
+  },
+  {
     "id": 141043,
     "name": "行尸走肉：死亡之城 第三季",
     "type": "欧美剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第6集",
     "update_time": "2026-08-22 13:34:04"
-  },
-  {
-    "id": 138511,
-    "name": "普通的恋爱",
-    "type": "日本剧",
-    "category": "剧情,爱情,同性",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260705-1/de6ed0ddf42b75165d60d9f9ba033056.jpg",
-    "score": "5.0",
-    "remarks": "第8集完结",
-    "update_time": "2026-08-22 13:32:28"
   }
 ]

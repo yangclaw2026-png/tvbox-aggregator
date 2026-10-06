@@ -1,5 +1,29 @@
 [
   {
+    "id": 152237,
+    "name": "联邦调查局 第九季",
+    "type": "动作片",
+    "category": "剧情,犯罪",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20261006-1/256aa1af4e6d80d5d495efefce163211.webp",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-10-06 20:37:51"
+  },
+  {
+    "id": 152236,
+    "name": "中央情报局 第二季",
+    "type": "动作片",
+    "category": "剧情,动作,悬疑,惊悚,犯罪,冒险",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20261006-1/e12e96da7aa46b15838d531244bd6d94.webp",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-10-06 20:35:18"
+  },
+  {
     "id": 151928,
     "name": "庆州纪行",
     "type": "剧情片",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-09-05 17:56:59"
-  },
-  {
-    "id": 148007,
-    "name": "吃了食火鸡",
-    "type": "科幻片",
-    "category": "悬疑,奇幻",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260905-1/e046b3c3e1b0eb95d1f2cc305e06bf93.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-09-05 16:04:47"
-  },
-  {
-    "id": 148012,
-    "name": "我在荒野做了一场梦",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2025",
-    "area": "中国台湾",
-    "poster": "https://dbzy5.com/upload/vod/20260905-1/945e91660bd7e8d457650d2c11c87533.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-09-05 16:03:17"
   }
 ]

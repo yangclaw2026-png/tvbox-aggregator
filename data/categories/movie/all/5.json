@@ -1,5 +1,29 @@
 [
   {
+    "id": 144203,
+    "name": "脑波猎场",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260817-1/bf2da3de2922f219e2d48b009359bc47.webp",
+    "score": "0.0",
+    "remarks": "抢先版",
+    "update_time": "2026-08-17 13:23:04"
+  },
+  {
+    "id": 44573,
+    "name": "四个婚礼和一个葬礼",
+    "type": "喜剧片",
+    "category": "剧情,喜剧,爱情",
+    "year": "1994",
+    "area": "英国",
+    "poster": "https://dbzy5.com/upload/vod/20250108-6/285c962ea3b8271bdf531eb72f3f2e22.jpg",
+    "score": "7.4",
+    "remarks": "正片",
+    "update_time": "2026-08-17 13:12:16"
+  },
+  {
     "id": 144200,
     "name": "伊莲娜",
     "type": "纪录片",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-13 12:19:32"
-  },
-  {
-    "id": 140687,
-    "name": "她个人的地狱",
-    "type": "剧情片",
-    "category": "剧情,惊悚,恐怖",
-    "year": "2026",
-    "area": "丹麦,美国",
-    "poster": "https://dbzy5.com/upload/vod/20260724-1/15de6f8ba55b9ea46cd41a44406208e5.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-13 12:05:03"
-  },
-  {
-    "id": 143559,
-    "name": "我们的老电影",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260812-1/8fc43cab11b1d8253b1ec4ef386efa23.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-12 21:24:53"
   }
 ]

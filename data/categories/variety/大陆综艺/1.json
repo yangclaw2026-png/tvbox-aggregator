@@ -1,5 +1,17 @@
 [
   {
+    "id": 152234,
+    "name": "天网",
+    "type": "大陆综艺",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261006-1/3ac043e105244623019cb467c0b75668.jpg",
+    "score": "5.0",
+    "remarks": "第4集",
+    "update_time": "2026-10-06 20:25:45"
+  },
+  {
     "id": 151993,
     "name": "遵义三日",
     "type": "大陆综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第7集",
     "update_time": "2026-08-25 21:57:38"
-  },
-  {
-    "id": 143328,
-    "name": "加油！汪汪",
-    "type": "大陆综艺",
-    "category": "真人秀,闯关节目",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260811-1/5cd534f2df139396efef4f6e0266337a.jpg",
-    "score": "5.0",
-    "remarks": "20260825第3期：猛士决赛！刘涛郑恺战队对决燃起来了",
-    "update_time": "2026-08-25 19:31:40"
   }
 ]

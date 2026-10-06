@@ -1,5 +1,17 @@
 [
   {
+    "id": 131120,
+    "name": "文明之旅 第3季",
+    "type": "大陆综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260506-1/9aaed93aada75c016bb686215a29ec17.jpg",
+    "score": "5.0",
+    "remarks": "第26期",
+    "update_time": "2026-08-26 19:06:05"
+  },
+  {
     "id": 146047,
     "name": "滚烫夜话",
     "type": "大陆综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "20260823江苏站第1集",
     "update_time": "2026-08-23 18:55:33"
-  },
-  {
-    "id": 145065,
-    "name": "我家那闺女 2026",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260821-1/4a073041f6198071484e2e9dbdf72893.jpg",
-    "score": "5.0",
-    "remarks": "第20260823期特别企划：闺女黄灿灿 BY5 重聚",
-    "update_time": "2026-08-23 18:46:18"
   }
 ]

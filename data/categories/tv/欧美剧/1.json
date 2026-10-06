@@ -1,5 +1,17 @@
 [
   {
+    "id": 152235,
+    "name": "狐狸女士 第三季",
+    "type": "欧美剧",
+    "category": "剧情,悬疑,犯罪",
+    "year": "2026",
+    "area": "英国",
+    "poster": "https://dbzy5.com/upload/vod/20261006-1/05c611a54978a12c633326a1cffd259b.webp",
+    "score": "5.0",
+    "remarks": "第1集",
+    "update_time": "2026-10-06 20:31:49"
+  },
+  {
     "id": 148191,
     "name": "双城记2026",
     "type": "欧美剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第6集完结",
     "update_time": "2026-08-21 11:41:26"
-  },
-  {
-    "id": 145025,
-    "name": "平凡的乔 第二季",
-    "type": "欧美剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260820-1/bba242feb55607fdec8d59b4c3bd61a9.jpg",
-    "score": "5.0",
-    "remarks": "第2集",
-    "update_time": "2026-08-20 23:54:01"
   }
 ]
