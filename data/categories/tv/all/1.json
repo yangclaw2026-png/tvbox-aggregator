@@ -1,5 +1,17 @@
 [
   {
+    "id": 150940,
+    "name": "火线家族",
+    "type": "欧美剧",
+    "category": "剧情,惊悚,犯罪",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260922-1/10cffbaaa480616774d73e4df15df3cc.jpg",
+    "score": "5.0",
+    "remarks": "第3集",
+    "update_time": "2026-10-07 12:28:31"
+  },
+  {
     "id": 152244,
     "name": "皮埃尔",
     "type": "欧美剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第6集",
     "update_time": "2026-08-27 22:58:45"
-  },
-  {
-    "id": 146315,
-    "name": "机场教士",
-    "type": "欧美剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "澳大利亚",
-    "poster": "https://dbzy5.com/upload/vod/20260827-1/101fc06b5df90bb7660ff804cde907db.jpg",
-    "score": "5.0",
-    "remarks": "第8集完结",
-    "update_time": "2026-08-27 22:50:12"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 141188,
+    "name": "亲吻要在搜查后",
+    "type": "日本剧",
+    "category": "剧情,同性",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260728-1/5f98f824dbb07c90a19e0e5c126f794b.jpg",
+    "score": "5.0",
+    "remarks": "第5集",
+    "update_time": "2026-08-24 12:24:13"
+  },
+  {
     "id": 140961,
     "name": "爱情来了",
     "type": "韩剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第10集",
     "update_time": "2026-08-22 13:36:28"
-  },
-  {
-    "id": 138514,
-    "name": "仆人的王子殿下",
-    "type": "日本剧",
-    "category": "爱情,同性",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260705-1/fccd2657a612a23a72719c1824abc783.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-22 13:34:39"
   }
 ]

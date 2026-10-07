@@ -1,5 +1,17 @@
 [
   {
+    "id": 138514,
+    "name": "仆人的王子殿下",
+    "type": "日本剧",
+    "category": "爱情,同性",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260705-1/fccd2657a612a23a72719c1824abc783.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-22 13:34:39"
+  },
+  {
     "id": 140053,
     "name": "爱来了别错过",
     "type": "泰国剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第3集",
     "update_time": "2026-08-17 21:53:00"
-  },
-  {
-    "id": 144247,
-    "name": "医龙",
-    "type": "日本剧",
-    "category": "剧情",
-    "year": "2006",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260817-1/71fb737c3f9da686342f4f5d7bc867b6.webp",
-    "score": "8.9",
-    "remarks": "第11集完结",
-    "update_time": "2026-08-17 14:48:12"
   }
 ]

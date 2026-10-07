@@ -1,5 +1,17 @@
 [
   {
+    "id": 144247,
+    "name": "医龙",
+    "type": "日本剧",
+    "category": "剧情",
+    "year": "2006",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260817-1/71fb737c3f9da686342f4f5d7bc867b6.webp",
+    "score": "8.9",
+    "remarks": "第11集完结",
+    "update_time": "2026-08-17 14:48:12"
+  },
+  {
     "id": 139691,
     "name": "公寓黑风暴",
     "type": "韩剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第4集完结",
     "update_time": "2026-08-08 22:53:41"
-  },
-  {
-    "id": 137176,
-    "name": "想念你",
-    "type": "泰国剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260623-1/9117c0328d8af853c3c8478ed18f0fb7.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-08 18:42:22"
   }
 ]
