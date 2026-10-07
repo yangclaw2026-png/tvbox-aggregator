@@ -109,6 +109,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第07集"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 147845,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第7集"
       }
     ]
   },
@@ -47665,6 +47672,27 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第8集完结"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 169654,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "番外篇3"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 150947,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "番外篇3"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 115291,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "番外篇3"
       }
     ]
   },
