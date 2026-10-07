@@ -1,5 +1,17 @@
 [
   {
+    "id": 2108,
+    "name": "海贼王",
+    "type": "日本动漫",
+    "category": "日本动漫,喜剧,动作,动画,奇幻,冒险",
+    "year": "1999",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20250109-4/8f27c79caa20381c32ce017d9e38db00.jpg",
+    "score": "5.0",
+    "remarks": "第1175集",
+    "update_time": "2026-08-24 11:35:30"
+  },
+  {
     "id": 496,
     "name": "灵武大陆",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第37集完结",
     "update_time": "2026-08-23 11:34:29"
-  },
-  {
-    "id": 183,
-    "name": "名侦探柯南（中配）",
-    "type": "日本动漫",
-    "category": "动作,动画,悬疑,惊悚,犯罪,日本动漫",
-    "year": "1996",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20250109-5/486a904daacf055e12b81e532b5647d0.jpg",
-    "score": "9.2",
-    "remarks": "第1270集",
-    "update_time": "2026-08-22 22:42:11"
   }
 ]

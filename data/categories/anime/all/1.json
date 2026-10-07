@@ -1,5 +1,17 @@
 [
   {
+    "id": 147507,
+    "name": "灵境行者",
+    "type": "国产动漫",
+    "category": "动作,动画,奇幻",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260903-1/07e327c19339f43fd0f2719c8b5bb853.jpg",
+    "score": "5.0",
+    "remarks": "第7集",
+    "update_time": "2026-10-07 19:46:41"
+  },
+  {
     "id": 152298,
     "name": "乱世千金倪亚‧利斯顿转生为娇弱千金的弑神武人华丽无双录",
     "type": "日本动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第36集",
     "update_time": "2026-08-27 17:45:54"
-  },
-  {
-    "id": 145213,
-    "name": "末世洪潮：我有无限空间",
-    "type": "国产动漫",
-    "category": "动画,系统,重生,末世",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260822-1/17d6faf3c6f8f3862fa3510df3b5248a.jpg",
-    "score": "5.0",
-    "remarks": "第68集完结",
-    "update_time": "2026-08-27 17:42:39"
   }
 ]

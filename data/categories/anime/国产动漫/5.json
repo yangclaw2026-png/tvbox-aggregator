@@ -1,5 +1,17 @@
 [
   {
+    "id": 145534,
+    "name": "三千两起家，皇子靠金融革新",
+    "type": "国产动漫",
+    "category": "动画,权谋,经济",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260824-1/56c6948aac4ca1302802f3e50a059f72.jpg",
+    "score": "5.0",
+    "remarks": "第46集",
+    "update_time": "2026-08-24 11:30:51"
+  },
+  {
     "id": 140203,
     "name": "万古至尊：李云霄传",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第8集",
     "update_time": "2026-08-22 11:53:11"
-  },
-  {
-    "id": 138714,
-    "name": "异狱暴君：我的影子能无限进化",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2025",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260706-1/fd1667c67d69accc266882d87f8243f3.jpg",
-    "score": "5.0",
-    "remarks": "第231集",
-    "update_time": "2026-08-22 11:51:10"
   }
 ]

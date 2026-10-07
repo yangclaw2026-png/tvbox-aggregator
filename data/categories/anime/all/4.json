@@ -1,5 +1,17 @@
 [
   {
+    "id": 145958,
+    "name": "永夜之王",
+    "type": "国产动漫",
+    "category": "剧情,动作,动画,奇幻",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260826-1/134a15bc4997ef8e080cf469f40b5dab.jpg",
+    "score": "5.0",
+    "remarks": "第4集",
+    "update_time": "2026-08-26 13:19:07"
+  },
+  {
     "id": 633,
     "name": "师兄啊师兄",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "第76集",
     "update_time": "2026-08-25 13:06:20"
-  },
-  {
-    "id": 145708,
-    "name": "我成了S级收容物",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260825-1/56eef66e3176ea064e805a5667379e63.jpg",
-    "score": "5.0",
-    "remarks": "第60集完结",
-    "update_time": "2026-08-25 12:53:07"
   }
 ]

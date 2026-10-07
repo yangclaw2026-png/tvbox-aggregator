@@ -1,5 +1,17 @@
 [
   {
+    "id": 145708,
+    "name": "我成了S级收容物",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260825-1/56eef66e3176ea064e805a5667379e63.jpg",
+    "score": "5.0",
+    "remarks": "第60集完结",
+    "update_time": "2026-08-25 12:53:07"
+  },
+  {
     "id": 145707,
     "name": "象牙塔的碎碎集",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第29集",
     "update_time": "2026-08-24 11:35:41"
-  },
-  {
-    "id": 2108,
-    "name": "海贼王",
-    "type": "日本动漫",
-    "category": "日本动漫,喜剧,动作,动画,奇幻,冒险",
-    "year": "1999",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20250109-4/8f27c79caa20381c32ce017d9e38db00.jpg",
-    "score": "5.0",
-    "remarks": "第1175集",
-    "update_time": "2026-08-24 11:35:30"
   }
 ]
