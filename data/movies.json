@@ -1011,6 +1011,27 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第6集完结"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 220557,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第6集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 196432,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第6集完结"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 161046,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第6集完结"
       }
     ]
   },
@@ -5528,6 +5549,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第2集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 163331,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第4集"
       }
     ]
   },
@@ -8941,6 +8969,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第3集"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 160308,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
