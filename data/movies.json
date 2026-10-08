@@ -1,5 +1,64 @@
 [
   {
+    "id": 148992,
+    "name": "我要看见你",
+    "type": "国产剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "language": "汉语普通话",
+    "category": "剧情",
+    "poster": "https://dbzy5.com/upload/vod/20260910-1/c4e7d15587e2b80f593f39be512e8e7e.jpg",
+    "douban_id": 38634127,
+    "score": "5.0",
+    "remarks": "第7集",
+    "content": "<p>暂无简介</p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01集$https://vodcnd17.ajupf.com/20260914/TEMKkpCT/index.m3u8#第02集$https://vodcnd17.ajupf.com/20260914/lhLsv0xk/index.m3u8#第03集$https://vodcnd17.ajupf.com/20260914/iNal7HRz/index.m3u8#第04集$https://vodcnd16.ajupf.com/20260917/D7MwCLvD/index.m3u8#第05集$https://vodcnd16.ajupf.com/20260924/TyDbvAuX/index.m3u8#第06集$https://vodcnd16.ajupf.com/20261008/A9vj7ZIZ/index.m3u8#第07集$https://vodcnd16.ajupf.com/20261008/HTyJUVxR/index.m3u8$$$第01集$https://vodcnd17.ajupf.com/share/4CM764QEoc#第02集$https://vodcnd17.ajupf.com/share/2D68qNJ5t6#第03集$https://vodcnd17.ajupf.com/share/xx3yDWI4sv#第04集$https://vodcnd16.ajupf.com/share/dQ2DKC8eRi#第05集$https://vodcnd16.ajupf.com/share/1tlKgemVAU#第06集$https://vodcnd16.ajupf.com/share/FxaiNkwQOo#第07集$https://vodcnd16.ajupf.com/share/eY1UMhjfDa",
+    "update_time": "2026-10-08 23:04:43",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 149324,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第7集"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 155646,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "更新至07集"
+      }
+    ]
+  },
+  {
+    "id": 150355,
+    "name": "幸福伽菜子的快乐杀手生活 第二季",
+    "type": "日本剧",
+    "year": "2026",
+    "area": "日本",
+    "language": "日语",
+    "category": "剧情,喜剧,动作",
+    "poster": "https://dbzy5.com/upload/vod/20260918-1/480f4910aaa2e70a0bdb1162468916cd.jpg",
+    "douban_id": 37296349,
+    "score": "8.5",
+    "remarks": "第5集完结",
+    "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">伽菜子（能年玲奈 饰）因无法忍受上司的霸凌而从黑心企业离职，之后被优厚的待遇所吸引，进入了杀手公司。她在杀人这件事上犹豫的同时，其隐藏的才能开始涌现，从而成长为厉害杀手的喜剧故事。在第二季中，代表伽菜子内心独白的可爱动物们也悉数登场，其中还有一些第一季中未曾出现的新动物身影。</span></p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01集$https://vodcnd16.ajupf.com/20260918/nq6hgaXY/index.m3u8#第02集$https://vodcnd16.ajupf.com/20260918/V2QAlPHw/index.m3u8#第03集$https://vodcnd16.ajupf.com/20260924/3YnCUfLD/index.m3u8#第04集$https://vodcnd17.ajupf.com/20261001/4SQjQfnm/index.m3u8#第05集$https://vodcnd16.ajupf.com/20261008/i4xshuvY/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/HpW2c09Dlg#第02集$https://vodcnd16.ajupf.com/share/fsgQnVicdT#第03集$https://vodcnd16.ajupf.com/share/GSYgDsNGlo#第04集$https://vodcnd17.ajupf.com/share/Zq2y4J3aVW#第05集$https://vodcnd16.ajupf.com/share/xREV7HstFN",
+    "update_time": "2026-10-08 23:02:57",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 150681,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第5集完结"
+      }
+    ]
+  },
+  {
     "id": 152375,
     "name": "2026安徽省城市篮球联赛季后赛第二轮全场回放：亳州vs滁州",
     "type": "篮球",
@@ -2949,6 +3008,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第15集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 164690,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "完结"
       }
     ]
   },
@@ -8976,6 +9042,13 @@
         "play_from": "lzm3u8",
         "play_url": null,
         "remarks": "已完结"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 163329,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第6集"
       }
     ]
   },
@@ -131045,39 +131118,5 @@
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260530/UGvTPBLg/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/agdF47at5f",
     "update_time": "2026-08-02 22:25:32"
-  },
-  {
-    "id": 136699,
-    "name": "一朝觉醒，回家过年",
-    "type": "现代都市",
-    "year": "2026",
-    "area": "中国大陆",
-    "language": "汉语普通话",
-    "category": "短剧",
-    "poster": "https://dbzy5.com/upload/vod/20260615-1/6c88fbd4b71aebd492f36ce06c860f28.jpg",
-    "douban_id": 0,
-    "score": "0.0",
-    "remarks": "全集完结",
-    "content": "<p><span style=\"color: #222222; font-family: -apple-system, BlinkMacSystemFont, \">大年三十，赘婿刘牧忙前忙后为岳父母一家做团圆饭，但饭桌上竟遭到一家人轻视，小舅子嘲笑刘牧没本事，岳父母发红包区别对待，甚至不让上桌吃饭，忍无可忍的刘牧掀翻一桌子团圆饭，决定离家出走，一家人见此不屑一顾，殊不知刘牧的真实身份是首富之子，最后一家人追悔莫及。</span></p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "全集完结$https://vodcnd15.ajupf.com/20260530/kut4BiHa/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/KnHywkdkPq",
-    "update_time": "2026-08-02 22:24:39"
-  },
-  {
-    "id": 136696,
-    "name": "穿越之丧彪楚迟后娘记",
-    "type": "古装仙侠",
-    "year": "2026",
-    "area": "中国大陆",
-    "language": "汉语普通话",
-    "category": "短剧",
-    "poster": "https://dbzy5.com/upload/vod/20260615-1/282eb238cbef073c0db3b0b0b0bdf569.jpg",
-    "douban_id": 0,
-    "score": "0.0",
-    "remarks": "全集完结",
-    "content": "<p><span style=\"color: #222222; font-family: -apple-system, BlinkMacSystemFont, \">末世丧尸楚迟为救一只人类幼崽，穿越到了古代，丧尸穿越后该干点啥？楚迟扛着新长出来的脑子想了半天，无果。一觉起来，喜提两只人类小幼崽，从此开启了爆笑日常。从手忙脚乱到温馨治愈，她用欢声笑语在书写属于自己的精彩人生。</span></p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "全集完结$https://vodcnd15.ajupf.com/20260530/Rp8RFMnc/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/F99HVRBlfB",
-    "update_time": "2026-08-02 22:22:55"
   }
 ]

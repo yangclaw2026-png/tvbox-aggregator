@@ -1,5 +1,17 @@
 [
   {
+    "id": 150355,
+    "name": "幸福伽菜子的快乐杀手生活 第二季",
+    "type": "日本剧",
+    "category": "剧情,喜剧,动作",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260918-1/480f4910aaa2e70a0bdb1162468916cd.jpg",
+    "score": "8.5",
+    "remarks": "第5集完结",
+    "update_time": "2026-10-08 23:02:57"
+  },
+  {
     "id": 151087,
     "name": "今天也不知悔改的我们",
     "type": "日本剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第3集",
     "update_time": "2026-08-18 14:51:12"
-  },
-  {
-    "id": 138173,
-    "name": "在勿忘草盛开的城镇 ～安昙野诊疗记～",
-    "type": "日本剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260702-1/b59abe573883678ca75110257a0a47be.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-17 22:51:38"
   }
 ]

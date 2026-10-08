@@ -1,5 +1,29 @@
 [
   {
+    "id": 144211,
+    "name": "寄生游戏 第一季 国语版",
+    "type": "欧美剧",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260817-1/f7ba13842f0203e9d818463368c6c0bb.webp",
+    "score": "0.0",
+    "remarks": "第2集",
+    "update_time": "2026-08-17 22:43:30"
+  },
+  {
+    "id": 141881,
+    "name": "风向中",
+    "type": "韩剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "韩国",
+    "poster": "https://dbzy5.com/upload/vod/20260802-1/6e8c14c79b415f3d3116671d00815641.jpg",
+    "score": "5.0",
+    "remarks": "第3集",
+    "update_time": "2026-08-17 21:53:00"
+  },
+  {
     "id": 144247,
     "name": "医龙",
     "type": "日本剧",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第14集完结",
     "update_time": "2026-08-09 12:53:41"
-  },
-  {
-    "id": 141604,
-    "name": "长夜如歌",
-    "type": "国产剧",
-    "category": "剧情,爱情,短片,古装",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/00df5f3f6bf3c93c8dfea12695402c8c.jpg",
-    "score": "5.0",
-    "remarks": "第24集完结",
-    "update_time": "2026-08-09 11:20:11"
-  },
-  {
-    "id": 142868,
-    "name": "少年魔法师：后继者 第三季",
-    "type": "欧美剧",
-    "category": "剧情 ， 喜剧 ，奇幻",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260808-1/4d67f6bb7addefe6fe81101bfb33465c.jpg",
-    "score": "5.0",
-    "remarks": "第4集完结",
-    "update_time": "2026-08-08 22:53:41"
   }
 ]

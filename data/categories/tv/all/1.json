@@ -1,5 +1,29 @@
 [
   {
+    "id": 148992,
+    "name": "我要看见你",
+    "type": "国产剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260910-1/c4e7d15587e2b80f593f39be512e8e7e.jpg",
+    "score": "5.0",
+    "remarks": "第7集",
+    "update_time": "2026-10-08 23:04:43"
+  },
+  {
+    "id": 150355,
+    "name": "幸福伽菜子的快乐杀手生活 第二季",
+    "type": "日本剧",
+    "category": "剧情,喜剧,动作",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260918-1/480f4910aaa2e70a0bdb1162468916cd.jpg",
+    "score": "8.5",
+    "remarks": "第5集完结",
+    "update_time": "2026-10-08 23:02:57"
+  },
+  {
     "id": 150940,
     "name": "火线家族",
     "type": "欧美剧",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第18集",
     "update_time": "2026-08-27 23:11:46"
-  },
-  {
-    "id": 142272,
-    "name": "图书馆员：下一章 第二季",
-    "type": "欧美剧",
-    "category": "奇幻",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/94e16afbe722b7549cbae5fb8d728886.jpg",
-    "score": "5.0",
-    "remarks": "第7集",
-    "update_time": "2026-08-27 23:02:53"
-  },
-  {
-    "id": 140682,
-    "name": "大空港～GATE24～",
-    "type": "欧美剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260724-1/b4f1f380f31368006b60f2b5543766e1.jpg",
-    "score": "5.0",
-    "remarks": "第6集",
-    "update_time": "2026-08-27 22:58:45"
   }
 ]

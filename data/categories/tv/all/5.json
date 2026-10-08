@@ -1,5 +1,29 @@
 [
   {
+    "id": 139468,
+    "name": "晚酌的流派5：夏篇",
+    "type": "日本剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260711-1/a72a81af4011660708821f33dc90e076.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-22 13:39:58"
+  },
+  {
+    "id": 137175,
+    "name": "绘梦婚礼",
+    "type": "泰国剧",
+    "category": "剧情,爱情,同性",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260623-1/862242974d4f79515819055e0c7c7a50.jpg",
+    "score": "5.0",
+    "remarks": "第10集",
+    "update_time": "2026-08-22 13:36:28"
+  },
+  {
     "id": 138514,
     "name": "仆人的王子殿下",
     "type": "日本剧",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第8集",
     "update_time": "2026-08-17 22:51:38"
-  },
-  {
-    "id": 144211,
-    "name": "寄生游戏 第一季 国语版",
-    "type": "欧美剧",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260817-1/f7ba13842f0203e9d818463368c6c0bb.webp",
-    "score": "0.0",
-    "remarks": "第2集",
-    "update_time": "2026-08-17 22:43:30"
-  },
-  {
-    "id": 141881,
-    "name": "风向中",
-    "type": "韩剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "韩国",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/6e8c14c79b415f3d3116671d00815641.jpg",
-    "score": "5.0",
-    "remarks": "第3集",
-    "update_time": "2026-08-17 21:53:00"
   }
 ]

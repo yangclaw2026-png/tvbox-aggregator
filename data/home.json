@@ -1,5 +1,29 @@
 [
   {
+    "id": 148992,
+    "name": "我要看见你",
+    "type": "国产剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260910-1/c4e7d15587e2b80f593f39be512e8e7e.jpg",
+    "score": "5.0",
+    "remarks": "第7集",
+    "update_time": "2026-10-08 23:04:43"
+  },
+  {
+    "id": 150355,
+    "name": "幸福伽菜子的快乐杀手生活 第二季",
+    "type": "日本剧",
+    "category": "剧情,喜剧,动作",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260918-1/480f4910aaa2e70a0bdb1162468916cd.jpg",
+    "score": "8.5",
+    "remarks": "第5集完结",
+    "update_time": "2026-10-08 23:02:57"
+  },
+  {
     "id": 152375,
     "name": "2026安徽省城市篮球联赛季后赛第二轮全场回放：亳州vs滁州",
     "type": "篮球",
@@ -574,29 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-10-06 22:05:34"
-  },
-  {
-    "id": 152250,
-    "name": "他们修仙我修命",
-    "type": "AI短剧",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261006-1/629bbff8652d4b679da83d1f515b8b16.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-06 22:04:10"
-  },
-  {
-    "id": 152249,
-    "name": "落入深海遇见你",
-    "type": "AI短剧",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261006-1/e4053e511e614a00a1316cbd7df02848.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-06 22:01:38"
   }
 ]

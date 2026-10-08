@@ -1,5 +1,29 @@
 [
   {
+    "id": 141604,
+    "name": "长夜如歌",
+    "type": "国产剧",
+    "category": "剧情,爱情,短片,古装",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260731-1/00df5f3f6bf3c93c8dfea12695402c8c.jpg",
+    "score": "5.0",
+    "remarks": "第24集完结",
+    "update_time": "2026-08-09 11:20:11"
+  },
+  {
+    "id": 142868,
+    "name": "少年魔法师：后继者 第三季",
+    "type": "欧美剧",
+    "category": "剧情 ， 喜剧 ，奇幻",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260808-1/4d67f6bb7addefe6fe81101bfb33465c.jpg",
+    "score": "5.0",
+    "remarks": "第4集完结",
+    "update_time": "2026-08-08 22:53:41"
+  },
+  {
     "id": 137176,
     "name": "想念你",
     "type": "泰国剧",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第15集",
     "update_time": "2026-08-03 16:35:20"
-  },
-  {
-    "id": 140675,
-    "name": "凤池生春",
-    "type": "国产剧",
-    "category": "剧情,爱情,古装",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260724-1/c4b33f571930e79acc426e6de212d3ce.jpg",
-    "score": "5.0",
-    "remarks": "第21集完结",
-    "update_time": "2026-08-03 16:34:11"
-  },
-  {
-    "id": 136336,
-    "name": "地球·劫后重生",
-    "type": "欧美剧",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260613-1/07b1e88329ee1c437b1d3db061023ce2.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-03 16:32:00"
   }
 ]
