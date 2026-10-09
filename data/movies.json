@@ -2804,6 +2804,34 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第6集"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 216979,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第7集"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 192855,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第7集"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 154529,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至第07集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 159955,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第7集"
       }
     ]
   },
