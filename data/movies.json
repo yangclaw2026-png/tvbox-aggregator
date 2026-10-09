@@ -1,5 +1,91 @@
 [
   {
+    "id": 152697,
+    "name": "骑士情缘",
+    "type": "动作片",
+    "year": "2026",
+    "area": "美国",
+    "language": "英语",
+    "category": "",
+    "poster": "https://dbzy5.com/upload/vod/20261009-1/21a70b95c953cd7e1cd308520d19b304.webp",
+    "douban_id": 38916592,
+    "score": "5.0",
+    "remarks": "正片",
+    "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">　A statue of an English knight arrives in Chicago for an art exhibit. While cleaning the statue, museum conservator Emily impulsively kisses the statue, bringing him to life.</span></p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "$$$",
+    "update_time": "2026-10-09 23:16:02"
+  },
+  {
+    "id": 152696,
+    "name": "夺命医生：莎拉·哈里斯的故事",
+    "type": "动作片",
+    "year": "2026",
+    "area": "美国",
+    "language": "英语",
+    "category": "",
+    "poster": "https://dbzy5.com/upload/vod/20261009-1/66b7ce0fdc6c67475da5799f9949313f.webp",
+    "douban_id": 38916591,
+    "score": "5.0",
+    "remarks": "正片",
+    "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">As Dr. Ryan secretly supplies her with surgical-grade drugs to keep her compliant and submissive, Sarah&#39;s life spirals. When tragedy hits, Sarah&#39;s mother and sister begin investigating the doctor, uncovering shocking and disturbing truths.</span></p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "$$$",
+    "update_time": "2026-10-09 23:14:07",
+    "play_sources": [
+      {
+        "source": "暴风资源",
+        "source_id": 166969,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至HD"
+      }
+    ]
+  },
+  {
+    "id": 152695,
+    "name": "人生交换",
+    "type": "日本剧",
+    "year": "2026",
+    "area": "日本",
+    "language": "日语",
+    "category": "",
+    "poster": "https://dbzy5.com/upload/vod/20261009-1/66c0f763cc483b799c40fbc79119b7aa.webp",
+    "douban_id": 38630282,
+    "score": "5.0",
+    "remarks": "第1集",
+    "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">故事讲述因屡次与客人发生纠纷而被解雇、流落街头的陪酒女杏子，与身处富裕家庭却长期饱受丈夫精神控制及叛逆期女儿冷眼的全职主妇玲，在一个雷雨夜遭遇雷击后互换灵魂。两人在暗中维系对方身份的同时，意外使各自跌入谷底的生活迎来转机，进而展开一段交织着秘密、困境与彼此扶持的奇幻人生互换之旅。</span></p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01集$https://vodcnd17.ajupf.com/20261009/WfZSWi6A/index.m3u8$$$第01集$https://vodcnd17.ajupf.com/share/cYpaOfOUIy",
+    "update_time": "2026-10-09 23:11:21",
+    "play_sources": [
+      {
+        "source": "量子资源",
+        "source_id": 160533,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至第01集"
+      }
+    ]
+  },
+  {
+    "id": 152693,
+    "name": "特种部队：终极考验 第五季",
+    "type": "欧美综艺",
+    "year": "2026",
+    "area": "美国",
+    "language": "英语",
+    "category": "真人秀",
+    "poster": "https://dbzy5.com/upload/vod/20261009-1/b2102d8993eb54ce46e66ac6a52b5ba3.webp",
+    "douban_id": 38593486,
+    "score": "5.0",
+    "remarks": "第3集",
+    "content": "",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01集$https://vodcnd16.ajupf.com/20261009/rboilIeO/index.m3u8#第02集$https://vodcnd16.ajupf.com/20261009/pXpZbfZl/index.m3u8#第03集$https://vodcnd16.ajupf.com/20261009/TP7h7LwJ/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/J9XIVkxvxC#第02集$https://vodcnd16.ajupf.com/share/J9iO62UsWq#第03集$https://vodcnd16.ajupf.com/share/SDGcuhUwP6",
+    "update_time": "2026-10-09 22:54:05"
+  },
+  {
     "id": 152684,
     "name": "闹鬼酒店 第二季",
     "type": "欧美动漫",
@@ -69,6 +155,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第5集"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 160532,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
@@ -131295,73 +131388,5 @@
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "正片$https://vodcnd16.ajupf.com/20260728/EloT6X5Y/index.m3u8#$$$正片$https://vodcnd16.ajupf.com/share/exMGJn2Xpr",
     "update_time": "2026-08-02 22:36:43"
-  },
-  {
-    "id": 141939,
-    "name": "抱歉打扰",
-    "type": "喜剧片",
-    "year": "2018",
-    "area": "美国",
-    "language": "英语",
-    "category": "喜剧,奇幻",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/75a827d602afe5087e8c9b70eeabbe83.jpg",
-    "douban_id": 27071217,
-    "score": "7.0",
-    "remarks": "正片",
-    "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">卡修斯（勒凯斯·斯坦菲尔德 Lakeith Stanfield 饰）是一名落魄但自尊心非常强的青年，他住在叔叔的车库里，从事着毫无前途的电话销售的工作，还拖欠了四个月的房租，前途可谓是一片灰暗。</span><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">在同事的点拨之下，卡修斯发现了提升业绩的小妙招，那就是将自己的声音伪装成白人，这让他在公司的境遇稍微好了那么一点。同事们因为种族歧视和寒碜的薪资待遇发起了罢工运动，虽然卡修斯在精神上表示支持同胞们的反抗，但实际上他更在乎的是能否利用这次机会升官发财。最终，卡修斯获得了晋升的机会，将那些反叛的同事们远远甩在身后，但随着职位的升高，他亦触摸到了公司里黑暗的秘密核心。</span></p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "正片$https://vodcnd16.ajupf.com/20260728/4uiFiPLp/index.m3u8$$$正片$https://vodcnd16.ajupf.com/share/yoGIsskJI2",
-    "update_time": "2026-08-02 22:35:23"
-  },
-  {
-    "id": 141777,
-    "name": "商先生，婚后请热恋",
-    "type": "现代都市",
-    "year": "2026",
-    "area": "中国大陆",
-    "language": "汉语普通话",
-    "category": "短剧",
-    "poster": "https://dbzy5.com/upload/vod/20260801-1/7a6ef28eecea6b19a560eb1a78fc53dc.jpg",
-    "douban_id": 0,
-    "score": "0.0",
-    "remarks": "全集完结",
-    "content": "<p><span style=\"color: #666666; font-family: Arial, sans-serif; font-size: 18px; background-color: #FFFFFF;\">先婚后爱也能甜掉牙？商界精英商先生与平凡女孩缔结契约婚姻，原本冰冷的联姻却在朝夕相处中升温。这部都市霸总短剧由AI精心制作，展现高冷总裁逐渐沦陷的宠妻日常。没有勾心斗角，只有双向奔赴的甜蜜互动。从客套疏离到深情告白，每个细节都戳中少女心，堪称教科书式甜宠典范，让你全程姨母笑不停。</span></p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "全集完结$https://vodcnd16.ajupf.com/20260717/rJOdFGSN/index.m3u8$$$全集完结$https://vodcnd16.ajupf.com/share/QrBIIognUl",
-    "update_time": "2026-08-02 22:32:12"
-  },
-  {
-    "id": 141938,
-    "name": "恶魔圣地",
-    "type": "恐怖片",
-    "year": "2019",
-    "area": "菲律宾",
-    "language": "菲律宾语,他加禄语",
-    "category": "恐怖",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/c98a314783cdf65df84f926bb568d164.jpg",
-    "douban_id": 35254069,
-    "score": "5.0",
-    "remarks": "正片",
-    "content": "<p>一群朋友在暑假期间徒步前往一座圣山，却遭遇了邪恶势力的袭击。</p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "正片$https://vodcnd16.ajupf.com/20260724/CqGj6hgr/index.m3u8#$$$正片$https://vodcnd16.ajupf.com/share/aLpTcJoUM4#",
-    "update_time": "2026-08-02 22:29:46"
-  },
-  {
-    "id": 136702,
-    "name": "皓首问道，我以仙葫求长生！",
-    "type": "古装仙侠",
-    "year": "2026",
-    "area": "中国大陆",
-    "language": "汉语普通话",
-    "category": "短剧",
-    "poster": "https://dbzy5.com/upload/vod/20260615-1/9ba2e5b3c30588ff95a9d451c8974a49.jpg",
-    "douban_id": 0,
-    "score": "0.0",
-    "remarks": "全集完结",
-    "content": "<p><span style=\"color: #222222; font-family: -apple-system, BlinkMacSystemFont, \">百岁寿辰，检测出万载难逢的天灵根！穿越者李青山蹉跎百年，行将就木之际，却因孙女的机缘踏入仙途。那枚来历不明的黄皮葫芦，成了一口能变废为宝的如意仙葫，《长春功》变成一门逆天改命的《长生诀》废丹变成极品灵丹，李青山从春秋门废宝殿看守到九转金丹大成，从被妻子抛弃的凡人到五行宗客卿长老，更是逆转年华，再次获得青春。</span></p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "全集完结$https://vodcnd15.ajupf.com/20260530/VaCYqWwi/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/f2ANPDOR5h",
-    "update_time": "2026-08-02 22:27:39"
   }
 ]

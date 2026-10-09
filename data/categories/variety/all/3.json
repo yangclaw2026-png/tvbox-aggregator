@@ -1,5 +1,17 @@
 [
   {
+    "id": 145435,
+    "name": "亚当雷秀",
+    "type": "欧美综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260823-1/12e62f910dc1447b433166ac9b8c77cf.jpg",
+    "score": "5.0",
+    "remarks": "第13集完结",
+    "update_time": "2026-08-23 19:19:58"
+  },
+  {
     "id": 141896,
     "name": "家乡美食大赛",
     "type": "大陆综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第20260816期特别加更",
     "update_time": "2026-08-16 17:07:25"
-  },
-  {
-    "id": 112491,
-    "name": "了不起的少年",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2025",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20251115-1/ce8e207867949721d57aaba2dba11fc5.jpg",
-    "score": "5.0",
-    "remarks": "20260816第12期走进河南光山",
-    "update_time": "2026-08-16 16:19:57"
   }
 ]

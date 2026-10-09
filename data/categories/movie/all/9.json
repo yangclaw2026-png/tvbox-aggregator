@@ -1,5 +1,29 @@
 [
   {
+    "id": 134263,
+    "name": "冰雪坏皇后",
+    "type": "动漫电影",
+    "category": "动画",
+    "year": "2026",
+    "area": "挪威",
+    "poster": "https://dbzy5.com/upload/vod/20260601-1/aba5370e3ea79b7f04b0c4fa3c60def5.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-04 19:56:35"
+  },
+  {
+    "id": 141347,
+    "name": "爱上自恋者",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2025",
+    "area": "英国",
+    "poster": "https://dbzy5.com/upload/vod/20260728-1/7be119da851b70f1d9f2d80b753f910b.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-04 19:54:32"
+  },
+  {
     "id": 142128,
     "name": "科德是我的初恋",
     "type": "剧情片",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-03 16:57:17"
-  },
-  {
-    "id": 142006,
-    "name": "橙色礼服的女孩",
-    "type": "喜剧片",
-    "category": "喜剧,爱情",
-    "year": "2019",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/8792b4b8765f3b6508576cde15027d63.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-03 16:56:12"
-  },
-  {
-    "id": 142007,
-    "name": "谍网女金刚",
-    "type": "剧情片",
-    "category": "剧情,动作,爱情,惊悚,犯罪",
-    "year": "1975",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/9376c9779030052d53eabccba2d8724c.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-03 16:55:12"
   }
 ]

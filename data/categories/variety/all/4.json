@@ -1,5 +1,17 @@
 [
   {
+    "id": 112491,
+    "name": "了不起的少年",
+    "type": "大陆综艺",
+    "category": "真人秀",
+    "year": "2025",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20251115-1/ce8e207867949721d57aaba2dba11fc5.jpg",
+    "score": "5.0",
+    "remarks": "20260816第12期走进河南光山",
+    "update_time": "2026-08-16 16:19:57"
+  },
+  {
     "id": 57057,
     "name": "认识的哥哥",
     "type": "日韩综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-05 12:50:29"
-  },
-  {
-    "id": 142270,
-    "name": "鸡尾酒实验室",
-    "type": "欧美综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/22a7d89a8e4c6dad8c4c5b33bd301be3.jpg",
-    "score": "5.0",
-    "remarks": "第10集完结",
-    "update_time": "2026-08-05 11:25:39"
   }
 ]

@@ -1,5 +1,29 @@
 [
   {
+    "id": 152697,
+    "name": "骑士情缘",
+    "type": "动作片",
+    "category": "",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20261009-1/21a70b95c953cd7e1cd308520d19b304.webp",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-10-09 23:16:02"
+  },
+  {
+    "id": 152696,
+    "name": "夺命医生：莎拉·哈里斯的故事",
+    "type": "动作片",
+    "category": "",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20261009-1/66b7ce0fdc6c67475da5799f9949313f.webp",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-10-09 23:14:07"
+  },
+  {
     "id": 152237,
     "name": "联邦调查局 第九季",
     "type": "动作片",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "5集全",
     "update_time": "2026-09-05 22:14:52"
-  },
-  {
-    "id": 148083,
-    "name": "“我们的长征路”《2026开学第一课》",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260905-1/c30e51e8cc0f900ebf59b37e805ccb0b.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-09-05 22:12:25"
-  },
-  {
-    "id": 148031,
-    "name": "童年阴影：幸存者的声音",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2024",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260905-1/1529628e050a92c901c2948e965d5dfe.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-09-05 17:56:59"
   }
 ]

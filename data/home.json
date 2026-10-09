@@ -1,5 +1,53 @@
 [
   {
+    "id": 152697,
+    "name": "骑士情缘",
+    "type": "动作片",
+    "category": "",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20261009-1/21a70b95c953cd7e1cd308520d19b304.webp",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-10-09 23:16:02"
+  },
+  {
+    "id": 152696,
+    "name": "夺命医生：莎拉·哈里斯的故事",
+    "type": "动作片",
+    "category": "",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20261009-1/66b7ce0fdc6c67475da5799f9949313f.webp",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-10-09 23:14:07"
+  },
+  {
+    "id": 152695,
+    "name": "人生交换",
+    "type": "日本剧",
+    "category": "",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20261009-1/66c0f763cc483b799c40fbc79119b7aa.webp",
+    "score": "5.0",
+    "remarks": "第1集",
+    "update_time": "2026-10-09 23:11:21"
+  },
+  {
+    "id": 152693,
+    "name": "特种部队：终极考验 第五季",
+    "type": "欧美综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20261009-1/b2102d8993eb54ce46e66ac6a52b5ba3.webp",
+    "score": "5.0",
+    "remarks": "第3集",
+    "update_time": "2026-10-09 22:54:05"
+  },
+  {
     "id": 152684,
     "name": "闹鬼酒店 第二季",
     "type": "欧美动漫",
@@ -550,53 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-10-06 22:14:09"
-  },
-  {
-    "id": 152256,
-    "name": "偷听古董心声，我废品站赢麻了",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261006-1/0b31d3675f31a31d52051f542bfc125e.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-06 22:12:53"
-  },
-  {
-    "id": 152255,
-    "name": "买房见人心",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261006-1/f5369cae3b2ffb3dca775eaf4066c86c.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-06 22:11:57"
-  },
-  {
-    "id": 152254,
-    "name": "致浅浅的小时光第四季",
-    "type": "AI短剧",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261006-1/19074f9f32b6f5e54c0aab0ed0f9a3f3.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-06 22:10:01"
-  },
-  {
-    "id": 152253,
-    "name": "至尊临凡",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261006-1/568a1ed83b291d541f696f30de6757ac.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-06 22:08:31"
   }
 ]

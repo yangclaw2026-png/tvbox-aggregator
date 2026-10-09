@@ -1,5 +1,29 @@
 [
   {
+    "id": 141253,
+    "name": "刺客列传",
+    "type": "纪录片",
+    "category": "纪录片,历史,人物",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260728-1/2bebe5a536c0e666bc43c7d6f7942553.jpg",
+    "score": "5.0",
+    "remarks": "第5集完结",
+    "update_time": "2026-08-25 20:54:30"
+  },
+  {
+    "id": 145863,
+    "name": "攀登",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "中国台湾",
+    "poster": "https://dbzy5.com/upload/vod/20260825-1/9e6d66c7d18bd3afd762c09f0f0b06ad.jpg",
+    "score": "5.0",
+    "remarks": "第3集完结",
+    "update_time": "2026-08-25 20:46:09"
+  },
+  {
     "id": 145738,
     "name": "千门八将之群龙夺宝",
     "type": "剧情片",
@@ -574,29 +598,5 @@
     "score": "6.9",
     "remarks": "正片",
     "update_time": "2026-08-21 19:45:48"
-  },
-  {
-    "id": 145148,
-    "name": "鬼妻爱狠多",
-    "type": "喜剧片",
-    "category": "喜剧 ， 爱情 ， 恐怖",
-    "year": "2025",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260821-1/a9004f2a03d545c735c2a43cd9cf7100.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-21 19:41:44"
-  },
-  {
-    "id": 145115,
-    "name": "救赎 2026",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2026",
-    "area": "土耳其,法国,荷兰,希腊,瑞典,沙特阿拉",
-    "poster": "https://dbzy5.com/upload/vod/20260821-1/58c2a08b6ea3dba4402999bb2816f1c8.jpg",
-    "score": "6.5",
-    "remarks": "正片",
-    "update_time": "2026-08-21 19:14:57"
   }
 ]

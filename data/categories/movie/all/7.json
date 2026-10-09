@@ -1,5 +1,29 @@
 [
   {
+    "id": 142795,
+    "name": "猎虎贰",
+    "type": "动作片",
+    "category": "犯罪,动作",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260808-1/70e1523b18dceee2be603efbdec4b74f.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-08 15:23:54"
+  },
+  {
+    "id": 142788,
+    "name": "错过了，遗憾吗？",
+    "type": "爱情片",
+    "category": "喜剧,爱情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260808-1/7c015ccc7ce5e9eb65266510efc2cc4d.jpg",
+    "score": "4.1",
+    "remarks": "正片",
+    "update_time": "2026-08-08 13:17:15"
+  },
+  {
     "id": 142786,
     "name": "热血江湖",
     "type": "动作片",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-05 16:50:09"
-  },
-  {
-    "id": 142340,
-    "name": "请只用英语",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2014",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/27cab87d4c31259e7a98a9610160acb8.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-05 16:49:06"
-  },
-  {
-    "id": 142325,
-    "name": "永远的三个字",
-    "type": "剧情片",
-    "category": "剧情,喜剧,家庭",
-    "year": "2018",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/3ea1ebbc936668b39cd4991a495af0d2.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-05 16:15:26"
   }
 ]

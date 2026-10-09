@@ -1,5 +1,29 @@
 [
   {
+    "id": 139638,
+    "name": "功夫女足",
+    "type": "剧情片",
+    "category": "剧情,喜剧,运动",
+    "year": "2026",
+    "area": "中国香港,中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260712-1/d9f3af078a4a51125ef92b2b67dcc052.jpg",
+    "score": "6.6",
+    "remarks": "抢先版",
+    "update_time": "2026-08-17 16:46:55"
+  },
+  {
+    "id": 144274,
+    "name": "祈念守护人",
+    "type": "动漫电影",
+    "category": "剧情,动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260817-1/1c347ffb5fc54b3c7712ffa13ad5cd3c.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-17 15:02:07"
+  },
+  {
     "id": 144203,
     "name": "脑波猎场",
     "type": "剧情片",
@@ -574,29 +598,5 @@
     "score": "7.1",
     "remarks": "正片",
     "update_time": "2026-08-13 15:46:20"
-  },
-  {
-    "id": 143627,
-    "name": "青龙复仇",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2014",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260813-1/b3f20038d3f4b89b30835a1bb6de96eb.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-13 12:48:13"
-  },
-  {
-    "id": 143623,
-    "name": "欢迎再次登录",
-    "type": "动作片",
-    "category": "动作,悬疑,犯罪",
-    "year": "2026",
-    "area": "中国大陆,中国香港",
-    "poster": "https://dbzy5.com/upload/vod/20260813-1/80e61215371b5e29f55b938d07280d6e.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-13 12:19:32"
   }
 ]

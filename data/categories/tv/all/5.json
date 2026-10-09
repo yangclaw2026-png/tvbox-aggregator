@@ -1,5 +1,17 @@
 [
   {
+    "id": 140045,
+    "name": "直到T恤干透",
+    "type": "日本剧",
+    "category": "剧情,爱情,悬疑",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260719-1/3706c38984a43fd680cbe7e9c379d922.jpg",
+    "score": "5.0",
+    "remarks": "第7集",
+    "update_time": "2026-08-22 13:43:05"
+  },
+  {
     "id": 140861,
     "name": "校园暗恋警报",
     "type": "泰国剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第3集",
     "update_time": "2026-08-18 14:51:12"
-  },
-  {
-    "id": 142916,
-    "name": "深情为饵",
-    "type": "国产剧",
-    "category": "剧情,爱情,短片",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260809-1/efc94a337d8dafcb08b213b4f4b2d6ce.jpg",
-    "score": "5.0",
-    "remarks": "第24集完结",
-    "update_time": "2026-08-18 12:29:01"
   }
 ]

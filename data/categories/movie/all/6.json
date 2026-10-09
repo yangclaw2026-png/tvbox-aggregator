@@ -1,5 +1,29 @@
 [
   {
+    "id": 143627,
+    "name": "青龙复仇",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2014",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260813-1/b3f20038d3f4b89b30835a1bb6de96eb.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-13 12:48:13"
+  },
+  {
+    "id": 143623,
+    "name": "欢迎再次登录",
+    "type": "动作片",
+    "category": "动作,悬疑,犯罪",
+    "year": "2026",
+    "area": "中国大陆,中国香港",
+    "poster": "https://dbzy5.com/upload/vod/20260813-1/80e61215371b5e29f55b938d07280d6e.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-13 12:19:32"
+  },
+  {
     "id": 140687,
     "name": "她个人的地狱",
     "type": "剧情片",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第5集完结",
     "update_time": "2026-08-08 15:31:25"
-  },
-  {
-    "id": 142795,
-    "name": "猎虎贰",
-    "type": "动作片",
-    "category": "犯罪,动作",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260808-1/70e1523b18dceee2be603efbdec4b74f.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-08 15:23:54"
-  },
-  {
-    "id": 142788,
-    "name": "错过了，遗憾吗？",
-    "type": "爱情片",
-    "category": "喜剧,爱情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260808-1/7c015ccc7ce5e9eb65266510efc2cc4d.jpg",
-    "score": "4.1",
-    "remarks": "正片",
-    "update_time": "2026-08-08 13:17:15"
   }
 ]

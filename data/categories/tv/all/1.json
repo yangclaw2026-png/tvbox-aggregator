@@ -1,5 +1,17 @@
 [
   {
+    "id": 152695,
+    "name": "人生交换",
+    "type": "日本剧",
+    "category": "",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20261009-1/66c0f763cc483b799c40fbc79119b7aa.webp",
+    "score": "5.0",
+    "remarks": "第1集",
+    "update_time": "2026-10-09 23:11:21"
+  },
+  {
     "id": 152679,
     "name": "恋爱充电中",
     "type": "韩剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第3集",
     "update_time": "2026-08-31 20:52:43"
-  },
-  {
-    "id": 146341,
-    "name": "布衣小子镇山河",
-    "type": "国产剧",
-    "category": "东方,玄幻",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260828-1/a5b639b0ff602a91e7c281fa90006b8a.jpg",
-    "score": "5.0",
-    "remarks": "第12集完结",
-    "update_time": "2026-08-28 15:16:49"
   }
 ]

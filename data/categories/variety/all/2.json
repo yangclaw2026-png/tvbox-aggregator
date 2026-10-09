@@ -1,5 +1,17 @@
 [
   {
+    "id": 137484,
+    "name": "地球超新鲜 第二季",
+    "type": "大陆综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260627-1/c11ea2194f8aea6c2acdd58eb38e926f.jpg",
+    "score": "5.0",
+    "remarks": "20260826特别加更第9期",
+    "update_time": "2026-08-26 19:10:36"
+  },
+  {
     "id": 142362,
     "name": "姐姐快醒醒",
     "type": "大陆综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "20260822第30期",
     "update_time": "2026-08-23 20:26:01"
-  },
-  {
-    "id": 145435,
-    "name": "亚当雷秀",
-    "type": "欧美综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260823-1/12e62f910dc1447b433166ac9b8c77cf.jpg",
-    "score": "5.0",
-    "remarks": "第13集完结",
-    "update_time": "2026-08-23 19:19:58"
   }
 ]

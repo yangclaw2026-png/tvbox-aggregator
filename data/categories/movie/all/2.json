@@ -1,5 +1,29 @@
 [
   {
+    "id": 148083,
+    "name": "“我们的长征路”《2026开学第一课》",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260905-1/c30e51e8cc0f900ebf59b37e805ccb0b.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-09-05 22:12:25"
+  },
+  {
+    "id": 148031,
+    "name": "童年阴影：幸存者的声音",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2024",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260905-1/1529628e050a92c901c2948e965d5dfe.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-09-05 17:56:59"
+  },
+  {
     "id": 148007,
     "name": "吃了食火鸡",
     "type": "科幻片",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第5集最浪漫的金黄银杏",
     "update_time": "2026-08-25 20:58:42"
-  },
-  {
-    "id": 141253,
-    "name": "刺客列传",
-    "type": "纪录片",
-    "category": "纪录片,历史,人物",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260728-1/2bebe5a536c0e666bc43c7d6f7942553.jpg",
-    "score": "5.0",
-    "remarks": "第5集完结",
-    "update_time": "2026-08-25 20:54:30"
-  },
-  {
-    "id": 145863,
-    "name": "攀登",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "中国台湾",
-    "poster": "https://dbzy5.com/upload/vod/20260825-1/9e6d66c7d18bd3afd762c09f0f0b06ad.jpg",
-    "score": "5.0",
-    "remarks": "第3集完结",
-    "update_time": "2026-08-25 20:46:09"
   }
 ]

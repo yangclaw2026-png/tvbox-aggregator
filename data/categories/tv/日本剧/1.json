@@ -1,5 +1,17 @@
 [
   {
+    "id": 152695,
+    "name": "人生交换",
+    "type": "日本剧",
+    "category": "",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20261009-1/66c0f763cc483b799c40fbc79119b7aa.webp",
+    "score": "5.0",
+    "remarks": "第1集",
+    "update_time": "2026-10-09 23:11:21"
+  },
+  {
     "id": 150355,
     "name": "幸福伽菜子的快乐杀手生活 第二季",
     "type": "日本剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第7集",
     "update_time": "2026-08-20 14:46:09"
-  },
-  {
-    "id": 142122,
-    "name": "时光旅行老爸",
-    "type": "日本剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/b5e77c9c1c76b3bf05b59e470b915bb8.jpg",
-    "score": "5.0",
-    "remarks": "第3集",
-    "update_time": "2026-08-18 14:51:12"
   }
 ]
