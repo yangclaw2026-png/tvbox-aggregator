@@ -1,5 +1,29 @@
 [
   {
+    "id": 152684,
+    "name": "闹鬼酒店 第二季",
+    "type": "欧美动漫",
+    "category": "喜剧,动画,恐怖",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20261009-1/943f6a95855f73d8d2191b2a7e601f98.webp",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-10-09 19:58:55"
+  },
+  {
+    "id": 152679,
+    "name": "恋爱充电中",
+    "type": "韩剧",
+    "category": "喜剧,爱情,奇幻",
+    "year": "2026",
+    "area": "韩国",
+    "poster": "https://dbzy5.com/upload/vod/20261009-1/907f3a2f6b9616120ebb463d85ac43d4.webp",
+    "score": "5.0",
+    "remarks": "第10集",
+    "update_time": "2026-10-09 19:55:20"
+  },
+  {
     "id": 148992,
     "name": "我要看见你",
     "type": "国产剧",
@@ -574,29 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-10-06 22:08:31"
-  },
-  {
-    "id": 152252,
-    "name": "异界魔女带娃建国",
-    "type": "AI短剧",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261006-1/251c6a5ebbce6833ead21e5d61ad4c8e.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-06 22:06:55"
-  },
-  {
-    "id": 152251,
-    "name": "一梦青玄之小师妹哭唧唧第一季",
-    "type": "AI短剧",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261006-1/d9bbc0ebb3a6ec291a31ff3056d0cdeb.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-06 22:05:34"
   }
 ]

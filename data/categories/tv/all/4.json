@@ -1,5 +1,17 @@
 [
   {
+    "id": 145541,
+    "name": "国运战场",
+    "type": "国产剧",
+    "category": "科幻,冒险",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260824-1/2e860a17a8216e5b624d5fea4f476c34.jpg",
+    "score": "5.0",
+    "remarks": "第20集完结",
+    "update_time": "2026-08-24 12:58:23"
+  },
+  {
     "id": 141094,
     "name": "成名在望",
     "type": "国产剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第7集",
     "update_time": "2026-08-22 13:43:05"
-  },
-  {
-    "id": 140861,
-    "name": "校园暗恋警报",
-    "type": "泰国剧",
-    "category": "剧情 ， 同性",
-    "year": "2026",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260725-1/b10ff4d6b5c1da21247ce5764a9a0bbe.jpg",
-    "score": "5.0",
-    "remarks": "第5集",
-    "update_time": "2026-08-22 13:41:14"
   }
 ]

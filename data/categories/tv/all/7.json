@@ -1,5 +1,17 @@
 [
   {
+    "id": 137347,
+    "name": "我的家教恋人",
+    "type": "泰国剧",
+    "category": "喜剧,爱情",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260625-1/5dddbb20584194b023aac7a4d2a71d19.jpg",
+    "score": "5.0",
+    "remarks": "第14集完结",
+    "update_time": "2026-08-09 12:53:41"
+  },
+  {
     "id": 141604,
     "name": "长夜如歌",
     "type": "国产剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第30集完结",
     "update_time": "2026-08-03 18:45:50"
-  },
-  {
-    "id": 136650,
-    "name": "耳垂 2026",
-    "type": "韩剧",
-    "category": "爱情,同性",
-    "year": "2026",
-    "area": "韩国",
-    "poster": "https://dbzy5.com/upload/vod/20260615-1/bc900e84d37fac9758367a5d1762d948.jpg",
-    "score": "5.0",
-    "remarks": "第15集",
-    "update_time": "2026-08-03 16:35:20"
   }
 ]

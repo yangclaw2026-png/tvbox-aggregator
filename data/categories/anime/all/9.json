@@ -1,5 +1,17 @@
 [
   {
+    "id": 126345,
+    "name": "搜神记",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260325-1/8286de34044eee5b237cff5b238c03b5.jpg",
+    "score": "5.0",
+    "remarks": "第24集完结",
+    "update_time": "2026-08-16 11:59:14"
+  },
+  {
     "id": 127200,
     "name": "入间同学入魔了！ 第四季",
     "type": "日本动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第52集完结",
     "update_time": "2026-08-09 21:41:30"
-  },
-  {
-    "id": 142954,
-    "name": "体内五位仙师，修仙界我无敌！",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260809-1/ff3594bc584600e03e04410157f9005f.jpg",
-    "score": "5.0",
-    "remarks": "第20集完结",
-    "update_time": "2026-08-09 17:08:00"
   }
 ]

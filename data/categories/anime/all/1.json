@@ -1,5 +1,17 @@
 [
   {
+    "id": 152684,
+    "name": "闹鬼酒店 第二季",
+    "type": "欧美动漫",
+    "category": "喜剧,动画,恐怖",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20261009-1/943f6a95855f73d8d2191b2a7e601f98.webp",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-10-09 19:58:55"
+  },
+  {
     "id": 147507,
     "name": "灵境行者",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第69集",
     "update_time": "2026-08-27 17:48:08"
-  },
-  {
-    "id": 141211,
-    "name": "平行天帝：系统启世",
-    "type": "国产动漫",
-    "category": "玄幻,冒险,热血",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260728-1/16238445c45c46dc11554b0fb9344790.jpg",
-    "score": "5.0",
-    "remarks": "第36集",
-    "update_time": "2026-08-27 17:45:54"
   }
 ]

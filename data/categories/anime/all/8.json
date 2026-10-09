@@ -1,5 +1,17 @@
 [
   {
+    "id": 131750,
+    "name": "全球御鬼时代，我成了最终BOSS 动态漫",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2025",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260512-1/341d0dba59fa4e987a14a4b9e7a82bff.jpg",
+    "score": "5.0",
+    "remarks": "第81集",
+    "update_time": "2026-08-21 13:08:07"
+  },
+  {
     "id": 145027,
     "name": "仙帝下山，高手竟是我自己",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第26集完结",
     "update_time": "2026-08-16 13:20:26"
-  },
-  {
-    "id": 126345,
-    "name": "搜神记",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260325-1/8286de34044eee5b237cff5b238c03b5.jpg",
-    "score": "5.0",
-    "remarks": "第24集完结",
-    "update_time": "2026-08-16 11:59:14"
   }
 ]

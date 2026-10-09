@@ -1,5 +1,17 @@
 [
   {
+    "id": 140861,
+    "name": "校园暗恋警报",
+    "type": "泰国剧",
+    "category": "剧情 ， 同性",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260725-1/b10ff4d6b5c1da21247ce5764a9a0bbe.jpg",
+    "score": "5.0",
+    "remarks": "第5集",
+    "update_time": "2026-08-22 13:41:14"
+  },
+  {
     "id": 139468,
     "name": "晚酌的流派5：夏篇",
     "type": "日本剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第24集完结",
     "update_time": "2026-08-18 12:29:01"
-  },
-  {
-    "id": 138173,
-    "name": "在勿忘草盛开的城镇 ～安昙野诊疗记～",
-    "type": "日本剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260702-1/b59abe573883678ca75110257a0a47be.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-17 22:51:38"
   }
 ]

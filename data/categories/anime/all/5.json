@@ -1,5 +1,17 @@
 [
   {
+    "id": 82726,
+    "name": "从哥布林到哥布林神",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2025",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250401-1/14601b6b505167adca48a2273f31d5f7.jpg",
+    "score": "0.0",
+    "remarks": "第76集",
+    "update_time": "2026-08-25 13:06:20"
+  },
+  {
     "id": 145708,
     "name": "我成了S级收容物",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第20集完结",
     "update_time": "2026-08-24 11:38:58"
-  },
-  {
-    "id": 145535,
-    "name": "魔尊觉醒：手撕天道剧本",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260824-1/eef6ba75b18f301dbc118533263f813a.jpg",
-    "score": "5.0",
-    "remarks": "第29集",
-    "update_time": "2026-08-24 11:35:41"
   }
 ]

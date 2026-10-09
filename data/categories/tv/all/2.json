@@ -1,5 +1,17 @@
 [
   {
+    "id": 136188,
+    "name": "据称与埃里森·巴伯",
+    "type": "欧美剧",
+    "category": "纪录片,犯罪",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260611-1/e7a924b82db6f08a65d14c2ce74c3925.jpg",
+    "score": "5.0",
+    "remarks": "第18集",
+    "update_time": "2026-08-27 23:11:46"
+  },
+  {
     "id": 142272,
     "name": "图书馆员：下一章 第二季",
     "type": "欧美剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第10集",
     "update_time": "2026-08-26 22:31:50"
-  },
-  {
-    "id": 137350,
-    "name": "深夜怪谈会6",
-    "type": "韩剧",
-    "category": "恐怖",
-    "year": "2026",
-    "area": "韩国",
-    "poster": "https://dbzy5.com/upload/vod/20260625-1/767ff81cb35694ead0d42646821776a2.jpg",
-    "score": "5.0",
-    "remarks": "第10集",
-    "update_time": "2026-08-26 22:05:51"
   }
 ]

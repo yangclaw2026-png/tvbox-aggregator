@@ -1,5 +1,17 @@
 [
   {
+    "id": 152679,
+    "name": "恋爱充电中",
+    "type": "韩剧",
+    "category": "喜剧,爱情,奇幻",
+    "year": "2026",
+    "area": "韩国",
+    "poster": "https://dbzy5.com/upload/vod/20261009-1/907f3a2f6b9616120ebb463d85ac43d4.webp",
+    "score": "5.0",
+    "remarks": "第10集",
+    "update_time": "2026-10-09 19:55:20"
+  },
+  {
     "id": 148992,
     "name": "我要看见你",
     "type": "国产剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第12集完结",
     "update_time": "2026-08-28 15:16:49"
-  },
-  {
-    "id": 136188,
-    "name": "据称与埃里森·巴伯",
-    "type": "欧美剧",
-    "category": "纪录片,犯罪",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260611-1/e7a924b82db6f08a65d14c2ce74c3925.jpg",
-    "score": "5.0",
-    "remarks": "第18集",
-    "update_time": "2026-08-27 23:11:46"
   }
 ]
