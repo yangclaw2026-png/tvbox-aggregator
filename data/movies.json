@@ -3082,6 +3082,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第1集"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 159577,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至第02集"
       }
     ]
   },
