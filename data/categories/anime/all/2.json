@@ -1,5 +1,41 @@
 [
   {
+    "id": 145372,
+    "name": "妖怪图鉴：我的同学是恶魔 动态漫画",
+    "type": "国产动漫",
+    "category": "动画,校园,文学",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260823-1/36c497a7165b452e8d6ce8a837a32262.jpg",
+    "score": "5.0",
+    "remarks": "第28集",
+    "update_time": "2026-08-27 17:52:54"
+  },
+  {
+    "id": 139475,
+    "name": "我家先祖执掌幽界",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260711-1/eb158a3736e1fd4daffddc293be4a720.jpg",
+    "score": "5.0",
+    "remarks": "第66集",
+    "update_time": "2026-08-27 17:49:40"
+  },
+  {
+    "id": 145211,
+    "name": "少年踏风起",
+    "type": "国产动漫",
+    "category": "动画,冒险,励志,奇幻",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260822-1/629e556ab2595ec37176450336e37e08.jpg",
+    "score": "5.0",
+    "remarks": "第69集",
+    "update_time": "2026-08-27 17:48:08"
+  },
+  {
     "id": 141211,
     "name": "平行天帝：系统启世",
     "type": "国产动漫",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第60集完结",
     "update_time": "2026-08-27 11:32:04"
-  },
-  {
-    "id": 144804,
-    "name": "大树城救援队",
-    "type": "欧美动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "英国",
-    "poster": "https://dbzy5.com/upload/vod/20260820-1/6cdd9a292775e19acf4ad66190eaccd9.jpg",
-    "score": "5.0",
-    "remarks": "第18集",
-    "update_time": "2026-08-27 11:30:59"
-  },
-  {
-    "id": 145032,
-    "name": "超级飞侠之跨越时空的谜题1",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260821-1/3e4da142fa2ac09a75c72c0719306050.jpg",
-    "score": "5.0",
-    "remarks": "第18集",
-    "update_time": "2026-08-27 11:30:15"
-  },
-  {
-    "id": 105317,
-    "name": "末日走私商：我用辣条换金砖",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2025",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250913-1/278f245edddc831abe1c277c5ee40672.jpg",
-    "score": "5.0",
-    "remarks": "第170集",
-    "update_time": "2026-08-27 11:29:16"
   }
 ]

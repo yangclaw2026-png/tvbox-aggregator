@@ -1,5 +1,29 @@
 [
   {
+    "id": 152764,
+    "name": "总裁他超护短",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261010-1/24abe829337f4ee7b8997123131f9f0f.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-10-10 23:00:10"
+  },
+  {
+    "id": 152763,
+    "name": "婆婆要抢我公司，我凭 SOP 称霸行业",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261010-1/18cc8228198a9b927f19b9fa5ef503ab.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-10-10 22:58:54"
+  },
+  {
     "id": 152291,
     "name": "修仙小乞丐，姐姐们亿万宠",
     "type": "现代都市",
@@ -574,29 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-10-04 23:08:01"
-  },
-  {
-    "id": 152053,
-    "name": "沪上风云：我的上海姐姐",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261004-1/66505516a63bbbe1d1f556f4692cc99d.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-04 23:01:15"
-  },
-  {
-    "id": 152052,
-    "name": "神级房东：我的租客各个都是大佬第2季",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261004-1/9b408267713b830dda075b56905ce781.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-04 23:00:17"
   }
 ]

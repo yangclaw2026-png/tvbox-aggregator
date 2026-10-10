@@ -1,5 +1,65 @@
 [
   {
+    "id": 151973,
+    "name": "转生了的大圣女，拼死隐瞒自己身为圣女",
+    "type": "日本动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20261004-1/879a5fae3ebfa6c0f65afc2cff30e43a.jpg",
+    "score": "5.0",
+    "remarks": "第3集",
+    "update_time": "2026-10-10 23:03:35"
+  },
+  {
+    "id": 152765,
+    "name": "朱色的面具",
+    "type": "日本动漫",
+    "category": "动作,动画,奇幻,冒险",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20261010-1/31dd92813c3f79932e86cee9f4c4e9b2.webp",
+    "score": "5.0",
+    "remarks": "第1集",
+    "update_time": "2026-10-10 23:03:00"
+  },
+  {
+    "id": 152764,
+    "name": "总裁他超护短",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261010-1/24abe829337f4ee7b8997123131f9f0f.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-10-10 23:00:10"
+  },
+  {
+    "id": 152763,
+    "name": "婆婆要抢我公司，我凭 SOP 称霸行业",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261010-1/18cc8228198a9b927f19b9fa5ef503ab.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-10-10 22:58:54"
+  },
+  {
+    "id": 151188,
+    "name": "野生的大魔王出现了！第二季",
+    "type": "日本动漫",
+    "category": "剧情,动画,奇幻",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260926-1/b0c19fc79dce86b4edd4b0c91d0799db.webp",
+    "score": "5.0",
+    "remarks": "第3集",
+    "update_time": "2026-10-10 22:58:50"
+  },
+  {
     "id": 152611,
     "name": "美人余",
     "type": "国产剧",
@@ -538,65 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-10-06 22:26:37"
-  },
-  {
-    "id": 152266,
-    "name": "隐姓埋名为国铸剑",
-    "type": "重生民国",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261006-1/bb1c73b56d93b8b1edb19393a4d7d430.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-06 22:25:55"
-  },
-  {
-    "id": 152265,
-    "name": "铜雀春生",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261006-1/d71f71470c65cc69b1ffe38adb193c50.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-06 22:23:01"
-  },
-  {
-    "id": 152264,
-    "name": "重生不赴旧亲情",
-    "type": "重生民国",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-06 22:22:06"
-  },
-  {
-    "id": 152263,
-    "name": "蝴蝶的翅膀",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261006-1/70532fb514f54b3056e2722c5e1c04a8.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-06 22:20:19"
-  },
-  {
-    "id": 152262,
-    "name": "离婚撤资，清醒沈总又美又飒",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261006-1/b49bdfb7c38be98701968190759f4bbb.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-06 22:19:17"
   }
 ]

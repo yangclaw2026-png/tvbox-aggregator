@@ -1,5 +1,29 @@
 [
   {
+    "id": 142484,
+    "name": "大明最强国舅爷",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260806-1/c028902bfaca1b46289373e41a7006fc.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-06 22:58:32"
+  },
+  {
+    "id": 142482,
+    "name": "我家神兽全是上古凶兽",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260806-1/40568072ba79ce466837aec6df7c1cde.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-06 22:57:59"
+  },
+  {
     "id": 142480,
     "name": "开局被夫人盯上，我反手称霸大周",
     "type": "古装仙侠",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "全集完结",
     "update_time": "2026-08-06 22:27:24"
-  },
-  {
-    "id": 142618,
-    "name": "都市开局新手礼包两个亿",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260806-1/222518fbf468b789647763d098e5255b.jpg",
-    "score": "5.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-06 22:22:32"
-  },
-  {
-    "id": 142467,
-    "name": "竹香瑶阙",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260806-1/327bf14e6ae75e14f7691e7981ea494d.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-06 21:09:02"
   }
 ]

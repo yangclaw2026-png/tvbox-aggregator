@@ -1,5 +1,29 @@
 [
   {
+    "id": 142618,
+    "name": "都市开局新手礼包两个亿",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260806-1/222518fbf468b789647763d098e5255b.jpg",
+    "score": "5.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-06 22:22:32"
+  },
+  {
+    "id": 142467,
+    "name": "竹香瑶阙",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260806-1/327bf14e6ae75e14f7691e7981ea494d.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-06 21:09:02"
+  },
+  {
     "id": 142465,
     "name": "邀君宠！",
     "type": "古装仙侠",
@@ -574,29 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-06 20:04:16"
-  },
-  {
-    "id": 142530,
-    "name": "七年风霜过，终得暖阳归",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260806-1/d3cce7ce5a5a07a2a3405be5c39e72c3.jpg",
-    "score": "5.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-06 20:01:34"
-  },
-  {
-    "id": 142529,
-    "name": "穿成恋综万人嫌后，我靠信息素翻盘",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260806-1/76c897f52291a55d423d734aa972d417.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-06 20:01:08"
   }
 ]

@@ -1,5 +1,29 @@
 [
   {
+    "id": 146146,
+    "name": "我是收废品的，但他是万界之王",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260827-1/c6f84a673168189a6e64f82ae1864a1e.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-27 21:50:46"
+  },
+  {
+    "id": 146148,
+    "name": "杀神白起一战定乾坤",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260827-1/2489cc21008ad33d9c0bfe7d7ddebaa8.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-27 21:50:02"
+  },
+  {
     "id": 146212,
     "name": "美人执棋，无主之花",
     "type": "现代都市",
@@ -574,29 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-27 16:50:56"
-  },
-  {
-    "id": 146231,
-    "name": "骗你是小狗",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260827-1/85c75ba2c00457a80c3a48700a7cd752.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-27 16:48:48"
-  },
-  {
-    "id": 146228,
-    "name": "三年错爱，追妻复燃",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260827-1/91fd7648c1971e0ce1c67a0aac33f676.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-27 16:44:45"
   }
 ]

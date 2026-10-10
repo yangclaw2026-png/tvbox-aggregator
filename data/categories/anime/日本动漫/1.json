@@ -1,5 +1,41 @@
 [
   {
+    "id": 151973,
+    "name": "转生了的大圣女，拼死隐瞒自己身为圣女",
+    "type": "日本动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20261004-1/879a5fae3ebfa6c0f65afc2cff30e43a.jpg",
+    "score": "5.0",
+    "remarks": "第3集",
+    "update_time": "2026-10-10 23:03:35"
+  },
+  {
+    "id": 152765,
+    "name": "朱色的面具",
+    "type": "日本动漫",
+    "category": "动作,动画,奇幻,冒险",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20261010-1/31dd92813c3f79932e86cee9f4c4e9b2.webp",
+    "score": "5.0",
+    "remarks": "第1集",
+    "update_time": "2026-10-10 23:03:00"
+  },
+  {
+    "id": 151188,
+    "name": "野生的大魔王出现了！第二季",
+    "type": "日本动漫",
+    "category": "剧情,动画,奇幻",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260926-1/b0c19fc79dce86b4edd4b0c91d0799db.webp",
+    "score": "5.0",
+    "remarks": "第3集",
+    "update_time": "2026-10-10 22:58:50"
+  },
+  {
     "id": 152298,
     "name": "乱世千金倪亚‧利斯顿转生为娇弱千金的弑神武人华丽无双录",
     "type": "日本动漫",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第20集",
     "update_time": "2026-08-24 13:10:43"
-  },
-  {
-    "id": 127282,
-    "name": "拜托了偶像公主",
-    "type": "日本动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260405-1/7818f1d8a2252bbfa942e9d447f06b53.jpg",
-    "score": "5.0",
-    "remarks": "第21集",
-    "update_time": "2026-08-24 13:07:20"
-  },
-  {
-    "id": 139849,
-    "name": "魔法光源股份有限公司 第二季",
-    "type": "日本动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260717-1/8070604dc82b8de8d652f4a5f4f1c74e.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-24 12:17:39"
-  },
-  {
-    "id": 138659,
-    "name": "二十世纪电气目录 二十世紀電氣目録",
-    "type": "日本动漫",
-    "category": "爱情,动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260706-1/e2f081a83f133e3f0e08885064b8be23.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-24 12:16:48"
   }
 ]

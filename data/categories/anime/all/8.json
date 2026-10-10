@@ -1,5 +1,41 @@
 [
   {
+    "id": 138376,
+    "name": "被追放的转生重骑士用游戏知识开无双",
+    "type": "日本动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260704-1/b171c325ff2814f743acc228573d8e3d.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-21 14:01:03"
+  },
+  {
+    "id": 139158,
+    "name": "不虐待我的继母与继姐",
+    "type": "日本动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260709-1/fe80410dd122668a297ddeb7a9790ded.jpg",
+    "score": "5.0",
+    "remarks": "第7集",
+    "update_time": "2026-08-21 13:59:56"
+  },
+  {
+    "id": 139333,
+    "name": "梅比乌斯之尘",
+    "type": "日本动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260710-1/a5c8394463fa32b517071a54f9fb012f.jpg",
+    "score": "5.0",
+    "remarks": "第7集",
+    "update_time": "2026-08-21 13:55:43"
+  },
+  {
     "id": 131750,
     "name": "全球御鬼时代，我成了最终BOSS 动态漫",
     "type": "国产动漫",
@@ -562,41 +598,5 @@
     "score": "0.0",
     "remarks": "第5集完结",
     "update_time": "2026-08-17 17:05:51"
-  },
-  {
-    "id": 144202,
-    "name": "海绵宝宝 第十四季 英文版",
-    "type": "欧美动漫",
-    "category": "喜剧,动画,奇幻",
-    "year": "2023",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260817-1/c66019932a65b80799dddeefc5dca77d.jpg",
-    "score": "8.9",
-    "remarks": "第13集完结",
-    "update_time": "2026-08-17 12:38:44"
-  },
-  {
-    "id": 144199,
-    "name": "一块石头的修仙：从丹炉到天道",
-    "type": "国产动漫",
-    "category": "动画,逆袭,穿越,玄幻",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260817-1/06bf136ddca37ad12c04a1ef610d581b.jpg",
-    "score": "5.0",
-    "remarks": "第14集完结",
-    "update_time": "2026-08-17 11:33:17"
-  },
-  {
-    "id": 144026,
-    "name": "我家隔壁盘丝洞",
-    "type": "国产动漫",
-    "category": "动画,玄幻,穿越,搞笑",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260816-1/c2628da18ce48d61fd647acbf73fc7bb.jpg",
-    "score": "5.0",
-    "remarks": "第26集完结",
-    "update_time": "2026-08-16 13:20:26"
   }
 ]

@@ -1,5 +1,41 @@
 [
   {
+    "id": 145538,
+    "name": "我把仇人扔进了万兽坑",
+    "type": "国产动漫",
+    "category": "动画,玄幻,冒险",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260824-1/30bdfe232be00c856b6be5a0479d0d68.jpg",
+    "score": "5.0",
+    "remarks": "第35集",
+    "update_time": "2026-08-24 11:44:05"
+  },
+  {
+    "id": 145537,
+    "name": "全民地下城：我创造了游戏帝国",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260824-1/8aa2fb0c09f7c469ea306327bf489daf.jpg",
+    "score": "5.0",
+    "remarks": "第57集完结",
+    "update_time": "2026-08-24 11:42:10"
+  },
+  {
+    "id": 145536,
+    "name": "凶兽少女学院：山海经御兽录",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260824-1/c72fe69d1aa5f3a3213f2015822c9d7e.jpg",
+    "score": "5.0",
+    "remarks": "第20集完结",
+    "update_time": "2026-08-24 11:38:58"
+  },
+  {
     "id": 145535,
     "name": "魔尊觉醒：手撕天道剧本",
     "type": "国产动漫",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第691集",
     "update_time": "2026-08-23 11:41:02"
-  },
-  {
-    "id": 130967,
-    "name": "我带超市穿到古代养丞相",
-    "type": "国产动漫",
-    "category": "动漫",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260505-1/652d5b24abb28fc5ab38948f8cde6cf9.jpg",
-    "score": "5.0",
-    "remarks": "第70集",
-    "update_time": "2026-08-23 11:38:25"
-  },
-  {
-    "id": 135316,
-    "name": "外挂仙尊",
-    "type": "国产动漫",
-    "category": "漫画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260607-1/6fd2cb67ded163d705bd934942a40980.jpg",
-    "score": "5.0",
-    "remarks": "第14集",
-    "update_time": "2026-08-23 11:37:32"
-  },
-  {
-    "id": 124910,
-    "name": "他的温柔只予我",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260306-1/a4a2bd5da3f9a863cd930dbf1ed51fbe.jpg",
-    "score": "5.0",
-    "remarks": "第30集",
-    "update_time": "2026-08-23 11:36:45"
   }
 ]

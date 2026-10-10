@@ -1,5 +1,29 @@
 [
   {
+    "id": 146432,
+    "name": "被赶出家门后，我重回深山成顶级药王",
+    "type": "现代都市",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260828-1/14ac73defd60b3538264f2ba78d4d26b.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-28 23:00:23"
+  },
+  {
+    "id": 146428,
+    "name": "离职即登顶",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260828-1/f92ba7156454e136bd0315fa5c897c1b.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-28 22:59:21"
+  },
+  {
     "id": 146435,
     "name": "饲神",
     "type": "现代都市",
@@ -574,29 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-27 21:50:54"
-  },
-  {
-    "id": 146146,
-    "name": "我是收废品的，但他是万界之王",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260827-1/c6f84a673168189a6e64f82ae1864a1e.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-27 21:50:46"
-  },
-  {
-    "id": 146148,
-    "name": "杀神白起一战定乾坤",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260827-1/2489cc21008ad33d9c0bfe7d7ddebaa8.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-27 21:50:02"
   }
 ]

@@ -1,5 +1,29 @@
 [
   {
+    "id": 148107,
+    "name": "皇上，您的太子在我这",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260905-1/d6284f5e6dcea66c523b0669a8e0e8ac.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-09-05 22:40:31"
+  },
+  {
+    "id": 148106,
+    "name": "我叫赵吴狄",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260905-1/88e48f557b170512acbd9daf0ae97708.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-09-05 22:39:18"
+  },
+  {
     "id": 148104,
     "name": "废品布衣八零捡宝人第三季",
     "type": "现代都市",
@@ -574,29 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-09-04 22:49:15"
-  },
-  {
-    "id": 147757,
-    "name": "重生后我成了摄政王的心尖宠",
-    "type": "重生民国",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260904-1/b9539d16ba6520af3c1b0564006e5ed4.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-09-04 22:46:48"
-  },
-  {
-    "id": 147756,
-    "name": "心尖疤：蚀骨虐恋难休",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260904-1/afd78ddf9a8e3ed74e907539cd3e2521.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-09-04 22:46:09"
   }
 ]

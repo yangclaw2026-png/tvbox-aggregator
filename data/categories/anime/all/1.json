@@ -1,5 +1,41 @@
 [
   {
+    "id": 151973,
+    "name": "转生了的大圣女，拼死隐瞒自己身为圣女",
+    "type": "日本动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20261004-1/879a5fae3ebfa6c0f65afc2cff30e43a.jpg",
+    "score": "5.0",
+    "remarks": "第3集",
+    "update_time": "2026-10-10 23:03:35"
+  },
+  {
+    "id": 152765,
+    "name": "朱色的面具",
+    "type": "日本动漫",
+    "category": "动作,动画,奇幻,冒险",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20261010-1/31dd92813c3f79932e86cee9f4c4e9b2.webp",
+    "score": "5.0",
+    "remarks": "第1集",
+    "update_time": "2026-10-10 23:03:00"
+  },
+  {
+    "id": 151188,
+    "name": "野生的大魔王出现了！第二季",
+    "type": "日本动漫",
+    "category": "剧情,动画,奇幻",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260926-1/b0c19fc79dce86b4edd4b0c91d0799db.webp",
+    "score": "5.0",
+    "remarks": "第3集",
+    "update_time": "2026-10-10 22:58:50"
+  },
+  {
     "id": 152684,
     "name": "闹鬼酒店 第二季",
     "type": "欧美动漫",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第5集",
     "update_time": "2026-08-27 18:14:26"
-  },
-  {
-    "id": 145372,
-    "name": "妖怪图鉴：我的同学是恶魔 动态漫画",
-    "type": "国产动漫",
-    "category": "动画,校园,文学",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260823-1/36c497a7165b452e8d6ce8a837a32262.jpg",
-    "score": "5.0",
-    "remarks": "第28集",
-    "update_time": "2026-08-27 17:52:54"
-  },
-  {
-    "id": 139475,
-    "name": "我家先祖执掌幽界",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260711-1/eb158a3736e1fd4daffddc293be4a720.jpg",
-    "score": "5.0",
-    "remarks": "第66集",
-    "update_time": "2026-08-27 17:49:40"
-  },
-  {
-    "id": 145211,
-    "name": "少年踏风起",
-    "type": "国产动漫",
-    "category": "动画,冒险,励志,奇幻",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260822-1/629e556ab2595ec37176450336e37e08.jpg",
-    "score": "5.0",
-    "remarks": "第69集",
-    "update_time": "2026-08-27 17:48:08"
   }
 ]
