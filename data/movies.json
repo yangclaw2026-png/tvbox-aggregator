@@ -1,5 +1,22 @@
 [
   {
+    "id": 152700,
+    "name": "奇思妙探 第四季",
+    "type": "欧美剧",
+    "year": "2026",
+    "area": "美国",
+    "language": "英语",
+    "category": "剧情 ,犯罪",
+    "poster": "https://dbzy5.com/upload/vod/20261010-1/5955f23b602c36171dd9c7228bc3df05.webp",
+    "douban_id": 38215410,
+    "score": "5.0",
+    "remarks": "第1集",
+    "content": "<p>v</p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01集$https://vodcnd16.ajupf.com/20261010/DNtbmiKZ/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/SrTCtrTg02",
+    "update_time": "2026-10-10 12:38:05"
+  },
+  {
     "id": 152697,
     "name": "骑士情缘",
     "type": "动作片",
@@ -14,7 +31,37 @@
     "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">　A statue of an English knight arrives in Chicago for an art exhibit. While cleaning the statue, museum conservator Emily impulsively kisses the statue, bringing him to life.</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "$$$",
-    "update_time": "2026-10-09 23:16:02"
+    "update_time": "2026-10-09 23:16:02",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 220690,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "正片"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 196565,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "正片"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 153280,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "正片"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 161179,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "正片"
+      }
+    ]
   },
   {
     "id": 152696,
@@ -39,6 +86,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至HD"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 153279,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "正片"
       }
     ]
   },
@@ -65,6 +119,13 @@
         "play_from": "lzm3u8",
         "play_url": null,
         "remarks": "更新至第01集"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 153278,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第01集"
       }
     ]
   },
@@ -83,7 +144,16 @@
     "content": "",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.ajupf.com/20261009/rboilIeO/index.m3u8#第02集$https://vodcnd16.ajupf.com/20261009/pXpZbfZl/index.m3u8#第03集$https://vodcnd16.ajupf.com/20261009/TP7h7LwJ/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/J9XIVkxvxC#第02集$https://vodcnd16.ajupf.com/share/J9iO62UsWq#第03集$https://vodcnd16.ajupf.com/share/SDGcuhUwP6",
-    "update_time": "2026-10-09 22:54:05"
+    "update_time": "2026-10-09 22:54:05",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 153275,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第3期"
+      }
+    ]
   },
   {
     "id": 152684,
@@ -11323,6 +11393,13 @@
         "play_from": "lzm3u8",
         "play_url": null,
         "remarks": "已完结"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 156793,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "全集"
       }
     ]
   },
@@ -11808,6 +11885,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 156801,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "全集"
       }
     ]
   },
@@ -53862,6 +53946,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第25集"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 147353,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "更新至27集"
       }
     ]
   },
@@ -64638,6 +64729,20 @@
         "play_from": "hnm3u8",
         "play_url": null,
         "remarks": "第9集"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 216270,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第14集"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 156759,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第14集"
       }
     ]
   },
@@ -131371,22 +131476,5 @@
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "正片$https://vodcnd16.ajupf.com/20260728/JHVwd1eV/index.m3u8$$$正片$https://vodcnd16.ajupf.com/share/888yGruWyA#",
     "update_time": "2026-08-02 22:37:43"
-  },
-  {
-    "id": 58667,
-    "name": "古剑奇谭之流月昭明",
-    "type": "动作片",
-    "year": "2018",
-    "area": "中国大陆",
-    "language": "汉语普通话",
-    "category": "动作,奇幻,古装",
-    "poster": "https://dbzy5.com/upload/vod/20250107-12/04cd74cf3fafd77b2d1b1157fb19a865.jpg",
-    "douban_id": 26816372,
-    "score": "4.2",
-    "remarks": "正片",
-    "content": "<p>　　长安少侠乐无异（王力宏 饰），为追寻偃甲大师谢衣（高圣远 饰）的下落，与富家公子夏夷则（高以翔 饰）和百草谷天罡战士闻人羽（宋茜 饰）在海市博卖行相遇，并意外牵涉进流月城大祭司沈夜（张智霖 饰）与心魔企图毁灭人类的惊天交易中。欲消灭心魔，必重铸昭明神剑，乐无异、闻人羽、夏夷则在谢衣的提示下，找到封印在画中的神秘少女阿阮（吴千语 饰），并同她一起踏上寻剑之旅。一场斩杀心魔，拯救苍生的正义之战就此展开……</p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "正片$https://vodcnd16.ajupf.com/20260728/EloT6X5Y/index.m3u8#$$$正片$https://vodcnd16.ajupf.com/share/exMGJn2Xpr",
-    "update_time": "2026-08-02 22:36:43"
   }
 ]

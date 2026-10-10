@@ -1,5 +1,17 @@
 [
   {
+    "id": 147046,
+    "name": "囧徒之预演告别",
+    "type": "国产剧",
+    "category": "剧情,喜剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260831-1/2bfe19edc2521fd08bc9f52492c1ac2d.jpg",
+    "score": "5.0",
+    "remarks": "第3集",
+    "update_time": "2026-08-31 20:52:43"
+  },
+  {
     "id": 146341,
     "name": "布衣小子镇山河",
     "type": "国产剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第21集完结",
     "update_time": "2026-08-26 22:47:24"
-  },
-  {
-    "id": 138999,
-    "name": "35岁，现在恋爱什么的也太不现实了",
-    "type": "日本剧",
-    "category": "剧情,爱情",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260708-1/63f6a5f5a7e91bbdd23cbc36d13f9d29.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-26 22:35:00"
   }
 ]

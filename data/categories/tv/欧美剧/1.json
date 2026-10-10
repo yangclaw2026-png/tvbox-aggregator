@@ -1,5 +1,17 @@
 [
   {
+    "id": 152700,
+    "name": "奇思妙探 第四季",
+    "type": "欧美剧",
+    "category": "剧情 ,犯罪",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20261010-1/5955f23b602c36171dd9c7228bc3df05.webp",
+    "score": "5.0",
+    "remarks": "第1集",
+    "update_time": "2026-10-10 12:38:05"
+  },
+  {
     "id": 150940,
     "name": "火线家族",
     "type": "欧美剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第3集",
     "update_time": "2026-08-21 13:51:52"
-  },
-  {
-    "id": 142631,
-    "name": "青春碎片",
-    "type": "欧美剧",
-    "category": "剧情 ， 悬疑 ， 惊悚",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260807-1/a35e470e9953b95778cabb6e19389789.jpg",
-    "score": "5.0",
-    "remarks": "第5集",
-    "update_time": "2026-08-21 11:55:26"
   }
 ]

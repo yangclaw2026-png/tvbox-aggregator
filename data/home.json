@@ -1,5 +1,17 @@
 [
   {
+    "id": 152700,
+    "name": "奇思妙探 第四季",
+    "type": "欧美剧",
+    "category": "剧情 ,犯罪",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20261010-1/5955f23b602c36171dd9c7228bc3df05.webp",
+    "score": "5.0",
+    "remarks": "第1集",
+    "update_time": "2026-10-10 12:38:05"
+  },
+  {
     "id": 152697,
     "name": "骑士情缘",
     "type": "动作片",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-10-06 22:15:13"
-  },
-  {
-    "id": 152257,
-    "name": "半把花椒",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261006-1/c54e1e4b8f3fb99569726243b29b8f72.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-06 22:14:09"
   }
 ]
