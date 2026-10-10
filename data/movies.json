@@ -1,5 +1,117 @@
 [
   {
+    "id": 152611,
+    "name": "美人余",
+    "type": "国产剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "language": "汉语普通话",
+    "category": "剧情",
+    "poster": "https://dbzy5.com/upload/vod/20261009-1/755ca35a1434b6b11bee9c1419e013bf.jpg",
+    "douban_id": 36962068,
+    "score": "5.0",
+    "remarks": "第6集",
+    "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">根据伊北同名小说改编，以当代都市为背景，两性关系作为切口，直戳现代社会“有性无爱，有爱无性”等真实情感和婚姻现状。</span></p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01集$https://vodcnd17.ajupf.com/20261009/X3BEyW8W/index.m3u8#第02集$https://vodcnd17.ajupf.com/20261009/xOAZHiSr/index.m3u8#第03集$https://vodcnd17.ajupf.com/20261009/9PPFLPdd/index.m3u8#第04集$https://vodcnd17.ajupf.com/20261009/krY4zmfV/index.m3u8#第05集$https://vodcnd17.ajupf.com/20261010/apAMwjKH/index.m3u8#第06集$https://vodcnd16.ajupf.com/20261010/DrZtL1Wb/index.m3u8$$$第01集$https://vodcnd17.ajupf.com/share/BYS7u4tbgt#第02集$https://vodcnd17.ajupf.com/share/EJGCulPZll#第03集$https://vodcnd17.ajupf.com/share/2f3v7mSKHD#第04集$https://vodcnd17.ajupf.com/share/oawX62Y7Kp#第05集$https://vodcnd17.ajupf.com/share/qLsCtJHskP#第06集$https://vodcnd16.ajupf.com/share/zw8zZ7pNLd",
+    "update_time": "2026-10-10 19:24:12",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 220639,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第05集"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 196514,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第05集"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 153167,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第6集"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 156702,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "更新至06集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 166693,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第6集"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 161128,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第05集"
+      }
+    ]
+  },
+  {
+    "id": 152723,
+    "name": "治安官之乡 第二季",
+    "type": "欧美剧",
+    "year": "2026",
+    "area": "美国",
+    "language": "英语",
+    "category": "犯罪",
+    "poster": "https://dbzy5.com/upload/vod/20261010-1/0c20070206b1de4b2fdaa7130b79bcb0.webp",
+    "douban_id": 37895429,
+    "score": "5.0",
+    "remarks": "第1集",
+    "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">The fans have spoken. Boston Blue and Sheriff Country are at the top of their “must-watch” lists, so CBS is renewing both freshmen for the 2026-27 season.</span></p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01集$https://vodcnd16.ajupf.com/20261010/nIY3G7KW/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/RmxQVRotBS",
+    "update_time": "2026-10-10 19:07:04"
+  },
+  {
+    "id": 152722,
+    "name": "烈焰国度 第五季",
+    "type": "欧美剧",
+    "year": "2026",
+    "area": "美国",
+    "language": "英语",
+    "category": "剧情",
+    "poster": "https://dbzy5.com/upload/vod/20261010-1/73f63f41b095d8f87cd45320d01f6c2c.webp",
+    "douban_id": 38215471,
+    "score": "5.0",
+    "remarks": "第1集",
+    "content": "",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01集$https://vodcnd16.ajupf.com/20261010/pEF618PH/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/HF1E4MIMqd",
+    "update_time": "2026-10-10 19:04:10"
+  },
+  {
+    "id": 152721,
+    "name": "警察世家：波士顿 第二季",
+    "type": "欧美剧",
+    "year": "2026",
+    "area": "美国",
+    "language": "英语",
+    "category": "犯罪",
+    "poster": "https://dbzy5.com/upload/vod/20261010-1/591cdde1c57cd0189c4cd44183d6890a.webp",
+    "douban_id": 37895219,
+    "score": "5.0",
+    "remarks": "第1集",
+    "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">The fans have spoken. Boston Blue and Sheriff Country are at the top of their “must-watch” lists, so CBS is renewing both freshmen for the 2026-27 season.</span></p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01集$https://vodcnd16.ajupf.com/20261010/HiDSqKo3/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/p8sL2G1Zie",
+    "update_time": "2026-10-10 19:02:09"
+  },
+  {
     "id": 152700,
     "name": "奇思妙探 第四季",
     "type": "欧美剧",
@@ -91,6 +203,27 @@
         "source": "茅台资源",
         "source_id": 153279,
         "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "正片"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 220760,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "正片"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 196634,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "正片"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 161249,
+        "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "正片"
       }
@@ -15706,7 +15839,16 @@
     "content": "<p style=\"margin: 0px 0px 1em; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; font-size: 18px; line-height: inherit; font-family: Arial, sans-serif; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; vertical-align: baseline; color: rgb(102, 102, 102); white-space: normal; background-color: rgb(255, 255, 255);\">七十集的古装家族史诗，深入描绘国公府内的兴衰荣辱与人性纠葛。剧名暗示了女主如汐水般在深宅大院中沉浮的命运，剧情聚焦于家庭伦理与权力斗争，情感细腻且沉重。AI技术精细还原了古代府邸的奢华与压抑，每一帧都充满故事感。角色关系错综复杂，矛盾冲突激烈，叙事节奏张弛有度，展现了女性在困境中的坚韧与智慧。这是给喜爱古风权谋、深度剧情用户的诚意之作。高清资源已就绪，转存以后连打包下载都给你备好了，细细品味这段跌宕起伏的府门往事。</p><p><br/></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd17.ajupf.com/20260904/D0Z9G2yu/index.m3u8$$$全集完结$https://vodcnd17.ajupf.com/share/AF94Oypbxo",
-    "update_time": "2026-09-06 23:05:46"
+    "update_time": "2026-09-06 23:05:46",
+    "play_sources": [
+      {
+        "source": "量子资源",
+        "source_id": 160744,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
+      }
+    ]
   },
   {
     "id": 148226,
@@ -131408,73 +131550,5 @@
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "正片$https://vodcnd16.ajupf.com/20260724/nIZYIltX/index.m3u8#$$$正片$https://vodcnd16.ajupf.com/share/xR83YcR5My#",
     "update_time": "2026-08-02 22:46:01"
-  },
-  {
-    "id": 141941,
-    "name": "她的记忆",
-    "type": "爱情片",
-    "year": "2019",
-    "area": "韩国",
-    "language": "韩语",
-    "category": "爱情",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/219820d42f64dd0bd9b7b0444e30d539.jpg",
-    "douban_id": 33427464,
-    "score": "5.0",
-    "remarks": "正片",
-    "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">珉豪在一家心理咨询中心担任顾问，该中心由政府管理。他厌倦了自己的日常生活，听了客户的投诉。他感到的压力会影响他与包括他的家人在内的其他人的关系。在他刚搬进的公寓里，他发现公寓前住户写的便条。这些笔记是有关公寓的书面解释。他得知前主人是女人。何敏想见她。</span></p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "全集完结$https://vodcnd16.ajupf.com/20260728/jvGTVk0k/index.m3u8$$$全集完结$https://vodcnd16.ajupf.com/share/zImS9ssqGS",
-    "update_time": "2026-08-02 22:42:17"
-  },
-  {
-    "id": 141940,
-    "name": "米-阿努德",
-    "type": "剧情片",
-    "year": "2019",
-    "area": "菲律宾",
-    "language": "菲律宾语",
-    "category": "剧情,喜剧,犯罪",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/3d8101d9b81a789c35cd16a070498f15.jpg",
-    "douban_id": 34787855,
-    "score": "5.0",
-    "remarks": "正片",
-    "content": "<p>当三吨可卡因被冲上宁静的海滨小镇时，两名冲浪者丁（丹尼斯·特里洛饰）和卡洛（杰拉尔德·纳波莱斯饰）必须做出抉择：财富的诱惑是否值得他们冒着失去家庭和自由的风险。马泰奥·圭迪切利特别出演保罗一角。米娜·阿努德根据真实事件改编。</p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "正片$https://vodcnd16.ajupf.com/20260724/bjVYwUZE/index.m3u8#$$$正片$https://vodcnd16.ajupf.com/share/G18fMsKmDk#",
-    "update_time": "2026-08-02 22:40:40"
-  },
-  {
-    "id": 141934,
-    "name": "内华达之瑰",
-    "type": "剧情片",
-    "year": "2025",
-    "area": "英国",
-    "language": "英语",
-    "category": "剧情,恐怖",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/23be59544fd4029445d4effaa7907553.jpg",
-    "douban_id": 37167155,
-    "score": "6.1",
-    "remarks": "正片",
-    "content": "<p>在一个被遗忘的渔村里，一艘船神秘地出现在旧港口。“内华达之瑰”号三十年前曾全员遇难，如今再次归来。对于为数不多还记得它的人来说，这是一个预兆。也许只有再次出海，才能带回这个破败村落的好运。尼克为了养家糊口，决定在船上工作；同时，新来的利亚姆加入了船员，试图逃离自己的过去。他们出海，成功归港，但情况却不对劲。他们似乎回到了过去，村民们像迎接原始船员一样欢迎他们。</p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "正片$https://vodcnd16.ajupf.com/20260802/IXPbxVym/index.m3u8$$$正片$https://vodcnd16.ajupf.com/share/1hzDrLGx2K",
-    "update_time": "2026-08-02 22:37:55"
-  },
-  {
-    "id": 36331,
-    "name": "魔侠传之唐吉可德",
-    "type": "剧情片",
-    "year": "2010",
-    "area": "中国大陆",
-    "language": "汉语普通话",
-    "category": "剧情",
-    "poster": "https://dbzy5.com/upload/vod/20250108-39/e62ae3fcace7c936b037182cdc2836e6.jpg",
-    "douban_id": 3824500,
-    "score": "4.4",
-    "remarks": "正片",
-    "content": "<p>话说某朝某代，蜀中有一户唐门，祖上本是武功高强的盖世英雄，传至唐方海一辈，则一心教授四个儿子饱读圣贤之书。然而唐家第三子唐吉（郭涛 饰）字可德，无心圣贤，专好武侠神怪小说，以至于走火入魔，不辨虚实。这一日，唐吉可德佩戴祖宗的甲胄和霸王枪，骑着家中的瘦马爪黄飞电离家出走，他访名山，会高友，指望打通任督二脉成为爵士奇侠。</p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "正片$https://vodcnd16.ajupf.com/20260728/JHVwd1eV/index.m3u8$$$正片$https://vodcnd16.ajupf.com/share/888yGruWyA#",
-    "update_time": "2026-08-02 22:37:43"
   }
 ]

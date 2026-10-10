@@ -1,5 +1,53 @@
 [
   {
+    "id": 152611,
+    "name": "美人余",
+    "type": "国产剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261009-1/755ca35a1434b6b11bee9c1419e013bf.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-10-10 19:24:12"
+  },
+  {
+    "id": 152723,
+    "name": "治安官之乡 第二季",
+    "type": "欧美剧",
+    "category": "犯罪",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20261010-1/0c20070206b1de4b2fdaa7130b79bcb0.webp",
+    "score": "5.0",
+    "remarks": "第1集",
+    "update_time": "2026-10-10 19:07:04"
+  },
+  {
+    "id": 152722,
+    "name": "烈焰国度 第五季",
+    "type": "欧美剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20261010-1/73f63f41b095d8f87cd45320d01f6c2c.webp",
+    "score": "5.0",
+    "remarks": "第1集",
+    "update_time": "2026-10-10 19:04:10"
+  },
+  {
+    "id": 152721,
+    "name": "警察世家：波士顿 第二季",
+    "type": "欧美剧",
+    "category": "犯罪",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20261010-1/591cdde1c57cd0189c4cd44183d6890a.webp",
+    "score": "5.0",
+    "remarks": "第1集",
+    "update_time": "2026-10-10 19:02:09"
+  },
+  {
     "id": 152700,
     "name": "奇思妙探 第四季",
     "type": "欧美剧",
@@ -550,53 +598,5 @@
     "score": "5.0",
     "remarks": "第10集完结",
     "update_time": "2026-09-08 11:12:36"
-  },
-  {
-    "id": 148357,
-    "name": "爱从发球开始",
-    "type": "泰国剧",
-    "category": "剧情,爱情,同性,运动",
-    "year": "2026",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260907-1/8781f0677ffe79f9a8939d2788b8a8a7.jpg",
-    "score": "5.0",
-    "remarks": "第1集",
-    "update_time": "2026-09-08 11:05:34"
-  },
-  {
-    "id": 147294,
-    "name": "疯狂爱上你",
-    "type": "泰国剧",
-    "category": "爱情,同性",
-    "year": "2026",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260902-1/7505cfdc3faefe46d8aa35ddb46db5ac.jpg",
-    "score": "5.0",
-    "remarks": "第2集",
-    "update_time": "2026-09-06 18:12:36"
-  },
-  {
-    "id": 147000,
-    "name": "记忆修复店",
-    "type": "泰国剧",
-    "category": "剧情 ， 爱情",
-    "year": "2026",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260831-1/e635ffb2d4f37ec01d4946b44e296ac7.jpg",
-    "score": "5.0",
-    "remarks": "第3集",
-    "update_time": "2026-09-06 18:11:58"
-  },
-  {
-    "id": 148009,
-    "name": "机关龙城",
-    "type": "国产剧",
-    "category": "奇幻",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260905-1/119f9aca7dc7b20f6e5601ed312b66be.jpg",
-    "score": "5.0",
-    "remarks": "第20集完结",
-    "update_time": "2026-09-05 15:57:31"
   }
 ]

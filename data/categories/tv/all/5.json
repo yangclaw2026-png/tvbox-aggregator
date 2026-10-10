@@ -1,5 +1,53 @@
 [
   {
+    "id": 143074,
+    "name": "狂徒 2026",
+    "type": "国产剧",
+    "category": "剧情,犯罪",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260810-1/f2cf0a0540fe1069e52a19cc3bc047d0.jpg",
+    "score": "5.0",
+    "remarks": "第24集完结",
+    "update_time": "2026-08-22 19:24:04"
+  },
+  {
+    "id": 140679,
+    "name": "世界未解之谜",
+    "type": "国产剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260724-1/67d256c74f17075047b0ba6f8ed7c018.jpg",
+    "score": "5.0",
+    "remarks": "第7集",
+    "update_time": "2026-08-22 19:18:03"
+  },
+  {
+    "id": 134919,
+    "name": "被意外拿捏的科学",
+    "type": "国产剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260605-1/ec30baf5204562303f9a308d8660e101.jpg",
+    "score": "5.0",
+    "remarks": "第20集",
+    "update_time": "2026-08-22 15:20:36"
+  },
+  {
+    "id": 140043,
+    "name": "请保持名侦探原来的样子",
+    "type": "日本剧",
+    "category": "悬疑",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260719-1/30163a29629c24a95dbe5668bd155907.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-08-22 14:37:29"
+  },
+  {
     "id": 140814,
     "name": "大唐少年天行传",
     "type": "国产剧",
@@ -550,53 +598,5 @@
     "score": "5.0",
     "remarks": "第6集完结",
     "update_time": "2026-08-18 19:59:52"
-  },
-  {
-    "id": 144401,
-    "name": "我的鸵鸟先生",
-    "type": "国产剧",
-    "category": "剧情,爱情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260818-1/66d4156e3beca32566e3982a84b2c557.jpg",
-    "score": "5.0",
-    "remarks": "第20集完结",
-    "update_time": "2026-08-18 17:10:18"
-  },
-  {
-    "id": 137122,
-    "name": "欺诈游戏",
-    "type": "泰国剧",
-    "category": "爱情,悬疑,犯罪",
-    "year": "2026",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260621-1/bd4c7ea0588f038603520bf3e15d88b6.jpg",
-    "score": "5.0",
-    "remarks": "第16集",
-    "update_time": "2026-08-18 16:38:50"
-  },
-  {
-    "id": 137740,
-    "name": "入戏 2026",
-    "type": "国产剧",
-    "category": "剧情,同性",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260628-1/8f98b050ee7d1f952dda9429ab823b36.jpg",
-    "score": "5.0",
-    "remarks": "第12集完结",
-    "update_time": "2026-08-18 16:19:04"
-  },
-  {
-    "id": 138838,
-    "name": "嫁入高门",
-    "type": "国产剧",
-    "category": "同性",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260707-1/e36e72f5bbb90da30a42631295b4e610.jpg",
-    "score": "5.0",
-    "remarks": "第12集完结",
-    "update_time": "2026-08-18 16:18:37"
   }
 ]

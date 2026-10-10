@@ -1,5 +1,53 @@
 [
   {
+    "id": 152611,
+    "name": "美人余",
+    "type": "国产剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261009-1/755ca35a1434b6b11bee9c1419e013bf.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-10-10 19:24:12"
+  },
+  {
+    "id": 152723,
+    "name": "治安官之乡 第二季",
+    "type": "欧美剧",
+    "category": "犯罪",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20261010-1/0c20070206b1de4b2fdaa7130b79bcb0.webp",
+    "score": "5.0",
+    "remarks": "第1集",
+    "update_time": "2026-10-10 19:07:04"
+  },
+  {
+    "id": 152722,
+    "name": "烈焰国度 第五季",
+    "type": "欧美剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20261010-1/73f63f41b095d8f87cd45320d01f6c2c.webp",
+    "score": "5.0",
+    "remarks": "第1集",
+    "update_time": "2026-10-10 19:04:10"
+  },
+  {
+    "id": 152721,
+    "name": "警察世家：波士顿 第二季",
+    "type": "欧美剧",
+    "category": "犯罪",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20261010-1/591cdde1c57cd0189c4cd44183d6890a.webp",
+    "score": "5.0",
+    "remarks": "第1集",
+    "update_time": "2026-10-10 19:02:09"
+  },
+  {
     "id": 152700,
     "name": "奇思妙探 第四季",
     "type": "欧美剧",
@@ -550,53 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-10-06 22:19:17"
-  },
-  {
-    "id": 152261,
-    "name": "月薪一万二，这次我全留给自己",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261006-1/f3b33aa1d4ab49bd6301b6d7894ced0d.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-06 22:18:16"
-  },
-  {
-    "id": 152260,
-    "name": "我的婆婆傻白甜，护起我来翻了天",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261006-1/61a5ce853fe32ef33f5f3a3c84827ed2.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-06 22:17:16"
-  },
-  {
-    "id": 152259,
-    "name": "心动，恰逢其时",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261006-1/59ee24c7b52cec64c70efd3e869beb87.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-06 22:16:14"
-  },
-  {
-    "id": 152258,
-    "name": "命运骤变，我解锁未来新闻",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261006-1/6fbed185710e7c97a57aa6f3dff43be2.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-06 22:15:13"
   }
 ]
