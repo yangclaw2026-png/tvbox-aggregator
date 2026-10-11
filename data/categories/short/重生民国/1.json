@@ -1,5 +1,17 @@
 [
   {
+    "id": 152819,
+    "name": "鼓醒少年",
+    "type": "重生民国",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261011-1/15334aaa20cc39e16a52be8e325eefcf.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-10-11 19:41:06"
+  },
+  {
     "id": 152266,
     "name": "隐姓埋名为国铸剑",
     "type": "重生民国",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-17 18:54:00"
-  },
-  {
-    "id": 144329,
-    "name": "重临巅峰",
-    "type": "重生民国",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260817-1/e9f011127ed1782e954942429340673d.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-17 18:51:11"
   }
 ]

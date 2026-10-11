@@ -1,5 +1,41 @@
 [
   {
+    "id": 152819,
+    "name": "鼓醒少年",
+    "type": "重生民国",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261011-1/15334aaa20cc39e16a52be8e325eefcf.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-10-11 19:41:06"
+  },
+  {
+    "id": 152817,
+    "name": "废柴实习生深藏不露",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261011-1/97db913e1e8a6288835f65b4bcd3579c.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-10-11 19:38:39"
+  },
+  {
+    "id": 152816,
+    "name": "被逃婚的方小姐",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261011-1/b031aee5bcd1e6fc2c70a8a1e1b036d5.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-10-11 19:37:32"
+  },
+  {
     "id": 152764,
     "name": "总裁他超护短",
     "type": "现代都市",
@@ -562,41 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-10-05 21:45:50"
-  },
-  {
-    "id": 152060,
-    "name": "渡你不渡劫",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261004-1/d32fcc8fe98df9aa07e55ed5e1b195cf.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-04 23:13:30"
-  },
-  {
-    "id": 152059,
-    "name": "变废为宝：我在末日开餐厅",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261004-1/a6e2fadc45d8e4fc66a292c85beee60a.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-04 23:11:20"
-  },
-  {
-    "id": 152058,
-    "name": "反内耗达人",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261004-1/240e41afd41514012c0e02465e163c95.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-04 23:08:01"
   }
 ]
