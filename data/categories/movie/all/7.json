@@ -1,5 +1,17 @@
 [
   {
+    "id": 142796,
+    "name": "与谭弗朗斯一起回家",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2023",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260808-1/94da6a361b4ad2e378ed8a483d4429a6.jpg",
+    "score": "5.0",
+    "remarks": "第5集完结",
+    "update_time": "2026-08-08 15:31:25"
+  },
+  {
     "id": 142795,
     "name": "猎虎贰",
     "type": "动作片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-05 16:50:47"
-  },
-  {
-    "id": 142336,
-    "name": "我的备胎女友",
-    "type": "喜剧片",
-    "category": "喜剧,爱情",
-    "year": "2016",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/2bebe2392fa23ecb92606c5976ee6f58.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-05 16:50:09"
   }
 ]

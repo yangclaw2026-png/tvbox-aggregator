@@ -1,5 +1,17 @@
 [
   {
+    "id": 145112,
+    "name": "不久，就要永别了",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260821-1/ad7f1edb6fecf461f6cdb86534fee4ce.jpg",
+    "score": "6.9",
+    "remarks": "正片",
+    "update_time": "2026-08-21 19:45:48"
+  },
+  {
     "id": 145148,
     "name": "鬼妻爱狠多",
     "type": "喜剧片",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "正片",
     "update_time": "2026-08-17 17:35:21"
-  },
-  {
-    "id": 144313,
-    "name": "养蜂人的对手",
-    "type": "惊悚片",
-    "category": "惊悚,犯罪",
-    "year": "2025",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260817-1/4abbf8700d03ceb8c7ee0bfac7556507.webp",
-    "score": "5.0",
-    "remarks": "抢先版",
-    "update_time": "2026-08-17 17:31:01"
   }
 ]

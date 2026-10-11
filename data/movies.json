@@ -1,5 +1,90 @@
 [
   {
+    "id": 150549,
+    "name": "锦绣天府",
+    "type": "纪录片",
+    "year": "2026",
+    "area": "中国大陆",
+    "language": "汉语普通话",
+    "category": "纪录片",
+    "poster": "https://dbzy5.com/upload/vod/20260920-1/4282b6e2801adb2fba8fbaabc1879b21.jpg",
+    "douban_id": 0,
+    "score": "0.0",
+    "remarks": "第4集",
+    "content": "<p>暂无简介</p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01集$https://vodcnd16.ajupf.com/20260919/vBxax26m/index.m3u8#第02集$https://vodcnd17.ajupf.com/20260926/PyiXRbMk/index.m3u8#第03集$https://vodcnd17.ajupf.com/20261003/6Z09ER1F/index.m3u8#第04集$https://vodcnd17.ajupf.com/20261010/dLc4kJnR/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/pTCIGFzED2#第02集$https://vodcnd17.ajupf.com/share/h1uGFhEVpu#第03集$https://vodcnd17.ajupf.com/share/GERC9Gsaag#第04集$https://vodcnd17.ajupf.com/share/gy8cKsDdeA",
+    "update_time": "2026-10-11 12:22:13"
+  },
+  {
+    "id": 152777,
+    "name": "2026赛季山西省男子篮球超级联赛第三阶段第五轮全场回放：运城市VS阳泉市",
+    "type": "篮球",
+    "year": "2026",
+    "area": "",
+    "language": "",
+    "category": "体育",
+    "poster": "https://dbzy5.com/upload/vod/20261011-1/65af7dac29b51a7c207aa6adc8073397.jpg",
+    "douban_id": 0,
+    "score": "5.0",
+    "remarks": "20261009",
+    "content": "",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01集$https://vodcnd17.ajupf.com/20261010/zwvJqvL7/index.m3u8$$$第01集$https://vodcnd17.ajupf.com/share/yXusqNOrno",
+    "update_time": "2026-10-11 12:20:52"
+  },
+  {
+    "id": 152776,
+    "name": "2026赛季湖南省足球联赛第十轮- 怀化队vs常德队",
+    "type": "足球",
+    "year": "2026",
+    "area": "",
+    "language": "",
+    "category": "体育",
+    "poster": "",
+    "douban_id": 0,
+    "score": "5.0",
+    "remarks": "20261009",
+    "content": "",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01集$https://vodcnd17.ajupf.com/20261010/65beyu3Y/index.m3u8$$$第01集$https://vodcnd17.ajupf.com/share/LiIJ96l84m",
+    "update_time": "2026-10-11 12:18:56"
+  },
+  {
+    "id": 152775,
+    "name": "2026湖南省足球联赛第10轮全场回放：长沙队VS株洲队",
+    "type": "足球",
+    "year": "2026",
+    "area": "",
+    "language": "",
+    "category": "体育",
+    "poster": "https://dbzy5.com/upload/vod/20261011-1/4da29d0f8aafe8cdbbfd8e83d9a31280.jpg",
+    "douban_id": 0,
+    "score": "5.0",
+    "remarks": "20261009",
+    "content": "",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01集$https://vodcnd17.ajupf.com/20261010/GoaFUXcq/index.m3u8$$$第01集$https://vodcnd17.ajupf.com/share/SgqNvsjhHh",
+    "update_time": "2026-10-11 12:17:16"
+  },
+  {
+    "id": 152774,
+    "name": "26_27赛季NBA季前赛全场回放：火箭VS独行",
+    "type": "篮球",
+    "year": "2026",
+    "area": "",
+    "language": "",
+    "category": "体育",
+    "poster": "https://dbzy5.com/upload/vod/20261011-1/1154041fea3a04c2eaecdd821af0888c.jpg",
+    "douban_id": 0,
+    "score": "5.0",
+    "remarks": "20261009",
+    "content": "",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01集$https://vodcnd17.ajupf.com/20261010/seQ5NRHD/index.m3u8$$$第01集$https://vodcnd17.ajupf.com/share/6TwqgOeYJ2",
+    "update_time": "2026-10-11 12:15:31"
+  },
+  {
     "id": 151973,
     "name": "转生了的大圣女，拼死隐瞒自己身为圣女",
     "type": "日本动漫",
@@ -246,7 +331,16 @@
     "content": "",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.ajupf.com/20261010/pEF618PH/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/HF1E4MIMqd",
-    "update_time": "2026-10-10 19:04:10"
+    "update_time": "2026-10-10 19:04:10",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 153366,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第01集"
+      }
+    ]
   },
   {
     "id": 152721,
@@ -263,7 +357,16 @@
     "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">The fans have spoken. Boston Blue and Sheriff Country are at the top of their “must-watch” lists, so CBS is renewing both freshmen for the 2026-27 season.</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.ajupf.com/20261010/HiDSqKo3/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/p8sL2G1Zie",
-    "update_time": "2026-10-10 19:02:09"
+    "update_time": "2026-10-10 19:02:09",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 153365,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第01集"
+      }
+    ]
   },
   {
     "id": 152700,
@@ -3089,6 +3192,13 @@
         "play_from": "lzm3u8",
         "play_url": null,
         "remarks": "更新至第02集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 165428,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第2集"
       }
     ]
   },
@@ -4426,6 +4536,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第20261003期"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 23431,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至20261010期"
       }
     ]
   },
@@ -78845,6 +78962,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第5集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 150508,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第5集"
       }
     ]
   },
@@ -131541,90 +131665,5 @@
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.ajupf.com/20260728/sC9N00bZ/index.m3u8#第02集$https://vodcnd16.ajupf.com/20260728/9gwZ4YNM/index.m3u8#第03集$https://vodcnd16.ajupf.com/20260729/LTol5DW1/index.m3u8#第04集$https://vodcnd16.ajupf.com/20260729/TEGfaGXT/index.m3u8#第05集$https://vodcnd16.ajupf.com/20260730/XEmS92Ac/index.m3u8#第06集$https://vodcnd16.ajupf.com/20260730/CFpuQmac/index.m3u8#第07集$https://vodcnd16.ajupf.com/20260731/ujZ1DHrR/index.m3u8#第08集$https://vodcnd16.ajupf.com/20260731/t5FRb8wR/index.m3u8#第09集$https://vodcnd16.ajupf.com/20260801/T00Hgedt/index.m3u8#第10集$https://vodcnd16.ajupf.com/20260801/r1m9tObs/index.m3u8#第11集$https://vodcnd17.ajupf.com/20260803/dkQL8sY2/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/3PxCpMYc3O#第02集$https://vodcnd16.ajupf.com/share/MqIcLNoFc5#第03集$https://vodcnd16.ajupf.com/share/P6teGBiqKu#第04集$https://vodcnd16.ajupf.com/share/Bc4gTO1FCn#第05集$https://vodcnd16.ajupf.com/share/HLjoyB3MYA#第06集$https://vodcnd16.ajupf.com/share/iizwAp9CCC#第07集$https://vodcnd16.ajupf.com/share/jxOeoFoH3P#第08集$https://vodcnd16.ajupf.com/share/vozStE4H62#第09集$https://vodcnd16.ajupf.com/share/H4GM4D1nmN#第10集$https://vodcnd16.ajupf.com/share/2WvBqFp4Q9#第11集$https://vodcnd17.ajupf.com/share/TN5MOgN4ok",
     "update_time": "2026-08-03 11:12:47"
-  },
-  {
-    "id": 141766,
-    "name": "东北往事之逆战江湖兄弟同途",
-    "type": "现代都市",
-    "year": "2026",
-    "area": "中国大陆",
-    "language": "汉语普通话",
-    "category": "短剧",
-    "poster": "https://dbzy5.com/upload/vod/20260801-1/3867d465d3a3defbb25f3ceb504e0a95.jpg",
-    "douban_id": 0,
-    "score": "0.0",
-    "remarks": "全集完结",
-    "content": "<p><span style=\"color: #666666; font-family: Arial, sans-serif; font-size: 18px; background-color: #FFFFFF;\">铁骨铮铮，义薄云天！毛家与梁梦一倾情出演，重现那段热血激昂的东北往事。在乱世江湖中，兄弟情谊能否经得起利益与生死的考验？剧情硬核写实，打斗场面精彩纷呈，充满浓郁的地域风情。没有华丽的特效，只有最真实的情感碰撞。看着主角们在困境中相互扶持，逆袭翻盘，怎能不让人热血沸腾？这是一部致敬经典、弘扬正气的佳作，绝对值得反复品味！</span></p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "全集完结$https://vodcnd16.ajupf.com/20260724/Rcty1eXZ/index.m3u8$$$全集完结$https://vodcnd16.ajupf.com/share/bXVIV2X4K9",
-    "update_time": "2026-08-02 23:14:13"
-  },
-  {
-    "id": 141769,
-    "name": "白月光回国我连夜备好离婚协议",
-    "type": "现代都市",
-    "year": "2026",
-    "area": "中国大陆",
-    "language": "汉语普通话",
-    "category": "短剧",
-    "poster": "https://dbzy5.com/upload/vod/20260801-1/7df780394e5485381723450290528d06.jpg",
-    "douban_id": 0,
-    "score": "0.0",
-    "remarks": "全集完结",
-    "content": "<p><span style=\"color: #666666; font-family: Arial, sans-serif; font-size: 18px; background-color: #FFFFFF;\">白月光回归，婚姻危机爆发！冯熙尧饰演的男主果断甩出离婚协议，上演极致爽剧。面对昔日挚爱的挑衅，女主不再隐忍，开启逆袭之路。斯坎的演绎细腻动人，将人物的复杂情感刻画得入木三分。从卑微到独立，每一步都踩在观众心尖上。追妻火葬场情节高能不断，打脸渣男令人畅快淋漓。这段感情纠葛究竟如何收场？快来见证这场关于爱与自由的终极考验！</span></p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "全集完结$https://vodcnd16.ajupf.com/20260724/uAvrUFke/index.m3u8$$$全集完结$https://vodcnd16.ajupf.com/share/Q7sBMYTi0j",
-    "update_time": "2026-08-02 23:11:48"
-  },
-  {
-    "id": 141770,
-    "name": "七零带三娃，高嫁后逆袭了",
-    "type": "现代都市",
-    "year": "2026",
-    "area": "中国大陆",
-    "language": "汉语普通话",
-    "category": "短剧",
-    "poster": "https://dbzy5.com/upload/vod/20260801-1/675aa83afeac94c95407130ed1bcb46f.jpg",
-    "douban_id": 0,
-    "score": "0.0",
-    "remarks": "全集完结",
-    "content": "<p>暂无简介</p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "全集完结$https://vodcnd16.ajupf.com/20260717/V77ssx04/index.m3u8$$$全集完结$https://vodcnd16.ajupf.com/share/jT4hLtnG7a",
-    "update_time": "2026-08-02 23:10:12"
-  },
-  {
-    "id": 141773,
-    "name": "生活甜了一度",
-    "type": "现代都市",
-    "year": "2026",
-    "area": "中国大陆",
-    "language": "汉语普通话",
-    "category": "短剧",
-    "poster": "https://dbzy5.com/upload/vod/20260801-1/a4cb059116202c78745acafee392b92b.jpg",
-    "douban_id": 0,
-    "score": "0.0",
-    "remarks": "全集完结",
-    "content": "<p><span style=\"color: #666666; font-family: Arial, sans-serif; font-size: 18px; background-color: #FFFFFF;\">谁说平淡日子没有糖？这部由AI制作打造的都市甜宠短剧，用细腻镜头捕捉日常中的微小确幸。主角在琐碎生活中意外邂逅温暖，从陌生到相知，每一帧都透着治愈气息。剧情不狗血、不拖沓，只有缓缓流淌的温情与心动。适合喜欢慢节奏情感流的观众，在繁忙间隙感受一份纯粹浪漫，让心灵得到短暂休憩与滋养。</span></p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "全集完结$https://vodcnd16.ajupf.com/20260717/MoK5Ht8K/index.m3u8$$$全集完结$https://vodcnd16.ajupf.com/share/nJkt4nEPr0",
-    "update_time": "2026-08-02 23:04:33"
-  },
-  {
-    "id": 141774,
-    "name": "误闯府门认对亲",
-    "type": "古装仙侠",
-    "year": "2026",
-    "area": "中国大陆",
-    "language": "汉语普通话",
-    "category": "短剧",
-    "poster": "https://dbzy5.com/upload/vod/20260801-1/3468d36ddeb00806b42c848eca734633.jpg",
-    "douban_id": 0,
-    "score": "0.0",
-    "remarks": "全集完结",
-    "content": "<p><span style=\"color: #666666; font-family: Arial, sans-serif; font-size: 18px; background-color: #FFFFFF;\">一次阴差阳错的闯入，竟揭开尘封多年的身世之谜！这部古风悬疑短剧以AI生成画面呈现华丽宅斗场景。女主误入豪门深院，凭借智慧周旋于各方势力之间，真假千金身份反转令人屏息。剧情紧凑高能，层层剥茧直指真相，既有亲情纠葛又有复仇爽感。看女主如何逆风翻盘，在尔虞我诈中守护属于自己的荣耀与尊严。</span></p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "全集完结$https://vodcnd16.ajupf.com/20260717/YJReP8AY/index.m3u8$$$全集完结$https://vodcnd16.ajupf.com/share/SoKZAMsEOx",
-    "update_time": "2026-08-02 23:00:03"
   }
 ]

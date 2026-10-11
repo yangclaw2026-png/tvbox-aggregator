@@ -1,5 +1,17 @@
 [
   {
+    "id": 144313,
+    "name": "养蜂人的对手",
+    "type": "惊悚片",
+    "category": "惊悚,犯罪",
+    "year": "2025",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260817-1/4abbf8700d03ceb8c7ee0bfac7556507.webp",
+    "score": "5.0",
+    "remarks": "抢先版",
+    "update_time": "2026-08-17 17:31:01"
+  },
+  {
     "id": 139638,
     "name": "功夫女足",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.4",
     "remarks": "正片",
     "update_time": "2026-08-13 15:48:49"
-  },
-  {
-    "id": 143641,
-    "name": "战中女人",
-    "type": "剧情片",
-    "category": "剧情,喜剧",
-    "year": "2018",
-    "area": "冰岛,法国,乌克兰",
-    "poster": "https://dbzy5.com/upload/vod/20260813-1/d7931c9c8f1786d96b859d3f56ab4edb.jpg",
-    "score": "7.1",
-    "remarks": "正片",
-    "update_time": "2026-08-13 15:46:20"
   }
 ]

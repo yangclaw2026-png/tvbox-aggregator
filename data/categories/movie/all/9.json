@@ -1,5 +1,17 @@
 [
   {
+    "id": 36442,
+    "name": "陌路兄弟",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2017",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250108-39/35502eac505838b95d08cae47832e131.jpg",
+    "score": "6.3",
+    "remarks": "正片",
+    "update_time": "2026-08-04 19:58:00"
+  },
+  {
     "id": 134263,
     "name": "冰雪坏皇后",
     "type": "动漫电影",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-03 16:57:21"
-  },
-  {
-    "id": 138802,
-    "name": "疑婴夜生",
-    "type": "惊悚片",
-    "category": "剧情 ， 惊悚",
-    "year": "2026",
-    "area": "法国",
-    "poster": "https://dbzy5.com/upload/vod/20260706-1/9c60fad7451f191b2a621114768e0980.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-03 16:57:17"
   }
 ]
