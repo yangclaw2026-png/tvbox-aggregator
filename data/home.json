@@ -1,5 +1,41 @@
 [
   {
+    "id": 152842,
+    "name": "莉兹·波登复苏",
+    "type": "惊悚片",
+    "category": "恐怖",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20261011-1/d791422d1834898869c4ab9d82ea678e.jpg",
+    "score": "5.0",
+    "remarks": "1",
+    "update_time": "2026-10-11 23:13:03"
+  },
+  {
+    "id": 152728,
+    "name": "蒸蒸日上",
+    "type": "国产剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261010-1/2f0e4e6732de8edd6dca7c7ee6ace213.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-10-11 23:10:17"
+  },
+  {
+    "id": 152841,
+    "name": "宴会之后 The Party",
+    "type": "欧美剧",
+    "category": "惊悚",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20261011-1/7436adea5ba504b840f08b0493550b73.jpg",
+    "score": "5.0",
+    "remarks": "第05集完结",
+    "update_time": "2026-10-11 23:09:19"
+  },
+  {
     "id": 152820,
     "name": "聋哑少女她能听到你的心声",
     "type": "AI短剧",
@@ -562,41 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-10-06 22:43:39"
-  },
-  {
-    "id": 152279,
-    "name": "认识二十年又如何",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261006-1/3278573f52b50a9f45bc77ffc43905f7.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-06 22:42:31"
-  },
-  {
-    "id": 152278,
-    "name": "锦鲤临门，良缘天降",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261006-1/38e034706373bcef27f409b76eb7a417.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-06 22:40:47"
-  },
-  {
-    "id": 152277,
-    "name": "凤座临世，帝唯予我倾心",
-    "type": "AI短剧",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261006-1/087b334932d488e75923fa93b4f7942c.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-06 22:39:44"
   }
 ]

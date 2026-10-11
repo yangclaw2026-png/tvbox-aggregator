@@ -1,5 +1,17 @@
 [
   {
+    "id": 142797,
+    "name": "一般人物",
+    "type": "喜剧片",
+    "category": "青春,喜剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260808-1/6008fc55b77d835773ccfff5063b17ae.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-08 15:36:30"
+  },
+  {
     "id": 142796,
     "name": "与谭弗朗斯一起回家",
     "type": "纪录片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-05 16:51:25"
-  },
-  {
-    "id": 142337,
-    "name": "桑托的黑色星期五",
-    "type": "恐怖片",
-    "category": "恐怖",
-    "year": "2021",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/92a0b58c6e9c3061cc0cd022d64f5453.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-05 16:50:47"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 152842,
+    "name": "莉兹·波登复苏",
+    "type": "惊悚片",
+    "category": "恐怖",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20261011-1/d791422d1834898869c4ab9d82ea678e.jpg",
+    "score": "5.0",
+    "remarks": "1",
+    "update_time": "2026-10-11 23:13:03"
+  },
+  {
     "id": 150549,
     "name": "锦绣天府",
     "type": "纪录片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-09-06 11:14:06"
-  },
-  {
-    "id": 148089,
-    "name": "异睡症",
-    "type": "恐怖片",
-    "category": "恐怖",
-    "year": "2025",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260905-1/b2d0005e5a4286a048a9587667776dc5.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-09-05 22:18:49"
   }
 ]

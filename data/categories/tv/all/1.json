@@ -1,5 +1,29 @@
 [
   {
+    "id": 152728,
+    "name": "蒸蒸日上",
+    "type": "国产剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261010-1/2f0e4e6732de8edd6dca7c7ee6ace213.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-10-11 23:10:17"
+  },
+  {
+    "id": 152841,
+    "name": "宴会之后 The Party",
+    "type": "欧美剧",
+    "category": "惊悚",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20261011-1/7436adea5ba504b840f08b0493550b73.jpg",
+    "score": "5.0",
+    "remarks": "第05集完结",
+    "update_time": "2026-10-11 23:09:19"
+  },
+  {
     "id": 152611,
     "name": "美人余",
     "type": "国产剧",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第11集完结",
     "update_time": "2026-09-08 18:08:47"
-  },
-  {
-    "id": 148457,
-    "name": "死有对证（粤语版）",
-    "type": "香港剧",
-    "category": "剧情,悬疑,犯罪",
-    "year": "2026",
-    "area": "中国香港",
-    "poster": "https://dbzy5.com/upload/vod/20260908-1/e5b104ff9ab243cb9a82d74c7bda829c.jpg",
-    "score": "5.0",
-    "remarks": "第1集",
-    "update_time": "2026-09-08 11:20:42"
-  },
-  {
-    "id": 125882,
-    "name": "呼叫助产士 第十五季",
-    "type": "欧美剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "英国",
-    "poster": "https://dbzy5.com/upload/vod/20260319-1/9b9094fdb8760f05aa5b6c8e84cf3056.jpg",
-    "score": "5.0",
-    "remarks": "第10集完结",
-    "update_time": "2026-09-08 11:12:36"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 132368,
+    "name": "游戏结束",
+    "type": "剧情片",
+    "category": "剧情,惊悚",
+    "year": "2019",
+    "area": "印度",
+    "poster": "https://dbzy5.com/upload/vod/20260518-1/0cf6d470da2e0b17c4850b292f35387e.jpg",
+    "score": "5.4",
+    "remarks": "正片",
+    "update_time": "2026-08-13 15:48:49"
+  },
+  {
     "id": 143641,
     "name": "战中女人",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-08 16:06:38"
-  },
-  {
-    "id": 142797,
-    "name": "一般人物",
-    "type": "喜剧片",
-    "category": "青春,喜剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260808-1/6008fc55b77d835773ccfff5063b17ae.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-08 15:36:30"
   }
 ]

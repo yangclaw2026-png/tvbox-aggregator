@@ -1,5 +1,17 @@
 [
   {
+    "id": 152728,
+    "name": "蒸蒸日上",
+    "type": "国产剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261010-1/2f0e4e6732de8edd6dca7c7ee6ace213.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-10-11 23:10:17"
+  },
+  {
     "id": 152611,
     "name": "美人余",
     "type": "国产剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第3集",
     "update_time": "2026-08-24 11:11:40"
-  },
-  {
-    "id": 143270,
-    "name": "重器",
-    "type": "国产剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260810-1/23b567034d837aaf00f535195706fbb9.jpg",
-    "score": "5.0",
-    "remarks": "第33集完结",
-    "update_time": "2026-08-23 20:16:45"
   }
 ]

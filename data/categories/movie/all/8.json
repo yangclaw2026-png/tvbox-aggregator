@@ -1,5 +1,17 @@
 [
   {
+    "id": 142337,
+    "name": "桑托的黑色星期五",
+    "type": "恐怖片",
+    "category": "恐怖",
+    "year": "2021",
+    "area": "菲律宾",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/92a0b58c6e9c3061cc0cd022d64f5453.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-05 16:50:47"
+  },
+  {
     "id": 142336,
     "name": "我的备胎女友",
     "type": "喜剧片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-04 20:34:09"
-  },
-  {
-    "id": 135132,
-    "name": "调音师 2025",
-    "type": "惊悚片",
-    "category": "惊悚,犯罪",
-    "year": "2025",
-    "area": "加拿大,美国",
-    "poster": "https://dbzy5.com/upload/vod/20260606-1/c27d4577d0f785bbecc7359269f8db23.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-04 20:09:31"
   }
 ]
