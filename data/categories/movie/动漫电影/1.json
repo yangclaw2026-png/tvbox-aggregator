@@ -1,5 +1,17 @@
 [
   {
+    "id": 153056,
+    "name": "饥明：血疫初现",
+    "type": "动漫电影",
+    "category": "动画，古装 ，悬疑",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261013-1/43975a34f72c28d300979f9521eaf68a.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-10-13 22:44:44"
+  },
+  {
     "id": 151128,
     "name": "名侦探柯南：30号杀人事件",
     "type": "动漫电影",
@@ -298,17 +310,5 @@
     "score": "8.7",
     "remarks": "正片",
     "update_time": "2026-08-03 21:34:48"
-  },
-  {
-    "id": 141991,
-    "name": "罗马角斗士",
-    "type": "动漫电影",
-    "category": "喜剧,动画,冒险",
-    "year": "2012",
-    "area": "意大利",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/a6d26625a5dff479318933edcafaf1d1.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-03 15:54:53"
   }
 ]

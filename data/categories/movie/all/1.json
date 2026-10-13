@@ -1,5 +1,29 @@
 [
   {
+    "id": 153056,
+    "name": "饥明：血疫初现",
+    "type": "动漫电影",
+    "category": "动画，古装 ，悬疑",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261013-1/43975a34f72c28d300979f9521eaf68a.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-10-13 22:44:44"
+  },
+  {
+    "id": 153051,
+    "name": "战神戚继光之不让江山",
+    "type": "战争片",
+    "category": "历史,战争,动作",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261013-1/b90a5dd3725b7ef546e1c7859859c91f.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-10-13 22:41:42"
+  },
+  {
     "id": 151930,
     "name": "人物·故事",
     "type": "剧情片",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-09-10 17:15:42"
-  },
-  {
-    "id": 148455,
-    "name": "恶海捕蟹记 第十八季",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "",
-    "poster": "https://dbzy5.com/upload/vod/20260908-1/d343ccf9482246455d5828fff436d49b.jpg",
-    "score": "5.0",
-    "remarks": "第12集完结",
-    "update_time": "2026-09-08 11:19:12"
-  },
-  {
-    "id": 139316,
-    "name": "海洋奇缘：启航",
-    "type": "剧情片",
-    "category": "喜剧,动作,歌舞,奇幻,冒险",
-    "year": "2026",
-    "area": "美国,新西兰",
-    "poster": "https://dbzy5.com/upload/vod/20260710-1/b761bcea05368ba0fac07252c0568757.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-09-07 22:59:26"
   }
 ]

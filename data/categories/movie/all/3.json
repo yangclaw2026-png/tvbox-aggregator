@@ -1,5 +1,29 @@
 [
   {
+    "id": 145919,
+    "name": "阳光舞者",
+    "type": "剧情片",
+    "category": "剧情,喜剧",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260825-1/8588e487b35f557ebf6f1af450342d4b.jpg",
+    "score": "5.0",
+    "remarks": "抢先版",
+    "update_time": "2026-08-25 23:02:17"
+  },
+  {
+    "id": 145915,
+    "name": "歪心狼对阵ACME",
+    "type": "动漫电影",
+    "category": "喜剧 ，动画 ， 奇幻 ， 冒险",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260825-1/33474991b4930a20ec9dd874dfe4d460.jpg",
+    "score": "5.0",
+    "remarks": "抢先版",
+    "update_time": "2026-08-25 22:50:44"
+  },
+  {
     "id": 145913,
     "name": "罪火焦点",
     "type": "剧情片",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "抢先版",
     "update_time": "2026-08-21 21:04:01"
-  },
-  {
-    "id": 145171,
-    "name": "牺牲",
-    "type": "喜剧片",
-    "category": "喜剧 ，动作 ，冒险",
-    "year": "2025",
-    "area": "英国",
-    "poster": "https://dbzy5.com/upload/vod/20260821-1/8007d037a7c7c4a181278b842cfe1f00.jpg",
-    "score": "5.0",
-    "remarks": "抢先版",
-    "update_time": "2026-08-21 20:51:30"
-  },
-  {
-    "id": 145164,
-    "name": "潜伏6",
-    "type": "恐怖片",
-    "category": "悬疑 ，惊悚 ，恐怖",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260821-1/0c2db9ab2320ea3660bd6910e07631fb.jpg",
-    "score": "5.0",
-    "remarks": "抢先版",
-    "update_time": "2026-08-21 20:35:22"
   }
 ]

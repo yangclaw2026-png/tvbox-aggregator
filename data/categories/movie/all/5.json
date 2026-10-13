@@ -1,5 +1,29 @@
 [
   {
+    "id": 144398,
+    "name": "速战速决",
+    "type": "动作片",
+    "category": "动作,犯罪",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260818-1/db7f0a20d37b23b5d82a42d431c2a0e0.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-18 12:08:26"
+  },
+  {
+    "id": 144391,
+    "name": "“翰墨追风”故宫马文物中的文化故事",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260817-1/89fddd74eaaf7cc284032facee4e525c.jpg",
+    "score": "5.0",
+    "remarks": "第7集完结",
+    "update_time": "2026-08-17 23:17:25"
+  },
+  {
     "id": 144336,
     "name": "隐秘的局中局",
     "type": "剧情片",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第5集完结",
     "update_time": "2026-08-13 20:10:58"
-  },
-  {
-    "id": 141541,
-    "name": "奇趣美术馆（中配版）",
-    "type": "纪录片",
-    "category": "喜剧 ， 纪录片",
-    "year": "2018",
-    "area": "法国",
-    "poster": "https://dbzy5.com/upload/vod/20260730-1/f69303dbc40c786e26e3d46d34f13c8c.jpg",
-    "score": "9.1",
-    "remarks": "第30集",
-    "update_time": "2026-08-13 19:54:06"
-  },
-  {
-    "id": 143672,
-    "name": "潮汐低语",
-    "type": "剧情片",
-    "category": "剧情,爱情",
-    "year": "2025",
-    "area": "中国香港",
-    "poster": "https://dbzy5.com/upload/vod/20260813-1/c000107da89e3214be0dfc9e6af47800.jpg",
-    "score": "7.4",
-    "remarks": "正片",
-    "update_time": "2026-08-13 16:33:54"
   }
 ]
