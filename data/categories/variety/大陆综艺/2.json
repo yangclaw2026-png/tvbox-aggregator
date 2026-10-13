@@ -1,5 +1,17 @@
 [
   {
+    "id": 139728,
+    "name": "前浪第二季",
+    "type": "大陆综艺",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260714-1/8767aa7f19a5a1698a03806d928c7ecb.jpg",
+    "score": "5.0",
+    "remarks": "第7集",
+    "update_time": "2026-08-25 21:57:38"
+  },
+  {
     "id": 143328,
     "name": "加油！汪汪",
     "type": "大陆综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第15期完结",
     "update_time": "2026-08-15 16:34:39"
-  },
-  {
-    "id": 142125,
-    "name": "耀眼角色番综·耀眼一夏",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/e064ce3938d87389e5a14468f086f55b.jpg",
-    "score": "5.0",
-    "remarks": "第20260815期",
-    "update_time": "2026-08-15 16:29:56"
   }
 ]

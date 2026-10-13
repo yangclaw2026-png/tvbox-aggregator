@@ -1,5 +1,17 @@
 [
   {
+    "id": 143524,
+    "name": "宠宠冲冲冲",
+    "type": "大陆综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260812-1/eea0a65ae26ef21024267d6e5289defe.jpg",
+    "score": "5.0",
+    "remarks": "20260826第6期",
+    "update_time": "2026-08-26 19:19:50"
+  },
+  {
     "id": 137484,
     "name": "地球超新鲜 第二季",
     "type": "大陆综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第20260823期纯享版",
     "update_time": "2026-08-23 21:20:07"
-  },
-  {
-    "id": 145460,
-    "name": "飞玩不可",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2025",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260823-1/7fecaa63822c800c2f7cdbf64a37bdf2.jpg",
-    "score": "5.0",
-    "remarks": "20260822第30期",
-    "update_time": "2026-08-23 20:26:01"
   }
 ]

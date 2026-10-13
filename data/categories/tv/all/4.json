@@ -1,5 +1,17 @@
 [
   {
+    "id": 138814,
+    "name": "一次元的扦插",
+    "type": "日本剧",
+    "category": "剧情,悬疑",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260707-1/0061c58b43185fd4d749e0bbfebf0e58.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-24 20:00:02"
+  },
+  {
     "id": 144396,
     "name": "绿灯军团",
     "type": "欧美剧",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "第6集",
     "update_time": "2026-08-22 20:42:11"
-  },
-  {
-    "id": 143925,
-    "name": "新喋血青春",
-    "type": "泰国剧",
-    "category": "剧情,动作",
-    "year": "2026",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260815-1/2829b8ba4fce2db29f074e78a83678c3.jpg",
-    "score": "5.0",
-    "remarks": "第4集",
-    "update_time": "2026-08-22 20:34:38"
   }
 ]

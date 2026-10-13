@@ -1,5 +1,17 @@
 [
   {
+    "id": 142125,
+    "name": "耀眼角色番综·耀眼一夏",
+    "type": "大陆综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260804-1/e064ce3938d87389e5a14468f086f55b.jpg",
+    "score": "5.0",
+    "remarks": "第20260815期",
+    "update_time": "2026-08-15 16:29:56"
+  },
+  {
     "id": 136613,
     "name": "国医少年志 第三季",
     "type": "大陆综艺",
@@ -286,17 +298,5 @@
     "score": "5.0",
     "remarks": "第6期",
     "update_time": "2026-08-03 21:20:50"
-  },
-  {
-    "id": 141970,
-    "name": "时代追梦人",
-    "type": "大陆综艺",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/ec2ea40870b82bb0c04f8b0b068a06e3.jpg",
-    "score": "5.0",
-    "remarks": "第3期",
-    "update_time": "2026-08-03 15:19:15"
   }
 ]

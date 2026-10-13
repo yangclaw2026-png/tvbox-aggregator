@@ -1,5 +1,17 @@
 [
   {
+    "id": 144336,
+    "name": "隐秘的局中局",
+    "type": "剧情片",
+    "category": "剧情,犯罪",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260817-1/dd97f8238ac9a9341982057c5663b8de.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-17 19:21:34"
+  },
+  {
     "id": 57990,
     "name": "长城",
     "type": "动作片",
@@ -586,17 +598,5 @@
     "score": "7.4",
     "remarks": "正片",
     "update_time": "2026-08-13 16:33:54"
-  },
-  {
-    "id": 143671,
-    "name": "灾 电影版",
-    "type": "剧情片",
-    "category": "剧情,悬疑,惊悚",
-    "year": "2025",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260813-1/ec08f3c46ce633408e27444960b05e06.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-13 16:30:36"
   }
 ]

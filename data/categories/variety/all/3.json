@@ -1,5 +1,17 @@
 [
   {
+    "id": 145460,
+    "name": "飞玩不可",
+    "type": "大陆综艺",
+    "category": "真人秀",
+    "year": "2025",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260823-1/7fecaa63822c800c2f7cdbf64a37bdf2.jpg",
+    "score": "5.0",
+    "remarks": "20260822第30期",
+    "update_time": "2026-08-23 20:26:01"
+  },
+  {
     "id": 145435,
     "name": "亚当雷秀",
     "type": "欧美综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第12集",
     "update_time": "2026-08-17 12:59:42"
-  },
-  {
-    "id": 134255,
-    "name": "半熟恋人 第五季",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260601-1/13027e973330fd298e326b7b8f0338c5.jpg",
-    "score": "5.0",
-    "remarks": "第20260816期特别加更",
-    "update_time": "2026-08-16 17:07:25"
   }
 ]

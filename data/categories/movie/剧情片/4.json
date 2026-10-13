@@ -1,5 +1,17 @@
 [
   {
+    "id": 142109,
+    "name": "异林：秘境寻踪",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260804-1/ce2c98e75223bcf993da0ae68a10aec3.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-04 12:00:36"
+  },
+  {
     "id": 142106,
     "name": "巴兰吉加：咆哮的荒野",
     "type": "剧情片",
@@ -118,113 +130,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-03 15:47:38"
-  },
-  {
-    "id": 141987,
-    "name": "鬼新娘 2017",
-    "type": "剧情片",
-    "category": "剧情,恐怖,奇幻",
-    "year": "2017",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/64e5094dc74057fd8469c72a5cbe6c76.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-03 15:40:21"
-  },
-  {
-    "id": 141986,
-    "name": "荣光与暗影",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2026",
-    "area": "法国",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/f8a88e5c7021246ae4b08a6f45d99e1b.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-03 15:36:27"
-  },
-  {
-    "id": 141984,
-    "name": "价格战",
-    "type": "剧情片",
-    "category": "剧情,惊悚",
-    "year": "2026",
-    "area": "法国",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/f1d68ce98d3d4df42bb190c707ae45e0.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-03 15:34:08"
-  },
-  {
-    "id": 141977,
-    "name": "铁牛金刚",
-    "type": "剧情片",
-    "category": "剧情,犯罪,黑色电影",
-    "year": "1950",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/029156355fa899f570ccfb8989c62933.jpg",
-    "score": "7.5",
-    "remarks": "正片",
-    "update_time": "2026-08-03 15:29:21"
-  },
-  {
-    "id": 141975,
-    "name": "旋涡 1949",
-    "type": "剧情片",
-    "category": "剧情,悬疑,犯罪,黑色电影",
-    "year": "1949",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/984f3b5612dffba137bede22cd728924.jpg",
-    "score": "7.1",
-    "remarks": "正片",
-    "update_time": "2026-08-03 15:25:57"
-  },
-  {
-    "id": 141973,
-    "name": "周末大行动",
-    "type": "剧情片",
-    "category": "剧情,动作,惊悚,犯罪",
-    "year": "1984",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/9ec7e79c7d8e4f62bf06ad2163bdfa7b.jpg",
-    "score": "6.0",
-    "remarks": "正片",
-    "update_time": "2026-08-03 15:23:44"
-  },
-  {
-    "id": 141971,
-    "name": "年轻食尸鬼的赞歌",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2014",
-    "area": "加拿大",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/d67c603ef6012596e98533e020b26803.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-03 15:22:40"
-  },
-  {
-    "id": 141962,
-    "name": "战猪 2015",
-    "type": "剧情片",
-    "category": "剧情,动作,战争",
-    "year": "2015",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/536205cf50aa3a8a2af1f007cb985e21.jpg",
-    "score": "4.6",
-    "remarks": "正片",
-    "update_time": "2026-08-03 15:21:17"
-  },
-  {
-    "id": 141706,
-    "name": "无可救药爱上你",
-    "type": "剧情片",
-    "category": "剧情,爱情",
-    "year": "2018",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260801-1/2517bb7885cddbb4dad7ced75031c0c2.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-03 15:18:08"
   }
 ]

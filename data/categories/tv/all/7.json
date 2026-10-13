@@ -1,5 +1,17 @@
 [
   {
+    "id": 140201,
+    "name": "江海潮生",
+    "type": "国产剧",
+    "category": "传记 ， 历史 ，古装",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260721-1/9cca10dac8b8f530950ca1cb4977c55c.jpg",
+    "score": "5.0",
+    "remarks": "第30集",
+    "update_time": "2026-08-10 21:27:26"
+  },
+  {
     "id": 137223,
     "name": "龙之家族 第三季",
     "type": "欧美剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第10集完结",
     "update_time": "2026-08-04 20:36:11"
-  },
-  {
-    "id": 137565,
-    "name": "冒险雷探长",
-    "type": "国产剧",
-    "category": "纪录片",
-    "year": "2014",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260627-1/2b2ba5d7e97cfa95af27e92fbc7cebe7.jpg",
-    "score": "5.0",
-    "remarks": "第402集",
-    "update_time": "2026-08-04 20:32:26"
   }
 ]

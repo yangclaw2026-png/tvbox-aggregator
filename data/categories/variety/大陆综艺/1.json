@@ -1,5 +1,17 @@
 [
   {
+    "id": 148343,
+    "name": "哥哥来啦",
+    "type": "大陆综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260907-1/959996e06599e74744b6ef50b8b7788a.jpg",
+    "score": "5.0",
+    "remarks": "20261013第9期：王啸坤回应“音乐总监”称号感慨薛之谦为其舞台落泪",
+    "update_time": "2026-10-13 20:40:32"
+  },
+  {
     "id": 152234,
     "name": "天网",
     "type": "大陆综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第20260825期",
     "update_time": "2026-08-25 22:35:15"
-  },
-  {
-    "id": 139728,
-    "name": "前浪第二季",
-    "type": "大陆综艺",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260714-1/8767aa7f19a5a1698a03806d928c7ecb.jpg",
-    "score": "5.0",
-    "remarks": "第7集",
-    "update_time": "2026-08-25 21:57:38"
   }
 ]
