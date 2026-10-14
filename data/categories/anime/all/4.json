@@ -1,5 +1,65 @@
 [
   {
+    "id": 145959,
+    "name": "全民深渊：我喝药能增加属性上限",
+    "type": "国产动漫",
+    "category": "动画,热血,冒险,奇幻",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260826-1/ca7f5df8fec6451a73ddb411d1eca1a7.jpg",
+    "score": "5.0",
+    "remarks": "第77集",
+    "update_time": "2026-08-26 13:31:32"
+  },
+  {
+    "id": 107750,
+    "name": "启运丹田：开局签到至尊丹田",
+    "type": "国产动漫",
+    "category": "动作,动画,奇幻",
+    "year": "2025",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20251004-1/58c47ff07664376b6bfa72b8e3b2def8.jpg",
+    "score": "5.0",
+    "remarks": "第24集",
+    "update_time": "2026-08-26 13:30:57"
+  },
+  {
+    "id": 143060,
+    "name": "三角洲：造物主玩家",
+    "type": "国产动漫",
+    "category": "科幻,动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260810-1/0d78d89cc703cd50e76d27e86f0443fd.jpg",
+    "score": "5.0",
+    "remarks": "第11集",
+    "update_time": "2026-08-26 13:30:26"
+  },
+  {
+    "id": 141365,
+    "name": "李熊猫",
+    "type": "国产动漫",
+    "category": "喜剧,动作,动画,奇幻",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260729-1/8c4166d9904a4329b0aee21d555f5f52.jpg",
+    "score": "5.0",
+    "remarks": "第7集",
+    "update_time": "2026-08-26 13:29:54"
+  },
+  {
+    "id": 141366,
+    "name": "界门之下",
+    "type": "国产动漫",
+    "category": "动作,动画,奇幻",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260729-1/d7990d203066fc8c23c5da6b448764f5.jpg",
+    "score": "5.0",
+    "remarks": "第11集",
+    "update_time": "2026-08-26 13:29:22"
+  },
+  {
     "id": 119,
     "name": "都市古仙医",
     "type": "国产动漫",
@@ -538,65 +598,5 @@
     "score": "6.5",
     "remarks": "第477集",
     "update_time": "2026-08-25 17:31:34"
-  },
-  {
-    "id": 659,
-    "name": "武神主宰 2020",
-    "type": "国产动漫",
-    "category": "其他,中国动漫,动画",
-    "year": "2020",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250109-5/34f751a1d9bf9d6af19c09a1aab5f264.jpg",
-    "score": "5.0",
-    "remarks": "第686集",
-    "update_time": "2026-08-25 17:28:13"
-  },
-  {
-    "id": 138980,
-    "name": "百日成王",
-    "type": "国产动漫",
-    "category": "喜剧,动作,动画,奇幻",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260708-1/815d3a03ba2d93fef1a4721b75a06617.jpg",
-    "score": "5.0",
-    "remarks": "第19集",
-    "update_time": "2026-08-25 17:05:03"
-  },
-  {
-    "id": 141197,
-    "name": "一斩苍穹",
-    "type": "国产动漫",
-    "category": "喜剧 ， 动作 ，动画 ， 奇幻",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260728-1/9755119f2d60537f851b37fc252a5651.jpg",
-    "score": "5.0",
-    "remarks": "第6集",
-    "update_time": "2026-08-25 15:53:42"
-  },
-  {
-    "id": 135797,
-    "name": "万人之上 2026",
-    "type": "国产动漫",
-    "category": "动作,动画,奇幻",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260609-1/7467169c9e2aa22b7b4af3a1ac9905c0.jpg",
-    "score": "5.0",
-    "remarks": "第14集完结",
-    "update_time": "2026-08-25 15:09:38"
-  },
-  {
-    "id": 142635,
-    "name": "掌门低调点 2026",
-    "type": "国产动漫",
-    "category": "喜剧,动作,动画,奇幻",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260807-1/d36f09c0da46f29701044ebd15cbdc47.jpg",
-    "score": "5.0",
-    "remarks": "第22集",
-    "update_time": "2026-08-25 14:20:08"
   }
 ]

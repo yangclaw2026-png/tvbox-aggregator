@@ -1,5 +1,29 @@
 [
   {
+    "id": 145178,
+    "name": "夜巡毒枭",
+    "type": "动作片",
+    "category": "动作 ， 犯罪",
+    "year": "2026",
+    "area": "墨西哥",
+    "poster": "https://dbzy5.com/upload/vod/20260821-1/2e1407211dc1c9162f8753ab59fe1ee3.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-21 21:25:37"
+  },
+  {
+    "id": 145174,
+    "name": "想你了",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260821-1/94c493c748c1a66c5620b7e1080c0942.jpg",
+    "score": "5.0",
+    "remarks": "抢先版",
+    "update_time": "2026-08-21 21:04:01"
+  },
+  {
     "id": 145171,
     "name": "牺牲",
     "type": "喜剧片",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-18 13:43:54"
-  },
-  {
-    "id": 55504,
-    "name": "我盛大的希腊婚礼2",
-    "type": "爱情片",
-    "category": "喜剧,爱情",
-    "year": "2016",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20250107-15/961cde4980b52c5e4d793f950ddb550d.jpg",
-    "score": "6.7",
-    "remarks": "正片",
-    "update_time": "2026-08-18 13:27:55"
-  },
-  {
-    "id": 137052,
-    "name": "玩具总动员5",
-    "type": "剧情片",
-    "category": "剧情,喜剧,动画,奇幻,冒险",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260619-1/8af6542f7717b70dda99d3169960063f.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-18 12:31:43"
   }
 ]

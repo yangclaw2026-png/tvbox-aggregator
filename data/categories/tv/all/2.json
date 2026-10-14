@@ -1,5 +1,53 @@
 [
   {
+    "id": 149229,
+    "name": "命悬一心",
+    "type": "海外剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "哥伦比亚",
+    "poster": "https://dbzy5.com/upload/vod/20260912-1/668660da43820190de36084e200ba2f5.jpg",
+    "score": "5.0",
+    "remarks": "第30集完结",
+    "update_time": "2026-09-12 11:22:52"
+  },
+  {
+    "id": 148216,
+    "name": "交锋",
+    "type": "国产剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260906-1/f7702476bb1dc6c41d881fac1d433592.jpg",
+    "score": "5.0",
+    "remarks": "第13集",
+    "update_time": "2026-09-11 18:38:12"
+  },
+  {
+    "id": 148775,
+    "name": "深渊无间",
+    "type": "国产剧",
+    "category": "剧情,悬疑,犯罪",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260909-1/6016f3d631594ad759276b63a42ae083.jpg",
+    "score": "5.0",
+    "remarks": "第7集",
+    "update_time": "2026-09-10 18:16:52"
+  },
+  {
+    "id": 148571,
+    "name": "请记住我的名字",
+    "type": "泰国剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260908-1/f09fb54614b5233bcfe607935ceb4bb1.jpg",
+    "score": "0.0",
+    "remarks": "第2集",
+    "update_time": "2026-09-08 22:58:00"
+  },
+  {
     "id": 148576,
     "name": "高墙边的混乱 第五季",
     "type": "欧美剧",
@@ -550,53 +598,5 @@
     "score": "5.0",
     "remarks": "第23集",
     "update_time": "2026-08-27 13:32:10"
-  },
-  {
-    "id": 138990,
-    "name": "再见黑色",
-    "type": "日本剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260708-1/ba6b456fb5800e16b3122e24762c7b6b.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-27 13:11:42"
-  },
-  {
-    "id": 138813,
-    "name": "要再做一次夫妇吗？～伪装夫妇",
-    "type": "日本剧",
-    "category": "爱情,悬疑",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260707-1/19ba52999311c08e929e60bc16d54489.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-27 13:08:47"
-  },
-  {
-    "id": 144601,
-    "name": "师兄太稳健",
-    "type": "国产剧",
-    "category": "剧情,奇幻,古装",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260819-1/d2a46e0b3b58dc6038976692d6a5ca60.jpg",
-    "score": "5.0",
-    "remarks": "第17集",
-    "update_time": "2026-08-27 13:07:30"
-  },
-  {
-    "id": 146123,
-    "name": "恶海捕蟹记 第十六季",
-    "type": "欧美剧",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260827-1/94031e5fc872630e28d30dcaff195fde.jpg",
-    "score": "5.0",
-    "remarks": "第8集完结",
-    "update_time": "2026-08-27 13:02:27"
   }
 ]

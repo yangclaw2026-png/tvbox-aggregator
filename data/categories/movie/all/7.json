@@ -1,5 +1,29 @@
 [
   {
+    "id": 142860,
+    "name": "缎带骑士",
+    "type": "动漫电影",
+    "category": "动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260808-1/e7ec9ac47c5b44eb3e772744f41d7e31.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-08 21:27:35"
+  },
+  {
+    "id": 142859,
+    "name": "桑德坎",
+    "type": "剧情片",
+    "category": "剧情 ， 动作 ， 冒险",
+    "year": "2025",
+    "area": "西班牙",
+    "poster": "https://dbzy5.com/upload/vod/20260808-1/dd2dd10fcc05425e362cef7fb7095488.jpg",
+    "score": "5.0",
+    "remarks": "第8集完结",
+    "update_time": "2026-08-08 21:12:44"
+  },
+  {
     "id": 142850,
     "name": "破暗",
     "type": "动作片",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-05 16:55:28"
-  },
-  {
-    "id": 142334,
-    "name": "长袜子皮皮 1997",
-    "type": "动漫电影",
-    "category": "动画,歌舞,冒险",
-    "year": "1997",
-    "area": "瑞典,德国,加拿大",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/b56071846b58687ebfc64cbe46a7c44c.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-05 16:54:57"
-  },
-  {
-    "id": 142333,
-    "name": "你要嫁人吗",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2021",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/c5ba16ce4ca72ba0b85f238086e7f746.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-05 16:53:51"
   }
 ]

@@ -1,5 +1,65 @@
 [
   {
+    "id": 141764,
+    "name": "精灵梦叶罗丽 第十一季（下）",
+    "type": "国产动漫",
+    "category": "剧情,动画,儿童",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260801-1/b0bdf19667c5ffa6f7f6e655faa8f00e.jpg",
+    "score": "5.0",
+    "remarks": "第42集",
+    "update_time": "2026-08-27 19:52:40"
+  },
+  {
+    "id": 146278,
+    "name": "惊悚游戏降临系统最怕我这种玩家",
+    "type": "国产动漫",
+    "category": "动画,恐怖,反转,脑洞",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260827-1/b769d2683d9dc879bf28e2ec495fc2fd.jpg",
+    "score": "5.0",
+    "remarks": "第60集完结",
+    "update_time": "2026-08-27 19:01:22"
+  },
+  {
+    "id": 143139,
+    "name": "霸王龙雷奇之雷奇知多少",
+    "type": "国产动漫",
+    "category": "动画,少儿,萌系,日常",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260810-1/3aec8005c23464a5df7d99a5cf9f9eef.jpg",
+    "score": "5.0",
+    "remarks": "第46集",
+    "update_time": "2026-08-27 18:37:27"
+  },
+  {
+    "id": 135988,
+    "name": "猎魔女团之无畏同行",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260610-1/526e23bdcb5f167515dd3915a460f4ad.jpg",
+    "score": "5.0",
+    "remarks": "第67集",
+    "update_time": "2026-08-27 18:34:14"
+  },
+  {
+    "id": 146261,
+    "name": "我靠净化术收红衣女鬼当队友",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260827-1/0bfcb945a2705357a43efac8396886e5.jpg",
+    "score": "5.0",
+    "remarks": "第60集完结",
+    "update_time": "2026-08-27 18:32:45"
+  },
+  {
     "id": 145960,
     "name": "和平精英：地铁逃生",
     "type": "国产动漫",
@@ -538,65 +598,5 @@
     "score": "5.0",
     "remarks": "第19集",
     "update_time": "2026-08-27 11:34:30"
-  },
-  {
-    "id": 133403,
-    "name": "逆天邪神 年番",
-    "type": "国产动漫",
-    "category": "动作,动画,奇幻,古装",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260525-1/6c00652da83a3d2246a59586a02054e7.jpg",
-    "score": "5.0",
-    "remarks": "第52集",
-    "update_time": "2026-08-27 11:34:08"
-  },
-  {
-    "id": 141210,
-    "name": "新开心球 第一季",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260728-1/760a3d933c4e29866656b1b058ef7940.jpg",
-    "score": "5.0",
-    "remarks": "第41集",
-    "update_time": "2026-08-27 11:33:58"
-  },
-  {
-    "id": 124744,
-    "name": "盗妖行",
-    "type": "国产动漫",
-    "category": "喜剧,动作,动画,奇幻",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260303-1/0aec3801ec27a525fc654c0e25277ed6.jpg",
-    "score": "5.0",
-    "remarks": "第57集",
-    "update_time": "2026-08-27 11:33:20"
-  },
-  {
-    "id": 142422,
-    "name": "小樱桃 第二季",
-    "type": "国产动漫",
-    "category": "动画,少儿",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260806-1/cf3d17c4d7cf4952a167010d3e8219ee.jpg",
-    "score": "5.0",
-    "remarks": "第15集",
-    "update_time": "2026-08-27 11:33:09"
-  },
-  {
-    "id": 130168,
-    "name": "楚新钓鱼 第二季",
-    "type": "国产动漫",
-    "category": "中国动漫",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260429-1/0de3a0ded4bcd30b40530035b80b0b7c.jpg",
-    "score": "5.0",
-    "remarks": "第185集",
-    "update_time": "2026-08-27 11:32:41"
   }
 ]

@@ -1,5 +1,53 @@
 [
   {
+    "id": 152449,
+    "name": "佐佐木与文鸟小哔 第二季",
+    "type": "日本动漫",
+    "category": "剧情,动画,奇幻",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20261008-1/16d06ed6678c06553f68be44895e5547.webp",
+    "score": "5.0",
+    "remarks": "第2集",
+    "update_time": "2026-10-14 22:52:07"
+  },
+  {
+    "id": 152444,
+    "name": "侦探已死 第二季",
+    "type": "日本动漫",
+    "category": "动画,悬疑,奇幻",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20261008-1/c7f413571cbe8661dea36a64bf15fd5b.webp",
+    "score": "5.0",
+    "remarks": "第2集",
+    "update_time": "2026-10-14 22:51:30"
+  },
+  {
+    "id": 152437,
+    "name": "世界最强魔女，始动",
+    "type": "日本动漫",
+    "category": "动画,奇幻,冒险",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20261008-1/85414767145cf389fbcaa83328fad7d7.webp",
+    "score": "5.0",
+    "remarks": "第2集",
+    "update_time": "2026-10-14 22:50:58"
+  },
+  {
+    "id": 108178,
+    "name": "弹珠汽水瓶里的千岁同学",
+    "type": "日本动漫",
+    "category": "剧情,爱情,动画",
+    "year": "2025",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20251008-1/bf9a1ff70729898d9ccb4376078ececd.jpg",
+    "score": "5.0",
+    "remarks": "第14集完结",
+    "update_time": "2026-10-14 22:35:39"
+  },
+  {
     "id": 151973,
     "name": "转生了的大圣女，拼死隐瞒自己身为圣女",
     "type": "日本动漫",
@@ -550,53 +598,5 @@
     "score": "5.0",
     "remarks": "第8集",
     "update_time": "2026-08-24 13:39:36"
-  },
-  {
-    "id": 138657,
-    "name": "再见菈菈",
-    "type": "日本动漫",
-    "category": "动画,奇幻",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260706-1/16038983d956c9da81150fba40bd7d29.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-24 13:32:51"
-  },
-  {
-    "id": 140065,
-    "name": "恶女不才，请多关照.～雏宫蝶鼠换身传",
-    "type": "日本动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260720-1/7fecf0bdf8b8b241b5f55c6a2e17263c.jpg",
-    "score": "5.0",
-    "remarks": "第7集",
-    "update_time": "2026-08-24 13:27:23"
-  },
-  {
-    "id": 138654,
-    "name": "世界最强的后卫 ～迷宫国的新人探索者",
-    "type": "日本动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260706-1/2e7443d923669684ae3857058dc53971.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-24 13:26:08"
-  },
-  {
-    "id": 128029,
-    "name": "黑猫和魔女的课堂",
-    "type": "日本动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260413-1/c508a5ff48b318f28bcc09354edd1e8b.jpg",
-    "score": "5.0",
-    "remarks": "第20集",
-    "update_time": "2026-08-24 13:10:43"
   }
 ]

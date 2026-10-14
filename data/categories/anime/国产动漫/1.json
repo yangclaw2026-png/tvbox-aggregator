@@ -1,5 +1,17 @@
 [
   {
+    "id": 153273,
+    "name": "极恶老大 第三季",
+    "type": "国产动漫",
+    "category": "动漫",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20261014-1/ec528764d4b571233f97d7ebb3a5bd04.webp",
+    "score": "5.0",
+    "remarks": "第3集",
+    "update_time": "2026-10-14 23:01:47"
+  },
+  {
     "id": 152966,
     "name": "末日求生录",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第1446集",
     "update_time": "2026-08-27 16:49:05"
-  },
-  {
-    "id": 146153,
-    "name": "疯了吧！这座城市的人都在找死",
-    "type": "国产动漫",
-    "category": "科 幻, 悬 疑 ,科 幻, 冒 险",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260827-1/e8d5dbd6302b95dafe0018fc6546c08c.jpg",
-    "score": "5.0",
-    "remarks": "第6集",
-    "update_time": "2026-08-27 16:17:00"
   }
 ]

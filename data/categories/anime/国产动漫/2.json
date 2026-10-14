@@ -1,5 +1,17 @@
 [
   {
+    "id": 146153,
+    "name": "疯了吧！这座城市的人都在找死",
+    "type": "国产动漫",
+    "category": "科 幻, 悬 疑 ,科 幻, 冒 险",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260827-1/e8d5dbd6302b95dafe0018fc6546c08c.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-08-27 16:17:00"
+  },
+  {
     "id": 146214,
     "name": "潘金莲：这大郎不对劲",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第34集",
     "update_time": "2026-08-27 11:17:04"
-  },
-  {
-    "id": 101138,
-    "name": "全民御兽：开局山海经，我横扫全球 动态漫画",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2025",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250806-1/9f85b3a322d3188465de97e4ddaa1fe9.jpg",
-    "score": "5.0",
-    "remarks": "第305集",
-    "update_time": "2026-08-27 11:16:36"
   }
 ]

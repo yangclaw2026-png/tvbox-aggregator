@@ -1,5 +1,65 @@
 [
   {
+    "id": 659,
+    "name": "武神主宰 2020",
+    "type": "国产动漫",
+    "category": "其他,中国动漫,动画",
+    "year": "2020",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250109-5/34f751a1d9bf9d6af19c09a1aab5f264.jpg",
+    "score": "5.0",
+    "remarks": "第686集",
+    "update_time": "2026-08-25 17:28:13"
+  },
+  {
+    "id": 138980,
+    "name": "百日成王",
+    "type": "国产动漫",
+    "category": "喜剧,动作,动画,奇幻",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260708-1/815d3a03ba2d93fef1a4721b75a06617.jpg",
+    "score": "5.0",
+    "remarks": "第19集",
+    "update_time": "2026-08-25 17:05:03"
+  },
+  {
+    "id": 141197,
+    "name": "一斩苍穹",
+    "type": "国产动漫",
+    "category": "喜剧 ， 动作 ，动画 ， 奇幻",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260728-1/9755119f2d60537f851b37fc252a5651.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-08-25 15:53:42"
+  },
+  {
+    "id": 135797,
+    "name": "万人之上 2026",
+    "type": "国产动漫",
+    "category": "动作,动画,奇幻",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260609-1/7467169c9e2aa22b7b4af3a1ac9905c0.jpg",
+    "score": "5.0",
+    "remarks": "第14集完结",
+    "update_time": "2026-08-25 15:09:38"
+  },
+  {
+    "id": 142635,
+    "name": "掌门低调点 2026",
+    "type": "国产动漫",
+    "category": "喜剧,动作,动画,奇幻",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260807-1/d36f09c0da46f29701044ebd15cbdc47.jpg",
+    "score": "5.0",
+    "remarks": "第22集",
+    "update_time": "2026-08-25 14:20:08"
+  },
+  {
     "id": 137267,
     "name": "绝世战魂 第二季",
     "type": "国产动漫",
@@ -538,65 +598,5 @@
     "score": "5.0",
     "remarks": "第21集",
     "update_time": "2026-08-24 13:07:20"
-  },
-  {
-    "id": 200,
-    "name": "逆天至尊",
-    "type": "国产动漫",
-    "category": "其它,动漫,中国动漫,动画",
-    "year": "2021",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250109-5/25d1ae4fe810a2894368375b8d365166.jpg",
-    "score": "5.0",
-    "remarks": "第543集",
-    "update_time": "2026-08-24 12:22:56"
-  },
-  {
-    "id": 139849,
-    "name": "魔法光源股份有限公司 第二季",
-    "type": "日本动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260717-1/8070604dc82b8de8d652f4a5f4f1c74e.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-24 12:17:39"
-  },
-  {
-    "id": 138659,
-    "name": "二十世纪电气目录 二十世紀電氣目録",
-    "type": "日本动漫",
-    "category": "爱情,动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260706-1/e2f081a83f133e3f0e08885064b8be23.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-24 12:16:48"
-  },
-  {
-    "id": 138658,
-    "name": "碧蓝航线 微速前行 第二季",
-    "type": "日本动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260706-1/b43f15715b930bfd18580b0b0e1a04e5.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-24 12:07:09"
-  },
-  {
-    "id": 143085,
-    "name": "轩辕小豆之山海奇缘 第三季",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260810-1/746780751ff44803a0f942ccca1d4c27.jpg",
-    "score": "5.0",
-    "remarks": "第6集",
-    "update_time": "2026-08-24 11:46:39"
   }
 ]

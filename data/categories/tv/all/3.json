@@ -1,5 +1,53 @@
 [
   {
+    "id": 138990,
+    "name": "再见黑色",
+    "type": "日本剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260708-1/ba6b456fb5800e16b3122e24762c7b6b.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-27 13:11:42"
+  },
+  {
+    "id": 138813,
+    "name": "要再做一次夫妇吗？～伪装夫妇",
+    "type": "日本剧",
+    "category": "爱情,悬疑",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260707-1/19ba52999311c08e929e60bc16d54489.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-27 13:08:47"
+  },
+  {
+    "id": 144601,
+    "name": "师兄太稳健",
+    "type": "国产剧",
+    "category": "剧情,奇幻,古装",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260819-1/d2a46e0b3b58dc6038976692d6a5ca60.jpg",
+    "score": "5.0",
+    "remarks": "第17集",
+    "update_time": "2026-08-27 13:07:30"
+  },
+  {
+    "id": 146123,
+    "name": "恶海捕蟹记 第十六季",
+    "type": "欧美剧",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260827-1/94031e5fc872630e28d30dcaff195fde.jpg",
+    "score": "5.0",
+    "remarks": "第8集完结",
+    "update_time": "2026-08-27 13:02:27"
+  },
+  {
     "id": 146119,
     "name": "嘻哈星节奏：法国篇 第五季",
     "type": "欧美剧",
@@ -550,53 +598,5 @@
     "score": "5.0",
     "remarks": "第13集",
     "update_time": "2026-08-25 11:17:28"
-  },
-  {
-    "id": 138810,
-    "name": "我的虚构",
-    "type": "日本剧",
-    "category": "剧情,爱情,悬疑",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260707-1/09eb56bf49ec477ff985b4998db28f6f.jpg",
-    "score": "5.0",
-    "remarks": "第8集完结",
-    "update_time": "2026-08-24 23:27:19"
-  },
-  {
-    "id": 141082,
-    "name": "别班 第二季",
-    "type": "日本剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260727-1/e4913b754a919ddecc95361cce20a384.jpg",
-    "score": "5.0",
-    "remarks": "第5集",
-    "update_time": "2026-08-24 21:52:01"
-  },
-  {
-    "id": 141186,
-    "name": "狂怒追缉",
-    "type": "欧美剧",
-    "category": "惊悚,犯罪",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260728-1/06c5c5d99b6a6c3f3b62901bee66f122.jpg",
-    "score": "5.0",
-    "remarks": "第7集",
-    "update_time": "2026-08-24 21:16:37"
-  },
-  {
-    "id": 145604,
-    "name": "中东劲旅 看懂中东武装",
-    "type": "国产剧",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260824-1/5a4cec67ea434dc58320077c964c6faf.jpg",
-    "score": "5.0",
-    "remarks": "第12集完结",
-    "update_time": "2026-08-24 20:33:00"
   }
 ]

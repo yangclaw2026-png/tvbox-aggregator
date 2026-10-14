@@ -1,5 +1,65 @@
 [
   {
+    "id": 153273,
+    "name": "极恶老大 第三季",
+    "type": "国产动漫",
+    "category": "动漫",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20261014-1/ec528764d4b571233f97d7ebb3a5bd04.webp",
+    "score": "5.0",
+    "remarks": "第3集",
+    "update_time": "2026-10-14 23:01:47"
+  },
+  {
+    "id": 152449,
+    "name": "佐佐木与文鸟小哔 第二季",
+    "type": "日本动漫",
+    "category": "剧情,动画,奇幻",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20261008-1/16d06ed6678c06553f68be44895e5547.webp",
+    "score": "5.0",
+    "remarks": "第2集",
+    "update_time": "2026-10-14 22:52:07"
+  },
+  {
+    "id": 152444,
+    "name": "侦探已死 第二季",
+    "type": "日本动漫",
+    "category": "动画,悬疑,奇幻",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20261008-1/c7f413571cbe8661dea36a64bf15fd5b.webp",
+    "score": "5.0",
+    "remarks": "第2集",
+    "update_time": "2026-10-14 22:51:30"
+  },
+  {
+    "id": 152437,
+    "name": "世界最强魔女，始动",
+    "type": "日本动漫",
+    "category": "动画,奇幻,冒险",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20261008-1/85414767145cf389fbcaa83328fad7d7.webp",
+    "score": "5.0",
+    "remarks": "第2集",
+    "update_time": "2026-10-14 22:50:58"
+  },
+  {
+    "id": 108178,
+    "name": "弹珠汽水瓶里的千岁同学",
+    "type": "日本动漫",
+    "category": "剧情,爱情,动画",
+    "year": "2025",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20251008-1/bf9a1ff70729898d9ccb4376078ececd.jpg",
+    "score": "5.0",
+    "remarks": "第14集完结",
+    "update_time": "2026-10-14 22:35:39"
+  },
+  {
     "id": 152966,
     "name": "末日求生录",
     "type": "国产动漫",
@@ -538,65 +598,5 @@
     "score": "7.9",
     "remarks": "第284集",
     "update_time": "2026-08-27 20:43:49"
-  },
-  {
-    "id": 141764,
-    "name": "精灵梦叶罗丽 第十一季（下）",
-    "type": "国产动漫",
-    "category": "剧情,动画,儿童",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260801-1/b0bdf19667c5ffa6f7f6e655faa8f00e.jpg",
-    "score": "5.0",
-    "remarks": "第42集",
-    "update_time": "2026-08-27 19:52:40"
-  },
-  {
-    "id": 146278,
-    "name": "惊悚游戏降临系统最怕我这种玩家",
-    "type": "国产动漫",
-    "category": "动画,恐怖,反转,脑洞",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260827-1/b769d2683d9dc879bf28e2ec495fc2fd.jpg",
-    "score": "5.0",
-    "remarks": "第60集完结",
-    "update_time": "2026-08-27 19:01:22"
-  },
-  {
-    "id": 143139,
-    "name": "霸王龙雷奇之雷奇知多少",
-    "type": "国产动漫",
-    "category": "动画,少儿,萌系,日常",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260810-1/3aec8005c23464a5df7d99a5cf9f9eef.jpg",
-    "score": "5.0",
-    "remarks": "第46集",
-    "update_time": "2026-08-27 18:37:27"
-  },
-  {
-    "id": 135988,
-    "name": "猎魔女团之无畏同行",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260610-1/526e23bdcb5f167515dd3915a460f4ad.jpg",
-    "score": "5.0",
-    "remarks": "第67集",
-    "update_time": "2026-08-27 18:34:14"
-  },
-  {
-    "id": 146261,
-    "name": "我靠净化术收红衣女鬼当队友",
-    "type": "国产动漫",
-    "category": "中国动漫",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260827-1/0bfcb945a2705357a43efac8396886e5.jpg",
-    "score": "5.0",
-    "remarks": "第60集完结",
-    "update_time": "2026-08-27 18:32:45"
   }
 ]

@@ -1,5 +1,53 @@
 [
   {
+    "id": 151908,
+    "name": "溺爱男友养成法 ～从性关系到成为本命女孩的故事～",
+    "type": "日本剧",
+    "category": "剧情,爱情",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20261002-1/edd8bf63ff3cb3a462767b9444e7e692.jpg",
+    "score": "5.0",
+    "remarks": "第3集",
+    "update_time": "2026-10-14 22:50:23"
+  },
+  {
+    "id": 153264,
+    "name": "爱情盲选：荷兰篇",
+    "type": "海外剧",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "荷兰",
+    "poster": "https://dbzy5.com/upload/vod/20261014-1/092382dd047d74fbac28a92a415ab7ed.jpg",
+    "score": "5.0",
+    "remarks": "第9集",
+    "update_time": "2026-10-14 22:37:53"
+  },
+  {
+    "id": 153000,
+    "name": "陷阱",
+    "type": "海外剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "德国",
+    "poster": "https://dbzy5.com/upload/vod/20261013-1/b7c9839012baf6b3971006bb5951f175.webp",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-10-14 22:33:06"
+  },
+  {
+    "id": 151734,
+    "name": "邮票与舒芙蕾",
+    "type": "台湾剧",
+    "category": "剧情,悬疑,犯罪",
+    "year": "2026",
+    "area": "中国台湾",
+    "poster": "https://dbzy5.com/upload/vod/20260930-1/8b5c8fa757481a584bf46e175e5e844a.webp",
+    "score": "5.0",
+    "remarks": "第7集",
+    "update_time": "2026-10-14 22:29:53"
+  },
+  {
     "id": 152686,
     "name": "伟大的长征",
     "type": "国产剧",
@@ -550,53 +598,5 @@
     "score": "5.0",
     "remarks": "第12集",
     "update_time": "2026-09-15 23:00:50"
-  },
-  {
-    "id": 149229,
-    "name": "命悬一心",
-    "type": "海外剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "哥伦比亚",
-    "poster": "https://dbzy5.com/upload/vod/20260912-1/668660da43820190de36084e200ba2f5.jpg",
-    "score": "5.0",
-    "remarks": "第30集完结",
-    "update_time": "2026-09-12 11:22:52"
-  },
-  {
-    "id": 148216,
-    "name": "交锋",
-    "type": "国产剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260906-1/f7702476bb1dc6c41d881fac1d433592.jpg",
-    "score": "5.0",
-    "remarks": "第13集",
-    "update_time": "2026-09-11 18:38:12"
-  },
-  {
-    "id": 148775,
-    "name": "深渊无间",
-    "type": "国产剧",
-    "category": "剧情,悬疑,犯罪",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260909-1/6016f3d631594ad759276b63a42ae083.jpg",
-    "score": "5.0",
-    "remarks": "第7集",
-    "update_time": "2026-09-10 18:16:52"
-  },
-  {
-    "id": 148571,
-    "name": "请记住我的名字",
-    "type": "泰国剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260908-1/f09fb54614b5233bcfe607935ceb4bb1.jpg",
-    "score": "0.0",
-    "remarks": "第2集",
-    "update_time": "2026-09-08 22:58:00"
   }
 ]
