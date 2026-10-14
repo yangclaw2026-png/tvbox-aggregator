@@ -1,5 +1,31 @@
 [
   {
+    "id": 153239,
+    "name": "26_27赛季亚冠精英赛东亚区第2轮全场回放：浦项铁人VS柔佛新山",
+    "type": "足球",
+    "year": "2026",
+    "area": "",
+    "language": "",
+    "category": "体育",
+    "poster": "https://dbzy5.com/upload/vod/20261014-1/9bdad9aabe05f0d165d1b78e1b7670d1.jpg",
+    "douban_id": 0,
+    "score": "5.0",
+    "remarks": "20261013",
+    "content": "",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01集$https://vodcnd17.ajupf.com/share/MNnNTL195C$$$第01集$https://vodcnd17.ajupf.com/20261014/dHiSmMJ0/index.m3u8",
+    "update_time": "2026-10-14 19:19:35",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 153702,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "20261013"
+      }
+    ]
+  },
+  {
     "id": 152966,
     "name": "末日求生录",
     "type": "国产动漫",
@@ -7973,6 +7999,13 @@
         "play_from": "hnm3u8",
         "play_url": null,
         "remarks": "第4集"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 159368,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第5集"
       }
     ]
   },
@@ -9721,6 +9754,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 161435,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
@@ -54033,7 +54073,16 @@
     "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">改编自布兰（Buran）创作的民间故事《Kaeo Phitsadan》（收录于 Wat Ko 文学作品中）。</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.ajupf.com/20260714/yfpiumkc/index.m3u8#第02集$https://vodcnd16.ajupf.com/20260714/CLoTp1AO/index.m3u8#第03集$https://vodcnd16.ajupf.com/20260714/COKgz2sf/index.m3u8#第04集$https://vodcnd17.ajupf.com/20260802/pgjGJ6nz/index.m3u8#第05集$https://vodcnd17.ajupf.com/20260802/rnW6pdq4/index.m3u8#第06集$https://vodcnd17.ajupf.com/20260803/DuaOQlDl/index.m3u8#第07集$https://vodcnd17.ajupf.com/20260803/qeSEa3VI/index.m3u8#第08集$https://vodcnd16.ajupf.com/20260823/RzL1gckA/index.m3u8#第09集$https://vodcnd16.ajupf.com/20260823/11hSvi9e/index.m3u8#第10集$https://vodcnd17.ajupf.com/20260824/EzTq8Jad/index.m3u8#第11集$https://vodcnd17.ajupf.com/20260824/9JQP37bE/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/DlfQOHNRa7#第02集$https://vodcnd16.ajupf.com/share/l5kG9M2Uxt#第03集$https://vodcnd16.ajupf.com/share/8c0LES80iC#第04集$https://vodcnd17.ajupf.com/share/mKkP0pIQX3#第05集$https://vodcnd17.ajupf.com/share/YlV3CEJOM3#第06集$https://vodcnd17.ajupf.com/share/eEBDRINZyn#第07集$https://vodcnd17.ajupf.com/share/FY5cfOAQd5#第08集$https://vodcnd16.ajupf.com/share/rSuDI2c8Rw#第09集$https://vodcnd16.ajupf.com/share/Tfk7l8ko1B#第10集$https://vodcnd17.ajupf.com/share/yox0WBXZON#第11集$https://vodcnd17.ajupf.com/share/ntfj7qIEYx",
-    "update_time": "2026-08-24 18:23:48"
+    "update_time": "2026-08-24 18:23:48",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 140144,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第13集"
+      }
+    ]
   },
   {
     "id": 145658,
@@ -92176,6 +92225,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "完结"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 138188,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第11集完结"
       }
     ]
   },
@@ -132223,22 +132279,5 @@
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "正片$https://vodcnd17.ajupf.com/20260803/QMrt8cty/index.m3u8$$$正片$https://vodcnd17.ajupf.com/share/16KGfwqxnY",
     "update_time": "2026-08-03 18:36:28"
-  },
-  {
-    "id": 142019,
-    "name": "外星恶客",
-    "type": "科幻片",
-    "year": "1959",
-    "area": "美国",
-    "language": "英语",
-    "category": "科幻,恐怖",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/44ae85bcc1f1bdc334641d8973e71c6a.jpg",
-    "douban_id": 2139241,
-    "score": "5.0",
-    "remarks": "正片",
-    "content": "<p>在五十年代的B级科幻怪兽电影中，这部影片堪称最佳之一。它最引人注目之处在于，《异形》正是未经授权翻拍自这部电影，这赋予了它一定的历史意义。引人入胜的剧情讲述了一支不幸的火星探险队中唯一的幸存者（卡拉瑟斯上校）被困在火星上，救援行动由此展开。当局一如既往地固执己见，错误地认定他为了获得更多生存物资而杀害了其他船员，因此将他带回地球，面临谋杀罪的军事法庭审判。</p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "正片$https://vodcnd16.ajupf.com/20260726/NCFFbc0K/index.m3u8#$$$正片$https://vodcnd16.ajupf.com/share/ZryLJtA2TF#",
-    "update_time": "2026-08-03 18:35:22"
   }
 ]
