@@ -1,5 +1,17 @@
 [
   {
+    "id": 122,
+    "name": "修仙归来当大佬",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2023",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250109-6/b484bfc9c2972824738e4ae3d4b93e1f.jpg",
+    "score": "5.0",
+    "remarks": "第691集",
+    "update_time": "2026-08-23 11:41:02"
+  },
+  {
     "id": 130967,
     "name": "我带超市穿到古代养丞相",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第8集",
     "update_time": "2026-08-22 11:21:42"
-  },
-  {
-    "id": 90375,
-    "name": "开心锤锤世界​",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2025",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250511-1/a5c9a0a1e9ad8c0b409db45e85cd8891.jpg",
-    "score": "5.0",
-    "remarks": "第68集",
-    "update_time": "2026-08-21 22:01:58"
   }
 ]

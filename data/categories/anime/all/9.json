@@ -1,5 +1,17 @@
 [
   {
+    "id": 144263,
+    "name": "丹青中华",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260817-1/04eec5331a8c8f3c205d11517eaa62bb.webp",
+    "score": "0.0",
+    "remarks": "第5集完结",
+    "update_time": "2026-08-17 17:05:51"
+  },
+  {
     "id": 144202,
     "name": "海绵宝宝 第十四季 英文版",
     "type": "欧美动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第5集",
     "update_time": "2026-08-10 12:34:33"
-  },
-  {
-    "id": 143071,
-    "name": "炼气三层扛大狙碾压金丹老祖",
-    "type": "国产动漫",
-    "category": "动画,奇幻,机战,热血",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260810-1/5a92f0b0f63a1586bd050697307e9b54.jpg",
-    "score": "5.0",
-    "remarks": "第38集完结",
-    "update_time": "2026-08-10 12:26:39"
   }
 ]

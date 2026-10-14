@@ -1,5 +1,17 @@
 [
   {
+    "id": 146117,
+    "name": "凡人炼天罡第一季",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260827-1/70e51cf896ff210ae70e3f330b68b548.jpg",
+    "score": "5.0",
+    "remarks": "第60集完结",
+    "update_time": "2026-08-27 11:32:04"
+  },
+  {
     "id": 144804,
     "name": "大树城救援队",
     "type": "欧美动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第11集",
     "update_time": "2026-08-26 13:29:22"
-  },
-  {
-    "id": 119,
-    "name": "都市古仙医",
-    "type": "国产动漫",
-    "category": "动作,动画,奇幻,中国动漫",
-    "year": "2024",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250109-6/da1f98534d6bdaac33e244a35dd7854b.jpg",
-    "score": "5.0",
-    "remarks": "第207集",
-    "update_time": "2026-08-26 13:28:53"
   }
 ]

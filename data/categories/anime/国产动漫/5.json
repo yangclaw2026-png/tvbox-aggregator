@@ -1,5 +1,17 @@
 [
   {
+    "id": 904,
+    "name": "仙逆",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2023",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250109-5/4ee8cdeb1a450f7f8f4a566934e5508b.jpg",
+    "score": "5.0",
+    "remarks": "第155集",
+    "update_time": "2026-08-24 11:32:22"
+  },
+  {
     "id": 145534,
     "name": "三千两起家，皇子靠金融革新",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第112集",
     "update_time": "2026-08-22 11:55:01"
-  },
-  {
-    "id": 139899,
-    "name": "择日飞升",
-    "type": "国产动漫",
-    "category": "动作,动画,奇幻",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260718-1/7898ad2450b814155f6e550f08d89752.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-22 11:53:11"
   }
 ]

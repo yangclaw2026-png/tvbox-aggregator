@@ -1,5 +1,29 @@
 [
   {
+    "id": 152966,
+    "name": "末日求生录",
+    "type": "国产动漫",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261013-1/2cff8c52ef78b459dc1c62a9ce7b6bc2.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-10-14 11:47:42"
+  },
+  {
+    "id": 153081,
+    "name": "侯门娇骨第三季",
+    "type": "AI短剧",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261014-1/97e6c5960f574cc42ea0d2dedc0d18ce.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-10-14 11:47:06"
+  },
+  {
     "id": 153077,
     "name": "穿越古代，全家都是行业大佬第二季",
     "type": "AI短剧",
@@ -574,29 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-10-12 22:59:33"
-  },
-  {
-    "id": 152953,
-    "name": "致爱丽丝",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261012-1/ae84232d9e118d8c8caad501c61e6743.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-12 22:58:22"
-  },
-  {
-    "id": 152952,
-    "name": "执笔予恋",
-    "type": "AI短剧",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261012-1/26afe20af31ff7488a269b54dc256c7b.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-12 22:55:53"
   }
 ]

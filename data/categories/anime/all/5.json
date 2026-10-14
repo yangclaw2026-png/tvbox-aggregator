@@ -1,5 +1,17 @@
 [
   {
+    "id": 137267,
+    "name": "绝世战魂 第二季",
+    "type": "国产动漫",
+    "category": "动作,动画,奇幻",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260628-1/57b7893d517a356f7760b9ad935681c8.jpg",
+    "score": "5.0",
+    "remarks": "第18集",
+    "update_time": "2026-08-25 13:55:03"
+  },
+  {
     "id": 113097,
     "name": "九阳武神",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第6集",
     "update_time": "2026-08-24 11:46:39"
-  },
-  {
-    "id": 139478,
-    "name": "罗浮剑主",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260711-1/7f4a6f180f0826ed4854d2509bce3fa5.jpg",
-    "score": "5.0",
-    "remarks": "第67集完结",
-    "update_time": "2026-08-24 11:44:49"
   }
 ]

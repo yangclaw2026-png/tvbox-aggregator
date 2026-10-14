@@ -1,5 +1,17 @@
 [
   {
+    "id": 90375,
+    "name": "开心锤锤世界​",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2025",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250511-1/a5c9a0a1e9ad8c0b409db45e85cd8891.jpg",
+    "score": "5.0",
+    "remarks": "第68集",
+    "update_time": "2026-08-21 22:01:58"
+  },
+  {
     "id": 138376,
     "name": "被追放的转生重骑士用游戏知识开无双",
     "type": "日本动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第6集完结",
     "update_time": "2026-08-17 23:31:02"
-  },
-  {
-    "id": 144263,
-    "name": "丹青中华",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260817-1/04eec5331a8c8f3c205d11517eaa62bb.webp",
-    "score": "0.0",
-    "remarks": "第5集完结",
-    "update_time": "2026-08-17 17:05:51"
   }
 ]

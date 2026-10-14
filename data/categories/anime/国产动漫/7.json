@@ -1,5 +1,17 @@
 [
   {
+    "id": 144397,
+    "name": "坠入恐怖玩偶游戏",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260818-1/ad4536291c266ca91808ae4eaa8f440a.jpg",
+    "score": "5.0",
+    "remarks": "第58集完结",
+    "update_time": "2026-08-18 12:07:18"
+  },
+  {
     "id": 140212,
     "name": "万古神帝",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第29集完结",
     "update_time": "2026-08-10 15:00:20"
-  },
-  {
-    "id": 143089,
-    "name": "虐文女主我不当了",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260810-1/cba7cb1bd8022a566038af82bf0ea6b1.jpg",
-    "score": "5.0",
-    "remarks": "第22集完结",
-    "update_time": "2026-08-10 14:37:30"
   }
 ]

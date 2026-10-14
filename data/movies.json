@@ -1,5 +1,48 @@
 [
   {
+    "id": 152966,
+    "name": "末日求生录",
+    "type": "国产动漫",
+    "year": "2026",
+    "area": "中国大陆",
+    "language": "汉语普通话",
+    "category": "剧情",
+    "poster": "https://dbzy5.com/upload/vod/20261013-1/2cff8c52ef78b459dc1c62a9ce7b6bc2.jpg",
+    "douban_id": 0,
+    "score": "5.0",
+    "remarks": "第6集",
+    "content": "",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01集$https://vodcnd17.ajupf.com/20261013/qOXtijTK/index.m3u8#第02集$https://vodcnd17.ajupf.com/20261013/oVWEwn9S/index.m3u8#第03集$https://vodcnd17.ajupf.com/20261013/Brp2SQBp/index.m3u8#第04集$https://vodcnd17.ajupf.com/20261013/lEc8YTp1/index.m3u8#第05集$https://vodcnd17.ajupf.com/20261013/ZJS0gddc/index.m3u8#第06集$https://vodcnd16.ajupf.com/20261014/yKyv8090/index.m3u8$$$第01集$https://vodcnd17.ajupf.com/share/NSy2Y46llo#第02集$https://vodcnd17.ajupf.com/share/wdukZ4MhkU#第03集$https://vodcnd17.ajupf.com/share/FcNOCFUO9j#第04集$https://vodcnd17.ajupf.com/share/ngji6eftgO#第05集$https://vodcnd17.ajupf.com/share/Ljrenvhj9C#第06集$https://vodcnd16.ajupf.com/share/PDHBu4xt5F",
+    "update_time": "2026-10-14 11:47:42",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 153458,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第06集"
+      }
+    ]
+  },
+  {
+    "id": 153081,
+    "name": "侯门娇骨第三季",
+    "type": "AI短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "language": "汉语普通话",
+    "category": "短剧",
+    "poster": "https://dbzy5.com/upload/vod/20261014-1/97e6c5960f574cc42ea0d2dedc0d18ce.jpg",
+    "douban_id": 0,
+    "score": "0.0",
+    "remarks": "全集完结",
+    "content": "<p>沈璃赴青州别院后休息了一段时间重回侯府，坐稳正室之位，府内整顿规矩、撤换失职管事。朝堂旧案审结，赵重山认罪候审。萧澈为识人失误、连累沈凌一事诚恳致歉，沈璃起初心存疏离，提出彻查旧事作为补偿。二人解开过往种种误会心结，摒弃隔阂。</p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "全集完结$https://vodcnd17.ajupf.com/20261008/XUSfP1EQ/index.m3u8$$$全集完结$https://vodcnd17.ajupf.com/share/sTOkqGrPGm",
+    "update_time": "2026-10-14 11:47:06"
+  },
+  {
     "id": 153077,
     "name": "穿越古代，全家都是行业大佬第二季",
     "type": "AI短剧",
@@ -388,7 +431,16 @@
     "content": "<p>本片以架空的庆国末年的乱世为背景，讲述棠王士子朱聿铭在追查一场诡异的“血疫”时，逐渐揭开奸佞以国运为炉、以生民为材炼制妖毒的惊天阴谋，最终为守护苍生而抗旨出逃、踏上揭示真相之路的故事。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "正片$https://vodcnd17.ajupf.com/20261013/IRplJKuF/index.m3u8$$$正片$https://vodcnd17.ajupf.com/share/RYxHu7T1wK",
-    "update_time": "2026-10-13 22:44:44"
+    "update_time": "2026-10-13 22:44:44",
+    "play_sources": [
+      {
+        "source": "索尼资源",
+        "source_id": 157076,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "HD国语"
+      }
+    ]
   },
   {
     "id": 153055,
@@ -132188,39 +132240,5 @@
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "正片$https://vodcnd16.ajupf.com/20260726/NCFFbc0K/index.m3u8#$$$正片$https://vodcnd16.ajupf.com/share/ZryLJtA2TF#",
     "update_time": "2026-08-03 18:35:22"
-  },
-  {
-    "id": 142018,
-    "name": "欧盟制造",
-    "type": "剧情片",
-    "year": "2025",
-    "area": "德国,保加利亚,捷克",
-    "language": "保加利亚语",
-    "category": "剧情",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/a6ca5572466e4c36cc9991b8d07ece2e.jpg",
-    "douban_id": 36956292,
-    "score": "5.0",
-    "remarks": "正片",
-    "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">伊娃在保加利亚乡村的一家服装厂工作，一直受一种顽固却原因不明的疾病困扰。当她被确诊为小镇首例新冠病例后，各种指责声如潮水般涌来——先是急于推卸责任的工厂老板，接着是她的同事、儿子，最终整个社区都将矛头指向了她，尽管伊娃已经多年没有离开过这座小镇。</span></p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "正片$https://vodcnd16.ajupf.com/20260727/Hb4mLlBb/index.m3u8#$$$正片$https://vodcnd16.ajupf.com/share/aj7cXjtIuu#",
-    "update_time": "2026-08-03 18:14:32"
-  },
-  {
-    "id": 142004,
-    "name": "初次登台的少女们",
-    "type": "恐怖片",
-    "year": "2017",
-    "area": "菲律宾",
-    "language": "菲律宾语",
-    "category": "恐怖",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/8cfb4a9c457a6f629bd79e2210db5987.jpg",
-    "douban_id": 35251458,
-    "score": "5.0",
-    "remarks": "正片",
-    "content": "<p>凯特（苏·拉米雷斯饰）是个古怪的女孩，她一心想和学校里的风云人物——拉拉（迈尔斯·奥坎波饰）、珍妮（简·德·莱昂饰）、坎迪斯（米歇尔·维托饰）和谢恩（香奈儿·莫拉莱斯饰）——成为朋友。凯特开始做一些关于这些女孩死亡的奇怪梦。凯特试图警告她们，希望能救她们，但她们根本不听。她们最终会发现这个诅咒吗……（展开全部）</p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "正片$https://vodcnd16.ajupf.com/20260726/hYReqLV4/index.m3u8#$$$正片$https://vodcnd16.ajupf.com/share/gmjcWUEEE2#",
-    "update_time": "2026-08-03 16:57:21"
   }
 ]

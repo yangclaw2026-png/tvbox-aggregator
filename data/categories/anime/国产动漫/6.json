@@ -1,5 +1,17 @@
 [
   {
+    "id": 139899,
+    "name": "择日飞升",
+    "type": "国产动漫",
+    "category": "动作,动画,奇幻",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260718-1/7898ad2450b814155f6e550f08d89752.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-22 11:53:11"
+  },
+  {
     "id": 138714,
     "name": "异狱暴君：我的影子能无限进化",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第29集",
     "update_time": "2026-08-18 12:20:57"
-  },
-  {
-    "id": 144397,
-    "name": "坠入恐怖玩偶游戏",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260818-1/ad4536291c266ca91808ae4eaa8f440a.jpg",
-    "score": "5.0",
-    "remarks": "第58集完结",
-    "update_time": "2026-08-18 12:07:18"
   }
 ]

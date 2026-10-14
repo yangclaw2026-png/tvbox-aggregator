@@ -1,5 +1,17 @@
 [
   {
+    "id": 139478,
+    "name": "罗浮剑主",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260711-1/7f4a6f180f0826ed4854d2509bce3fa5.jpg",
+    "score": "5.0",
+    "remarks": "第67集完结",
+    "update_time": "2026-08-24 11:44:49"
+  },
+  {
     "id": 145538,
     "name": "我把仇人扔进了万兽坑",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第182集",
     "update_time": "2026-08-23 11:41:45"
-  },
-  {
-    "id": 122,
-    "name": "修仙归来当大佬",
-    "type": "国产动漫",
-    "category": "中国动漫",
-    "year": "2023",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250109-6/b484bfc9c2972824738e4ae3d4b93e1f.jpg",
-    "score": "5.0",
-    "remarks": "第691集",
-    "update_time": "2026-08-23 11:41:02"
   }
 ]

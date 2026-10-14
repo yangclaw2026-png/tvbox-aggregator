@@ -1,5 +1,17 @@
 [
   {
+    "id": 152966,
+    "name": "末日求生录",
+    "type": "国产动漫",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261013-1/2cff8c52ef78b459dc1c62a9ce7b6bc2.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-10-14 11:47:42"
+  },
+  {
     "id": 147507,
     "name": "灵境行者",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第6集",
     "update_time": "2026-08-27 16:17:00"
-  },
-  {
-    "id": 146214,
-    "name": "潘金莲：这大郎不对劲",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260827-1/1c5dc43c7eeb835c4a03bcac35de3948.jpg",
-    "score": "5.0",
-    "remarks": "第60集完结",
-    "update_time": "2026-08-27 16:09:14"
   }
 ]

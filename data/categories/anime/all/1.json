@@ -1,5 +1,17 @@
 [
   {
+    "id": 152966,
+    "name": "末日求生录",
+    "type": "国产动漫",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261013-1/2cff8c52ef78b459dc1c62a9ce7b6bc2.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-10-14 11:47:42"
+  },
+  {
     "id": 151973,
     "name": "转生了的大圣女，拼死隐瞒自己身为圣女",
     "type": "日本动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第60集完结",
     "update_time": "2026-08-27 18:32:45"
-  },
-  {
-    "id": 145960,
-    "name": "和平精英：地铁逃生",
-    "type": "国产动漫",
-    "category": "中国动漫",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260826-1/1da26a59ef600057d5763d85fbc91d77.jpg",
-    "score": "5.0",
-    "remarks": "第5集",
-    "update_time": "2026-08-27 18:14:26"
   }
 ]
