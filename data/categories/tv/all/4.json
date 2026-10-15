@@ -1,5 +1,17 @@
 [
   {
+    "id": 138809,
+    "name": "明明已经杀了丈夫",
+    "type": "日本剧",
+    "category": "剧情,爱情,悬疑",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260707-1/c3110c5c66cd5f50032a93786061845a.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-25 12:03:15"
+  },
+  {
     "id": 139848,
     "name": "山海经之山海归序",
     "type": "国产剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第2集",
     "update_time": "2026-08-22 21:17:12"
-  },
-  {
-    "id": 139854,
-    "name": "恋爱演算法",
-    "type": "海外剧",
-    "category": "短片,同性",
-    "year": "2026",
-    "area": "马来西亚",
-    "poster": "https://dbzy5.com/upload/vod/20260717-1/6372f84420c59bc364faac37f2bf7cf2.jpg",
-    "score": "5.0",
-    "remarks": "第6集",
-    "update_time": "2026-08-22 21:10:13"
   }
 ]

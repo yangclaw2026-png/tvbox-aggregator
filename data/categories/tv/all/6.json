@@ -1,5 +1,17 @@
 [
   {
+    "id": 144611,
+    "name": "予你远方",
+    "type": "国产剧",
+    "category": "剧情",
+    "year": "2006",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260819-1/f26ed38fb2bdaad900a4e6195a50d4b7.jpg",
+    "score": "5.0",
+    "remarks": "第22集完结",
+    "update_time": "2026-08-19 23:02:42"
+  },
+  {
     "id": 139862,
     "name": "幸运女神",
     "type": "欧美剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第1集",
     "update_time": "2026-08-12 20:42:18"
-  },
-  {
-    "id": 140570,
-    "name": "杀人者的购物中心2",
-    "type": "韩剧",
-    "category": "剧情,动作,悬疑,惊悚",
-    "year": "2026",
-    "area": "韩国",
-    "poster": "https://dbzy5.com/upload/vod/20260723-1/a0ab8d0ddab1744e1d7a781aca2b7a1b.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-12 20:09:25"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 145841,
+    "name": "舞蹈新风暴",
+    "type": "大陆综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260825-1/3b357c391e612acbbb46960e092c6629.jpg",
+    "score": "5.0",
+    "remarks": "20260826Plus：刘雨昕舞台细节控精准输出",
+    "update_time": "2026-08-26 19:24:07"
+  },
+  {
     "id": 143524,
     "name": "宠宠冲冲冲",
     "type": "大陆综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第5集",
     "update_time": "2026-08-23 21:44:35"
-  },
-  {
-    "id": 139808,
-    "name": "天籁与少年",
-    "type": "大陆综艺",
-    "category": "音乐,真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260716-1/1a026266eb2378e09c7dbb6acc5ea797.jpg",
-    "score": "5.0",
-    "remarks": "第20260823期纯享版",
-    "update_time": "2026-08-23 21:20:07"
   }
 ]

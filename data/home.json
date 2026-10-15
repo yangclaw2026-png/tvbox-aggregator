@@ -1,5 +1,53 @@
 [
   {
+    "id": 153425,
+    "name": "人生七年 第十季（中配文）",
+    "type": "欧美剧",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "英国",
+    "poster": "https://dbzy5.com/upload/vod/20261015-1/1e4a89d7c6629952dcd74dae932e39e3.jpg",
+    "score": "9.5",
+    "remarks": "第01集",
+    "update_time": "2026-10-15 23:29:55"
+  },
+  {
+    "id": 153423,
+    "name": "鬼滴语：食人虎妖",
+    "type": "恐怖片",
+    "category": "剧情,动作,恐怖",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20261015-1/440a23fe6c2c684abb174e3b1c5bb565.webp",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-10-15 23:23:40"
+  },
+  {
+    "id": 153386,
+    "name": "街头霸王",
+    "type": "动作片",
+    "category": "剧情,动作",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20261015-1/e8e6b94a0a39da2dd68c0511eac18eb5.webp",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-10-15 23:20:04"
+  },
+  {
+    "id": 151747,
+    "name": "新星格斗场",
+    "type": "欧美综艺",
+    "category": "运动,真人秀",
+    "year": "2026",
+    "area": "法国",
+    "poster": "https://dbzy5.com/upload/vod/20261001-1/65a82d76ea1c093f28f17c9acf803a2e.jpg",
+    "score": "5.0",
+    "remarks": "第10期",
+    "update_time": "2026-10-15 23:19:24"
+  },
+  {
     "id": 153340,
     "name": "我家猫是翻译官",
     "type": "AI短剧",
@@ -550,53 +598,5 @@
     "score": "5.0",
     "remarks": "20261011",
     "update_time": "2026-10-13 22:49:52"
-  },
-  {
-    "id": 153061,
-    "name": "侯府里的婴语者",
-    "type": "AI短剧",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261013-1/4076ab3dd7461a1f275d10401a6f8337.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-13 22:49:01"
-  },
-  {
-    "id": 153060,
-    "name": "26_27赛季西甲第8轮全场回放：巴塞罗那VS赫塔费",
-    "type": "足球",
-    "category": "体育",
-    "year": "2026",
-    "area": "",
-    "poster": "https://dbzy5.com/upload/vod/20261013-1/74fd70460d91428d83f3590bfae57f46.jpg",
-    "score": "5.0",
-    "remarks": "20261011",
-    "update_time": "2026-10-13 22:48:12"
-  },
-  {
-    "id": 153059,
-    "name": "26_27赛季西甲第8轮全场回放：埃尔切VS塞尔塔维戈",
-    "type": "足球",
-    "category": "体育",
-    "year": "2026",
-    "area": "",
-    "poster": "https://dbzy5.com/upload/vod/20261013-1/f3a9755f74dc94214c8c3e1052343690.jpg",
-    "score": "5.0",
-    "remarks": "20261011",
-    "update_time": "2026-10-13 22:46:16"
-  },
-  {
-    "id": 153058,
-    "name": "道士下山：我在人间斩妖八百年",
-    "type": "AI短剧",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261013-1/ea02606ef7ff33128dd9a19f5024a475.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-13 22:46:02"
   }
 ]

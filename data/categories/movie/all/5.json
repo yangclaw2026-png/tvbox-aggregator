@@ -1,5 +1,29 @@
 [
   {
+    "id": 144423,
+    "name": "U第二部分",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2014",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260818-1/1fec70fbc01b8b69b2cc4d433461f7ee.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-18 14:15:20"
+  },
+  {
+    "id": 144422,
+    "name": "兰德大学",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2014",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260818-1/9553384bc960e3bb621269c646121d03.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-18 13:54:32"
+  },
+  {
     "id": 144420,
     "name": "天主教徒与罪犯",
     "type": "纪录片",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第8集",
     "update_time": "2026-08-14 11:34:41"
-  },
-  {
-    "id": 143802,
-    "name": "对话杀人魔：查尔斯·曼森访谈录",
-    "type": "纪录片",
-    "category": "纪录片,犯罪",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260813-1/0b2bc080feedcd2ec65fe0c4e44f381f.jpg",
-    "score": "5.0",
-    "remarks": "第3集完结",
-    "update_time": "2026-08-13 23:10:29"
-  },
-  {
-    "id": 143790,
-    "name": "无瑕修女",
-    "type": "恐怖片",
-    "category": "恐怖",
-    "year": "2024",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260813-1/8b5d63cce59c82000f45326786f2dab8.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-13 22:39:31"
   }
 ]

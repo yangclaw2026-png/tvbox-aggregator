@@ -1,5 +1,29 @@
 [
   {
+    "id": 142273,
+    "name": "让爱回家",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/c3752d083e495c390fd16776b1789ebe.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-05 11:56:47"
+  },
+  {
+    "id": 138682,
+    "name": "最后的吸血鬼 2009",
+    "type": "动作片",
+    "category": "动作,惊悚,恐怖",
+    "year": "2009",
+    "area": "中国香港,法国,中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260706-1/e97260d662411ace5159bd5d26251b4f.jpg",
+    "score": "5.2",
+    "remarks": "正片",
+    "update_time": "2026-08-05 11:09:30"
+  },
+  {
     "id": 138037,
     "name": "性爱狂想曲",
     "type": "喜剧片",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-03 22:15:34"
-  },
-  {
-    "id": 142103,
-    "name": "拯救林荫大道",
-    "type": "喜剧片",
-    "category": "喜剧,惊悚",
-    "year": "2011",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/1dfbc748710b43c869d24ceef563925d.jpg",
-    "score": "5.6",
-    "remarks": "正片",
-    "update_time": "2026-08-03 22:01:52"
-  },
-  {
-    "id": 142102,
-    "name": "紧急按钮",
-    "type": "惊悚片",
-    "category": "惊悚,恐怖",
-    "year": "2011",
-    "area": "英国",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/c50bef57772ff08501007e490a2773fb.jpg",
-    "score": "5.2",
-    "remarks": "正片",
-    "update_time": "2026-08-03 21:54:16"
   }
 ]

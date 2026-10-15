@@ -1,5 +1,17 @@
 [
   {
+    "id": 139854,
+    "name": "恋爱演算法",
+    "type": "海外剧",
+    "category": "短片,同性",
+    "year": "2026",
+    "area": "马来西亚",
+    "poster": "https://dbzy5.com/upload/vod/20260717-1/6372f84420c59bc364faac37f2bf7cf2.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-08-22 21:10:13"
+  },
+  {
     "id": 142725,
     "name": "来！金来号",
     "type": "台湾剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第25集",
     "update_time": "2026-08-20 11:32:41"
-  },
-  {
-    "id": 144611,
-    "name": "予你远方",
-    "type": "国产剧",
-    "category": "剧情",
-    "year": "2006",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260819-1/f26ed38fb2bdaad900a4e6195a50d4b7.jpg",
-    "score": "5.0",
-    "remarks": "第22集完结",
-    "update_time": "2026-08-19 23:02:42"
   }
 ]

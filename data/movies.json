@@ -1,5 +1,123 @@
 [
   {
+    "id": 153425,
+    "name": "人生七年 第十季（中配文）",
+    "type": "欧美剧",
+    "year": "2026",
+    "area": "英国",
+    "language": "英语",
+    "category": "纪录片",
+    "poster": "https://dbzy5.com/upload/vod/20261015-1/1e4a89d7c6629952dcd74dae932e39e3.jpg",
+    "douban_id": 38456015,
+    "score": "9.5",
+    "remarks": "第01集",
+    "content": "<p>阿西夫·卡帕迪亚将为&nbsp; &nbsp; &nbsp;长篇纪录片系列《人生七年》画上句号，最后一集将于今年播出。该系列节目始于 1964 年，并在 2024 年被评为过去 50 年中最具影响力的英国电视节目。该节目每隔七年跟</p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01集$https://vodcnd16.ajupf.com/20261015/OaenbsbU/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/MNxG7bZ7OA",
+    "update_time": "2026-10-15 23:29:55",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 153841,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第01集"
+      }
+    ]
+  },
+  {
+    "id": 153423,
+    "name": "鬼滴语：食人虎妖",
+    "type": "恐怖片",
+    "year": "2026",
+    "area": "泰国",
+    "language": "泰语",
+    "category": "剧情,动作,恐怖",
+    "poster": "https://dbzy5.com/upload/vod/20261015-1/440a23fe6c2c684abb174e3b1c5bb565.webp",
+    "douban_id": 38553801,
+    "score": "5.0",
+    "remarks": "正片",
+    "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">1968年泰国北碧府，黑豹师士兵Yak奉命深入空宽丛林，寻找失踪的情报官，同时追猎传说中能化为人形的不死食人虎妖Ai Khong。精锐小队在密林中接连遭遇猎杀，人与怪物的界限逐渐模糊，他们必须在虎妖的獠牙下死里逃生。</span></p>",
+    "play_from": "dbm3u8$$$no",
+    "play_url": "抢先版$https://vodcnd17.ajupf.com/20261015/HrypGyKc/index.m3u8$$$抢先版$https://vodcnd17.ajupf.com/share/hHUy9Ma22R",
+    "update_time": "2026-10-15 23:23:40",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 221277,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "抢先版"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 157213,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "TC中字"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 161741,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "抢先版"
+      }
+    ]
+  },
+  {
+    "id": 153386,
+    "name": "街头霸王",
+    "type": "动作片",
+    "year": "2026",
+    "area": "美国",
+    "language": "英语",
+    "category": "剧情,动作",
+    "poster": "https://dbzy5.com/upload/vod/20261015-1/e8e6b94a0a39da2dd68c0511eac18eb5.webp",
+    "douban_id": 36344100,
+    "score": "5.0",
+    "remarks": "正片",
+    "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">故事设定在1993年，昔日并肩作战却早已分道扬镳的街头格斗家隆（安德鲁·浩二 饰）与肯·马斯特斯（诺亚·琴蒂内奥 饰），因为受到一名神秘女子春丽（卡莉娜·梁 饰）的招募，再度参加下一届世界战士格斗大会，这是一场拳头、命运与怒火碰撞的残酷对决。但是在这场生死大决斗的背后，潜藏着一个致命阴谋，迫使他们不得不正面交锋，并且面对各自过去的心魔。如果他们无法克服这一切，那就会GAME OVER游戏结束！</span></p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "抢先版$https://vodcnd17.ajupf.com/20261015/7yk95LMc/index.m3u8$$$抢先版$https://vodcnd17.ajupf.com/share/EzXPraqgtG",
+    "update_time": "2026-10-15 23:20:04",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 153833,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "抢先版"
+      }
+    ]
+  },
+  {
+    "id": 151747,
+    "name": "新星格斗场",
+    "type": "欧美综艺",
+    "year": "2026",
+    "area": "法国",
+    "language": "法语",
+    "category": "运动,真人秀",
+    "poster": "https://dbzy5.com/upload/vod/20261001-1/65a82d76ea1c093f28f17c9acf803a2e.jpg",
+    "douban_id": 37514335,
+    "score": "5.0",
+    "remarks": "第10期",
+    "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">　38 名业余综合格斗选手（男女各 19 人）齐聚史上规模最大的格斗训练营。</span><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">选手们登上非凡的竞技场，在西里尔·盖恩、塞德里克·杜姆贝和贝诺瓦·圣丹尼斯这三位法国综合格斗巨星的注视下，迎接身心双重挑战。</span><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">他们将展开极其激烈的正面交锋，目标只有一个：夺取胜利，赢得 10 万欧元奖金并与知名职业联赛签约。</span></p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01期$https://vodcnd17.ajupf.com/20261001/cHQq8MkR/index.m3u8#第02期$https://vodcnd17.ajupf.com/20261001/3GUwM9EL/index.m3u8#第03期$https://vodcnd17.ajupf.com/20261001/sAY2GAmg/index.m3u8#第04期$https://vodcnd17.ajupf.com/20261001/1HhBFiTR/index.m3u8#第05期$https://vodcnd17.ajupf.com/20261001/w3BqTZvc/index.m3u8#第06集$https://vodcnd17.ajupf.com/20261008/yZQYVOfF/index.m3u8#第07集$https://vodcnd17.ajupf.com/20261008/IoELKfUP/index.m3u8#第08集$https://vodcnd17.ajupf.com/20261008/C25N9H7Z/index.m3u8#第09集$https://vodcnd17.ajupf.com/20261008/bqgJ0Xdh/index.m3u8#第10集$https://vodcnd16.ajupf.com/20261015/Z2O54XPC/index.m3u8$$$第01期$https://vodcnd17.ajupf.com/share/dmnZCMKvf2#第02期$https://vodcnd17.ajupf.com/share/sg7bFJDXum#第03期$https://vodcnd17.ajupf.com/share/szZLt38ctn#第04期$https://vodcnd17.ajupf.com/share/LTZ6CIvVvE#第05期$https://vodcnd17.ajupf.com/share/4qghK7gECr#第06集$https://vodcnd17.ajupf.com/share/pZN8dv8ipB#第07集$https://vodcnd17.ajupf.com/share/jlmVx7cfuP#第08集$https://vodcnd17.ajupf.com/share/SmpvcUE3M7#第09集$https://vodcnd17.ajupf.com/share/2J6g1O6J8f#第10集$https://vodcnd16.ajupf.com/share/OSL48ORpLM",
+    "update_time": "2026-10-15 23:19:24",
+    "play_sources": [
+      {
+        "source": "量子资源",
+        "source_id": 159077,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至10期"
+      }
+    ]
+  },
+  {
     "id": 153340,
     "name": "我家猫是翻译官",
     "type": "AI短剧",
@@ -83,7 +201,16 @@
     "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; text-wrap-mode: wrap; background-color: #FFFFFF;\">第三季的核心主题是“家庭”</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd17.ajupf.com/20261014/1mRUrMyu/index.m3u8#第02集$https://vodcnd17.ajupf.com/20261014/yNUf6Max/index.m3u8#第03集$https://vodcnd17.ajupf.com/20261014/l5WdGJeb/index.m3u8$$$第01集$https://vodcnd17.ajupf.com/share/5TUjKpokCJ#第02集$https://vodcnd17.ajupf.com/share/5zGBmJiPkw#第03集$https://vodcnd17.ajupf.com/share/lH9Ojq7qAa",
-    "update_time": "2026-10-14 23:01:47"
+    "update_time": "2026-10-14 23:01:47",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 153836,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第3集"
+      }
+    ]
   },
   {
     "id": 153272,
@@ -2797,6 +2924,13 @@
         "play_from": "snm3u8",
         "play_url": null,
         "remarks": "更新至07集"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 156825,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至第08集"
       }
     ]
   },
@@ -15754,7 +15888,16 @@
     "content": "<p>故事发生在20世纪70至80年代，宁静的沿海村庄“霍普港”。警察局长范锡（黄政民 饰）与警员成爱（郑好娟 饰）被派往调查离奇的动物虐杀案，却发现作案者是某种体型庞大的未知生物。同时，暴躁的猎人成基（赵寅成 饰）带队进山试图猎杀猛兽，反沦为猎物 。随着怪物真容浮现，恐惧在村民间蔓延，这场生存杀戮逐渐演变为揭露人性排外心理的残酷试炼。导演罗泓轸计划将《希望》拍摄三部曲。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "抢先版$https://vodcnd16.ajupf.com/20260910/6PFmGBdC/index.m3u8$$$抢先版$https://vodcnd16.ajupf.com/share/XflyyL8o8w",
-    "update_time": "2026-09-10 22:51:24"
+    "update_time": "2026-09-10 22:51:24",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 149220,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "正片"
+      }
+    ]
   },
   {
     "id": 148840,
@@ -132403,73 +132546,5 @@
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "正片$https://vodcnd16.ajupf.com/20260727/lCjetY5N/index.m3u8#$$$正片$https://vodcnd16.ajupf.com/share/UQIFyefshR#",
     "update_time": "2026-08-03 21:54:16"
-  },
-  {
-    "id": 139755,
-    "name": "牧师神探 第十一季",
-    "type": "欧美剧",
-    "year": "2026",
-    "area": "英国",
-    "language": "英语",
-    "category": "剧情,犯罪",
-    "poster": "https://dbzy5.com/upload/vod/20260715-1/eb62abf2272a4937d446c3dbec94a614.jpg",
-    "douban_id": 37394702,
-    "score": "5.0",
-    "remarks": "第8集",
-    "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">那是令人激动的 63 年夏天，阿尔菲正在逐渐了解自己的过去。他意识到自己原本可以拥有另一种生活，这让他开始思考自己究竟是谁，以及自己信仰什么。与此同时，他还在继续了解梅格——博伊斯的女儿……</span></p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "第01集$https://vodcnd16.ajupf.com/20260713/ZNqZpjbM/index.m3u8#第02集$https://vodcnd16.ajupf.com/20260713/GE4TAlS0/index.m3u8#第03集$https://vodcnd16.ajupf.com/20260713/vdUfcQ85/index.m3u8#第04集$https://vodcnd16.ajupf.com/20260713/iuLfhcbs/index.m3u8#第05集$https://vodcnd16.ajupf.com/20260713/7PnZ8JSK/index.m3u8#第06集$https://vodcnd16.ajupf.com/20260720/5YuBWIxa/index.m3u8#第07集$https://vodcnd16.ajupf.com/20260727/jfo08BP3/index.m3u8#第08集$https://vodcnd16.ajupf.com/20260803/OCKSG9cS/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/SOlCxeC79b#第02集$https://vodcnd16.ajupf.com/share/7UU4D55Vne#第03集$https://vodcnd16.ajupf.com/share/5FpVxQ8673#第04集$https://vodcnd16.ajupf.com/share/TGaJXnE1kc#第05集$https://vodcnd16.ajupf.com/share/PzbDMkmDMO#第06集$https://vodcnd16.ajupf.com/share/Opxa53OKJo#第07集$https://vodcnd16.ajupf.com/share/ZP8k5O6XTT#第08集$https://vodcnd16.ajupf.com/share/5SPuIjrueO",
-    "update_time": "2026-08-03 21:38:26"
-  },
-  {
-    "id": 142099,
-    "name": "爱丽丝梦游仙境 1951",
-    "type": "动漫电影",
-    "year": "1951",
-    "area": "美国",
-    "language": "英语",
-    "category": "动画,歌舞,奇幻,冒险",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/af238e0e5d6b42d4f1a90edf03f78492.jpg",
-    "douban_id": 1310178,
-    "score": "8.7",
-    "remarks": "正片",
-    "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">金发碧眼的小女孩爱丽丝（Kathryn Beaumont 配音）天生爱幻想，枯燥且没有图画的书籍最令她烦恼。这一天，爱丽丝在野外看见一只穿衣戴帽、匆匆赶路的兔子。出于好奇，她跟着兔子钻进了一个树洞，继而掉落到一片未知的奇幻世界。在这里，爱丽丝的身形忽大忽小，还遇见了搞怪 的双胞胎兄弟弹弹丁和弹弹当、癫狂无比的疯帽匠（Ed Wynn 配音）和三月兔（Jerry Colonna 配音）、以及来无影去无踪的妙妙猫，由此引出了不少的笑话和奇遇。当然，最令爱丽丝感兴趣的还是那只慌里慌张赶路的兔子。在它的引领下，爱丽丝来到了红心皇后的城堡，更大的冒险等待着她……</span></p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "正片$https://vodcnd16.ajupf.com/20260727/7J385zlO/index.m3u8#$$$正片$https://vodcnd16.ajupf.com/share/QJrqtOJFYO#",
-    "update_time": "2026-08-03 21:34:48"
-  },
-  {
-    "id": 142098,
-    "name": "纯真童影",
-    "type": "剧情片",
-    "year": "2010",
-    "area": "美国",
-    "language": "英语",
-    "category": "剧情",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/d86839873b21ada0ff296e38002e36b1.jpg",
-    "douban_id": 3986149,
-    "score": "7.7",
-    "remarks": "正片",
-    "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">亨利·马修斯生来就对R&amp;amp;B有着绝佳的天赋，在他的父亲被征调到阿富汗后，母子俩失去了住所，不得不跟痛恨音乐的祖父生活生活在一起。一次难得的机遇，亨利参加了青少年唱歌比赛，梦想着能够逃离自己破碎的生活。</span></p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "正片$https://vodcnd16.ajupf.com/20260727/SVIHFgGv/index.m3u8#$$$正片$https://vodcnd16.ajupf.com/share/Wcb3lifrVw#",
-    "update_time": "2026-08-03 21:24:00"
-  },
-  {
-    "id": 140063,
-    "name": "中华才女风华录",
-    "type": "大陆综艺",
-    "year": "2026",
-    "area": "中国大陆",
-    "language": "汉语普通话",
-    "category": "真人秀",
-    "poster": "https://dbzy5.com/upload/vod/20260720-1/0e1b0d18c9c5fc0affa73777a076b095.jpg",
-    "douban_id": 0,
-    "score": "5.0",
-    "remarks": "第6期",
-    "content": "<p>这是一部全景展示中国古代才女风华的传记纪录片，项目以真实史料为根基，采用艺术化讲述方式，运用古代美学镜头，展现8位享有较高声誉的古代才女的风华一生。</p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "第01集$https://vodcnd16.ajupf.com/20260720/ocl8qbPz/index.m3u8#第02集$https://vodcnd16.ajupf.com/20260720/IYpI6sCH/index.m3u8#第03集$https://vodcnd16.ajupf.com/20260803/OK2nVAqx/index.m3u8#第04集$https://vodcnd16.ajupf.com/20260803/PsJSnOvR/index.m3u8#第05集$https://vodcnd16.ajupf.com/20260803/zu0bGlF5/index.m3u8#第06集$https://vodcnd16.ajupf.com/20260803/MUypjT7n/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/X1zVDI24tR#第02集$https://vodcnd16.ajupf.com/share/Y1U6MMRYdN#第03集$https://vodcnd16.ajupf.com/share/pZb41AW0tx#第04集$https://vodcnd16.ajupf.com/share/ngcUg3m99I#第05集$https://vodcnd16.ajupf.com/share/ufQxZsGw4x#第06集$https://vodcnd16.ajupf.com/share/itUOedIeNt",
-    "update_time": "2026-08-03 21:20:50"
   }
 ]

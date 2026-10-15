@@ -1,5 +1,17 @@
 [
   {
+    "id": 139808,
+    "name": "天籁与少年",
+    "type": "大陆综艺",
+    "category": "音乐,真人秀",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260716-1/1a026266eb2378e09c7dbb6acc5ea797.jpg",
+    "score": "5.0",
+    "remarks": "第20260823期纯享版",
+    "update_time": "2026-08-23 21:20:07"
+  },
+  {
     "id": 145460,
     "name": "飞玩不可",
     "type": "大陆综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "严浩翔生日会回顾",
     "update_time": "2026-08-17 14:14:44"
-  },
-  {
-    "id": 143642,
-    "name": "十二集文献纪录片《江泽民》",
-    "type": "大陆综艺",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260813-1/726a6fbb40a93d3c7576c14f024c414c.jpg",
-    "score": "5.0",
-    "remarks": "第12集",
-    "update_time": "2026-08-17 12:59:42"
   }
 ]

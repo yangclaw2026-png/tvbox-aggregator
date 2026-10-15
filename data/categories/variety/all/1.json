@@ -1,5 +1,17 @@
 [
   {
+    "id": 151747,
+    "name": "新星格斗场",
+    "type": "欧美综艺",
+    "category": "运动,真人秀",
+    "year": "2026",
+    "area": "法国",
+    "poster": "https://dbzy5.com/upload/vod/20261001-1/65a82d76ea1c093f28f17c9acf803a2e.jpg",
+    "score": "5.0",
+    "remarks": "第10期",
+    "update_time": "2026-10-15 23:19:24"
+  },
+  {
     "id": 148343,
     "name": "哥哥来啦",
     "type": "大陆综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第8期",
     "update_time": "2026-08-26 19:49:54"
-  },
-  {
-    "id": 145841,
-    "name": "舞蹈新风暴",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260825-1/3b357c391e612acbbb46960e092c6629.jpg",
-    "score": "5.0",
-    "remarks": "20260826Plus：刘雨昕舞台细节控精准输出",
-    "update_time": "2026-08-26 19:24:07"
   }
 ]

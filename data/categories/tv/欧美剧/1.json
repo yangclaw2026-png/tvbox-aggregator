@@ -1,5 +1,17 @@
 [
   {
+    "id": 153425,
+    "name": "人生七年 第十季（中配文）",
+    "type": "欧美剧",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "英国",
+    "poster": "https://dbzy5.com/upload/vod/20261015-1/1e4a89d7c6629952dcd74dae932e39e3.jpg",
+    "score": "9.5",
+    "remarks": "第01集",
+    "update_time": "2026-10-15 23:29:55"
+  },
+  {
     "id": 152841,
     "name": "宴会之后 The Party",
     "type": "欧美剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第8集",
     "update_time": "2026-08-21 21:32:15"
-  },
-  {
-    "id": 141880,
-    "name": "战斗之地",
-    "type": "欧美剧",
-    "category": "剧情,犯罪",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260802-1/547631c4ed8666dcd0f9da6f2bb377b1.jpg",
-    "score": "5.0",
-    "remarks": "第4集",
-    "update_time": "2026-08-21 20:15:57"
   }
 ]

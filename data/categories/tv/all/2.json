@@ -1,5 +1,17 @@
 [
   {
+    "id": 149999,
+    "name": "流人 第六季",
+    "type": "欧美剧",
+    "category": "剧情,惊悚",
+    "year": "2026",
+    "area": "英国,美国",
+    "poster": "https://dbzy5.com/upload/vod/20260916-1/d3bacc2538661e648269d0d51cf4dca9.jpg",
+    "score": "5.0",
+    "remarks": "7全集",
+    "update_time": "2026-09-16 18:43:36"
+  },
+  {
     "id": 149135,
     "name": "兰香如故",
     "type": "国产剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第3集",
     "update_time": "2026-08-27 14:34:20"
-  },
-  {
-    "id": 141521,
-    "name": "中国十大王朝",
-    "type": "国产剧",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260730-1/a28767af164f265b30d4046eb142b992.jpg",
-    "score": "5.0",
-    "remarks": "第10集完结",
-    "update_time": "2026-08-27 14:05:49"
   }
 ]
