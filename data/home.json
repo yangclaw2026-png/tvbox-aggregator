@@ -1,5 +1,17 @@
 [
   {
+    "id": 153340,
+    "name": "我家猫是翻译官",
+    "type": "AI短剧",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261015-1/0839872dd50e0e9cf6e2fecee30848ab.jpg",
+    "score": "5.0",
+    "remarks": "全集完结",
+    "update_time": "2026-10-15 18:57:25"
+  },
+  {
     "id": 152960,
     "name": "璀璨之城(粤)",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-10-13 22:46:02"
-  },
-  {
-    "id": 153057,
-    "name": "冰封末世：女友夺我热熔我掌万古寒冰第一季",
-    "type": "AI短剧",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261013-1/cf280705f8e511424088787376cf321b.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-13 22:44:52"
   }
 ]
