@@ -1,5 +1,17 @@
 [
   {
+    "id": 139848,
+    "name": "山海经之山海归序",
+    "type": "国产剧",
+    "category": "动作,动画,奇幻",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260717-1/8b9cb9329c14230c460cc324894f4732.jpg",
+    "score": "5.0",
+    "remarks": "第13集",
+    "update_time": "2026-08-25 11:17:28"
+  },
+  {
     "id": 138810,
     "name": "我的虚构",
     "type": "日本剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第6集",
     "update_time": "2026-08-22 21:10:13"
-  },
-  {
-    "id": 142725,
-    "name": "来！金来号",
-    "type": "台湾剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260807-1/05d4ebf7bb94feea0ceb136c4955ab3a.jpg",
-    "score": "5.0",
-    "remarks": "第4集",
-    "update_time": "2026-08-22 21:06:14"
   }
 ]

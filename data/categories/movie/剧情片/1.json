@@ -1,5 +1,17 @@
 [
   {
+    "id": 152960,
+    "name": "璀璨之城(粤)",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261013-1/e138357f3854fe907e442afb7cbb9303.jpg",
+    "score": "5.0",
+    "remarks": "3",
+    "update_time": "2026-10-15 11:26:59"
+  },
+  {
     "id": 151930,
     "name": "人物·故事",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-18 12:31:43"
-  },
-  {
-    "id": 144336,
-    "name": "隐秘的局中局",
-    "type": "剧情片",
-    "category": "剧情,犯罪",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260817-1/dd97f8238ac9a9341982057c5663b8de.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-17 19:21:34"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 142855,
+    "name": "完美世界剧场版九劫焚天",
+    "type": "动漫电影",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260808-1/92d123c9764b069072896fbb0d941215.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-08 21:28:42"
+  },
+  {
     "id": 142860,
     "name": "缎带骑士",
     "type": "动漫电影",
@@ -586,17 +598,5 @@
     "score": "7.6",
     "remarks": "正片",
     "update_time": "2026-08-05 16:56:22"
-  },
-  {
-    "id": 142332,
-    "name": "新潮恋爱 1990",
-    "type": "喜剧片",
-    "category": "喜剧",
-    "year": "1990",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/16b5c3401a4431ad127edd0d1899f5ec.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-05 16:55:28"
   }
 ]

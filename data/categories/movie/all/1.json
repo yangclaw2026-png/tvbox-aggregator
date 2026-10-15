@@ -1,5 +1,17 @@
 [
   {
+    "id": 152960,
+    "name": "璀璨之城(粤)",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261013-1/e138357f3854fe907e442afb7cbb9303.jpg",
+    "score": "5.0",
+    "remarks": "3",
+    "update_time": "2026-10-15 11:26:59"
+  },
+  {
     "id": 153252,
     "name": "伊吕波的跨时代之恋 いろはの恋は時代をかける",
     "type": "爱情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第4集",
     "update_time": "2026-09-10 18:39:26"
-  },
-  {
-    "id": 148965,
-    "name": "高原之上",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260910-1/1636f4a3bab2a5b1e00b2b6ed8ccad92.webp",
-    "score": "5.0",
-    "remarks": "第4集",
-    "update_time": "2026-09-10 18:37:08"
   }
 ]

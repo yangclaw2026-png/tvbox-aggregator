@@ -1,5 +1,17 @@
 [
   {
+    "id": 142332,
+    "name": "新潮恋爱 1990",
+    "type": "喜剧片",
+    "category": "喜剧",
+    "year": "1990",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/16b5c3401a4431ad127edd0d1899f5ec.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-05 16:55:28"
+  },
+  {
     "id": 142334,
     "name": "长袜子皮皮 1997",
     "type": "动漫电影",
@@ -586,17 +598,5 @@
     "score": "5.2",
     "remarks": "正片",
     "update_time": "2026-08-05 11:09:30"
-  },
-  {
-    "id": 138037,
-    "name": "性爱狂想曲",
-    "type": "喜剧片",
-    "category": "喜剧",
-    "year": "1994",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260701-1/b1aa911df60f4517362b758f9897fccb.jpg",
-    "score": "7.0",
-    "remarks": "正片",
-    "update_time": "2026-08-05 11:08:16"
   }
 ]

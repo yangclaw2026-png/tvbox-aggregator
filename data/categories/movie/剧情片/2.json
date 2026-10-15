@@ -1,5 +1,17 @@
 [
   {
+    "id": 144336,
+    "name": "隐秘的局中局",
+    "type": "剧情片",
+    "category": "剧情,犯罪",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260817-1/dd97f8238ac9a9341982057c5663b8de.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-17 19:21:34"
+  },
+  {
     "id": 139638,
     "name": "功夫女足",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-05 17:02:09"
-  },
-  {
-    "id": 142343,
-    "name": "菲律宾有嘻哈",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2017",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/e787df5d02ccd728e24916579899a287.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-05 17:01:08"
   }
 ]

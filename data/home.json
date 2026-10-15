@@ -1,5 +1,29 @@
 [
   {
+    "id": 152960,
+    "name": "璀璨之城(粤)",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261013-1/e138357f3854fe907e442afb7cbb9303.jpg",
+    "score": "5.0",
+    "remarks": "3",
+    "update_time": "2026-10-15 11:26:59"
+  },
+  {
+    "id": 152433,
+    "name": "爱上草莓的季节",
+    "type": "韩剧",
+    "category": "喜剧,爱情",
+    "year": "2026",
+    "area": "韩国",
+    "poster": "https://dbzy5.com/upload/vod/20261008-1/39d9ad4fc73afe1606e06f0a830bc962.webp",
+    "score": "5.0",
+    "remarks": "第2集",
+    "update_time": "2026-10-15 11:25:34"
+  },
+  {
     "id": 153273,
     "name": "极恶老大 第三季",
     "type": "国产动漫",
@@ -574,29 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-10-13 22:44:52"
-  },
-  {
-    "id": 153056,
-    "name": "饥明：血疫初现",
-    "type": "动漫电影",
-    "category": "动画，古装 ，悬疑",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261013-1/43975a34f72c28d300979f9521eaf68a.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-10-13 22:44:44"
-  },
-  {
-    "id": 153055,
-    "name": "26_27赛季法甲第6轮全场回放：尼斯VS斯特拉斯堡",
-    "type": "足球",
-    "category": "体育",
-    "year": "2026",
-    "area": "",
-    "poster": "https://dbzy5.com/upload/vod/20261013-1/a0c0d4c70d213d8bb27bc5c69da254f2.jpg",
-    "score": "5.0",
-    "remarks": "20261011",
-    "update_time": "2026-10-13 22:44:20"
   }
 ]
