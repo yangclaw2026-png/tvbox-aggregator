@@ -1,5 +1,39 @@
 [
   {
+    "id": 153526,
+    "name": "梨花保姆第一季",
+    "type": null,
+    "year": "2026",
+    "area": "大陆",
+    "language": "国语",
+    "category": "短剧",
+    "poster": "https://dbzy5.com/upload/vod/20261016-1/fb1c159c3b877ae556a75bd0e094bbb7.jpg",
+    "douban_id": 0,
+    "score": "5.0",
+    "remarks": "全集完结",
+    "content": "<p><span style=\"color: oklch(0.554 0.046 257.417); font-family: Poppins, ui-sans-serif, system-ui, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; background-color: #FFFFFF;\">本故事讲述赵霜梨从小在梨花村长大，有天和母亲在地里给白菜育苗，被邻居王秀盯上，非要让她做儿媳妇。她母亲不肯，一夜未休在网上给女儿找了保姆这份工作，让赵霜梨去大城市里打拼。在海市，赵霜梨认识了雇主祁轩宇。</span></p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "全集完结$https://vodcnd17.ajupf.com/20261015/dJTvActt/index.m3u8$$$全集完结$https://vodcnd17.ajupf.com/share/0HXYzqOt64",
+    "update_time": "2026-10-16 20:06:59"
+  },
+  {
+    "id": 153525,
+    "name": "末世大佬穿越，只想隐居深山第三季",
+    "type": null,
+    "year": "2026",
+    "area": "大陆",
+    "language": "国语",
+    "category": "短剧",
+    "poster": "https://dbzy5.com/upload/vod/20261016-1/ed3cb28b43207ff1143f81e94115c44c.jpg",
+    "douban_id": 0,
+    "score": "5.0",
+    "remarks": "全集完结",
+    "content": "<p><span style=\"color: oklch(0.554 0.046 257.417); font-family: Poppins, ui-sans-serif, system-ui, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; background-color: #FFFFFF;\">末世大佬穆云瑶携三系异能穿越，一睁眼就被渣未婚夫一家欺负退亲。她果断暴揍渣男后，与憨厚猎户陆砚书成婚，并带领淳朴的陆家村人迁入十万大山避世。凭借催生植物的异能，穆云瑶在山谷中开发良田、烧砖建屋、酿酒榨油，把荒谷建成世外桃源。同时，她暗中为穆家后人筹备军资粮草，助其推翻暴政，最终建立新朝。当天下太平，获得封赏的穆云瑶却选择和陆砚书及村人一起留在山谷，过上她向往已久的“摆烂”生活——种花养娃</span></p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "全集完结$https://vodcnd17.ajupf.com/20261015/rHYUJkjY/index.m3u8$$$全集完结$https://vodcnd17.ajupf.com/share/1ozvISC0XB",
+    "update_time": "2026-10-16 20:04:49"
+  },
+  {
     "id": 152589,
     "name": "冰剑的魔术师将要统一世界 第二季",
     "type": "日本动漫",
@@ -2907,6 +2941,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第3期"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 163530,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第4期"
       }
     ]
   },
@@ -129738,7 +129779,16 @@
     "content": "<p>暂无简介</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260704/sBtTaONb/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/T7KC32LEbT",
-    "update_time": "2026-08-04 22:17:50"
+    "update_time": "2026-08-04 22:17:50",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 142550,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 142207,
@@ -132643,39 +132693,5 @@
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd16.ajupf.com/20260724/iFjNk2pM/index.m3u8$$$全集完结$https://vodcnd16.ajupf.com/share/RAJnN7EN70",
     "update_time": "2026-08-03 22:11:51"
-  },
-  {
-    "id": 141841,
-    "name": "锦朝凤华",
-    "type": "古装仙侠",
-    "year": "2026",
-    "area": "中国大陆",
-    "language": "汉语普通话",
-    "category": "短剧",
-    "poster": "https://dbzy5.com/upload/vod/20260801-1/ea8f7b1214119259f317091572127699.jpg",
-    "douban_id": 0,
-    "score": "0.0",
-    "remarks": "全集完结",
-    "content": "<p style=\"margin: 0px 0px 1em; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; font-size: 18px; line-height: inherit; font-family: Arial, sans-serif; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; vertical-align: baseline; color: rgb(102, 102, 102); white-space: normal; background-color: rgb(255, 255, 255);\">谁说女子不如男？看女主如何在权谋漩涡中逆风翻盘。这部由AI制作的古风大剧，以极致精美的画面呈现锦朝风云。女主从卑微身份起步，凭借智慧与勇气步步为营，最终凤临天下。剧情紧凑反转不断，既有朝堂博弈的惊心动魄，又有儿女情长的细腻动人。AI生成技术让服化道惊艳绝伦，每一帧都是壁纸。喜欢宫斗权谋和女性成长题材的观众，千万别错过这场视觉与心灵的双重盛宴，绝对爽感十足。</p><p><br/></p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "全集完结$https://vodcnd16.ajupf.com/20260717/tt3uDCgY/index.m3u8$$$全集完结$https://vodcnd16.ajupf.com/share/0VDkexKlHq",
-    "update_time": "2026-08-03 22:08:31"
-  },
-  {
-    "id": 142103,
-    "name": "拯救林荫大道",
-    "type": "喜剧片",
-    "year": "2011",
-    "area": "美国",
-    "language": "英语",
-    "category": "喜剧,惊悚",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/1dfbc748710b43c869d24ceef563925d.jpg",
-    "douban_id": 3148063,
-    "score": "5.6",
-    "remarks": "正片",
-    "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">牧师丹（皮尔斯·布鲁斯南 Pierce Brosnan 饰）是个极具魅力的人，他迷住了整个小镇，并向人们承诺了美好的未来前景。与此同时，卡尔（格雷戈·金尼尔 Greg Kinnear 饰）是一个嬉皮士，一次偶然中，他发现了丹的福音新社区实际上只是丹用来实现自己的商业野心的工具而已。</span></p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "正片$https://vodcnd16.ajupf.com/20260727/URgBY1gv/index.m3u8#$$$正片$https://vodcnd16.ajupf.com/share/CerbRBXt7i#",
-    "update_time": "2026-08-03 22:01:52"
   }
 ]
