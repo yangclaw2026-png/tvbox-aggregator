@@ -1,5 +1,17 @@
 [
   {
+    "id": 2765,
+    "name": "万界独尊",
+    "type": "国产动漫",
+    "category": "其它,动漫,中国动漫,动画",
+    "year": "2021",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250109-3/62d6d59825d60b9155e0b3a0285af870.jpg",
+    "score": "6.5",
+    "remarks": "第477集",
+    "update_time": "2026-08-25 17:31:34"
+  },
+  {
     "id": 659,
     "name": "武神主宰 2020",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第20集",
     "update_time": "2026-08-24 13:10:43"
-  },
-  {
-    "id": 127282,
-    "name": "拜托了偶像公主",
-    "type": "日本动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260405-1/7818f1d8a2252bbfa942e9d447f06b53.jpg",
-    "score": "5.0",
-    "remarks": "第21集",
-    "update_time": "2026-08-24 13:07:20"
   }
 ]

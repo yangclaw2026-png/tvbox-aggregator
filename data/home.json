@@ -1,5 +1,29 @@
 [
   {
+    "id": 152589,
+    "name": "冰剑的魔术师将要统一世界 第二季",
+    "type": "日本动漫",
+    "category": "动画,奇幻,冒险",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20261009-1/3d781902341dd7d6068b67b22cfa0dca.webp",
+    "score": "5.0",
+    "remarks": "第2集",
+    "update_time": "2026-10-16 11:20:13"
+  },
+  {
+    "id": 152571,
+    "name": "芝加哥烈焰 第十五季",
+    "type": "欧美剧",
+    "category": "剧情,动作",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20261008-1/a4979c3378809c5759a378ac979e54fc.jpg",
+    "score": "5.0",
+    "remarks": "第 2集",
+    "update_time": "2026-10-16 11:15:07"
+  },
+  {
     "id": 153425,
     "name": "人生七年 第十季（中配文）",
     "type": "欧美剧",
@@ -574,29 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-10-13 22:51:46"
-  },
-  {
-    "id": 153063,
-    "name": "砌墙三米，我为父亲讨公道",
-    "type": "重生民国",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261013-1/c05d8811e31738912091ea812ec8c76c.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-13 22:50:09"
-  },
-  {
-    "id": 153062,
-    "name": "26_27赛季西甲第8轮全场回放：皇家马德里VS比利亚雷亚尔",
-    "type": "足球",
-    "category": "体育",
-    "year": "2026",
-    "area": "",
-    "poster": "https://dbzy5.com/upload/vod/20261013-1/a736201016991c0d81db2c9ae3578093.jpg",
-    "score": "5.0",
-    "remarks": "20261011",
-    "update_time": "2026-10-13 22:49:52"
   }
 ]

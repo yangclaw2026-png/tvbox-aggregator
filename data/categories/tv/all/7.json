@@ -1,5 +1,17 @@
 [
   {
+    "id": 143545,
+    "name": "街角少年：电影版：南多的两个世界",
+    "type": "欧美剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "巴西",
+    "poster": "https://dbzy5.com/upload/vod/20260812-1/4a6daddb8de8f0235f28bf596e59b005.jpg",
+    "score": "5.0",
+    "remarks": "第1集",
+    "update_time": "2026-08-12 20:42:18"
+  },
+  {
     "id": 140570,
     "name": "杀人者的购物中心2",
     "type": "韩剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第13集完结",
     "update_time": "2026-08-05 15:57:00"
-  },
-  {
-    "id": 142275,
-    "name": "幽冥教主是公主",
-    "type": "国产剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/0215c53b1ab6aa4ed794ccd7184a9eae.jpg",
-    "score": "5.0",
-    "remarks": "第15集完结",
-    "update_time": "2026-08-05 13:39:20"
   }
 ]

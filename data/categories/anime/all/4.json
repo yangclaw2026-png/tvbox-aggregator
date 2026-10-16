@@ -1,5 +1,17 @@
 [
   {
+    "id": 145954,
+    "name": "神奇毛豆救护站",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260826-1/d8ed794a47086a49a2ae189185f59bf4.jpg",
+    "score": "5.0",
+    "remarks": "第22集",
+    "update_time": "2026-08-26 13:42:51"
+  },
+  {
     "id": 145959,
     "name": "全民深渊：我喝药能增加属性上限",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第17集",
     "update_time": "2026-08-25 17:32:16"
-  },
-  {
-    "id": 2765,
-    "name": "万界独尊",
-    "type": "国产动漫",
-    "category": "其它,动漫,中国动漫,动画",
-    "year": "2021",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250109-3/62d6d59825d60b9155e0b3a0285af870.jpg",
-    "score": "6.5",
-    "remarks": "第477集",
-    "update_time": "2026-08-25 17:31:34"
   }
 ]

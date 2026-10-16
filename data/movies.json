@@ -1,5 +1,64 @@
 [
   {
+    "id": 152589,
+    "name": "冰剑的魔术师将要统一世界 第二季",
+    "type": "日本动漫",
+    "year": "2026",
+    "area": "日本",
+    "language": "日语",
+    "category": "动画,奇幻,冒险",
+    "poster": "https://dbzy5.com/upload/vod/20261009-1/3d781902341dd7d6068b67b22cfa0dca.webp",
+    "douban_id": 38480855,
+    "score": "5.0",
+    "remarks": "第2集",
+    "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">　他位列七大魔术师之一，是被誉为世间最强的冰剑魔术师。继承这一名号的雷・怀特，因自身力量过于强横而深陷苦恼，怀揣着心底深重的创伤，从此隐退战场。</span><br style=\"color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 13px; white-space: normal; background-color: rgb(255, 255, 255);\"/><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">　　时光流转三年后，雷以学院里唯一一名普通家庭出身的学员身份，进入汇聚各国精英魔术师的阿诺德魔术学院就读。入学之初，他屡屡遭到贵族出身魔术师的轻视。可在对抗觊觎精英魔术师的势力优胜机关的阴谋过程中，雷逐步展露自身实力，赢得了众人的信赖。</span><br style=\"color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 13px; white-space: normal; background-color: rgb(255, 255, 255);\"/><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">　　历经重重考验，雷收获了无可替代的伙伴与归属之地。接下来他将要挑战的，是打破学院界限、以三人小队形式参战的大规模魔术竞技战。</span><br style=\"color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 13px; white-space: normal; background-color: rgb(255, 255, 255);\"/><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">　　然而，暗影正悄然逼近雷和他的伙伴们……不仅如此，除雷以外的七大魔术师们也陆续开始行动！？</span><br style=\"color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 13px; white-space: normal; background-color: rgb(255, 255, 255);\"/><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">　　最强魔术师的友情与波澜万丈的学园生活，如今再次拉开序幕！！</span></p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01集$https://vodcnd16.ajupf.com/20261016/gAbyU7QT/index.m3u8#第02集$https://vodcnd16.ajupf.com/20261009/G4g1G2Ec/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/3BxG79UQdQ#第02集$https://vodcnd16.ajupf.com/share/u22SVSayEM",
+    "update_time": "2026-10-16 11:20:13",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 153148,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第2集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 166681,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第2集"
+      }
+    ]
+  },
+  {
+    "id": 152571,
+    "name": "芝加哥烈焰 第十五季",
+    "type": "欧美剧",
+    "year": "2026",
+    "area": "美国",
+    "language": "英语",
+    "category": "剧情,动作",
+    "poster": "https://dbzy5.com/upload/vod/20261008-1/a4979c3378809c5759a378ac979e54fc.jpg",
+    "douban_id": 38399525,
+    "score": "5.0",
+    "remarks": "第 2集",
+    "content": "",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01集$https://vhttps://vodcnd17.ajupf.com/20261015/qOLgrakr/index.m3u8#第02集$odcnd16.ajupf.com/20261009/x7NeJmjM/index.m3u8$$$第01集$https://vodcnd16.ahttps://vodcnd17.ajupf.com/share/BicIG2iS2J#第02集$jupf.com/share/KlNI5IzTSV",
+    "update_time": "2026-10-16 11:15:07",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 153147,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第2集"
+      }
+    ]
+  },
+  {
     "id": 153425,
     "name": "人生七年 第十季（中配文）",
     "type": "欧美剧",
@@ -2785,6 +2844,20 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第01集"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 156699,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "更新至02集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 166683,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第2集"
       }
     ]
   },
@@ -5985,6 +6058,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第7集"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 157471,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第8集"
       }
     ]
   },
@@ -132512,39 +132592,5 @@
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "正片$https://vodcnd16.ajupf.com/20260727/URgBY1gv/index.m3u8#$$$正片$https://vodcnd16.ajupf.com/share/CerbRBXt7i#",
     "update_time": "2026-08-03 22:01:52"
-  },
-  {
-    "id": 141840,
-    "name": "前夫送的 “废品” 男团，全被我养成了神明",
-    "type": "古装仙侠",
-    "year": "2026",
-    "area": "中国大陆",
-    "language": "汉语普通话",
-    "category": "短剧",
-    "poster": "https://dbzy5.com/upload/vod/20260801-1/c8238823d6096eb489a63092cd8ef70e.jpg",
-    "douban_id": 0,
-    "score": "0.0",
-    "remarks": "全集完结",
-    "content": "<p><span style=\"color: #666666; font-family: Arial, sans-serif; font-size: 18px; background-color: #FFFFFF;\">漫画改编的爆笑甜宠番！被前夫当作累赘送走的四个男人，竟被女主一手培养成顶流巨星。从默默无闻到光芒万丈，反差萌十足，打脸前任情节极其解压。动漫风格清新可爱，人物表情生动有趣，互动甜蜜满分。不仅有小鲜肉养成的爽感，还有职场逆袭的热血，轻松治愈又上头，闲暇时光必备下饭神器！</span></p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "全集完结$https://vodcnd16.ajupf.com/20260724/x2wWz3T9/index.m3u8$$$全集完结$https://vodcnd16.ajupf.com/share/AleSCVMgjY",
-    "update_time": "2026-08-03 22:00:20"
-  },
-  {
-    "id": 142102,
-    "name": "紧急按钮",
-    "type": "惊悚片",
-    "year": "2011",
-    "area": "英国",
-    "language": "英语",
-    "category": "惊悚,恐怖",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/c50bef57772ff08501007e490a2773fb.jpg",
-    "douban_id": 6967584,
-    "score": "5.2",
-    "remarks": "正片",
-    "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">麦克斯（杰克·戈登 Jack Gordon 饰）、乔（斯卡莉特·爱丽丝·约翰逊 Scarlett Alice Johnson 饰）、戴夫（迈克尔·吉布森 Michael Jibson 饰）、格温（艾伦·雷斯 Elen Rhys 饰）是4个彼此陌生的普通网民，他们通过社交网络all2gethr.com赢得了纽约之旅的机票。主办方为他们准备了豪华的空中娱乐节目，不过按照规则他们必须交出手机才能登机。</span></p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "正片$https://vodcnd16.ajupf.com/20260727/lCjetY5N/index.m3u8#$$$正片$https://vodcnd16.ajupf.com/share/UQIFyefshR#",
-    "update_time": "2026-08-03 21:54:16"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 145335,
+    "name": "赴海",
+    "type": "台湾剧",
+    "category": "剧情 ，动作 ， 犯罪",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260822-1/c139166c0dd4d1374a6ceb33d1e46b64.jpg",
+    "score": "5.0",
+    "remarks": "第2集",
+    "update_time": "2026-08-22 21:17:12"
+  },
+  {
     "id": 139854,
     "name": "恋爱演算法",
     "type": "海外剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第4集",
     "update_time": "2026-08-20 13:05:07"
-  },
-  {
-    "id": 143279,
-    "name": "我从黑暗中走来",
-    "type": "国产剧",
-    "category": "剧情,爱情,悬疑",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260811-1/032deeca1b098ea9b859fb3c8a8c6819.jpg",
-    "score": "5.0",
-    "remarks": "第25集",
-    "update_time": "2026-08-20 11:32:41"
   }
 ]

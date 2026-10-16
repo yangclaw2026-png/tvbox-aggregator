@@ -1,5 +1,17 @@
 [
   {
+    "id": 140212,
+    "name": "万古神帝",
+    "type": "国产动漫",
+    "category": "动作,动画,奇幻",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260721-1/a97991ace266e7103016ebbd914c2ccb.jpg",
+    "score": "5.0",
+    "remarks": "第11集",
+    "update_time": "2026-08-18 11:57:24"
+  },
+  {
     "id": 82728,
     "name": "末日狠人：开局囤积万亿物资 动态漫画",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第22集",
     "update_time": "2026-08-11 11:49:21"
-  },
-  {
-    "id": 138992,
-    "name": "北斗神拳 拳王军杂兵们的挽歌 第二季",
-    "type": "日本动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260708-1/9a15178b90ede573ed77ac1b93f4ea18.jpg",
-    "score": "5.0",
-    "remarks": "第6集",
-    "update_time": "2026-08-10 21:03:06"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 152589,
+    "name": "冰剑的魔术师将要统一世界 第二季",
+    "type": "日本动漫",
+    "category": "动画,奇幻,冒险",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20261009-1/3d781902341dd7d6068b67b22cfa0dca.webp",
+    "score": "5.0",
+    "remarks": "第2集",
+    "update_time": "2026-10-16 11:20:13"
+  },
+  {
     "id": 152449,
     "name": "佐佐木与文鸟小哔 第二季",
     "type": "日本动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第20集",
     "update_time": "2026-08-24 13:44:15"
-  },
-  {
-    "id": 138653,
-    "name": "相反的你和我 第二季",
-    "type": "日本动漫",
-    "category": "喜剧,爱情,动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260706-1/02625dfbb7311c885db4095f5d4f293e.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-24 13:39:36"
   }
 ]

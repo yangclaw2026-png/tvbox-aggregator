@@ -1,5 +1,17 @@
 [
   {
+    "id": 127282,
+    "name": "拜托了偶像公主",
+    "type": "日本动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260405-1/7818f1d8a2252bbfa942e9d447f06b53.jpg",
+    "score": "5.0",
+    "remarks": "第21集",
+    "update_time": "2026-08-24 13:07:20"
+  },
+  {
     "id": 200,
     "name": "逆天至尊",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "8.6",
     "remarks": "第97集",
     "update_time": "2026-08-23 12:06:12"
-  },
-  {
-    "id": 144020,
-    "name": "财神窦占龙",
-    "type": "国产动漫",
-    "category": "动作,动画,奇幻",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260816-1/1f18ff0d26c23f5be8c6549ae235e700.webp",
-    "score": "0.0",
-    "remarks": "第4集",
-    "update_time": "2026-08-23 11:52:31"
   }
 ]
