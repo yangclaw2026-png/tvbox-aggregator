@@ -121,6 +121,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "抢先版"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 153880,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "抢先版"
       }
     ]
   },
@@ -2711,7 +2718,16 @@
     "content": "<p>v</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.ajupf.com/20261010/DNtbmiKZ/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/SrTCtrTg02",
-    "update_time": "2026-10-10 12:38:05"
+    "update_time": "2026-10-10 12:38:05",
+    "play_sources": [
+      {
+        "source": "暴风资源",
+        "source_id": 166698,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第2集"
+      }
+    ]
   },
   {
     "id": 152697,
@@ -2858,6 +2874,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第2集"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 196503,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第2集"
       }
     ]
   },
@@ -6065,6 +6088,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第8集"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 153735,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "更新至08集"
       }
     ]
   },
@@ -6624,6 +6654,13 @@
         "play_from": "snm3u8",
         "play_url": null,
         "remarks": "更新至03集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 163512,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第8集"
       }
     ]
   },
@@ -8990,6 +9027,20 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第4集"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 218114,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第6集"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 158607,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第6集"
       }
     ]
   },
@@ -12564,7 +12615,16 @@
     "content": "<p><span style=\"color: #666666; font-family: Arial, sans-serif; font-size: 18px; background-color: #FFFFFF;\">这份资源最抓人的看点在于用七十集的体量把破镜重圆的拉扯感做到了极致，今年新上的《情深后觉第二季》就是一部纯粹的都市情感题材AI短剧。故事紧接前作，讲述主角们在错过与重逢之间反复试探，终于看清内心深埋的真情，将那种迟来的醒悟与追悔莫及刻画得入木三分。男女主的关系走向充满张力，从互相闪躲到重新靠近，矛盾冲突聚焦于过往心结与现实阻碍的碰撞，短剧推进极快，每一次反转都直击痛点，重新认清彼此心意的主线绝对不容错过。它极度适合喜欢看虐恋情深、破镜重圆设定的情感向观众，吃追妻火葬场这套的人绝对会爽到。转存以后连打包下载都给你备好了，直接存进夸克网盘马上就能看全集。</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd17.ajupf.com/20260917/7ZSjjqsD/index.m3u8$$$全集完结$https://vodcnd17.ajupf.com/share/pfSaZCeVyN",
-    "update_time": "2026-09-17 22:48:08"
+    "update_time": "2026-09-17 22:48:08",
+    "play_sources": [
+      {
+        "source": "暴风资源",
+        "source_id": 168460,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "完结"
+      }
+    ]
   },
   {
     "id": 149863,
@@ -18710,7 +18770,16 @@
     "content": "<p>现代社畜叶凡穿越青云宗，成经脉堵塞、人人可欺的藏经杂役，意外解锁每日情报系统，能预知各类宗门与三界危机。他本性只想躺平摸鱼，每日靠阵法古籍度日，从不愿掺和夺嫡、宗门纷争，可他内心所有吐槽、预判秘密，全被冰山宗主洛清雪听见。洛清起初怀疑他是奸细，刻意试探，一步步靠叶凡心声化解焚天谷内奸、地心火莲炸灵脉等危机，索性将他升为亲传弟子。</p><p><br/></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd17.ajupf.com/20260904/smZMTNF0/index.m3u8$$$全集完结$https://vodcnd17.ajupf.com/share/ZnBOTTE9yu",
-    "update_time": "2026-09-06 23:03:15"
+    "update_time": "2026-09-06 23:03:15",
+    "play_sources": [
+      {
+        "source": "暴风资源",
+        "source_id": 168456,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "完结"
+      }
+    ]
   },
   {
     "id": 148252,
@@ -47646,6 +47715,13 @@
         "play_from": "hnm3u8",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 161906,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
@@ -129491,7 +129567,16 @@
     "content": "<p><span style=\"color: oklch(0.554 0.046 257.417); font-family: Poppins, ui-sans-serif, system-ui, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; background-color: #FFFFFF;\">李谦易穿越成燕北王世子，开局被永王妃林凝烟设计陷害。他反将一军，化险为夷。朝堂上怒斥和亲宰相，得皇帝赏识。收花魁、贪官、谋士、神射手，娶赵国公之女林仙儿，揭穿端王资敌、永王谋反，最终率军北伐，封侯掌权，坐享齐人之福。</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260630/nNGbjG2c/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/DiFJrIAORo",
-    "update_time": "2026-08-04 22:32:26"
+    "update_time": "2026-08-04 22:32:26",
+    "play_sources": [
+      {
+        "source": "暴风资源",
+        "source_id": 151085,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "完结"
+      }
+    ]
   },
   {
     "id": 142250,
