@@ -1,5 +1,17 @@
 [
   {
+    "id": 54368,
+    "name": "枪之子",
+    "type": "剧情片",
+    "category": "剧情,动作,犯罪",
+    "year": "2014",
+    "area": "澳大利亚,英国,加拿大",
+    "poster": "https://dbzy5.com/upload/vod/20250107-16/11a34e602d14d2a63adbde79696e5e85.jpg",
+    "score": "6.1",
+    "remarks": "正片",
+    "update_time": "2026-08-21 22:25:26"
+  },
+  {
     "id": 145180,
     "name": "焕心速看版",
     "type": "喜剧片",
@@ -586,17 +598,5 @@
     "score": "7.4",
     "remarks": "正片",
     "update_time": "2026-08-18 15:52:57"
-  },
-  {
-    "id": 144430,
-    "name": "小马超载",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2010",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260818-1/bf9481dfbcb9332237412d42982d85dd.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-18 14:30:39"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 143061,
+    "name": "海墓寻龙",
+    "type": "动作片",
+    "category": "动作,奇幻,冒险,古装",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260810-1/63464b36722c7fcea5e2b57b053066d6.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-10 11:38:55"
+  },
+  {
     "id": 143059,
     "name": "我会回来的",
     "type": "爱情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-05 17:01:08"
-  },
-  {
-    "id": 142341,
-    "name": "四分之一的爱",
-    "type": "剧情片",
-    "category": "剧情,爱情",
-    "year": "2019",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/652e00b99afc646a84e4708aa4f30e0b.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-05 16:58:04"
   }
 ]

@@ -1,5 +1,78 @@
 [
   {
+    "id": 153646,
+    "name": "青苹果",
+    "type": "爱情片",
+    "year": "2026",
+    "area": "大陆",
+    "language": "汉语普通话",
+    "category": "",
+    "poster": "https://dbzy5.com/upload/vod/20261017-1/eb0592584715074a01f124b3d52ff0a2.webp",
+    "douban_id": 0,
+    "score": "5.0",
+    "remarks": "全集完结",
+    "content": "",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": " 全集完结$https://vodcnd17.ajupf.com/20261017/eqqzbh7Z/index.m3u8$$$全集完结 $https://vodcnd17.ajupf.com/share/MKKBfUNw48",
+    "update_time": "2026-10-17 23:03:02",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 154078,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "正片"
+      }
+    ]
+  },
+  {
+    "id": 153645,
+    "name": "2026重阳奇妙游",
+    "type": "记录片",
+    "year": "",
+    "area": "",
+    "language": "",
+    "category": "",
+    "poster": "https://dbzy5.com/upload/vod/20261017-1/73f4c8d0bfdbaac247774a5f212ac4ad.webp",
+    "douban_id": 0,
+    "score": "5.0",
+    "remarks": "全集完结",
+    "content": "",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": " 全集完结https://vodcnd17.ajupf.com/20261017/7ilMUxX1/index.m3u8$$$ 全集完结$https://vodcnd17.ajupf.com/share/7h1O5qYs0B",
+    "update_time": "2026-10-17 22:11:28",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 221452,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "铺展四季画卷"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 197327,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "铺展四季画卷"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 154077,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "正片"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 161917,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "铺展四季画卷"
+      }
+    ]
+  },
+  {
     "id": 153618,
     "name": "都市逆袭，从两块钱开始",
     "type": "现代都市",
@@ -2693,6 +2766,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第3集"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 156253,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "更新至04集"
       }
     ]
   },
@@ -2807,6 +2887,20 @@
         "play_from": "lzm3u8",
         "play_url": null,
         "remarks": "更新至第03集"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 155775,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "更新至04集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 163533,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第04集"
       }
     ]
   },
@@ -132783,39 +132877,5 @@
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260710/q2EZQYbk/index.m3u8#$$$全集完结$https://vodcnd15.ajupf.com/share/OBGBxxYSVA",
     "update_time": "2026-08-03 22:20:14"
-  },
-  {
-    "id": 140350,
-    "name": "霍少，你家小保镖又来偷家了",
-    "type": "现代都市",
-    "year": "2026",
-    "area": "中国大陆",
-    "language": "汉语普通话",
-    "category": "短剧",
-    "poster": "https://dbzy5.com/upload/vod/20260721-1/868e158ed489cbd427e466a34c28d2cd.jpg",
-    "douban_id": 0,
-    "score": "0.0",
-    "remarks": "全集完结",
-    "content": "<p><span style=\"color: #666666; font-family: Arial, sans-serif; font-size: 18px; background-color: #FFFFFF;\">霍少家的小保镖，表面护主实则偷家？聂博宣与白雪茹上演豪门甜宠大戏。女扮男装混入豪门当保镖，暗中搞经济独立，却反被霸道总裁识破身份。他步步紧逼，她见招拆招，一个要揭穿，一个要跑路。偷家不成反被宠，每晚的推拉戏码甜到牙疼。看小保镖如何让冰山总裁彻底沦陷！</span></p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "全集完结$https://vodcnd15.ajupf.com/20260710/X0ey4RrQ/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/QPEfT8Us4e",
-    "update_time": "2026-08-03 22:18:18"
-  },
-  {
-    "id": 141844,
-    "name": "被读心后成了万人迷",
-    "type": "现代都市",
-    "year": "2026",
-    "area": "中国大陆",
-    "language": "汉语普通话",
-    "category": "短剧",
-    "poster": "https://dbzy5.com/upload/vod/20260801-1/746b2124fa87240d0029a93febfda612.jpg",
-    "douban_id": 0,
-    "score": "0.0",
-    "remarks": "全集完结",
-    "content": "<p><span style=\"color: #666666; font-family: Arial, sans-serif; font-size: 18px; background-color: #FFFFFF;\">这部由AI制作的短剧简直打开了脑洞新世界，主角原本是个透明小配角，却意外获得了被全员读心的能力。本以为会社死现场，结果因为内心吐槽过于精准且幽默，反而让周围的高冷霸总、傲娇明星纷纷对她产生浓厚兴趣。AI生成的画面在表现人物微表情和心理活动时极具创意，将那种表面平静内心弹幕刷屏的反差萌展现得淋漓尽致。剧情节奏紧凑，每一集都有新的反转和笑点，看着主角在不知不觉中成为团宠，这种爽剧体验让人欲罢不能。无论是视觉特效还是剧情编排，都体现了AI短剧的独特魅力，非常适合喜欢轻松甜宠和奇幻设定的观众下载观看。</span></p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "全集完结$https://vodcnd16.ajupf.com/20260724/qhAcaJbK/index.m3u8$$$全集完结$https://vodcnd16.ajupf.com/share/bdHYRPQhsZ",
-    "update_time": "2026-08-03 22:17:47"
   }
 ]

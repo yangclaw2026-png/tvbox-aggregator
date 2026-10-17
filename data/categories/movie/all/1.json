@@ -1,5 +1,17 @@
 [
   {
+    "id": 153646,
+    "name": "青苹果",
+    "type": "爱情片",
+    "category": "",
+    "year": "2026",
+    "area": "大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261017-1/eb0592584715074a01f124b3d52ff0a2.webp",
+    "score": "5.0",
+    "remarks": "全集完结",
+    "update_time": "2026-10-17 23:03:02"
+  },
+  {
     "id": 153423,
     "name": "鬼滴语：食人虎妖",
     "type": "恐怖片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-09-12 17:48:20"
-  },
-  {
-    "id": 148847,
-    "name": "峡湾",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2026",
-    "area": "挪威,罗马尼亚,瑞典,芬兰,丹麦,法国",
-    "poster": "https://dbzy5.com/upload/vod/20260910-1/e3a430c4e52a2bc5fc7fb5c835258f4d.jpg",
-    "score": "5.0",
-    "remarks": "抢先版",
-    "update_time": "2026-09-10 22:56:33"
   }
 ]
