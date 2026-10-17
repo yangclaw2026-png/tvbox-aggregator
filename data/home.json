@@ -1,5 +1,77 @@
 [
   {
+    "id": 153618,
+    "name": "都市逆袭，从两块钱开始",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261017-1/f7f9fe0e58dba2701661d0f349002f78.webp",
+    "score": "5.0",
+    "remarks": "全集完结",
+    "update_time": "2026-10-17 18:10:46"
+  },
+  {
+    "id": 153617,
+    "name": "把钱还给我",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261017-1/be5299519f21d0607dcdde06b1586a9e.webp",
+    "score": "5.0",
+    "remarks": "全集完结",
+    "update_time": "2026-10-17 18:08:33"
+  },
+  {
+    "id": 153616,
+    "name": "五岁福宝闹翻天，全家日子甜",
+    "type": "AI短剧",
+    "category": "短剧",
+    "year": "2026",
+    "area": "大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261017-1/9b21c4299a7f036d0fb2e799b1fd15f6.webp",
+    "score": "5.0",
+    "remarks": "全集完结",
+    "update_time": "2026-10-17 17:57:51"
+  },
+  {
+    "id": 153615,
+    "name": "我的合约男友竟是未婚夫",
+    "type": "AI短剧",
+    "category": "短剧",
+    "year": "2026",
+    "area": "大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261017-1/3744e2f5d6754d863c649ba94065ffe3.webp",
+    "score": "5.0",
+    "remarks": "全集完结",
+    "update_time": "2026-10-17 17:55:21"
+  },
+  {
+    "id": 153614,
+    "name": "他陪黑月光看极光那天，我签了离婚协议",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261017-1/2c4366b09fae830447f7a5ee7d1dc6fe.webp",
+    "score": "5.0",
+    "remarks": "全集完结",
+    "update_time": "2026-10-17 17:51:32"
+  },
+  {
+    "id": 153613,
+    "name": "绑定掌公主系统后我掀翻了反派老公的醋缸",
+    "type": "AI短剧",
+    "category": "短剧",
+    "year": "2026",
+    "area": "大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261017-1/489a6a9e66dc252f2a96b008c4f4fc57.webp",
+    "score": "5.0",
+    "remarks": "全集完结",
+    "update_time": "2026-10-17 17:48:42"
+  },
+  {
     "id": 153526,
     "name": "梨花保姆第一季",
     "type": null,
@@ -526,77 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-10-13 22:57:58"
-  },
-  {
-    "id": 153071,
-    "name": "26_27赛季意甲第6轮全场回放：科莫VS罗马",
-    "type": "足球",
-    "category": "体育",
-    "year": "2026",
-    "area": "",
-    "poster": "https://dbzy5.com/upload/vod/20261013-1/2f9b8439e1e91884619efc0ff3b43b0b.jpg",
-    "score": "5.0",
-    "remarks": "20261011",
-    "update_time": "2026-10-13 22:57:03"
-  },
-  {
-    "id": 153070,
-    "name": "抓住那个小太阳",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261013-1/d462f7e218b2c28ef84829c0303b233c.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-13 22:56:25"
-  },
-  {
-    "id": 153069,
-    "name": "重生还带手机，程序员逆袭了2008",
-    "type": "重生民国",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261013-1/2a98090e2da7523edda75a8deb719a8a.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-13 22:55:16"
-  },
-  {
-    "id": 153068,
-    "name": "26_27赛季意甲第6轮全场回放：国际米兰VS帕尔马",
-    "type": "足球",
-    "category": "体育",
-    "year": "2026",
-    "area": "",
-    "poster": "https://dbzy5.com/upload/vod/20261013-1/bba0912be415a06dc5095fd537702159.jpg",
-    "score": "5.0",
-    "remarks": "20261011",
-    "update_time": "2026-10-13 22:54:53"
-  },
-  {
-    "id": 153067,
-    "name": "他是村里的那头驴",
-    "type": "重生民国",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261013-1/87dfe4ec89e3500f301874a632037547.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-13 22:54:09"
-  },
-  {
-    "id": 153066,
-    "name": "撕了协议，沈总带白月光虐渣",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261013-1/fb7aeea7a107b140f783bf0c45bd200a.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-13 22:53:03"
   }
 ]

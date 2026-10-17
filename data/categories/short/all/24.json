@@ -1,5 +1,41 @@
 [
   {
+    "id": 145649,
+    "name": "长夜有光",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260824-1/5a8d3663f2fd311936daa9a6563d0081.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-24 17:44:51"
+  },
+  {
+    "id": 145645,
+    "name": "重生 1963，从逃离洞房开始",
+    "type": "重生民国",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260824-1/59649f66e2a85fa8f1634df59df4081d.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-24 17:39:49"
+  },
+  {
+    "id": 145634,
+    "name": "重生 90 年代：转身搞钱搞事",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260824-1/05c74c42da35a05edc4df71e5b754535.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-24 17:27:15"
+  },
+  {
     "id": 145612,
     "name": "带领全村致富后，才发现村长是皇帝",
     "type": "现代都市",
@@ -562,41 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-23 21:53:59"
-  },
-  {
-    "id": 143725,
-    "name": "姐姐，别想甩掉我",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260813-1/91cb5ed4e12cac5d18e9a7ab459f97e1.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-23 21:51:33"
-  },
-  {
-    "id": 145493,
-    "name": "咒子来我家，我竟成了大唐国师",
-    "type": "穿越现代",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260823-1/50a656ed74822fb8c3098233d93587cc.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-23 21:51:06"
-  },
-  {
-    "id": 145490,
-    "name": "公主轻点罚，你的影卫要哭了",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260823-1/d54027a5ddc1fc08e8ca8217963641ee.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-23 21:47:44"
   }
 ]

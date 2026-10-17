@@ -1,5 +1,41 @@
 [
   {
+    "id": 146100,
+    "name": "善良带锋芒，我翻身做老板",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260826-1/e8e18a400849521eba4d9de11c3da5e1.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-26 22:20:20"
+  },
+  {
+    "id": 146099,
+    "name": "怒龙护女",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260826-1/182dea79e814381f7c02937aef9ee04c.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-26 22:18:33"
+  },
+  {
+    "id": 146098,
+    "name": "一场假死，换我清醒",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260826-1/9e3fa344542b771f114d8ca52a5048b7.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-26 22:16:04"
+  },
+  {
     "id": 146097,
     "name": "囚龙出海，天下惊",
     "type": "现代都市",
@@ -562,41 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-26 18:11:13"
-  },
-  {
-    "id": 146042,
-    "name": "一纸婚书两世情深",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260826-1/578fab7d1c283ecb4df1b4f95f5d5060.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-26 18:08:33"
-  },
-  {
-    "id": 146041,
-    "name": "重生末世前，我抢空神卡",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260826-1/ca2886de8296e9725b19128caa988da5.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-26 18:05:18"
-  },
-  {
-    "id": 146040,
-    "name": "我在修仙界搞重工业",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260826-1/79c7bf001b5578c36e9b536514343c0f.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-26 18:02:47"
   }
 ]
