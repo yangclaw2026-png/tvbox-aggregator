@@ -1,5 +1,29 @@
 [
   {
+    "id": 153759,
+    "name": "2026乐龄重阳晚会",
+    "type": "大陆综艺",
+    "category": "",
+    "year": "2026",
+    "area": "大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261018-1/19990c58f550e5cc767ce6872b3a98d2.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-10-18 22:41:23"
+  },
+  {
+    "id": 102676,
+    "name": "听，谁在唱歌",
+    "type": "大陆综艺",
+    "category": "音乐,真人秀",
+    "year": "2025",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250825-1/0337f7f2c81d2ecbb3e8a80a7306bb24.jpg",
+    "score": "5.0",
+    "remarks": "第20261018期",
+    "update_time": "2026-10-18 22:33:32"
+  },
+  {
     "id": 148343,
     "name": "哥哥来啦",
     "type": "大陆综艺",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "20260826第6期：禁忌学园Ⅱ（下）",
     "update_time": "2026-08-26 14:26:44"
-  },
-  {
-    "id": 145920,
-    "name": "今夕颂",
-    "type": "大陆综艺",
-    "category": "综艺",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260825-1/dc4073795838a8ddc7d748fe478cd4d7.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-25 23:15:29"
-  },
-  {
-    "id": 141369,
-    "name": "萌宠来啦",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260729-1/e9e86375955a8170997e25417942bb11.jpg",
-    "score": "5.0",
-    "remarks": "第20260825期",
-    "update_time": "2026-08-25 22:35:15"
   }
 ]

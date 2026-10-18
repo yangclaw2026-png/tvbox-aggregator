@@ -1,5 +1,29 @@
 [
   {
+    "id": 153759,
+    "name": "2026乐龄重阳晚会",
+    "type": "大陆综艺",
+    "category": "",
+    "year": "2026",
+    "area": "大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261018-1/19990c58f550e5cc767ce6872b3a98d2.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-10-18 22:41:23"
+  },
+  {
+    "id": 102676,
+    "name": "听，谁在唱歌",
+    "type": "大陆综艺",
+    "category": "音乐,真人秀",
+    "year": "2025",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250825-1/0337f7f2c81d2ecbb3e8a80a7306bb24.jpg",
+    "score": "5.0",
+    "remarks": "第20261018期",
+    "update_time": "2026-10-18 22:33:32"
+  },
+  {
     "id": 151747,
     "name": "新星格斗场",
     "type": "欧美综艺",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第12期",
     "update_time": "2026-08-26 22:04:15"
-  },
-  {
-    "id": 143534,
-    "name": "只要有空第五季",
-    "type": "日韩综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "韩国",
-    "poster": "https://dbzy5.com/upload/vod/20260812-1/fb1889b759646e9d62feb2cf4be57fbf.jpg",
-    "score": "5.0",
-    "remarks": "第3集",
-    "update_time": "2026-08-26 22:03:32"
-  },
-  {
-    "id": 145910,
-    "name": "未来全明星第八季",
-    "type": "欧美综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260825-1/21a57ec89ca01e8982bd495d8560cac3.jpg",
-    "score": "5.0",
-    "remarks": "第8期",
-    "update_time": "2026-08-26 19:49:54"
   }
 ]

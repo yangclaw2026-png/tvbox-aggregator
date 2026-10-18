@@ -1,5 +1,29 @@
 [
   {
+    "id": 142100,
+    "name": "极挑男人帮 爆笑精华版",
+    "type": "大陆综艺",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260803-1/b0b993beb1214696b42298a03bc8ecc6.jpg",
+    "score": "5.0",
+    "remarks": "第7期",
+    "update_time": "2026-08-23 22:07:29"
+  },
+  {
+    "id": 144126,
+    "name": "竞价币厨师第三季",
+    "type": "欧美综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260816-1/c0dccaecd187db697fe677fbc92a9172.jpg",
+    "score": "5.0",
+    "remarks": "第5集",
+    "update_time": "2026-08-23 21:44:35"
+  },
+  {
     "id": 139808,
     "name": "天籁与少年",
     "type": "大陆综艺",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第32期",
     "update_time": "2026-08-18 18:56:35"
-  },
-  {
-    "id": 857,
-    "name": "两天一夜 第四季",
-    "type": "日韩综艺",
-    "category": "真人秀",
-    "year": "2019",
-    "area": "韩国",
-    "poster": "https://dbzy5.com/upload/vod/20250109-5/390b4000f8a68122398ced766d14d932.jpg",
-    "score": "9.1",
-    "remarks": "第20260816期",
-    "update_time": "2026-08-17 17:27:08"
-  },
-  {
-    "id": 144244,
-    "name": "星愿时刻 与爱同频 2026时代少年团主题系列直播",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260817-1/7042471d3282e64c5836d6628802db05.jpg",
-    "score": "5.0",
-    "remarks": "严浩翔生日会回顾",
-    "update_time": "2026-08-17 14:14:44"
   }
 ]

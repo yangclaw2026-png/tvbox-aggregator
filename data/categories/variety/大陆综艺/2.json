@@ -1,5 +1,29 @@
 [
   {
+    "id": 145920,
+    "name": "今夕颂",
+    "type": "大陆综艺",
+    "category": "综艺",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260825-1/dc4073795838a8ddc7d748fe478cd4d7.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-25 23:15:29"
+  },
+  {
+    "id": 141369,
+    "name": "萌宠来啦",
+    "type": "大陆综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260729-1/e9e86375955a8170997e25417942bb11.jpg",
+    "score": "5.0",
+    "remarks": "第20260825期",
+    "update_time": "2026-08-25 22:35:15"
+  },
+  {
     "id": 139728,
     "name": "前浪第二季",
     "type": "大陆综艺",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第20260815期宋亚轩黄子弘凡正太扭腰 周深陈小春同台《借过一下》",
     "update_time": "2026-08-16 15:28:44"
-  },
-  {
-    "id": 143818,
-    "name": "八仙：人生破局大师",
-    "type": "大陆综艺",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260814-1/acf1f94e83d20f1f57f3542726c7c761.jpg",
-    "score": "5.0",
-    "remarks": "第4期",
-    "update_time": "2026-08-16 13:02:50"
-  },
-  {
-    "id": 143934,
-    "name": "百城头牌菜 第二季",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2025",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260815-1/66b3c2bd95433dd139b66633832d220b.jpg",
-    "score": "5.0",
-    "remarks": "第15期完结",
-    "update_time": "2026-08-15 16:34:39"
   }
 ]

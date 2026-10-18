@@ -1,5 +1,17 @@
 [
   {
+    "id": 138374,
+    "name": "文豪野犬 汪！第二季 文豪",
+    "type": "日本动漫",
+    "category": "喜剧,动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260704-1/8950d4881f94b2234354dadda4b751c1.jpg",
+    "score": "5.0",
+    "remarks": "第9集",
+    "update_time": "2026-08-27 21:46:12"
+  },
+  {
     "id": 145029,
     "name": "诛仙 第四季",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第12集",
     "update_time": "2026-08-27 11:35:30"
-  },
-  {
-    "id": 143658,
-    "name": "故宫大冒险",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260813-1/eb334b0472215e6509d23c8ffeb02c8a.jpg",
-    "score": "5.0",
-    "remarks": "第17集",
-    "update_time": "2026-08-27 11:35:21"
   }
 ]

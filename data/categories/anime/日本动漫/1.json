@@ -1,5 +1,17 @@
 [
   {
+    "id": 127951,
+    "name": "夜樱家的大作战 第2季",
+    "type": "日本动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260412-1/268168520118394d49feba621801c8e4.jpg",
+    "score": "5.0",
+    "remarks": "第14集",
+    "update_time": "2026-10-18 22:08:18"
+  },
+  {
     "id": 152589,
     "name": "冰剑的魔术师将要统一世界 第二季",
     "type": "日本动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第8集",
     "update_time": "2026-08-24 14:17:35"
-  },
-  {
-    "id": 127208,
-    "name": "黄泉的使者",
-    "type": "日本动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260405-1/f89a0f77f8f6c1bae97a7a94feb67ae6.jpg",
-    "score": "5.0",
-    "remarks": "第20集",
-    "update_time": "2026-08-24 13:44:15"
   }
 ]

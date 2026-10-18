@@ -1,5 +1,17 @@
 [
   {
+    "id": 127951,
+    "name": "夜樱家的大作战 第2季",
+    "type": "日本动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260412-1/268168520118394d49feba621801c8e4.jpg",
+    "score": "5.0",
+    "remarks": "第14集",
+    "update_time": "2026-10-18 22:08:18"
+  },
+  {
     "id": 153647,
     "name": "麦咭麦咭轰",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第9集",
     "update_time": "2026-08-27 21:46:51"
-  },
-  {
-    "id": 138374,
-    "name": "文豪野犬 汪！第二季 文豪",
-    "type": "日本动漫",
-    "category": "喜剧,动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260704-1/8950d4881f94b2234354dadda4b751c1.jpg",
-    "score": "5.0",
-    "remarks": "第9集",
-    "update_time": "2026-08-27 21:46:12"
   }
 ]

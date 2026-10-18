@@ -1,5 +1,17 @@
 [
   {
+    "id": 327,
+    "name": "全球诡异时代 第二季",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2024",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250109-5/dcab018b055e8600423dacdbd90468d7.jpg",
+    "score": "5.0",
+    "remarks": "第354集",
+    "update_time": "2026-08-22 11:47:54"
+  },
+  {
     "id": 105313,
     "name": "欠债亿万，我被迫成为邪神打工人",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第29集",
     "update_time": "2026-08-18 12:20:57"
-  },
-  {
-    "id": 144399,
-    "name": "我的爸爸是条龙之龙龙日常",
-    "type": "欧美动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260818-1/2f0dfe13eb9231ba41567be80190d24f.jpg",
-    "score": "5.0",
-    "remarks": "第30集",
-    "update_time": "2026-08-18 12:16:33"
   }
 ]

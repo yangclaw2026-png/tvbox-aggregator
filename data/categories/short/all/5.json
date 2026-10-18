@@ -1,5 +1,41 @@
 [
   {
+    "id": 149363,
+    "name": "新哑巴萌萌第1季",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260912-1/f711f4c3b7db24e4597fccb20ea5352f.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-09-12 22:48:23"
+  },
+  {
+    "id": 149243,
+    "name": "初雪",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260912-1/3213cc2e9eee157b0c4ad6d5ce89adad.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-09-12 18:06:41"
+  },
+  {
+    "id": 149246,
+    "name": "穿成炮灰，我被反派宗门团宠了",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260912-1/fa15a8e91ea15dcdcf9c111015c66142.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-09-12 18:05:31"
+  },
+  {
     "id": 149273,
     "name": "嫁妆百万，休书一封第二季",
     "type": "古装仙侠",
@@ -562,41 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-09-10 22:34:02"
-  },
-  {
-    "id": 149019,
-    "name": "重生后我靠卖防寒服暴富（第一季）",
-    "type": "重生民国",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260910-1/3fc88972bd517cf6a482c3a46cf539c4.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-09-10 22:33:16"
-  },
-  {
-    "id": 148967,
-    "name": "长公主重生归来，尔等都是臣第二季",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260910-1/3ae71bbaf0128467a6842a6f97d82f1d.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-09-10 18:43:51"
-  },
-  {
-    "id": 148928,
-    "name": "都重生了，谁还装富二代啊第十季",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260910-1/3cb26066f625164f6badf48135e144be.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-09-10 18:42:21"
   }
 ]
