@@ -1,5 +1,17 @@
 [
   {
+    "id": 90373,
+    "name": "开心锤锤",
+    "type": "国产动漫",
+    "category": "剧情,喜剧,动画",
+    "year": "2020",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250511-1/3dff1b997d17bb1b8ce48624381cfcb1.jpg",
+    "score": "5.0",
+    "remarks": "第1446集",
+    "update_time": "2026-08-27 16:49:05"
+  },
+  {
     "id": 146153,
     "name": "疯了吧！这座城市的人都在找死",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第102集",
     "update_time": "2026-08-27 11:17:38"
-  },
-  {
-    "id": 137742,
-    "name": "末世：觉醒抗体超能力​",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260629-1/1b03f7721b38d399fdc6a34a166e3b8d.jpg",
-    "score": "5.0",
-    "remarks": "第34集",
-    "update_time": "2026-08-27 11:17:04"
   }
 ]

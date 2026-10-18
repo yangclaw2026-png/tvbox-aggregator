@@ -1,5 +1,17 @@
 [
   {
+    "id": 153647,
+    "name": "麦咭麦咭轰",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261018-1/0edd39ac3f81545e8b70849f76056a0e.jpg",
+    "score": "5.0",
+    "remarks": "第45集",
+    "update_time": "2026-10-18 11:16:38"
+  },
+  {
     "id": 153273,
     "name": "极恶老大 第三季",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第142集",
     "update_time": "2026-08-27 16:56:30"
-  },
-  {
-    "id": 90373,
-    "name": "开心锤锤",
-    "type": "国产动漫",
-    "category": "剧情,喜剧,动画",
-    "year": "2020",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250511-1/3dff1b997d17bb1b8ce48624381cfcb1.jpg",
-    "score": "5.0",
-    "remarks": "第1446集",
-    "update_time": "2026-08-27 16:49:05"
   }
 ]

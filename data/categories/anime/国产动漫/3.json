@@ -1,5 +1,17 @@
 [
   {
+    "id": 137742,
+    "name": "末世：觉醒抗体超能力​",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260629-1/1b03f7721b38d399fdc6a34a166e3b8d.jpg",
+    "score": "5.0",
+    "remarks": "第34集",
+    "update_time": "2026-08-27 11:17:04"
+  },
+  {
     "id": 101138,
     "name": "全民御兽：开局山海经，我横扫全球 动态漫画",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第14集",
     "update_time": "2026-08-26 11:26:14"
-  },
-  {
-    "id": 140848,
-    "name": "世界通史小剧 第二季",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260725-1/4ab87859d7380c5dcf7405caca3dba4b.jpg",
-    "score": "5.0",
-    "remarks": "第34集",
-    "update_time": "2026-08-26 11:16:26"
   }
 ]

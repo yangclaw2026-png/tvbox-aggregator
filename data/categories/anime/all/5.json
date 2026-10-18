@@ -1,5 +1,17 @@
 [
   {
+    "id": 141520,
+    "name": "这个仙君不想谈恋爱",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260730-1/8e85c900d5bc3033e33d26184b13cdaa.jpg",
+    "score": "5.0",
+    "remarks": "第17集",
+    "update_time": "2026-08-25 17:32:16"
+  },
+  {
     "id": 2765,
     "name": "万界独尊",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第8集",
     "update_time": "2026-08-24 13:26:08"
-  },
-  {
-    "id": 128029,
-    "name": "黑猫和魔女的课堂",
-    "type": "日本动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260413-1/c508a5ff48b318f28bcc09354edd1e8b.jpg",
-    "score": "5.0",
-    "remarks": "第20集",
-    "update_time": "2026-08-24 13:10:43"
   }
 ]

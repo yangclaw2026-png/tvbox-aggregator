@@ -1,5 +1,17 @@
 [
   {
+    "id": 153647,
+    "name": "麦咭麦咭轰",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261018-1/0edd39ac3f81545e8b70849f76056a0e.jpg",
+    "score": "5.0",
+    "remarks": "第45集",
+    "update_time": "2026-10-18 11:16:38"
+  },
+  {
     "id": 153646,
     "name": "青苹果",
     "type": "爱情片",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-10-13 23:00:13"
-  },
-  {
-    "id": 153074,
-    "name": "26_27赛季意甲第6轮全场回放：拉齐奥VS蒙扎",
-    "type": "足球",
-    "category": "体育",
-    "year": "2026",
-    "area": "",
-    "poster": "https://dbzy5.com/upload/vod/20261013-1/d3e89b6545e6b00faa53d117985652a7.jpg",
-    "score": "5.0",
-    "remarks": "20261011",
-    "update_time": "2026-10-13 22:59:10"
   }
 ]

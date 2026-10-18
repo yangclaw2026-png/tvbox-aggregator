@@ -1,5 +1,17 @@
 [
   {
+    "id": 153647,
+    "name": "麦咭麦咭轰",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261018-1/0edd39ac3f81545e8b70849f76056a0e.jpg",
+    "score": "5.0",
+    "remarks": "第45集",
+    "update_time": "2026-10-18 11:16:38"
+  },
+  {
     "id": 152589,
     "name": "冰剑的魔术师将要统一世界 第二季",
     "type": "日本动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第9集",
     "update_time": "2026-08-27 21:46:12"
-  },
-  {
-    "id": 145029,
-    "name": "诛仙 第四季",
-    "type": "国产动漫",
-    "category": "动作,动画,奇幻",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260821-1/9a4335bb8b388433af30ffbf703dce4f.jpg",
-    "score": "5.0",
-    "remarks": "第4集",
-    "update_time": "2026-08-27 21:19:00"
   }
 ]

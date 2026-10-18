@@ -1,5 +1,17 @@
 [
   {
+    "id": 138998,
+    "name": "刚毕业就末日：万亿开局当神豪 动态漫画",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260708-1/bc7c6a1e35aa39355679f08aa3157863.jpg",
+    "score": "5.0",
+    "remarks": "第344集",
+    "update_time": "2026-08-26 13:49:28"
+  },
+  {
     "id": 145954,
     "name": "神奇毛豆救护站",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第33集",
     "update_time": "2026-08-25 17:32:58"
-  },
-  {
-    "id": 141520,
-    "name": "这个仙君不想谈恋爱",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260730-1/8e85c900d5bc3033e33d26184b13cdaa.jpg",
-    "score": "5.0",
-    "remarks": "第17集",
-    "update_time": "2026-08-25 17:32:16"
   }
 ]

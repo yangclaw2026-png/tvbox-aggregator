@@ -1,5 +1,17 @@
 [
   {
+    "id": 144397,
+    "name": "坠入恐怖玩偶游戏",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260818-1/ad4536291c266ca91808ae4eaa8f440a.jpg",
+    "score": "5.0",
+    "remarks": "第58集完结",
+    "update_time": "2026-08-18 12:07:18"
+  },
+  {
     "id": 140212,
     "name": "万古神帝",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第18集完结",
     "update_time": "2026-08-11 12:11:19"
-  },
-  {
-    "id": 141057,
-    "name": "麻辣小龙虾撬动了一个帝国",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260727-1/c7bd708f8b04f6f9eeb0a33ffe0406e8.jpg",
-    "score": "5.0",
-    "remarks": "第22集",
-    "update_time": "2026-08-11 11:49:21"
   }
 ]
