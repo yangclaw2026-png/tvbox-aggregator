@@ -1,5 +1,17 @@
 [
   {
+    "id": 140065,
+    "name": "恶女不才，请多关照.～雏宫蝶鼠换身传",
+    "type": "日本动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260720-1/7fecf0bdf8b8b241b5f55c6a2e17263c.jpg",
+    "score": "5.0",
+    "remarks": "第7集",
+    "update_time": "2026-08-24 13:27:23"
+  },
+  {
     "id": 138654,
     "name": "世界最强的后卫 ～迷宫国的新人探索者",
     "type": "日本动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第9集",
     "update_time": "2026-08-23 12:11:39"
-  },
-  {
-    "id": 143807,
-    "name": "孟婆辞职，阎王哭着求我回来上班",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260814-1/b391425334927f7fb3afc6fe1d404dda.jpg",
-    "score": "5.0",
-    "remarks": "第6集",
-    "update_time": "2026-08-23 12:10:47"
   }
 ]

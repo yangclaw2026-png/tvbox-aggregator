@@ -1,5 +1,17 @@
 [
   {
+    "id": 150023,
+    "name": "妾本草芥",
+    "type": "国产剧",
+    "category": "古装",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260917-1/ec8d6c63d4b75f90c5aae63164c91691.jpg",
+    "score": "5.0",
+    "remarks": "第9集完结",
+    "update_time": "2026-09-17 22:55:39"
+  },
+  {
     "id": 150015,
     "name": "劣探德克尔 第二季",
     "type": "欧美剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第13集",
     "update_time": "2026-08-27 14:54:05"
-  },
-  {
-    "id": 139002,
-    "name": "想要幸福的政宗君",
-    "type": "日本剧",
-    "category": "剧情,爱情",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260708-1/92d60873b9fff74466069a3626f420d9.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-27 14:48:13"
   }
 ]

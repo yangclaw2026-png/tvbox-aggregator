@@ -1,5 +1,17 @@
 [
   {
+    "id": 134280,
+    "name": "禅王渡尘",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260601-1/ce3c7357c18b714e76e3a1981050787d.jpg",
+    "score": "5.0",
+    "remarks": "第142集",
+    "update_time": "2026-08-27 16:56:30"
+  },
+  {
     "id": 90373,
     "name": "开心锤锤",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第127集",
     "update_time": "2026-08-27 11:18:16"
-  },
-  {
-    "id": 137855,
-    "name": "水鬼怀龙胎,开局揍皇帝",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260630-1/753fc353cf80c0b992392b373990d8d6.jpg",
-    "score": "5.0",
-    "remarks": "第102集",
-    "update_time": "2026-08-27 11:17:38"
   }
 ]

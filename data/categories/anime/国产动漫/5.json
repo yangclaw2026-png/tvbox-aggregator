@@ -1,5 +1,17 @@
 [
   {
+    "id": 145535,
+    "name": "魔尊觉醒：手撕天道剧本",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260824-1/eef6ba75b18f301dbc118533263f813a.jpg",
+    "score": "5.0",
+    "remarks": "第29集",
+    "update_time": "2026-08-24 11:35:41"
+  },
+  {
     "id": 496,
     "name": "灵武大陆",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第82集",
     "update_time": "2026-08-22 11:58:36"
-  },
-  {
-    "id": 131463,
-    "name": "牧龙师动态漫",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2024",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260509-1/78f75d067d8e61ce4351d6cca06ea0ea.jpg",
-    "score": "5.0",
-    "remarks": "第100集",
-    "update_time": "2026-08-22 11:56:15"
   }
 ]

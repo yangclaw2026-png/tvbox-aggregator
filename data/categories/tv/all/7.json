@@ -1,5 +1,17 @@
 [
   {
+    "id": 139145,
+    "name": "走近这片海（第一季）",
+    "type": "国产剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260709-1/0728b6a98e9b1b0804bf20693ae53e61.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-08-12 22:42:16"
+  },
+  {
     "id": 138117,
     "name": "X战警97 第二季",
     "type": "欧美剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第13集",
     "update_time": "2026-08-05 20:37:17"
-  },
-  {
-    "id": 137123,
-    "name": "穆菲",
-    "type": "泰国剧",
-    "category": "剧情,悬疑,恐怖",
-    "year": "2026",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260621-1/6e21f22916e096af18bd7f094078150f.jpg",
-    "score": "5.0",
-    "remarks": "第7集",
-    "update_time": "2026-08-05 18:23:13"
   }
 ]

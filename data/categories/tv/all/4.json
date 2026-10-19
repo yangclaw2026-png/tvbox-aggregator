@@ -1,5 +1,17 @@
 [
   {
+    "id": 145710,
+    "name": "花落朝夕玉无声",
+    "type": "国产剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260825-1/6f59fc1610a85067af578472c3a4aaa7.jpg",
+    "score": "5.0",
+    "remarks": "第24集完结",
+    "update_time": "2026-08-25 12:51:24"
+  },
+  {
     "id": 143339,
     "name": "阳角群体里的芹泽，在我面前不太对劲",
     "type": "日本剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第7集",
     "update_time": "2026-08-23 00:04:04"
-  },
-  {
-    "id": 138815,
-    "name": "只是一起吃顿饭 一緒",
-    "type": "日本剧",
-    "category": "剧情,爱情",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260707-1/6c25694bb6562749902f49e4743f31d1.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-22 22:34:50"
   }
 ]

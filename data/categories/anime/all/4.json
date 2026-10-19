@@ -1,5 +1,17 @@
 [
   {
+    "id": 134277,
+    "name": "魔道重生的女武神",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260601-1/e9e89ef7001812a20ebc1cbf5b872c25.jpg",
+    "score": "5.0",
+    "remarks": "第162集",
+    "update_time": "2026-08-26 14:07:13"
+  },
+  {
     "id": 136437,
     "name": "家有悍妻惹不得",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第28集",
     "update_time": "2026-08-25 17:35:09"
-  },
-  {
-    "id": 142124,
-    "name": "长生猫",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/5456e0357d77eb38eed5d2c82b4a31f8.jpg",
-    "score": "5.0",
-    "remarks": "第17集",
-    "update_time": "2026-08-25 17:33:40"
   }
 ]

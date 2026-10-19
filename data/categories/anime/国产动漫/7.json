@@ -1,5 +1,17 @@
 [
   {
+    "id": 144538,
+    "name": "万族之劫",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260818-1/a4494fa8e236cd65ce9f93fc4707baec.jpg",
+    "score": "5.0",
+    "remarks": "第30集完结",
+    "update_time": "2026-08-18 19:22:04"
+  },
+  {
     "id": 144403,
     "name": "被系统误判的顶级厉诡",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第30集完结",
     "update_time": "2026-08-11 12:18:34"
-  },
-  {
-    "id": 143285,
-    "name": "我入职地府当客服",
-    "type": "国产动漫",
-    "category": "中国动漫",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260811-1/50644e6b10c6cf4c38df2aafee873baf.jpg",
-    "score": "5.0",
-    "remarks": "第18集完结",
-    "update_time": "2026-08-11 12:11:19"
   }
 ]

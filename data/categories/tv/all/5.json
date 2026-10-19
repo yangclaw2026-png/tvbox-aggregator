@@ -1,5 +1,17 @@
 [
   {
+    "id": 138815,
+    "name": "只是一起吃顿饭 一緒",
+    "type": "日本剧",
+    "category": "剧情,爱情",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260707-1/6c25694bb6562749902f49e4743f31d1.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-22 22:34:50"
+  },
+  {
     "id": 138515,
     "name": "夫妇与16岁～疯狂的邻居～ 夫婦",
     "type": "日本剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第10集完结",
     "update_time": "2026-08-20 21:08:03"
-  },
-  {
-    "id": 138808,
-    "name": "怪奇-伊藤润二令人彻夜难眠的奇异故事",
-    "type": "日本剧",
-    "category": "剧情,恐怖",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260707-1/78c14cba2aecd42d2d22166ef6a3b7c6.jpg",
-    "score": "5.0",
-    "remarks": "第7集",
-    "update_time": "2026-08-20 14:46:09"
   }
 ]

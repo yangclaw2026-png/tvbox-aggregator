@@ -1,5 +1,17 @@
 [
   {
+    "id": 153874,
+    "name": "你马甲掉了，幽皇陛下",
+    "type": "国产动漫",
+    "category": "",
+    "year": "2026",
+    "area": "大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261019-1/43399a33048f6d53d36bd4a2a1897b7c.jpg",
+    "score": "5.0",
+    "remarks": "第36集",
+    "update_time": "2026-10-19 22:07:40"
+  },
+  {
     "id": 153647,
     "name": "麦咭麦咭轰",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "第147集",
     "update_time": "2026-08-27 17:24:51"
-  },
-  {
-    "id": 134280,
-    "name": "禅王渡尘",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260601-1/ce3c7357c18b714e76e3a1981050787d.jpg",
-    "score": "5.0",
-    "remarks": "第142集",
-    "update_time": "2026-08-27 16:56:30"
   }
 ]

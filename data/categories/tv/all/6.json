@@ -1,5 +1,17 @@
 [
   {
+    "id": 138808,
+    "name": "怪奇-伊藤润二令人彻夜难眠的奇异故事",
+    "type": "日本剧",
+    "category": "剧情,恐怖",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260707-1/78c14cba2aecd42d2d22166ef6a3b7c6.jpg",
+    "score": "5.0",
+    "remarks": "第7集",
+    "update_time": "2026-08-20 14:46:09"
+  },
+  {
     "id": 137747,
     "name": "舍得智慧人物 第八季",
     "type": "国产剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第7集",
     "update_time": "2026-08-13 11:43:59"
-  },
-  {
-    "id": 139145,
-    "name": "走近这片海（第一季）",
-    "type": "国产剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260709-1/0728b6a98e9b1b0804bf20693ae53e61.jpg",
-    "score": "5.0",
-    "remarks": "第6集",
-    "update_time": "2026-08-12 22:42:16"
   }
 ]

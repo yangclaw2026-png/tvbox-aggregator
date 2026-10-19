@@ -1,5 +1,17 @@
 [
   {
+    "id": 131463,
+    "name": "牧龙师动态漫",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2024",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260509-1/78f75d067d8e61ce4351d6cca06ea0ea.jpg",
+    "score": "5.0",
+    "remarks": "第100集",
+    "update_time": "2026-08-22 11:56:15"
+  },
+  {
     "id": 275,
     "name": "开局一万俯卧撑：轰杀神明 动态漫画",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第50集完结",
     "update_time": "2026-08-18 19:28:22"
-  },
-  {
-    "id": 144538,
-    "name": "万族之劫",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260818-1/a4494fa8e236cd65ce9f93fc4707baec.jpg",
-    "score": "5.0",
-    "remarks": "第30集完结",
-    "update_time": "2026-08-18 19:22:04"
   }
 ]

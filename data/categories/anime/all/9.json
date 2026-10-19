@@ -1,5 +1,17 @@
 [
   {
+    "id": 141051,
+    "name": "归零",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260727-1/77458adb4e4ee1759e4d58f305e424bf.jpg",
+    "score": "5.0",
+    "remarks": "第29集",
+    "update_time": "2026-08-18 12:20:57"
+  },
+  {
     "id": 144399,
     "name": "我的爸爸是条龙之龙龙日常",
     "type": "欧美动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第22集",
     "update_time": "2026-08-11 14:00:36"
-  },
-  {
-    "id": 143287,
-    "name": "爆笑修仙：师傅别拿系统监控我了",
-    "type": "国产动漫",
-    "category": "动画,玄幻,系统,教育",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260811-1/d94520f0f7bd8e6488e0b00375995c1e.jpg",
-    "score": "5.0",
-    "remarks": "第30集完结",
-    "update_time": "2026-08-11 12:18:34"
   }
 ]

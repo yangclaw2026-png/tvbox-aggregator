@@ -1,5 +1,29 @@
 [
   {
+    "id": 149864,
+    "name": "阿波罗陷落",
+    "type": "欧美剧",
+    "category": "动作,惊悚",
+    "year": "2026",
+    "area": "英国,法国",
+    "poster": "https://dbzy5.com/upload/vod/20260915-1/f670375f670d068b789d4418dde146a4.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-10-19 23:35:07"
+  },
+  {
+    "id": 153874,
+    "name": "你马甲掉了，幽皇陛下",
+    "type": "国产动漫",
+    "category": "",
+    "year": "2026",
+    "area": "大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261019-1/43399a33048f6d53d36bd4a2a1897b7c.jpg",
+    "score": "5.0",
+    "remarks": "第36集",
+    "update_time": "2026-10-19 22:07:40"
+  },
+  {
     "id": 153862,
     "name": "鲸口脱险",
     "type": "惊悚片",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第2集",
     "update_time": "2026-10-15 11:25:34"
-  },
-  {
-    "id": 153273,
-    "name": "极恶老大 第三季",
-    "type": "国产动漫",
-    "category": "动漫",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20261014-1/ec528764d4b571233f97d7ebb3a5bd04.webp",
-    "score": "5.0",
-    "remarks": "第3集",
-    "update_time": "2026-10-14 23:01:47"
-  },
-  {
-    "id": 153272,
-    "name": "寿命倒计时，我选择爆发",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261014-1/7ba1456eff5e357cfdd14c7f4dea88a6.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-14 22:59:33"
   }
 ]
