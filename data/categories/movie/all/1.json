@@ -1,5 +1,17 @@
 [
   {
+    "id": 153862,
+    "name": "鲸口脱险",
+    "type": "惊悚片",
+    "category": "",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20261019-1/3249543dad660115974f2f886511d184.webp",
+    "score": "5.0",
+    "remarks": "超清",
+    "update_time": "2026-10-19 19:35:37"
+  },
+  {
     "id": 153646,
     "name": "青苹果",
     "type": "爱情片",
@@ -586,17 +598,5 @@
     "score": "5.6",
     "remarks": "正片",
     "update_time": "2026-09-12 17:50:26"
-  },
-  {
-    "id": 149271,
-    "name": "金先生去电影院",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2025",
-    "area": "韩国",
-    "poster": "https://dbzy5.com/upload/vod/20260912-1/f7dcec0b7809976658e4cf49effe5be9.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-09-12 17:48:20"
   }
 ]

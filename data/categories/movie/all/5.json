@@ -1,5 +1,17 @@
 [
   {
+    "id": 144431,
+    "name": "再见UFO 再見UFO",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2019",
+    "area": "中国香港",
+    "poster": "https://dbzy5.com/upload/vod/20260818-1/53a906e6ac8616d93de3a8d5cf262556.jpg",
+    "score": "7.4",
+    "remarks": "正片",
+    "update_time": "2026-08-18 15:52:57"
+  },
+  {
     "id": 144430,
     "name": "小马超载",
     "type": "纪录片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第10集完结",
     "update_time": "2026-08-14 12:42:58"
-  },
-  {
-    "id": 143805,
-    "name": "青铜护卫队",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260814-1/d5a8b566561052d0d5e0581071228b62.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-14 11:38:45"
   }
 ]

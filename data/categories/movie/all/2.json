@@ -1,5 +1,17 @@
 [
   {
+    "id": 149271,
+    "name": "金先生去电影院",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2025",
+    "area": "韩国",
+    "poster": "https://dbzy5.com/upload/vod/20260912-1/f7dcec0b7809976658e4cf49effe5be9.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-09-12 17:48:20"
+  },
+  {
     "id": 148847,
     "name": "峡湾",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第3集完结",
     "update_time": "2026-08-26 16:14:06"
-  },
-  {
-    "id": 142351,
-    "name": "草莽星辰第一季",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/3aab719447b5f1fba859d41a8b5223d0.jpg",
-    "score": "5.0",
-    "remarks": "第5集",
-    "update_time": "2026-08-26 16:13:23"
   }
 ]

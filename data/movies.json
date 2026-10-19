@@ -1,5 +1,59 @@
 [
   {
+    "id": 153862,
+    "name": "鲸口脱险",
+    "type": "惊悚片",
+    "year": "2026",
+    "area": "美国",
+    "language": "英语",
+    "category": "",
+    "poster": "https://dbzy5.com/upload/vod/20261019-1/3249543dad660115974f2f886511d184.webp",
+    "douban_id": 0,
+    "score": "5.0",
+    "remarks": "超清",
+    "content": "",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": " 抢先版$ https://vodcnd16.ajupf.com/20261019/M39Fxd29/index.m3u8$$$ 抢先版$ https://vodcnd16.ajupf.com/share/e66xyaPxoT",
+    "update_time": "2026-10-19 19:35:37",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 221666,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "抢先版"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 197540,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "抢先版"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 154325,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "抢先版"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 157522,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "TC中字"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 162131,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "抢先版"
+      }
+    ]
+  },
+  {
     "id": 153778,
     "name": "26_27赛季西甲第9轮全场回放：西班牙人VS马德里竞技",
     "type": "篮球",
@@ -14,7 +68,16 @@
     "content": "",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.ajupf.com/20261018/NrscULxH/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/xLMlW32Fpm",
-    "update_time": "2026-10-19 11:30:45"
+    "update_time": "2026-10-19 11:30:45",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 154210,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "20261017"
+      }
+    ]
   },
   {
     "id": 153777,
@@ -31,7 +94,16 @@
     "content": "",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.ajupf.com/20261018/KIGtOshu/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/nfBeXnIOXF",
-    "update_time": "2026-10-19 11:29:06"
+    "update_time": "2026-10-19 11:29:06",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 154209,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "20261017"
+      }
+    ]
   },
   {
     "id": 153776,
@@ -48,7 +120,16 @@
     "content": "",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.ajupf.com/20261018/TrZ0qul2/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/YjfxdRZtEE",
-    "update_time": "2026-10-19 11:27:29"
+    "update_time": "2026-10-19 11:27:29",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 154207,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "20261017"
+      }
+    ]
   },
   {
     "id": 153775,
@@ -65,7 +146,16 @@
     "content": "",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.ajupf.com/20261018/4SFz74Ls/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/T6c4z45bYC",
-    "update_time": "2026-10-19 11:25:28"
+    "update_time": "2026-10-19 11:25:28",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 154206,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "20261017"
+      }
+    ]
   },
   {
     "id": 153774,
@@ -82,7 +172,16 @@
     "content": "",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.ajupf.com/20261018/TItl9rdD/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/OkF9sYggDA",
-    "update_time": "2026-10-19 11:23:40"
+    "update_time": "2026-10-19 11:23:40",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 154205,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "20261017"
+      }
+    ]
   },
   {
     "id": 153293,
@@ -160,7 +259,16 @@
     "content": "",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.ajupf.com/20261018/lL9iZGSj/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/i6i9xODvOm",
-    "update_time": "2026-10-19 11:21:48"
+    "update_time": "2026-10-19 11:21:48",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 154204,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "20261017"
+      }
+    ]
   },
   {
     "id": 153772,
@@ -177,7 +285,16 @@
     "content": "",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.ajupf.com/20261018/uEj71Lax/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/ZAoHfOMTEV",
-    "update_time": "2026-10-19 11:19:50"
+    "update_time": "2026-10-19 11:19:50",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 154202,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "20261017"
+      }
+    ]
   },
   {
     "id": 153771,
@@ -194,7 +311,16 @@
     "content": "",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.ajupf.com/20261018/UGsqkbp7/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/CZXIKy86Vt",
-    "update_time": "2026-10-19 11:17:47"
+    "update_time": "2026-10-19 11:17:47",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 154201,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "20261017"
+      }
+    ]
   },
   {
     "id": 153770,
@@ -211,7 +337,16 @@
     "content": "",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.ajupf.com/20261018/MSTbv06U/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/PMjdV53MbM",
-    "update_time": "2026-10-19 11:15:21"
+    "update_time": "2026-10-19 11:15:21",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 154200,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "20261017"
+      }
+    ]
   },
   {
     "id": 153769,
@@ -228,7 +363,16 @@
     "content": "",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.ajupf.com/20261018/k9mWkN1n/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/2dENGb4bWb",
-    "update_time": "2026-10-19 11:08:37"
+    "update_time": "2026-10-19 11:08:37",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 154199,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "20261017"
+      }
+    ]
   },
   {
     "id": 153768,
@@ -245,7 +389,16 @@
     "content": "",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.ajupf.com/20261018/n6xxJUfy/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/ZO7DWbfi0u",
-    "update_time": "2026-10-19 11:04:49"
+    "update_time": "2026-10-19 11:04:49",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 154198,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "20261017"
+      }
+    ]
   },
   {
     "id": 153767,
@@ -449,6 +602,20 @@
         "source": "茅台资源",
         "source_id": 154203,
         "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第20261018期"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 197491,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第20261018期"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 162081,
+        "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第20261018期"
       }
@@ -699,6 +866,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 162457,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
@@ -746,6 +920,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 162468,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
@@ -798,6 +979,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 162437,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
@@ -824,6 +1012,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 162442,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
@@ -2721,6 +2916,34 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第9期"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 193747,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第10期"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 148680,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "20261019第10期"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 156174,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至20261019期"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 154448,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "更新至20261019期"
       }
     ]
   },
@@ -103883,7 +104106,16 @@
     "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">两个未知身份的男女，一场密闭空间下的网络直播审判，一次死亡与真相之间的极限逃生……</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "正片$https://vodcnd17.ajupf.com/20260813/qb96dYtK/index.m3u8#$$$正片$https://vodcnd17.ajupf.com/share/YMa8b6jSoW#",
-    "update_time": "2026-08-13 12:19:32"
+    "update_time": "2026-08-13 12:19:32",
+    "play_sources": [
+      {
+        "source": "索尼资源",
+        "source_id": 157521,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "HD国语"
+      }
+    ]
   },
   {
     "id": 140687,
@@ -132981,22 +133213,5 @@
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260704/RJOVNwKD/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/SpeZZY8VJd",
     "update_time": "2026-08-03 22:56:31"
-  },
-  {
-    "id": 142031,
-    "name": "穿越双雄归田园",
-    "type": "古装仙侠",
-    "year": "2026",
-    "area": "中国大陆",
-    "language": "汉语普通话",
-    "category": "短剧",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/88aa0c580d19a2987608ca5034c6ab85.jpg",
-    "douban_id": 0,
-    "score": "5.0",
-    "remarks": "全集完结",
-    "content": "<p>暂无简介</p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "全集完结$https://vodcnd15.ajupf.com/20260704/kFY6NmWZ/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/pWhoKh5FbE",
-    "update_time": "2026-08-03 22:55:44"
   }
 ]
