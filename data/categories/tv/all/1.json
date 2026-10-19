@@ -1,5 +1,17 @@
 [
   {
+    "id": 153293,
+    "name": "凤栖",
+    "type": "国产剧",
+    "category": "喜剧,爱情,奇幻,古装",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261015-1/d0b5de0cd47a8287139c9a857707ec54.webp",
+    "score": "5.0",
+    "remarks": "第14集",
+    "update_time": "2026-10-19 11:23:23"
+  },
+  {
     "id": 152571,
     "name": "芝加哥烈焰 第十五季",
     "type": "欧美剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第9集完结",
     "update_time": "2026-09-17 22:55:39"
-  },
-  {
-    "id": 150015,
-    "name": "劣探德克尔 第二季",
-    "type": "欧美剧",
-    "category": "剧情,动作,犯罪",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260917-1/fbbaed3dc18c06ab9c538219a60d9ce8.webp",
-    "score": "5.0",
-    "remarks": "第1集",
-    "update_time": "2026-09-17 22:55:13"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 138172,
+    "name": "旋转亮片",
+    "type": "日本剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260702-1/5f9572260cbdccafba509440380a2684.jpg",
+    "score": "5.0",
+    "remarks": "第9集",
+    "update_time": "2026-08-27 14:43:59"
+  },
+  {
     "id": 144884,
     "name": "好，我们离婚吧",
     "type": "韩剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第24集完结",
     "update_time": "2026-08-25 12:51:24"
-  },
-  {
-    "id": 143339,
-    "name": "阳角群体里的芹泽，在我面前不太对劲",
-    "type": "日本剧",
-    "category": "爱情,同性",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260811-1/9438c47080a75fd034eca0c4c4664d68.jpg",
-    "score": "5.0",
-    "remarks": "第3集",
-    "update_time": "2026-08-25 12:07:23"
   }
 ]

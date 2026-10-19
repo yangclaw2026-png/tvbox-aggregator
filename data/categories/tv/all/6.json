@@ -1,5 +1,17 @@
 [
   {
+    "id": 137747,
+    "name": "舍得智慧人物 第八季",
+    "type": "国产剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260629-1/de1d3d3b4a50d40f2a47344e9ebf2fa8.jpg",
+    "score": "5.0",
+    "remarks": "第4集",
+    "update_time": "2026-08-20 13:05:07"
+  },
+  {
     "id": 143279,
     "name": "我从黑暗中走来",
     "type": "国产剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第6集",
     "update_time": "2026-08-12 22:42:16"
-  },
-  {
-    "id": 138117,
-    "name": "X战警97 第二季",
-    "type": "欧美剧",
-    "category": "剧情,动作,科幻,动画,冒险",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260702-1/7b774c00b464b5abe3bb25bab9c4a736.jpg",
-    "score": "5.0",
-    "remarks": "第9集",
-    "update_time": "2026-08-12 22:36:57"
   }
 ]
