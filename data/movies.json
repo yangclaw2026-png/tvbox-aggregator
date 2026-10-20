@@ -1,5 +1,22 @@
 [
   {
+    "id": 153967,
+    "name": "穿书八零，一家子炮灰要洗白",
+    "type": "现代都市",
+    "year": "2026",
+    "area": "大陆",
+    "language": "国语",
+    "category": "",
+    "poster": "https://dbzy5.com/upload/vod/20261020-1/c8a9e921c92863e9c3e2824e66014f26.webp",
+    "douban_id": 0,
+    "score": "5.0",
+    "remarks": "全集完结",
+    "content": "",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "全集完结$https://vodcnd17.ajupf.com/20261010/31lYXvPz/index.m3u8$$$全集完结$https://vodcnd17.ajupf.com/share/oTrzMjhWPc",
+    "update_time": "2026-10-20 18:58:12"
+  },
+  {
     "id": 153878,
     "name": "26_27赛季CBA常规赛第1轮全场回放：山东vs辽宁",
     "type": "篮球",
@@ -48,7 +65,16 @@
     "content": "<p>热门电视剧《巴黎陷落》第二季将于 2025 年 3 月在南威尔士拍摄。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd17.ajupf.com/20260919/0EyI4UU0/index.m3u8#第02集$https://vodcnd17.ajupf.com/20260919/8MNfnKMV/index.m3u8#第03集$https://vodcnd16.ajupf.com/20260923/qPqjiRML/index.m3u8#第04集$https://vodcnd17.ajupf.com/20260929/QyiBWJhi/index.m3u8#第05集$https://vodcnd16.ajupf.com/20261011/C8Xa53bB/index.m3u8#第06集$https://vodcnd16.ajupf.com/20261018/LgsD7NZ5/index.m3u8#第07集$https://vodcnd17.ajupf.com/20261019/GktDHqr7/index.m3u8$$$第01集$https://vodcnd17.ajupf.com/share/dx3WHQ9Ujj#第02集$https://vodcnd17.ajupf.com/share/qL9h7FYpiT#第03集$https://vodcnd16.ajupf.com/share/SCafWZYVUj#第04集$https://vodcnd17.ajupf.com/share/K1i471Xgr0#第05集$https://vodcnd16.ajupf.com/share/ANKHQzvmMI#第06集$https://vodcnd16.ajupf.com/share/5EcBeOjAGX#第07集$https://vodcnd17.ajupf.com/share/G7GKZTcWIC",
-    "update_time": "2026-10-19 23:35:07"
+    "update_time": "2026-10-19 23:35:07",
+    "play_sources": [
+      {
+        "source": "量子资源",
+        "source_id": 158155,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至第07集"
+      }
+    ]
   },
   {
     "id": 153874,
@@ -4549,6 +4575,34 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第4集"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 218993,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第5集"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 194869,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第5集"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 155482,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "更新至05集"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 159485,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第5集"
       }
     ]
   },
@@ -19311,7 +19365,16 @@
     "content": "<p><span style=\"color: #666666; font-family: Arial, sans-serif; font-size: 18px; background-color: #FFFFFF;\">以冷门神兽猪婆龙为主角的奇幻设定极具辨识度，六十集体量紧凑高能毫无注水。本资源包含《别拿猪婆龙不当神兽》完整剧集，围绕被低估的神兽逆袭正名展开，将神话元素与现代叙事融合，世界观构建扎实且趣味十足。主角从被轻视到展露神力的过程充满爽感，角色关系在对抗与认同中层层递进，矛盾爆发点密集且反转利落，特别适合对非传统神兽题材感兴趣、追求快节奏奇幻爽感的用户。转存以后连打包下载都给你备好了，在线观看也丝滑流畅。</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd17.ajupf.com/20260905/u7Tl4Joj/index.m3u8$$$全集完结$https://vodcnd17.ajupf.com/share/EByYrusVBx",
-    "update_time": "2026-09-07 23:01:31"
+    "update_time": "2026-09-07 23:01:31",
+    "play_sources": [
+      {
+        "source": "量子资源",
+        "source_id": 162702,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
+      }
+    ]
   },
   {
     "id": 148210,
@@ -19336,6 +19399,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 162661,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
@@ -19354,7 +19424,16 @@
     "content": "<p><span style=\"color: #666666; font-family: Arial, sans-serif; font-size: 18px; background-color: #FFFFFF;\">这部2026年新出的AI古装短剧《江山只为聘卿卿》一口气更到96集，用AI技术还原了极致的东方美学与深情权谋。剧情围绕男主以万里江山为聘礼迎娶心上人展开，将家国大义与儿女情长紧密交织，叙事节奏紧凑不拖沓。男女主的情感羁绊在权力漩涡中层层递进，从试探到坚定相守的转折极具张力，每一集都有推动关系的关键事件，主线清晰且情感浓度极高。喜欢古风言情与AI视觉奇观的观众千万别错过，转存到夸克网盘马上就能看全集，连打包下载都给你备好了。</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd17.ajupf.com/20260905/mEhmpJwu/index.m3u8$$$全集完结$https://vodcnd17.ajupf.com/share/3942NySOR4",
-    "update_time": "2026-09-07 23:00:29"
+    "update_time": "2026-09-07 23:00:29",
+    "play_sources": [
+      {
+        "source": "量子资源",
+        "source_id": 162711,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
+      }
+    ]
   },
   {
     "id": 148213,
@@ -19371,7 +19450,16 @@
     "content": "<p><span style=\"color: #666666; font-family: Arial, sans-serif; font-size: 18px; background-color: #FFFFFF;\">错付真心后的情感觉醒构成这部剧最戳人的内核。《空许温柔》今年上线共52集，讲述一段被辜负的深情如何走向释怀与重生的都市情感历程，情绪浓度极高引人共鸣。主角在关系中的挣扎与蜕变是叙事主轴，矛盾冲突真实不狗血，从隐忍到决绝的节奏把控精准，每个转折点都承载着角色成长的重量，看完久久难以平静。适合偏好现实向情感剧和人物弧光塑造的观众，转存到夸克网盘即可无缝衔接追完全集并支持批量下载。</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd17.ajupf.com/20260905/TPc5OKJR/index.m3u8$$$全集完结$https://vodcnd17.ajupf.com/share/rlXjLvCUrf",
-    "update_time": "2026-09-07 23:00:00"
+    "update_time": "2026-09-07 23:00:00",
+    "play_sources": [
+      {
+        "source": "量子资源",
+        "source_id": 162734,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
+      }
+    ]
   },
   {
     "id": 139316,
@@ -19681,7 +19769,16 @@
     "content": "<p><span style=\"color: #666666; font-family: Arial, sans-serif; font-size: 18px; background-color: #FFFFFF;\">2026年这部AI短剧以百集体量打造沉浸式经营爽感，时空穿越与实业振兴的结合新颖抓人。《打开时空门后我盘活老工厂》讲述主角借时空之门激活老旧工厂的逆袭历程，从困境破局到产业焕新的每一步都扎实可信。剧情推进紧凑有序，时代细节与经营智慧交织，既有怀旧情怀又有现代爽点，完全没有悬浮感。喜欢年代经营和逆袭创业题材的观众会欲罢不能，转存到夸克网盘马上就能看全集，打包下载也一并搞定。</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd17.ajupf.com/20260905/n1PwmSJ9/index.m3u8$$$全集完结$https://vodcnd17.ajupf.com/share/OQ76FU8c6E",
-    "update_time": "2026-09-07 22:49:05"
+    "update_time": "2026-09-07 22:49:05",
+    "play_sources": [
+      {
+        "source": "量子资源",
+        "source_id": 162725,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
+      }
+    ]
   },
   {
     "id": 148388,
@@ -19749,6 +19846,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 162690,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
@@ -19801,6 +19905,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 162712,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
@@ -19853,6 +19964,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 162740,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
@@ -19879,6 +19997,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 162694,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
@@ -25988,6 +26113,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 162710,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
@@ -71725,7 +71857,30 @@
     "content": "<p>暂无简介</p><p><br/></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260603/c07INfYy/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/T2dheBInBq#",
-    "update_time": "2026-08-22 11:43:38"
+    "update_time": "2026-08-22 11:43:38",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 221711,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "全集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 197586,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 162178,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 135270,
@@ -133203,22 +133358,5 @@
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260704/nE7Sxq8w/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/RhMqGMzUjf",
     "update_time": "2026-08-03 22:59:37"
-  },
-  {
-    "id": 142041,
-    "name": "我家大鼎通古今，娇养了整个女儿国",
-    "type": "古装仙侠",
-    "year": "2026",
-    "area": "中国大陆",
-    "language": "汉语普通话",
-    "category": "短剧",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/0917b71e7715536b1a1fba0bdf0bf804.jpg",
-    "douban_id": 0,
-    "score": "0.0",
-    "remarks": "全集完结",
-    "content": "<p style=\"margin: 0px 0px 1em; padding: 0px; border: 0px; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-variant-alternates: inherit; font-variant-position: inherit; font-variant-emoji: inherit; font-stretch: inherit; font-size: 18px; line-height: inherit; font-family: Arial, sans-serif; font-optical-sizing: inherit; font-size-adjust: inherit; font-kerning: inherit; font-feature-settings: inherit; font-variation-settings: inherit; font-language-override: inherit; vertical-align: baseline; color: rgb(102, 102, 102); white-space: normal; background-color: rgb(255, 255, 255);\">卢艺煊和涂鑫艺联袂主演的《我家大鼎通古今，娇养了整个女儿国》是一部充满奇幻穿越元素的古装剧。卢艺煊饰演的主角意外获得了一个能够连接古今的神秘大鼎，通过这个鼎，他穿梭于现代与古代之间，不仅改变了自己的命运，还娇养了整个女儿国。涂鑫艺饰演的角色则是古代女儿国的公主，两人从最初的陌生到后来的相爱，谱写了一段跨越时空的浪漫恋曲。86集的剧情中，奇幻与现实交织，古代与现代碰撞，每一个情节都充满了惊喜与感动。卢艺煊通过精湛的演技将主角的穿越经历展现得栩栩如生，而涂鑫艺则用细腻的刻画呈现了一个古代公主的智慧与勇气。</p><p><br/></p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "全集完结$https://vodcnd15.ajupf.com/20260704/LCjyGrVR/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/bNRTMXNd7A",
-    "update_time": "2026-08-03 22:59:01"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 145610,
+    "name": "重生归来，一路长虹",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260824-1/047bba7dfc10ba71581eac4368a916f3.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-24 16:52:00"
+  },
+  {
     "id": 145607,
     "name": "顾总夫人她能化身万物",
     "type": "现代都市",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-23 16:09:08"
-  },
-  {
-    "id": 145407,
-    "name": "玫瑰沦陷",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260823-1/b9341e9c8f0cf0c39fc6f3ff5407a867.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-23 16:07:33"
   }
 ]

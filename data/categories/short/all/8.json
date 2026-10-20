@@ -1,5 +1,17 @@
 [
   {
+    "id": 148081,
+    "name": "万物扫描：我靠系统赢未来",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260905-1/ac6223488503b29c70cfc2a71ada9490.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-09-05 22:10:23"
+  },
+  {
     "id": 148080,
     "name": "荒年分家肉满仓，穿越旺翻旮旯乡",
     "type": "古装仙侠",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-09-03 22:59:54"
-  },
-  {
-    "id": 147545,
-    "name": "莲灯藏尽千岁深情",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260903-1/d512530499ba38dd9235ad66ad658438.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-09-03 22:59:15"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 145615,
+    "name": "我有一剑斩青山",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260824-1/812c7a068498ef173634ca9d48e959c6.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-25 22:49:19"
+  },
+  {
     "id": 145614,
     "name": "报到当天，我被学神官宣了",
     "type": "现代都市",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-25 22:20:32"
-  },
-  {
-    "id": 145780,
-    "name": "我只想在东宫摸鱼",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260825-1/341baf3f9d94075de856a74eb07a736f.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-25 22:19:53"
   }
 ]

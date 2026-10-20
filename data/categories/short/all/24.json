@@ -1,5 +1,17 @@
 [
   {
+    "id": 145658,
+    "name": "再翻冤案我可就权倾朝野",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260824-1/aaa52bdf11e8326ec9a07351f6f4c3f6.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-24 18:23:15"
+  },
+  {
     "id": 145655,
     "name": "你毁我嗓，我拿金曲把你钉在耻辱柱上",
     "type": "现代都市",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-23 22:02:18"
-  },
-  {
-    "id": 145500,
-    "name": "机器人前夫总吃醋",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260823-1/c42b2adc474e8722afbe16c71e34a335.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-23 22:00:23"
   }
 ]

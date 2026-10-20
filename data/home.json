@@ -1,5 +1,17 @@
 [
   {
+    "id": 153967,
+    "name": "穿书八零，一家子炮灰要洗白",
+    "type": "现代都市",
+    "category": "",
+    "year": "2026",
+    "area": "大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261020-1/c8a9e921c92863e9c3e2824e66014f26.webp",
+    "score": "5.0",
+    "remarks": "全集完结",
+    "update_time": "2026-10-20 18:58:12"
+  },
+  {
     "id": 153878,
     "name": "26_27赛季CBA常规赛第1轮全场回放：山东vs辽宁",
     "type": "篮球",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第10期",
     "update_time": "2026-10-15 23:19:24"
-  },
-  {
-    "id": 153340,
-    "name": "我家猫是翻译官",
-    "type": "AI短剧",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261015-1/0839872dd50e0e9cf6e2fecee30848ab.jpg",
-    "score": "5.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-15 18:57:25"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 146195,
+    "name": "致命手稿：嫌疑人是我",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260827-1/9a77e671ac7339312ccae80745425aa2.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-27 21:44:34"
+  },
+  {
     "id": 146152,
     "name": "人间半盏烟火：旧镯晚风",
     "type": "现代都市",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-27 20:32:58"
-  },
-  {
-    "id": 146174,
-    "name": "尘劫：魔帝之死",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260827-1/2bbaa7ecae2eb28c635fac94754c9510.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-27 19:53:47"
   }
 ]

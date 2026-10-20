@@ -1,5 +1,17 @@
 [
   {
+    "id": 146174,
+    "name": "尘劫：魔帝之死",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260827-1/2bbaa7ecae2eb28c635fac94754c9510.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-27 19:53:47"
+  },
+  {
     "id": 146175,
     "name": "父子双雄，重振家族荣光",
     "type": "古装仙侠",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-27 15:40:20"
-  },
-  {
-    "id": 146193,
-    "name": "有机菜反杀记",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260827-1/fffac2a6cd7b50c7a2231800e9c20b01.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-27 15:37:15"
   }
 ]

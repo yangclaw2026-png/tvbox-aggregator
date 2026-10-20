@@ -1,5 +1,17 @@
 [
   {
+    "id": 150049,
+    "name": "第一季从路边摊到厨神之巅，顾客追我十条街",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260917-1/4c723085f4146ac6e168f809ffbf5d97.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-09-17 22:33:46"
+  },
+  {
     "id": 150047,
     "name": "大小姐她偏不当炮灰",
     "type": "古装仙侠",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-09-12 22:49:44"
-  },
-  {
-    "id": 149367,
-    "name": "我家世代提刀，到我这儿提笔了(第三季）",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260912-1/aedfc8f4b1461b7f01c0cf44cd0248ed.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-09-12 22:49:12"
   }
 ]
