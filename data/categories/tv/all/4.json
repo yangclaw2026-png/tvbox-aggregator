@@ -1,5 +1,17 @@
 [
   {
+    "id": 140404,
+    "name": "麻辣教师 第二季",
+    "type": "日本剧",
+    "category": "剧情,喜剧",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260722-1/8c4cba03ae722cc1f7533241831726e2.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-08-25 19:56:51"
+  },
+  {
     "id": 145770,
     "name": "飞出个未来 第十四季",
     "type": "欧美剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第5集",
     "update_time": "2026-08-23 00:12:32"
-  },
-  {
-    "id": 142933,
-    "name": "等待黎明破晓时",
-    "type": "泰国剧",
-    "category": "剧情 ， 爱情 ， 同性",
-    "year": "2026",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260809-1/e3b04674a284328aaddb28418bb0a44c.jpg",
-    "score": "8.9",
-    "remarks": "第10集",
-    "update_time": "2026-08-23 00:10:52"
   }
 ]

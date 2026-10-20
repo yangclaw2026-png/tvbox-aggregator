@@ -1,5 +1,17 @@
 [
   {
+    "id": 151588,
+    "name": "锁爱游戏",
+    "type": "泰国剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260929-1/702f9a8e8f19357ebb3ff361717dc76e.png",
+    "score": "0.0",
+    "remarks": "第4集",
+    "update_time": "2026-10-21 00:42:44"
+  },
+  {
     "id": 154011,
     "name": "风月无边，沈少的笼中鸟",
     "type": "言情总裁",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "全集完结",
     "update_time": "2026-10-17 17:48:42"
-  },
-  {
-    "id": 153526,
-    "name": "梨花保姆第一季",
-    "type": null,
-    "category": "短剧",
-    "year": "2026",
-    "area": "大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261016-1/fb1c159c3b877ae556a75bd0e094bbb7.jpg",
-    "score": "5.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-16 20:06:59"
   }
 ]
