@@ -1,5 +1,17 @@
 [
   {
+    "id": 142265,
+    "name": "听懂兽语，还怕凶案没目击者",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260804-1/ee622595f64a852988eb3d15e25ecfcc.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-04 22:59:04"
+  },
+  {
     "id": 142264,
     "name": "神之手",
     "type": "现代都市",
@@ -478,53 +490,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-04 20:37:08"
-  },
-  {
-    "id": 142047,
-    "name": "红包系统，我在都市当财神",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/19502c926d6550d1c8872f8fd8e31b91.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-03 23:01:36"
-  },
-  {
-    "id": 142045,
-    "name": "负能量变现",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/630c10598a97e4176d0c0ff542c3404a.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-03 23:00:40"
-  },
-  {
-    "id": 142043,
-    "name": "我的司机活了一千年",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/c7539a222a8be58a660e66c33d03199b.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-03 23:00:06"
-  },
-  {
-    "id": 142042,
-    "name": "当生命开始倒数，全家重新爱我",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/6bb7edd7f0a0b56790a47c93c031b8c9.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-03 22:59:37"
   }
 ]

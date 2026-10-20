@@ -1,5 +1,17 @@
 [
   {
+    "id": 138978,
+    "name": "机器人女友",
+    "type": "泰国剧",
+    "category": "剧情,喜剧,同性",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260708-1/b8ae2c2ed0e0973b1311cb8c828d18d1.jpg",
+    "score": "5.0",
+    "remarks": "第7集",
+    "update_time": "2026-08-13 11:43:59"
+  },
+  {
     "id": 139145,
     "name": "走近这片海（第一季）",
     "type": "国产剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第13集",
     "update_time": "2026-08-05 20:38:11"
-  },
-  {
-    "id": 137459,
-    "name": "荒野独居 澳洲版（中配版)",
-    "type": "欧美剧",
-    "category": "探险",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260627-1/12d4129ef6259a9a737f7450739c2293.jpg",
-    "score": "5.0",
-    "remarks": "第13集",
-    "update_time": "2026-08-05 20:37:17"
   }
 ]

@@ -1,5 +1,41 @@
 [
   {
+    "id": 146458,
+    "name": "隐忍五年，归来已是军神",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260828-1/bfadc7571fd1b30d7bee45b23558d7c2.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-28 22:54:03"
+  },
+  {
+    "id": 146460,
+    "name": "奇门遁甲之残图秘影",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260828-1/dbc398df4d9f7266507aeaa09216fc71.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-28 22:53:19"
+  },
+  {
+    "id": 146463,
+    "name": "选择爱我的，还是我爱的",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260828-1/59e136a7bf5a2124ef22af2ca143e2fc.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-28 22:52:48"
+  },
+  {
     "id": 146466,
     "name": "重生百世：这一世我要发家致富",
     "type": "重生民国",
@@ -562,41 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-27 22:34:28"
-  },
-  {
-    "id": 146252,
-    "name": "归京嫡女飒爆京城",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-27 22:33:52"
-  },
-  {
-    "id": 146068,
-    "name": "本宫只想搞钱，皇上非要宠我",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260826-1/0e669a8d775e79c1cf94af407b809219.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-27 22:33:03"
-  },
-  {
-    "id": 146067,
-    "name": "把那个高冷男主还给我",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260826-1/093a9f83b2f929cc01aa053cafd87f02.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-27 22:32:33"
   }
 ]

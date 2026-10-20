@@ -1,5 +1,17 @@
 [
   {
+    "id": 142815,
+    "name": "我继承了奶奶的餐厅，来的全是异世界大佬",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260808-1/9453e3a7cce47cc25df5db8cf40d1bf1.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-08 16:33:34"
+  },
+  {
     "id": 142808,
     "name": "流放极寒地，我直接开荒种田",
     "type": "现代都市",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "全集完结",
     "update_time": "2026-08-07 15:11:06"
-  },
-  {
-    "id": 142653,
-    "name": "我的手机通地府",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260807-1/3a82149fec1eb4e639f4721ce0f4fda5.jpg",
-    "score": "5.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-07 14:45:37"
   }
 ]

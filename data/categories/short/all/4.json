@@ -1,5 +1,41 @@
 [
   {
+    "id": 150054,
+    "name": "惊雷吻桃花",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260917-1/3f9e3059da1d80d86206951a87253830.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-09-17 22:35:21"
+  },
+  {
+    "id": 150052,
+    "name": "婚后沦陷，穿书女配得求生法则第2季",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260917-1/03942235eb427ac8c836eed5767f21fc.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-09-17 22:34:52"
+  },
+  {
+    "id": 150051,
+    "name": "夫人，我真不是魔尊",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260917-1/1eecdcfdff5017fff24914c314f34800.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-09-17 22:34:19"
+  },
+  {
     "id": 150049,
     "name": "第一季从路边摊到厨神之巅，顾客追我十条街",
     "type": "现代都市",
@@ -562,41 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-09-12 22:50:43"
-  },
-  {
-    "id": 149372,
-    "name": "甜宝双妹重生，错位攻略京城双子星",
-    "type": "重生民国",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260912-1/1bcc28c9b1b2f2ebce913409fcde885c.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-09-12 22:50:22"
-  },
-  {
-    "id": 149328,
-    "name": "婚后热恋陆先生追妻有点甜",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260912-1/0562490b4ac0f54a5f5e02aabf8f5247.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-09-12 22:50:14"
-  },
-  {
-    "id": 149332,
-    "name": "今生先守我夫君第三季",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260912-1/9518fc8a36a37249ce5f676fc310aa2f.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-09-12 22:49:44"
   }
 ]

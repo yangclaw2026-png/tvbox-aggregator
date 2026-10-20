@@ -1,5 +1,17 @@
 [
   {
+    "id": 149008,
+    "name": "叨叨父爱第一季",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260910-1/cbcc69b6fa839bbfdfb2d41eb86f495e.webp",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-09-10 22:38:16"
+  },
+  {
     "id": 148982,
     "name": "我的满级病友竟是大佬第一季",
     "type": "现代都市",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-09-05 22:39:18"
-  },
-  {
-    "id": 148104,
-    "name": "废品布衣八零捡宝人第三季",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260905-1/ab8001da54926fbb3d6a5283388e8c5f.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-09-05 22:38:46"
   }
 ]

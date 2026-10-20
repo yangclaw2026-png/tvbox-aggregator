@@ -1,5 +1,17 @@
 [
   {
+    "id": 143942,
+    "name": "欢迎来龙餐馆",
+    "type": "剧情片",
+    "category": "剧情 ， 战争",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260815-1/06a6205c38ed83b2c4d3254d31384890.jpg",
+    "score": "8.5",
+    "remarks": "正片",
+    "update_time": "2026-08-22 11:41:46"
+  },
+  {
     "id": 144815,
     "name": "情满千峡湖",
     "type": "纪录片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-18 20:18:59"
-  },
-  {
-    "id": 144517,
-    "name": "十大凶案现场",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2015",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260818-1/5e36ce1bd4e42eccb32a08db7f4c65c5.jpg",
-    "score": "5.0",
-    "remarks": "第23集完结",
-    "update_time": "2026-08-18 16:54:09"
   }
 ]
