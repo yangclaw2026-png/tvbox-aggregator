@@ -1,5 +1,29 @@
 [
   {
+    "id": 153878,
+    "name": "26_27赛季CBA常规赛第1轮全场回放：山东vs辽宁",
+    "type": "篮球",
+    "category": "体育",
+    "year": "2026",
+    "area": "",
+    "poster": "https://dbzy5.com/upload/vod/20261020-1/e511b6e09bebb3dd2400b0749ef643ef.jpg",
+    "score": "5.0",
+    "remarks": "20261018",
+    "update_time": "2026-10-20 11:40:19"
+  },
+  {
+    "id": 153877,
+    "name": "26_27赛季CBA常规赛第1轮全场回放：南京vs广东",
+    "type": "篮球",
+    "category": "体育",
+    "year": "2026",
+    "area": "",
+    "poster": "https://dbzy5.com/upload/vod/20261020-1/2b8a7cb7937c93e427295c89ec3b56c5.jpg",
+    "score": "5.0",
+    "remarks": "20261018",
+    "update_time": "2026-10-20 11:37:56"
+  },
+  {
     "id": 149864,
     "name": "阿波罗陷落",
     "type": "欧美剧",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "全集完结",
     "update_time": "2026-10-15 18:57:25"
-  },
-  {
-    "id": 152960,
-    "name": "璀璨之城(粤)",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261013-1/e138357f3854fe907e442afb7cbb9303.jpg",
-    "score": "5.0",
-    "remarks": "3",
-    "update_time": "2026-10-15 11:26:59"
-  },
-  {
-    "id": 152433,
-    "name": "爱上草莓的季节",
-    "type": "韩剧",
-    "category": "喜剧,爱情",
-    "year": "2026",
-    "area": "韩国",
-    "poster": "https://dbzy5.com/upload/vod/20261008-1/39d9ad4fc73afe1606e06f0a830bc962.webp",
-    "score": "5.0",
-    "remarks": "第2集",
-    "update_time": "2026-10-15 11:25:34"
   }
 ]
