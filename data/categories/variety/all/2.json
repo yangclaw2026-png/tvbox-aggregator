@@ -1,5 +1,29 @@
 [
   {
+    "id": 111245,
+    "name": "同床异梦2：你是我的命运",
+    "type": "日韩综艺",
+    "category": "真人秀",
+    "year": "2017",
+    "area": "韩国",
+    "poster": "https://dbzy5.com/upload/vod/20251104-1/1914ba78428bdadf32897a93c81fd161.jpg",
+    "score": "8.2",
+    "remarks": "第20260825期",
+    "update_time": "2026-08-26 22:05:03"
+  },
+  {
+    "id": 136996,
+    "name": "伟大的导游3",
+    "type": "日韩综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "韩国",
+    "poster": "https://dbzy5.com/upload/vod/20260618-1/e9b72cf302b5a07dfca3ba2779a131aa.jpg",
+    "score": "5.0",
+    "remarks": "第12期",
+    "update_time": "2026-08-26 22:04:15"
+  },
+  {
     "id": 143534,
     "name": "只要有空第五季",
     "type": "日韩综艺",
@@ -574,29 +598,5 @@
     "score": "0.0",
     "remarks": "第85期",
     "update_time": "2026-08-23 23:36:16"
-  },
-  {
-    "id": 141079,
-    "name": "友你的旅行",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260727-1/4627e211d31e69815c5aeb3436bafab8.jpg",
-    "score": "5.0",
-    "remarks": "20260823第5期",
-    "update_time": "2026-08-23 23:32:43"
-  },
-  {
-    "id": 143420,
-    "name": "AI了，大医生",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260812-1/967b78ed73676327f003ed05735dab9b.jpg",
-    "score": "5.0",
-    "remarks": "20260823第4期",
-    "update_time": "2026-08-23 22:15:12"
   }
 ]

@@ -1,5 +1,53 @@
 [
   {
+    "id": 146394,
+    "name": "人生复本 第二季",
+    "type": "欧美剧",
+    "category": "科幻",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260828-1/7406aaa8c367458744810a87fae90b4a.jpg",
+    "score": "5.0",
+    "remarks": "第5集",
+    "update_time": "2026-09-26 00:37:45"
+  },
+  {
+    "id": 150184,
+    "name": "黑帮领地 第二季",
+    "type": "欧美剧",
+    "category": "剧情,犯罪",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260918-1/2dabce0390077f8d1e56a02923433e26.jpg",
+    "score": "5.0",
+    "remarks": "第2集",
+    "update_time": "2026-09-26 00:36:42"
+  },
+  {
+    "id": 149227,
+    "name": "要我和你交往也不是不行",
+    "type": "日本剧",
+    "category": "剧情,爱情,同性",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260912-1/43bbf88696ea9ecdefee9bfedd3c6c7c.jpg",
+    "score": "5.0",
+    "remarks": "第2集",
+    "update_time": "2026-09-24 23:06:32"
+  },
+  {
+    "id": 149762,
+    "name": "审判萨达姆",
+    "type": "欧美剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260915-1/b6add113dd345248ce2c51f97b4dcdef.jpg",
+    "score": "5.0",
+    "remarks": "第5集",
+    "update_time": "2026-09-22 23:00:12"
+  },
+  {
     "id": 150336,
     "name": "古战场传奇：吾血之亲 第二季",
     "type": "欧美剧",
@@ -550,53 +598,5 @@
     "score": "5.0",
     "remarks": "第15集",
     "update_time": "2026-08-27 16:26:53"
-  },
-  {
-    "id": 146220,
-    "name": "黑沙",
-    "type": "国产剧",
-    "category": "悬疑",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260827-1/94a07881bab90099633ef0e959e0829b.jpg",
-    "score": "5.0",
-    "remarks": "第14集完结",
-    "update_time": "2026-08-27 16:25:08"
-  },
-  {
-    "id": 126771,
-    "name": "我们愉快的好日子",
-    "type": "韩剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "韩国",
-    "poster": "https://dbzy5.com/upload/vod/20260331-1/81d6defc4141158c6454a9017b29d445.jpg",
-    "score": "5.0",
-    "remarks": "第106集",
-    "update_time": "2026-08-27 15:34:16"
-  },
-  {
-    "id": 142641,
-    "name": "新男友",
-    "type": "泰国剧",
-    "category": "爱情,同性",
-    "year": "2026",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260807-1/c1338d0426217595bd82f58011684e45.jpg",
-    "score": "5.0",
-    "remarks": "第4集",
-    "update_time": "2026-08-27 15:11:44"
-  },
-  {
-    "id": 145957,
-    "name": "光点",
-    "type": "泰国剧",
-    "category": "剧情,爱情,同性,奇幻",
-    "year": "2026",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260826-1/78020903324fe122e29048c8d73570c9.jpg",
-    "score": "5.0",
-    "remarks": "第3集",
-    "update_time": "2026-08-27 15:08:49"
   }
 ]

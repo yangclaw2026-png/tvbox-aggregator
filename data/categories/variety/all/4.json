@@ -1,5 +1,29 @@
 [
   {
+    "id": 144595,
+    "name": "SBS歌谣大战",
+    "type": "日韩综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "韩国",
+    "poster": "https://dbzy5.com/upload/vod/20260818-1/cca741944208dbe7baff069dcf1e1233.jpg",
+    "score": "5.0",
+    "remarks": "第2集",
+    "update_time": "2026-08-18 23:22:56"
+  },
+  {
+    "id": 138646,
+    "name": "大医说 2026",
+    "type": "大陆综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260706-1/0ee2409a11533668cd2dc7bfb7433604.jpg",
+    "score": "5.0",
+    "remarks": "第32期",
+    "update_time": "2026-08-18 18:56:35"
+  },
+  {
     "id": 857,
     "name": "两天一夜 第四季",
     "type": "日韩综艺",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第25集",
     "update_time": "2026-08-05 22:26:48"
-  },
-  {
-    "id": 142401,
-    "name": "英国值得一试",
-    "type": "欧美综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "英国",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/70b0f50e764d4645d6be105886bada05.jpg",
-    "score": "5.0",
-    "remarks": "第6集",
-    "update_time": "2026-08-05 22:24:53"
-  },
-  {
-    "id": 142394,
-    "name": "走进去",
-    "type": "欧美综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/2e541084375dd5c549a6afa556482521.jpg",
-    "score": "5.0",
-    "remarks": "第1集",
-    "update_time": "2026-08-05 21:34:12"
   }
 ]

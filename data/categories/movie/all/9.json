@@ -1,5 +1,17 @@
 [
   {
+    "id": 142283,
+    "name": "连滚带爬",
+    "type": "剧情片",
+    "category": "剧情,惊悚",
+    "year": "2026",
+    "area": "美国,白俄罗斯",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/d71eb08f153d7191eda3c9471f518181.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-05 13:14:44"
+  },
+  {
     "id": 142281,
     "name": "安全区",
     "type": "恐怖片",
@@ -514,41 +526,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-04 15:41:22"
-  },
-  {
-    "id": 137458,
-    "name": "精灵猎人",
-    "type": "喜剧片",
-    "category": "喜剧,动作,惊悚,恐怖",
-    "year": "2026",
-    "area": "马来西亚",
-    "poster": "https://dbzy5.com/upload/vod/20260627-1/c57d80ed0503e99453d6ba219b1a784c.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-04 15:20:33"
-  },
-  {
-    "id": 142112,
-    "name": "龙战士 2020",
-    "type": "动作片",
-    "category": "动作",
-    "year": "2020",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/060e14740186d47e8a410dbc5dfd4127.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-04 12:03:48"
-  },
-  {
-    "id": 142111,
-    "name": "图片 2017",
-    "type": "剧情片",
-    "category": "剧情,爱情,歌舞",
-    "year": "2017",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/6a2b5bad1c0ba1b65d5c7520fc0acbcd.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-04 12:03:14"
   }
 ]

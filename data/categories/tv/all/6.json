@@ -1,5 +1,53 @@
 [
   {
+    "id": 143888,
+    "name": "寒冷 2026",
+    "type": "海外剧",
+    "category": "剧情,动作,惊悚,犯罪",
+    "year": "2026",
+    "area": "俄罗斯",
+    "poster": "https://dbzy5.com/upload/vod/20260814-1/1339e57016b4292a7fe09d88059d4152.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-08-21 11:42:34"
+  },
+  {
+    "id": 132212,
+    "name": "哈达克一家 第二季",
+    "type": "欧美剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "英国,爱尔兰",
+    "poster": "https://dbzy5.com/upload/vod/20260516-1/1f344ad4bc21ff109b68ae8166b75fff.jpg",
+    "score": "5.0",
+    "remarks": "第6集完结",
+    "update_time": "2026-08-21 11:41:26"
+  },
+  {
+    "id": 145025,
+    "name": "平凡的乔 第二季",
+    "type": "欧美剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260820-1/bba242feb55607fdec8d59b4c3bd61a9.jpg",
+    "score": "5.0",
+    "remarks": "第2集",
+    "update_time": "2026-08-20 23:54:01"
+  },
+  {
+    "id": 134708,
+    "name": "“皮行者牧场”的秘密 第七季",
+    "type": "欧美剧",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260604-1/84a379a4ad92a7c480f011500edea6dd.jpg",
+    "score": "5.0",
+    "remarks": "第14期",
+    "update_time": "2026-08-20 21:59:28"
+  },
+  {
     "id": 144975,
     "name": "极昼血祭",
     "type": "欧美剧",
@@ -550,53 +598,5 @@
     "score": "5.0",
     "remarks": "第6集完结",
     "update_time": "2026-08-13 21:36:03"
-  },
-  {
-    "id": 136458,
-    "name": "替名情臻",
-    "type": "泰国剧",
-    "category": "剧情,爱情,历史",
-    "year": "2026",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260614-1/e14800c022062cd549c22f9dd0b909a2.jpg",
-    "score": "5.0",
-    "remarks": "第19集完结",
-    "update_time": "2026-08-13 18:46:52"
-  },
-  {
-    "id": 139032,
-    "name": "黑珊瑚",
-    "type": "泰国剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260708-1/3a4d51ae723bac72a75bcc4f86b3fbc1.jpg",
-    "score": "5.0",
-    "remarks": "第30集完结",
-    "update_time": "2026-08-13 18:46:06"
-  },
-  {
-    "id": 142648,
-    "name": "吾凰在上之凤御四方",
-    "type": "国产剧",
-    "category": "爱情,短片,奇幻,古装",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260807-1/67e6554bd2aa5a7ea725a8ccbdd501c9.jpg",
-    "score": "5.0",
-    "remarks": "第16集",
-    "update_time": "2026-08-13 14:37:28"
-  },
-  {
-    "id": 141969,
-    "name": "南戏",
-    "type": "国产剧",
-    "category": "短片,古装",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260803-1/3bc656194118d9f27696141d5c5611d4.jpg",
-    "score": "5.0",
-    "remarks": "第19集",
-    "update_time": "2026-08-13 14:25:31"
   }
 ]

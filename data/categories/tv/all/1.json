@@ -1,5 +1,53 @@
 [
   {
+    "id": 153472,
+    "name": "地狱之家",
+    "type": "泰国剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20261016-1/6a40ac070ee1e5ee01a0ca7757f64b98.webp",
+    "score": "5.0",
+    "remarks": "第2集",
+    "update_time": "2026-10-21 17:59:22"
+  },
+  {
+    "id": 152366,
+    "name": "时空爱戒",
+    "type": "泰国剧",
+    "category": "动作,爱情,历史,奇幻",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20261007-1/049e2038eed74ad84df0e53e358e6b72.webp",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-10-21 17:58:09"
+  },
+  {
+    "id": 149757,
+    "name": "寄生之心",
+    "type": "泰国剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260915-1/5686acd3a0ef9d0eb97d5fffeddfec51.jpg",
+    "score": "5.0",
+    "remarks": "第27集",
+    "update_time": "2026-10-21 17:56:48"
+  },
+  {
+    "id": 152364,
+    "name": "谎日沉影",
+    "type": "泰国剧",
+    "category": "剧情,爱情",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20261007-1/21f69c89c72bb0096e5da0084d0c46a8.webp",
+    "score": "5.0",
+    "remarks": "第5集",
+    "update_time": "2026-10-21 17:55:23"
+  },
+  {
     "id": 151588,
     "name": "锁爱游戏",
     "type": "泰国剧",
@@ -550,53 +598,5 @@
     "score": "5.0",
     "remarks": "第3集",
     "update_time": "2026-09-27 22:55:52"
-  },
-  {
-    "id": 146394,
-    "name": "人生复本 第二季",
-    "type": "欧美剧",
-    "category": "科幻",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260828-1/7406aaa8c367458744810a87fae90b4a.jpg",
-    "score": "5.0",
-    "remarks": "第5集",
-    "update_time": "2026-09-26 00:37:45"
-  },
-  {
-    "id": 150184,
-    "name": "黑帮领地 第二季",
-    "type": "欧美剧",
-    "category": "剧情,犯罪",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260918-1/2dabce0390077f8d1e56a02923433e26.jpg",
-    "score": "5.0",
-    "remarks": "第2集",
-    "update_time": "2026-09-26 00:36:42"
-  },
-  {
-    "id": 149227,
-    "name": "要我和你交往也不是不行",
-    "type": "日本剧",
-    "category": "剧情,爱情,同性",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260912-1/43bbf88696ea9ecdefee9bfedd3c6c7c.jpg",
-    "score": "5.0",
-    "remarks": "第2集",
-    "update_time": "2026-09-24 23:06:32"
-  },
-  {
-    "id": 149762,
-    "name": "审判萨达姆",
-    "type": "欧美剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260915-1/b6add113dd345248ce2c51f97b4dcdef.jpg",
-    "score": "5.0",
-    "remarks": "第5集",
-    "update_time": "2026-09-22 23:00:12"
   }
 ]

@@ -1,5 +1,53 @@
 [
   {
+    "id": 153472,
+    "name": "地狱之家",
+    "type": "泰国剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20261016-1/6a40ac070ee1e5ee01a0ca7757f64b98.webp",
+    "score": "5.0",
+    "remarks": "第2集",
+    "update_time": "2026-10-21 17:59:22"
+  },
+  {
+    "id": 152366,
+    "name": "时空爱戒",
+    "type": "泰国剧",
+    "category": "动作,爱情,历史,奇幻",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20261007-1/049e2038eed74ad84df0e53e358e6b72.webp",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-10-21 17:58:09"
+  },
+  {
+    "id": 149757,
+    "name": "寄生之心",
+    "type": "泰国剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260915-1/5686acd3a0ef9d0eb97d5fffeddfec51.jpg",
+    "score": "5.0",
+    "remarks": "第27集",
+    "update_time": "2026-10-21 17:56:48"
+  },
+  {
+    "id": 152364,
+    "name": "谎日沉影",
+    "type": "泰国剧",
+    "category": "剧情,爱情",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20261007-1/21f69c89c72bb0096e5da0084d0c46a8.webp",
+    "score": "5.0",
+    "remarks": "第5集",
+    "update_time": "2026-10-21 17:55:23"
+  },
+  {
     "id": 151588,
     "name": "锁爱游戏",
     "type": "泰国剧",
@@ -550,53 +598,5 @@
     "score": "5.0",
     "remarks": "第5集",
     "update_time": "2026-08-10 14:48:33"
-  },
-  {
-    "id": 137347,
-    "name": "我的家教恋人",
-    "type": "泰国剧",
-    "category": "喜剧,爱情",
-    "year": "2026",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260625-1/5dddbb20584194b023aac7a4d2a71d19.jpg",
-    "score": "5.0",
-    "remarks": "第14集完结",
-    "update_time": "2026-08-09 12:53:41"
-  },
-  {
-    "id": 137176,
-    "name": "想念你",
-    "type": "泰国剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260623-1/9117c0328d8af853c3c8478ed18f0fb7.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-08 18:42:22"
-  },
-  {
-    "id": 137123,
-    "name": "穆菲",
-    "type": "泰国剧",
-    "category": "剧情,悬疑,恐怖",
-    "year": "2026",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260621-1/6e21f22916e096af18bd7f094078150f.jpg",
-    "score": "5.0",
-    "remarks": "第7集",
-    "update_time": "2026-08-05 18:23:13"
-  },
-  {
-    "id": 140963,
-    "name": "扭转死亡时间（泰语版）",
-    "type": "泰国剧",
-    "category": "剧情,爱情,悬疑,奇幻",
-    "year": "2024",
-    "area": "泰国",
-    "poster": "https://dbzy5.com/upload/vod/20260726-1/85a91548e082c40ebb108bb8a2070174.jpg",
-    "score": "5.0",
-    "remarks": "第13集完结",
-    "update_time": "2026-08-05 15:57:00"
   }
 ]

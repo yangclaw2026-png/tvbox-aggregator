@@ -1,5 +1,29 @@
 [
   {
+    "id": 142401,
+    "name": "英国值得一试",
+    "type": "欧美综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "英国",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/70b0f50e764d4645d6be105886bada05.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-08-05 22:24:53"
+  },
+  {
+    "id": 142394,
+    "name": "走进去",
+    "type": "欧美综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/2e541084375dd5c549a6afa556482521.jpg",
+    "score": "5.0",
+    "remarks": "第1集",
+    "update_time": "2026-08-05 21:34:12"
+  },
+  {
     "id": 142392,
     "name": "普通人 vs. 球星：不惜一切代价旅行",
     "type": "欧美综艺",
@@ -94,17 +118,5 @@
     "score": "0.0",
     "remarks": "第7期",
     "update_time": "2026-08-04 19:40:45"
-  },
-  {
-    "id": 136819,
-    "name": "户外成长计划",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260617-1/9edc618f9990d4f1cdc8f6c102014f10.jpg",
-    "score": "5.0",
-    "remarks": "20260804第八期",
-    "update_time": "2026-08-04 13:56:16"
   }
 ]

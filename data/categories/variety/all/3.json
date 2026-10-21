@@ -1,5 +1,29 @@
 [
   {
+    "id": 141079,
+    "name": "友你的旅行",
+    "type": "大陆综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260727-1/4627e211d31e69815c5aeb3436bafab8.jpg",
+    "score": "5.0",
+    "remarks": "20260823第5期",
+    "update_time": "2026-08-23 23:32:43"
+  },
+  {
+    "id": 143420,
+    "name": "AI了，大医生",
+    "type": "大陆综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260812-1/967b78ed73676327f003ed05735dab9b.jpg",
+    "score": "5.0",
+    "remarks": "20260823第4期",
+    "update_time": "2026-08-23 22:15:12"
+  },
+  {
     "id": 142100,
     "name": "极挑男人帮 爆笑精华版",
     "type": "大陆综艺",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第10集完结",
     "update_time": "2026-08-19 13:11:36"
-  },
-  {
-    "id": 144595,
-    "name": "SBS歌谣大战",
-    "type": "日韩综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "韩国",
-    "poster": "https://dbzy5.com/upload/vod/20260818-1/cca741944208dbe7baff069dcf1e1233.jpg",
-    "score": "5.0",
-    "remarks": "第2集",
-    "update_time": "2026-08-18 23:22:56"
-  },
-  {
-    "id": 138646,
-    "name": "大医说 2026",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260706-1/0ee2409a11533668cd2dc7bfb7433604.jpg",
-    "score": "5.0",
-    "remarks": "第32期",
-    "update_time": "2026-08-18 18:56:35"
   }
 ]

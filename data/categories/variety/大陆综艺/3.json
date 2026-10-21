@@ -1,5 +1,29 @@
 [
   {
+    "id": 112491,
+    "name": "了不起的少年",
+    "type": "大陆综艺",
+    "category": "真人秀",
+    "year": "2025",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20251115-1/ce8e207867949721d57aaba2dba11fc5.jpg",
+    "score": "5.0",
+    "remarks": "20260816第12期走进河南光山",
+    "update_time": "2026-08-16 16:19:57"
+  },
+  {
+    "id": 132311,
+    "name": "国乐无双",
+    "type": "大陆综艺",
+    "category": "音乐,真人秀",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260517-1/7c393c8caf782b5b6af917092d17be48.jpg",
+    "score": "5.0",
+    "remarks": "第20260815期宋亚轩黄子弘凡正太扭腰 周深陈小春同台《借过一下》",
+    "update_time": "2026-08-16 15:28:44"
+  },
+  {
     "id": 143818,
     "name": "八仙：人生破局大师",
     "type": "大陆综艺",
@@ -298,17 +322,5 @@
     "score": "0.0",
     "remarks": "第7期",
     "update_time": "2026-08-04 19:40:45"
-  },
-  {
-    "id": 136819,
-    "name": "户外成长计划",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260617-1/9edc618f9990d4f1cdc8f6c102014f10.jpg",
-    "score": "5.0",
-    "remarks": "20260804第八期",
-    "update_time": "2026-08-04 13:56:16"
   }
 ]

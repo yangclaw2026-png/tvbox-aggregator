@@ -1,5 +1,29 @@
 [
   {
+    "id": 154031,
+    "name": "走过万水千山",
+    "type": "大陆综艺",
+    "category": "",
+    "year": "2026",
+    "area": "大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261021-1/4f7db437429caac1ac3306ffd5bc7ad6.jpg",
+    "score": "5.0",
+    "remarks": "第1集",
+    "update_time": "2026-10-21 17:52:57"
+  },
+  {
+    "id": 151715,
+    "name": "中国好团队",
+    "type": "大陆综艺",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260930-1/b006324471e6ce9979ceae39d3068f29.jpeg",
+    "score": "0.0",
+    "remarks": "20261021第四期(上)",
+    "update_time": "2026-10-21 17:47:28"
+  },
+  {
     "id": 153759,
     "name": "2026乐龄重阳晚会",
     "type": "大陆综艺",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "20260826第30期：脱口秀新人闪亮登场",
     "update_time": "2026-08-26 14:30:51"
-  },
-  {
-    "id": 139152,
-    "name": "密室大逃脱8 大神版",
-    "type": "大陆综艺",
-    "category": "益智,真人秀,搞笑,芒果出品,推理",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260709-1/0aff9e5631f7b393bfc361793e7d1345.jpg",
-    "score": "5.0",
-    "remarks": "20260826大神版第6期：密神团营救计划",
-    "update_time": "2026-08-26 14:28:08"
-  },
-  {
-    "id": 139006,
-    "name": "密室大逃脱 第八季",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260708-1/333de5c77f74d84ec90dc72d4e3a15f2.jpg",
-    "score": "5.0",
-    "remarks": "20260826第6期：禁忌学园Ⅱ（下）",
-    "update_time": "2026-08-26 14:26:44"
   }
 ]

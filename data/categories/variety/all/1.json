@@ -1,5 +1,29 @@
 [
   {
+    "id": 154031,
+    "name": "走过万水千山",
+    "type": "大陆综艺",
+    "category": "",
+    "year": "2026",
+    "area": "大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261021-1/4f7db437429caac1ac3306ffd5bc7ad6.jpg",
+    "score": "5.0",
+    "remarks": "第1集",
+    "update_time": "2026-10-21 17:52:57"
+  },
+  {
+    "id": 151715,
+    "name": "中国好团队",
+    "type": "大陆综艺",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260930-1/b006324471e6ce9979ceae39d3068f29.jpeg",
+    "score": "0.0",
+    "remarks": "20261021第四期(上)",
+    "update_time": "2026-10-21 17:47:28"
+  },
+  {
     "id": 153759,
     "name": "2026乐龄重阳晚会",
     "type": "大陆综艺",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第6期",
     "update_time": "2026-08-26 22:06:30"
-  },
-  {
-    "id": 111245,
-    "name": "同床异梦2：你是我的命运",
-    "type": "日韩综艺",
-    "category": "真人秀",
-    "year": "2017",
-    "area": "韩国",
-    "poster": "https://dbzy5.com/upload/vod/20251104-1/1914ba78428bdadf32897a93c81fd161.jpg",
-    "score": "8.2",
-    "remarks": "第20260825期",
-    "update_time": "2026-08-26 22:05:03"
-  },
-  {
-    "id": 136996,
-    "name": "伟大的导游3",
-    "type": "日韩综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "韩国",
-    "poster": "https://dbzy5.com/upload/vod/20260618-1/e9b72cf302b5a07dfca3ba2779a131aa.jpg",
-    "score": "5.0",
-    "remarks": "第12期",
-    "update_time": "2026-08-26 22:04:15"
   }
 ]
