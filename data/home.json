@@ -1,5 +1,17 @@
 [
   {
+    "id": 154067,
+    "name": "蚀骨罪第二季",
+    "type": "AI短剧",
+    "category": "短剧",
+    "year": "2026",
+    "area": "大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261021-1/544e7ccc7f64c13eb78a2af28b70b1a5.png",
+    "score": "5.0",
+    "remarks": "全集完结",
+    "update_time": "2026-10-21 23:18:11"
+  },
+  {
     "id": 154032,
     "name": "老江湖",
     "type": "动作片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第45集",
     "update_time": "2026-10-18 11:16:38"
-  },
-  {
-    "id": 153646,
-    "name": "青苹果",
-    "type": "爱情片",
-    "category": "",
-    "year": "2026",
-    "area": "大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261017-1/eb0592584715074a01f124b3d52ff0a2.webp",
-    "score": "5.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-17 23:03:02"
   }
 ]
