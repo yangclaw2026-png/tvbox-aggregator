@@ -127,6 +127,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第28集"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 157866,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至第28集"
       }
     ]
   },
@@ -1835,6 +1842,34 @@
         "play_from": "snm3u8",
         "play_url": null,
         "remarks": "更新至03集"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 220461,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第3集"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 196336,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第3集"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 160147,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至第03集"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 160950,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第3集"
       }
     ]
   },
