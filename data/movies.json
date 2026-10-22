@@ -60,6 +60,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "正片"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 162989,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "HD"
       }
     ]
   },
@@ -134,6 +141,27 @@
         "play_from": "lzm3u8",
         "play_url": null,
         "remarks": "更新至第28集"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 218460,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第28集"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 194336,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第28集"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 158952,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第28集"
       }
     ]
   },
