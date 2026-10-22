@@ -111714,7 +111714,16 @@
     "content": "<p>暂无简介</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260620/2QimwR7O/index.m3u8#$$$全集完结$https://vodcnd15.ajupf.com/share/0stxYIZq0w#",
-    "update_time": "2026-08-11 16:20:14"
+    "update_time": "2026-08-11 16:20:14",
+    "play_sources": [
+      {
+        "source": "量子资源",
+        "source_id": 163067,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
+      }
+    ]
   },
   {
     "id": 143322,
