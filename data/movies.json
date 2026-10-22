@@ -1,5 +1,73 @@
 [
   {
+    "id": 154110,
+    "name": "嫡女锦杀第二季",
+    "type": "AI短剧",
+    "year": "2026",
+    "area": "大陆",
+    "language": "国语",
+    "category": "",
+    "poster": "https://dbzy5.com/upload/vod/20261022-1/9019819771a95fa75785e201109ac4be.jpg",
+    "douban_id": 0,
+    "score": "5.0",
+    "remarks": "全集完结",
+    "content": "",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "全集完结$https://vodcnd17.0jtv2.com/20261012/ICFuIYVc/index.m3u8$$$全集完结$https://vodcnd17.0jtv2.com/share/nUBqy9hxGB",
+    "update_time": "2026-10-22 21:40:03"
+  },
+  {
+    "id": 154108,
+    "name": "重回80年，我带全村奔小康",
+    "type": "现代都市",
+    "year": "2026",
+    "area": "大陆",
+    "language": "国语",
+    "category": "",
+    "poster": "https://dbzy5.com/upload/vod/20261022-1/e3f702b5f5c11ffc429fc257d96fa5c1.jpg",
+    "douban_id": 0,
+    "score": "5.0",
+    "remarks": "全集完结",
+    "content": "",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "全集完结$https://vodcnd17.0jtv2.com/20261013/1BM8D39d/index.m3u8$$$全集完结$https://vodcnd17.0jtv2.com/share/MS1hE2buHM",
+    "update_time": "2026-10-22 21:22:20"
+  },
+  {
+    "id": 154107,
+    "name": "修仙自带返现，道侣倾心相候",
+    "type": "AI短剧",
+    "year": "2026",
+    "area": "大陆",
+    "language": "国语",
+    "category": "",
+    "poster": "https://dbzy5.com/upload/vod/20261022-1/0d6b20da56dd1d86dc1afd0d290020f5.jpg",
+    "douban_id": 0,
+    "score": "5.0",
+    "remarks": "全集完结",
+    "content": "",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "全集完结$https://vodcnd17.0jtv2.com/20261013/LGN3MhWi/index.m3u8$$$全集完结$https://vodcnd17.0jtv2.com/share/bmUltbDKTj",
+    "update_time": "2026-10-22 21:03:07"
+  },
+  {
+    "id": 154106,
+    "name": "我靠宠物店，能看穿男人真心",
+    "type": "现代都市",
+    "year": "2026",
+    "area": "大陆",
+    "language": "国语",
+    "category": "",
+    "poster": "https://dbzy5.com/upload/vod/20261022-1/d07194191c3403ee265487af3ef3bd30.jpg",
+    "douban_id": 0,
+    "score": "5.0",
+    "remarks": "全集完结",
+    "content": "",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "全集完结$https://vodcnd17.0jtv2.com/20261013/AvT5C7WM/index.m3u8$$$全集完结$https://vodcnd17.0jtv2.com/share/u2pCSF6kjW",
+    "update_time": "2026-10-22 20:41:22"
+  },
+  {
     "id": 154067,
     "name": "蚀骨罪第二季",
     "type": "AI短剧",
@@ -160,6 +228,13 @@
         "source": "速播资源",
         "source_id": 158952,
         "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第28集"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 150088,
+        "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第28集"
       }
@@ -1692,6 +1767,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第2集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 166674,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第3集"
       }
     ]
   },
@@ -4825,6 +4907,13 @@
         "play_from": "lzm3u8",
         "play_url": null,
         "remarks": "更新至第08集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 162246,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第9集"
       }
     ]
   },
@@ -8515,6 +8604,20 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第8集"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 219332,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第8集"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 159824,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第8集"
       }
     ]
   },
@@ -133585,73 +133688,5 @@
     "play_from": "dbm3u8$$$dbm3u8",
     "play_url": "正片$https://vodcnd16.ajupf.com/20260727/MjhbFZwR/index.m3u8$$$正片$https://vodcnd16.ajupf.com/share/GOpS4TWvzY",
     "update_time": "2026-08-04 17:00:34"
-  },
-  {
-    "id": 51872,
-    "name": "老大不小",
-    "type": "剧情片",
-    "year": "2020",
-    "area": "中国大陆",
-    "language": "汉语普通话",
-    "category": "剧情",
-    "poster": "https://dbzy5.com/upload/vod/20250107-19/ee3408524aa15abfabff50703d64abac.jpg",
-    "douban_id": 34913597,
-    "score": "6.4",
-    "remarks": "正片",
-    "content": "<p>　　通过剧中小人物身上发生的诸多时间及现代社会对于金钱、欲望等诱惑而依旧保持初心并积极努力通过各种勤苦的工作来应对生活中的种种困难，传播小人物也有大能量，对生活、社会及自己都有着美好的向往和肯定。讲述了老北京人在现如今快速发展的时代中体现亲情、友情及爱情最真挚的一面。</p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "正片$https://vodcnd16.ajupf.com/20260727/BD6oIs0a/index.m3u8#$$$正片$https://vodcnd16.ajupf.com/share/hdfB8sepZu#",
-    "update_time": "2026-08-04 16:43:47"
-  },
-  {
-    "id": 51730,
-    "name": "降龙神掌苏乞儿2",
-    "type": "动作片",
-    "year": "2020",
-    "area": "中国大陆",
-    "language": "普通话",
-    "category": "动作",
-    "poster": "https://dbzy5.com/upload/vod/20250107-19/50936f55586bf35d0f772ad930f32547.jpg",
-    "douban_id": 34822217,
-    "score": "5.0",
-    "remarks": "正片",
-    "content": "<p>《降龙神掌苏乞儿2》讲述了大清年间，偏远的临江县两任县令接连被蟒蛇所害，人心惶惶。御前侍卫苏乞儿和铁桥三临危受命，前往临江县探查蟒蛇杀人案。两人来到临江城，发现当地盛行祭拜蟒神，百姓陷入水深火热之中。两人孤立无援，加入丐帮隐藏身份探案，后来铁桥三为情所困，苏乞儿被极乐丸所害，凭借着内心对正义的信念，两人与幕后黑手展开了最后的决斗……</p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "正片$https://vodcnd16.ajupf.com/20260727/MfXLcZCe/index.m3u8$$$正片$https://vodcnd16.ajupf.com/share/eIkwkgodVw#",
-    "update_time": "2026-08-04 16:41:28"
-  },
-  {
-    "id": 52179,
-    "name": "名世恋人",
-    "type": "爱情片",
-    "year": "2020",
-    "area": "印度",
-    "language": "泰卢固语",
-    "category": "爱情",
-    "poster": "https://dbzy5.com/upload/vod/20250107-18/e63a9a984ad36528fcf3f964156314e2.jpg",
-    "douban_id": 34966321,
-    "score": "5.7",
-    "remarks": "正片",
-    "content": "<p><span class=\"\">由四段故事组成：面对辞职无所事事相当作家的男主高塔姆，女主雅米妮愤然离去；矿工成为工会主席后，看不上没文化的妻子，出轨于公司女福利员后才发现，妻子为保护丈夫自尊其实有高学历；当初辞职是为给雅米妮工作机会，不辞职的高塔姆被派到巴黎，与隔壁女机长恋爱，一次事故后决定将自己眼睛捐给失明的女机长；写小说终于成功的高塔姆，还是被雅米妮抛弃，看到雅米妮决定结婚，冲动的高塔姆打伤他人入狱两年，出狱后更加出名，发现雅米妮还在等着他。</span></p><p><span class=\"\"><br/></span></p><p><br/></p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "正片$https://vodcnd16.ajupf.com/20260727/PFHQ0FZq/index.m3u8#$$$正片$https://vodcnd16.ajupf.com/share/cdmMjdnHd1#",
-    "update_time": "2026-08-04 16:07:15"
-  },
-  {
-    "id": 142140,
-    "name": "诃利和湿婆",
-    "type": "剧情片",
-    "year": "2021",
-    "area": "印度",
-    "language": "卡纳达语",
-    "category": "剧情,惊悚,犯罪",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/168cef25cd77693169204e6f1bd1e5e6.jpg",
-    "douban_id": 35982442,
-    "score": "5.0",
-    "remarks": "正片",
-    "content": "<p>梵天是一个行为端正、举止温和的警察，他被调到芒加罗尔的沿海和文化小镇曼格拉德维，那里充斥着黑帮二人组湿婆和诃利的帮派暴力。湿婆和诃利这对性格截然相反的朋友是曼格拉德维的恐怖人物，虽然每个人都知道诃利在曼加拉德维出生和长大，但没有人知道湿婆的身世。他被发现在一个袋子里，在诃利家附近的一口井里。当村民们打开袋子时，他们发现了一个12岁的湿婆，他的脖子被残忍地割伤，全身都有伤疤。湿婆后来被送往医院，他活了下来。他花了一段时间在芒加罗尔的街道上乞讨，直到他被诃利的母亲发现并收养。诃利和湿婆长大后成为终生最好的朋友和兄弟。当自我、野心和嫉妒悄悄介入他们深厚的友谊时，会发生什么呢？</p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "正片$https://vodcnd16.ajupf.com/20260727/BeFlCpgJ/index.m3u8$$$正片$https://vodcnd16.ajupf.com/share/ayz4MNN5ui",
-    "update_time": "2026-08-04 16:02:57"
   }
 ]

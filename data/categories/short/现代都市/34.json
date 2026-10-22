@@ -1,5 +1,29 @@
 [
   {
+    "id": 142667,
+    "name": "都重生了，谁还装富二代啊第三季",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260807-1/a21350f8bfa13f17e7ec636239e8c429.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-09 23:03:37"
+  },
+  {
+    "id": 143056,
+    "name": "嬉缘",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260809-1/c025d6278b82756a5338799bfde2ae7c.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-09 22:56:31"
+  },
+  {
     "id": 143050,
     "name": "丧尸末世，我觉醒了无限复制异能",
     "type": "现代都市",
@@ -574,29 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-08 22:55:36"
-  },
-  {
-    "id": 142727,
-    "name": "踏过荆棘生绫光",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260807-1/fe42581fdc523ccb924a92ac83b872b9.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-08 22:55:01"
-  },
-  {
-    "id": 142913,
-    "name": "从废柴开始麒麟觉醒",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260808-1/8d39a90b91bc1290c3435210e28f63e9.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-08 22:54:54"
   }
 ]
