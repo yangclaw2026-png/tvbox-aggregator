@@ -295,7 +295,16 @@
     "content": "",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd17.0jtv2.com/20261021/ohUf5AJN/index.m3u8$$$第01集$https://vodcnd17.0jtv2.com/share/Tdcds2Xg4N",
-    "update_time": "2026-10-21 17:52:57"
+    "update_time": "2026-10-21 17:52:57",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 154479,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第03集"
+      }
+    ]
   },
   {
     "id": 151715,
