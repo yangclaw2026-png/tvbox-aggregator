@@ -1298,6 +1298,20 @@
         "play_from": "lzm3u8",
         "play_url": null,
         "remarks": "已完结"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 221969,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "全集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 197841,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
       }
     ]
   },
@@ -12273,6 +12287,13 @@
       {
         "source": "茅台资源",
         "source_id": 148965,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "全集完结"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 154589,
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
