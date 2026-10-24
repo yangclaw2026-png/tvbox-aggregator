@@ -1,5 +1,41 @@
 [
   {
+    "id": 151931,
+    "name": "创新进行时",
+    "type": null,
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261003-1/876a12a11d74bdaaf786b91c9e3efa04.jpg",
+    "score": "5.0",
+    "remarks": "20261022",
+    "update_time": "2026-10-24 15:06:47"
+  },
+  {
+    "id": 151929,
+    "name": "健康之路",
+    "type": null,
+    "category": "纪录片",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261003-1/d181eb391ad77749441d7a1e52a6431c.jpg",
+    "score": "5.0",
+    "remarks": "20261022",
+    "update_time": "2026-10-24 15:00:37"
+  },
+  {
+    "id": 153859,
+    "name": "铁血忠魂",
+    "type": null,
+    "category": "纪录片",
+    "year": "2026",
+    "area": "大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261019-1/065a733a2255cb9cde73a2b82850cb55.jpg",
+    "score": "5.0",
+    "remarks": "第6期",
+    "update_time": "2026-10-24 14:55:36"
+  },
+  {
     "id": 154110,
     "name": "嫡女锦杀第二季",
     "type": "AI短剧",
@@ -562,41 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-10-18 22:41:23"
-  },
-  {
-    "id": 102676,
-    "name": "听，谁在唱歌",
-    "type": "大陆综艺",
-    "category": "音乐,真人秀",
-    "year": "2025",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250825-1/0337f7f2c81d2ecbb3e8a80a7306bb24.jpg",
-    "score": "5.0",
-    "remarks": "第20261018期",
-    "update_time": "2026-10-18 22:33:32"
-  },
-  {
-    "id": 153758,
-    "name": "八十岁马夫一刀斩天",
-    "type": "AI短剧",
-    "category": "",
-    "year": "2026",
-    "area": "大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261018-1/b26c637310e7cf95790b26a76c780cd3.jpg",
-    "score": "5.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-18 22:17:34"
-  },
-  {
-    "id": 153757,
-    "name": "封先生，请再靠近一点",
-    "type": "AI短剧",
-    "category": "",
-    "year": "2026",
-    "area": "大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261018-1/d72ece67c02d534ce436eeeca13e5b03.jpg",
-    "score": "5.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-18 22:14:30"
   }
 ]
