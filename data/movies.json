@@ -4622,6 +4622,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第2集"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 153317,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第3集"
       }
     ]
   },
@@ -16541,6 +16548,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 157921,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "全集"
       }
     ]
   },
