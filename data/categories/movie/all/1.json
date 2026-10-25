@@ -1,5 +1,17 @@
 [
   {
+    "id": 154264,
+    "name": "冬日奇境",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2026",
+    "area": "加拿大",
+    "poster": "https://dbzy5.com/upload/vod/20261025-1/e5124462391d81eefe5ec3ef5e74f787.webp",
+    "score": "5.0",
+    "remarks": "超清",
+    "update_time": "2026-10-25 23:04:31"
+  },
+  {
     "id": 151912,
     "name": "透视新科技",
     "type": "纪录片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第3集",
     "update_time": "2026-09-17 22:55:23"
-  },
-  {
-    "id": 148636,
-    "name": "三十六计",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260908-1/18355de7b0d6297fc4d4171095e4cc20.jpg",
-    "score": "5.0",
-    "remarks": "第2集",
-    "update_time": "2026-09-14 22:52:55"
   }
 ]

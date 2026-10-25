@@ -1,5 +1,17 @@
 [
   {
+    "id": 143816,
+    "name": "火遮眼（英文版）",
+    "type": "动作片",
+    "category": "动作,犯罪",
+    "year": "2026",
+    "area": "中国香港,中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260814-1/31b1c3af60dab80e062e76b7350d30ca.jpg",
+    "score": "7.7",
+    "remarks": "正片",
+    "update_time": "2026-08-14 15:08:14"
+  },
+  {
     "id": 143821,
     "name": "比恐惧更响亮",
     "type": "纪录片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第3集",
     "update_time": "2026-08-11 11:26:09"
-  },
-  {
-    "id": 141736,
-    "name": "荷马史诗：从神话到科学",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260801-1/c274b4e1724ba02006d61c78fa6fb1cf.jpg",
-    "score": "5.0",
-    "remarks": "第2集",
-    "update_time": "2026-08-10 21:24:39"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 154264,
+    "name": "冬日奇境",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2026",
+    "area": "加拿大",
+    "poster": "https://dbzy5.com/upload/vod/20261025-1/e5124462391d81eefe5ec3ef5e74f787.webp",
+    "score": "5.0",
+    "remarks": "超清",
+    "update_time": "2026-10-25 23:04:31"
+  },
+  {
     "id": 151912,
     "name": "透视新科技",
     "type": "纪录片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "全集完结",
     "update_time": "2026-10-18 23:04:07"
-  },
-  {
-    "id": 153761,
-    "name": "一笔横财，两面人心",
-    "type": "现代都市",
-    "category": "",
-    "year": "2026",
-    "area": "大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261018-1/066f34882c60a3a9581f4fb9cd977bc6.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-18 22:59:29"
   }
 ]

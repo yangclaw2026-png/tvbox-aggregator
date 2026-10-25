@@ -1,5 +1,31 @@
 [
   {
+    "id": 154264,
+    "name": "冬日奇境",
+    "type": "剧情片",
+    "year": "2026",
+    "area": "加拿大",
+    "language": "英语",
+    "category": "剧情",
+    "poster": "https://dbzy5.com/upload/vod/20261025-1/e5124462391d81eefe5ec3ef5e74f787.webp",
+    "douban_id": 38906032,
+    "score": "5.0",
+    "remarks": "超清",
+    "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">　环球经营快闪餐厅的奥德丽返乡过感恩节，得知祖父的保龄球馆将要变卖。她留下筹办青少年保龄球赛事，与高中前男友杰森搭档宣传，旧情重燃，她要在漂泊和故土之间做出抉择。</span></p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "正片$https://vodcnd16.0jtv2.com/20261025/njPfQtjg/index.m3u8$$$正片$https://vodcnd16.0jtv2.com/share/smeDqPD0xm",
+    "update_time": "2026-10-25 23:04:31",
+    "play_sources": [
+      {
+        "source": "暴风资源",
+        "source_id": 169524,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至高清"
+      }
+    ]
+  },
+  {
     "id": 151912,
     "name": "透视新科技",
     "type": "纪录片",
@@ -238,7 +264,16 @@
     "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">由于家庭观念不合，Tulya 发现自己根本无法与控制欲极强的婆婆相处。为了丈夫和孩子，她一直选择忍耐……直到发现丈夫出轨，她终于忍无可忍。</span><br style=\"color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 13px; white-space: normal; background-color: rgb(255, 255, 255);\"/><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">　　“离婚”成了她唯一的选择。然而事情却急转直下——丈夫的情妇遭到杀害，而她竟被迫为涉嫌谋杀的婆婆辩护。</span><br style=\"color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 13px; white-space: normal; background-color: rgb(255, 255, 255);\"/><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">　　一场扑朔迷离的死亡案件，以及丈夫过去那些难以启齿的秘密，都成为某个复仇者手中的武器。与此同时，她儿子的生命也岌岌可危……</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd17.0jtv2.com/20261016/fjixqNSH/index.m3u8#第02集$https://vodcnd17.0jtv2.com/20261021/uHLPY1Ur/index.m3u8$$$第01集$https://vodcnd17.0jtv2.com/share/EiQRwzEMvm#第02集$https://vodcnd17.0jtv2.com/share/yqhe3VcQxq",
-    "update_time": "2026-10-21 17:59:22"
+    "update_time": "2026-10-21 17:59:22",
+    "play_sources": [
+      {
+        "source": "索尼资源",
+        "source_id": 158072,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "更新至01集"
+      }
+    ]
   },
   {
     "id": 152366,
@@ -1488,7 +1523,16 @@
     "content": "",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结 $https://vodcnd17.ajupf.com/20261017/MoF4temx/index.m3u8$$$ 全集完结$https://vodcnd17.ajupf.com/share/ijqmdMlhGO",
-    "update_time": "2026-10-18 22:07:49"
+    "update_time": "2026-10-18 22:07:49",
+    "play_sources": [
+      {
+        "source": "暴风资源",
+        "source_id": 169667,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "完结"
+      }
+    ]
   },
   {
     "id": 153647,
@@ -11992,6 +12036,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 169642,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "完结"
       }
     ]
   },
@@ -14808,7 +14859,16 @@
     "content": "<p>现代职场人宋瑶瑶一朝穿越古代，意外绑定吃瓜系统，立足朝堂破案搞事。她步步为营，接连揭穿雷耀祖与王爷的重重阴谋，拆穿叶耿铭的惊天骗局，化解棘手的苗疆和亲风波。天玄国携火铳大举来犯，国难当头，宋瑶瑶献出热武器图纸奔赴边境助战，又冒险潜入敌国，途中还撞见袁欢欢大闹侯府的一出闹剧，于乱世朝堂之中搅动风云。</p><p><br/></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd17.ajupf.com/20260917/SScaPxWS/index.m3u8$$$全集完结$https://vodcnd17.ajupf.com/share/eH8huBRC39",
-    "update_time": "2026-09-17 22:47:37"
+    "update_time": "2026-09-17 22:47:37",
+    "play_sources": [
+      {
+        "source": "暴风资源",
+        "source_id": 169717,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "完结"
+      }
+    ]
   },
   {
     "id": 149788,
@@ -14928,7 +14988,16 @@
     "content": "<p>千年长生夫妻林清歌与林若雪，捉妖现场意外直播翻车。受猎妖局委任开启妖怪科普直播，螭虎、狐妖、赶尸人接连现身。一边科普华夏志怪民俗，一边处理人间妖异案件。高燃除妖打斗搭配老夫老妻互怼日常，就连天庭神仙也跑来直播间凑热闹。</p><p><br/></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd17.ajupf.com/20260917/jEi3eeYr/index.m3u8$$$全集完结$https://vodcnd17.ajupf.com/share/cc5gXUaRj1",
-    "update_time": "2026-09-17 22:38:25"
+    "update_time": "2026-09-17 22:38:25",
+    "play_sources": [
+      {
+        "source": "暴风资源",
+        "source_id": 169766,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "完结"
+      }
+    ]
   },
   {
     "id": 150064,
@@ -20539,7 +20608,16 @@
     "content": "<p><span style=\"color: #666666; font-family: Arial, sans-serif; font-size: 18px; background-color: #FFFFFF;\">热血军旅成长线在这部AI短剧里被演绎得酣畅淋漓，堪称2026年男频爽剧标杆。本合集收录《边军武卒升职记》第四季共74集，聚焦底层武卒在边军中逆袭晋升的历程，剧情紧凑不拖沓。主角从籍籍无名的小卒一步步靠实力站稳脚跟，每一次危机应对都展现智谋与胆识，同袍情谊与战场博弈交织推进，叙事节奏快且转折密集，看得人热血沸腾。热衷军旅成长、逆袭升级题材的观众直接冲，转存进网盘就能在线观看，连打包下载都给你备好了。</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd17.ajupf.com/20260905/eHx6fR7o/index.m3u8$$$全集完结$https://vodcnd17.ajupf.com/share/scVDB5Jax3",
-    "update_time": "2026-09-07 22:51:45"
+    "update_time": "2026-09-07 22:51:45",
+    "play_sources": [
+      {
+        "source": "量子资源",
+        "source_id": 163459,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
+      }
+    ]
   },
   {
     "id": 148377,
@@ -20599,7 +20677,16 @@
     "content": "<p><span style=\"color: #666666; font-family: Arial, sans-serif; font-size: 18px; background-color: #FFFFFF;\">作为系列第五季依旧笑点密集，一百三十集的奇幻冒险让人从头乐到尾停不下来。《爆笑修仙：师叔的法宝有点怪第五季》延续无厘头修仙风格，师叔靠奇葩法宝闯荡三界制造无数名场面，剧情荒诞又上头。主角团插科打诨中暗藏成长线，反转频出却不失逻辑，轻松解压的叙事节奏特别适合碎片时间消遣。想找下饭神剧的修仙爱好者千万别错过，转存到夸克网盘秒速解锁全集还能一键打包带走。</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd17.ajupf.com/20260905/fBTzpWlP/index.m3u8$$$全集完结$https://vodcnd17.ajupf.com/share/2AOXHUDo8o",
-    "update_time": "2026-09-07 22:50:11"
+    "update_time": "2026-09-07 22:50:11",
+    "play_sources": [
+      {
+        "source": "量子资源",
+        "source_id": 163565,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
+      }
+    ]
   },
   {
     "id": 148384,
@@ -20616,7 +20703,16 @@
     "content": "<p><span style=\"color: #666666; font-family: Arial, sans-serif; font-size: 18px; background-color: #FFFFFF;\">这部AI制作的《残雪遇晚晴》一口气更到一百零六集，用唯美画面把情感拉扯感直接拉满。故事围绕两位主角在命运交错中的相遇与纠葛展开，从初识的试探到后期的深情羁绊，每一帧都透着细腻的情绪张力，整体叙事节奏紧凑不拖沓。角色之间的关系走向充满宿命感，矛盾冲突层层递进又带着克制的温柔，值得优先追完主线感受那份独特的氛围美学。喜欢沉浸式情感体验、偏爱高颜值AI画风和慢热治愈系故事的观众千万别错过，转存到夸克网盘马上就能看全集还能打包下载。</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd17.ajupf.com/20260905/Swx9uiTN/index.m3u8$$$全集完结$https://vodcnd17.ajupf.com/share/QB2b6Ff7v1",
-    "update_time": "2026-09-07 22:49:34"
+    "update_time": "2026-09-07 22:49:34",
+    "play_sources": [
+      {
+        "source": "量子资源",
+        "source_id": 163448,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
+      }
+    ]
   },
   {
     "id": 148386,
@@ -133819,22 +133915,5 @@
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "正片$https://vodcnd16.ajupf.com/20260727/WJ8K7iIo/index.m3u8$$$正片$https://vodcnd16.ajupf.com/share/p2ARVGWYeO",
     "update_time": "2026-08-04 17:47:33"
-  },
-  {
-    "id": 142116,
-    "name": "阴阳眼 2014",
-    "type": "恐怖片",
-    "year": "2014",
-    "area": "Philippines",
-    "language": "Filipino",
-    "category": "恐怖",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/57ab6eac91a3fb5fbf11b87e432281d9.jpg",
-    "douban_id": 26337983,
-    "score": "5.0",
-    "remarks": "正片",
-    "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">一个年轻女子看到鬼魂的超自然能力在她母亲死后被重新唤醒。当她适应新的死亡环境时，她和她所爱的人成为了一些恶意鬼魂的目标。</span></p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "正片$https://vodcnd16.ajupf.com/20260727/kn43fVzi/index.m3u8$$$正片$https://vodcnd16.ajupf.com/share/VKUHJ4qGje",
-    "update_time": "2026-08-04 17:47:06"
   }
 ]
