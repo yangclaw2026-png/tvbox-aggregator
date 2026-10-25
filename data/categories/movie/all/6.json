@@ -1,5 +1,17 @@
 [
   {
+    "id": 143821,
+    "name": "比恐惧更响亮",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260814-1/a55d0dfc03eb77d68aca403f433955a6.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-14 15:06:36"
+  },
+  {
     "id": 143820,
     "name": "托尼 2026",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第2集",
     "update_time": "2026-08-10 21:24:39"
-  },
-  {
-    "id": 143170,
-    "name": "拉扎雷斯",
-    "type": "惊悚片",
-    "category": "惊悚",
-    "year": "2024",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260810-1/1940ed7882533fea76a695d62fb264a8.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-10 19:49:50"
   }
 ]

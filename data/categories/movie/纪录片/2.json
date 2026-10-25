@@ -1,5 +1,17 @@
 [
   {
+    "id": 145113,
+    "name": "迪士尼世界建造者",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260821-1/ddcf752bd563e486ab37e277adeaf720.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-21 21:58:03"
+  },
+  {
     "id": 144962,
     "name": "世界树之巅：起源与跨越",
     "type": "纪录片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-06 17:45:08"
-  },
-  {
-    "id": 142418,
-    "name": "大唐诗人传",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2024",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260806-1/24bb3d60ede4e57eaba32e1e06f2dd71.jpg",
-    "score": "5.0",
-    "remarks": "第12期 完结",
-    "update_time": "2026-08-06 00:03:16"
   }
 ]

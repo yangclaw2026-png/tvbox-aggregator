@@ -1,5 +1,17 @@
 [
   {
+    "id": 145541,
+    "name": "国运战场",
+    "type": "国产剧",
+    "category": "科幻,冒险",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260824-1/2e860a17a8216e5b624d5fea4f476c34.jpg",
+    "score": "5.0",
+    "remarks": "第20集完结",
+    "update_time": "2026-08-24 12:58:23"
+  },
+  {
     "id": 141094,
     "name": "成名在望",
     "type": "国产剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第24集完结",
     "update_time": "2026-08-09 11:20:11"
-  },
-  {
-    "id": 142278,
-    "name": "凛冬下的罪恶",
-    "type": "国产剧",
-    "category": "剧情,悬疑",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/c745238b317d00eacdb5b716d6f5a994.jpg",
-    "score": "5.0",
-    "remarks": "第26集完结",
-    "update_time": "2026-08-08 15:41:18"
   }
 ]

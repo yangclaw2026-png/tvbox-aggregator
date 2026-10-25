@@ -1,5 +1,17 @@
 [
   {
+    "id": 151912,
+    "name": "透视新科技",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261003-1/33618d53e3b93960f6c6e1f2caa2d693.png",
+    "score": "5.0",
+    "remarks": "20261024 天工架海",
+    "update_time": "2026-10-25 18:49:07"
+  },
+  {
     "id": 150549,
     "name": "锦绣天府",
     "type": "纪录片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第3集",
     "update_time": "2026-08-22 11:41:19"
-  },
-  {
-    "id": 145113,
-    "name": "迪士尼世界建造者",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260821-1/ddcf752bd563e486ab37e277adeaf720.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-21 21:58:03"
   }
 ]

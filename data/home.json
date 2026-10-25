@@ -1,5 +1,29 @@
 [
   {
+    "id": 151912,
+    "name": "透视新科技",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261003-1/33618d53e3b93960f6c6e1f2caa2d693.png",
+    "score": "5.0",
+    "remarks": "20261024 天工架海",
+    "update_time": "2026-10-25 18:49:07"
+  },
+  {
+    "id": 154033,
+    "name": "丞相今天也想退婚（AI剧）",
+    "type": "国产剧",
+    "category": "",
+    "year": "2026",
+    "area": "大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261021-1/ef716fda0e5a3667dabc38d7ec36a463.jpg",
+    "score": "5.0",
+    "remarks": "第40集",
+    "update_time": "2026-10-25 18:47:02"
+  },
+  {
     "id": 151931,
     "name": "创新进行时",
     "type": null,
@@ -574,29 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-10-18 22:59:29"
-  },
-  {
-    "id": 153760,
-    "name": "重生之这把我选死对头",
-    "type": "言情总裁",
-    "category": "",
-    "year": "2026",
-    "area": "大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261018-1/7a06d6e94f33deabeb761d9d9a999cf7.jpg",
-    "score": "5.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-18 22:50:46"
-  },
-  {
-    "id": 153759,
-    "name": "2026乐龄重阳晚会",
-    "type": "大陆综艺",
-    "category": "",
-    "year": "2026",
-    "area": "大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261018-1/19990c58f550e5cc767ce6872b3a98d2.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-18 22:41:23"
   }
 ]
