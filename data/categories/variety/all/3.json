@@ -1,5 +1,17 @@
 [
   {
+    "id": 69054,
+    "name": "拜托了冰箱 第二季",
+    "type": "日韩综艺",
+    "category": "真人秀,日韩综艺,综艺",
+    "year": "2024",
+    "area": "韩国",
+    "poster": "https://dbzy5.com/upload/vod/20250107-2/7687b6db8e8771db2ab33fc1b04f6937.jpg",
+    "score": "0.0",
+    "remarks": "第85期",
+    "update_time": "2026-08-23 23:36:16"
+  },
+  {
     "id": 141079,
     "name": "友你的旅行",
     "type": "大陆综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "20260819第10期做饭直拍 灌汤黄鱼香甜诱人",
     "update_time": "2026-08-19 18:58:01"
-  },
-  {
-    "id": 144588,
-    "name": "崩溃边缘第二季",
-    "type": "欧美综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260819-1/13c76b848edf8b070826217f5c0f016f.jpg",
-    "score": "5.0",
-    "remarks": "第10集完结",
-    "update_time": "2026-08-19 13:11:36"
   }
 ]

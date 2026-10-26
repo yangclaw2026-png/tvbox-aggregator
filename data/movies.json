@@ -1,5 +1,39 @@
 [
   {
+    "id": 154282,
+    "name": "未归",
+    "type": "记录片",
+    "year": "2026",
+    "area": "大陆",
+    "language": "国语",
+    "category": "纪录片",
+    "poster": "https://dbzy5.com/upload/vod/20261026-1/4505f13f467c8f9b0caba57a86e07593.png",
+    "douban_id": 0,
+    "score": "5.0",
+    "remarks": "第5集",
+    "content": "<p>《未归》是腾讯视频纪录片“AI灵境季”项目之一，是以流失海外的中国文物为主角，融合AI影像技术、历史文化与东方奇幻美学的系列纪录短剧。故事以年轻女孩林晚和朵朵的海外博物馆之旅为线索。当沉睡千年的文物突然苏醒，一场跨越时空的奇妙旅程就此展开。从商周青铜礼器到千年佛像，从精美绝伦的宫廷珍宝到承载文人风骨的书画典籍，每一件文物都有自己的性格、记忆与故事。它们或幽默风趣，或庄严深沉，带领观众穿越千年，重返华夏文明的璀璨岁月，见证古人的智慧、匠心与悲欢，也讲述那些辗转异乡、漂泊未归的漫长往事。作品以轻松幽默的对话打开历史，以恢宏奇幻的视觉重现文明，最终落脚于文物背后的故土情怀与文化记忆。未归的，不只是一件文物，而是一段从未中断的中国记忆。</p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01集$https://vodcnd16.0jtv2.com/20261022/7GoPpZsE/index.m3u8#第02集$https://vodcnd16.0jtv2.com/20261022/ii1Lbpnp/index.m3u8#第03集$https://vodcnd16.0jtv2.com/20261022/3137lDDq/index.m3u8#第04集$https://vodcnd16.0jtv2.com/20261022/S8qIlPZK/index.m3u8#第05集$https://vodcnd17.0jtv2.com/20261026/0OU5eDGA/index.m3u8$$$第01集$https://vodcnd16.0jtv2.com/share/ml3A1gZ6sS#第02集$https://vodcnd16.0jtv2.com/share/WPHHrFTKPY#第03集$https://vodcnd16.0jtv2.com/share/5V8tr3bMFS#第04集$https://vodcnd16.0jtv2.com/share/X7bMIE0fPw#第05集$https://vodcnd17.0jtv2.com/share/0Zv3ZSiSsS",
+    "update_time": "2026-10-26 20:03:55"
+  },
+  {
+    "id": 146727,
+    "name": "天真一代 第1季",
+    "type": "大陆综艺",
+    "year": "2026",
+    "area": "大陆",
+    "language": "汉语普通话",
+    "category": "真人秀",
+    "poster": "https://dbzy5.com/upload/vod/20260830-1/88572714ad20fd52cdf64d10b5fa4242.jpg",
+    "douban_id": 38619279,
+    "score": "5.0",
+    "remarks": "第9集",
+    "content": "<p>暂无简介</p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01集$https://vodcnd17.0jtv2.com/20260830/i8MPLW8C/index.m3u8#第02集$https://vodcnd17.0jtv2.com/20260831/Ou79ynMp/index.m3u8#第03集$https://vodcnd16.0jtv2.com/20260907/peTNf1nc/index.m3u8#第04集$https://vodcnd16.0jtv2.com/20260914/5kbDVeco/index.m3u8#第05集$https://vodcnd17.0jtv2.com/20260921/Qd8UtvL7/index.m3u8#第06集$https://vodcnd16.0jtv2.com/20260928/OrEjOfTC/index.m3u8#第07集$https://vodcnd17.0jtv2.com/20261012/bMnGWtt5/index.m3u8#第08集$https://vodcnd17.0jtv2.com/20261019/TBJMD2Hc/index.m3u8#第09集$https://vodcnd17.0jtv2.com/20261026/U8R6Bp0W/index.m3u8$$$第01集$https://vodcnd17.0jtv2.com/share/xF8hZI9zIN#第02集$https://vodcnd17.0jtv2.com/share/b2DUjSKMps#第03集$https://vodcnd16.0jtv2.com/share/bCR1S7ouQn#第04集$https://vodcnd16.0jtv2.com/share/cD3B4q4hhv#第05集$https://vodcnd17.0jtv2.com/share/6oC4bisHD0#第06集$https://vodcnd16.0jtv2.com/share/T9WaERwRxz#第07集$https://vodcnd17.0jtv2.com/share/DL0YfB3iM7#第08集$https://vodcnd17.0jtv2.com/share/DHCcoXbEDW#第09集$https://vodcnd17.0jtv2.com/share/HvIzvtPgum",
+    "update_time": "2026-10-26 19:58:09"
+  },
+  {
     "id": 154264,
     "name": "冬日奇境",
     "type": "剧情片",
@@ -22,6 +56,20 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至高清"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 198114,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "正片"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 162706,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "正片"
       }
     ]
   },
@@ -3839,6 +3887,13 @@
         "play_from": "snm3u8",
         "play_url": null,
         "remarks": "更新至20261019期"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 158363,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第12期"
       }
     ]
   },
@@ -133899,39 +133954,5 @@
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "正片$https://vodcnd16.ajupf.com/20260727/XybjdL5U/index.m3u8#$$$正片$https://vodcnd16.ajupf.com/share/6TzMWlntAC##",
     "update_time": "2026-08-04 17:48:43"
-  },
-  {
-    "id": 142131,
-    "name": "马来亚",
-    "type": "剧情片",
-    "year": "2020",
-    "area": "菲律宾",
-    "language": "菲律宾语",
-    "category": "剧情,爱情",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/cffadfa4c96a6dfbfbbd2effefe6bb5f.jpg",
-    "douban_id": 35090388,
-    "score": "5.0",
-    "remarks": "正片",
-    "content": "<p>站在人生的十字路口，玛拉雅会为她找到的爱情而战，还是会选择放手？</p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "正片$https://vodcnd16.ajupf.com/20260727/4kVgIdSb/index.m3u8$$$正片$https://vodcnd16.ajupf.com/share/VztbsjeCjj",
-    "update_time": "2026-08-04 17:48:11"
-  },
-  {
-    "id": 142129,
-    "name": "三警乌龙",
-    "type": "喜剧片",
-    "year": "2019",
-    "area": "菲律宾",
-    "language": "菲律宾语,他加禄语",
-    "category": "喜剧,动作",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/92b6972d0b6771a5580a4de5dbce9dc4.jpg",
-    "douban_id": 34941458,
-    "score": "5.0",
-    "remarks": "正片",
-    "content": "<p>执行主任发现机构内部存在异常情况后遭到伏击，但他设法将所知情况告知了阿波罗。然而，阿波罗还没来得及向当局报告，就成了杀害前任上司的主要嫌疑人。</p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "正片$https://vodcnd16.ajupf.com/20260727/WJ8K7iIo/index.m3u8$$$正片$https://vodcnd16.ajupf.com/share/p2ARVGWYeO",
-    "update_time": "2026-08-04 17:47:33"
   }
 ]

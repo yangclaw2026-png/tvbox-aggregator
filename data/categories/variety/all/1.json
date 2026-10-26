@@ -1,5 +1,17 @@
 [
   {
+    "id": 146727,
+    "name": "天真一代 第1季",
+    "type": "大陆综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260830-1/88572714ad20fd52cdf64d10b5fa4242.jpg",
+    "score": "5.0",
+    "remarks": "第9集",
+    "update_time": "2026-10-26 19:58:09"
+  },
+  {
     "id": 154031,
     "name": "走过万水千山",
     "type": "大陆综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第2集",
     "update_time": "2026-08-26 22:07:23"
-  },
-  {
-    "id": 137107,
-    "name": "沙龙梗",
-    "type": "日韩综艺",
-    "category": "综艺",
-    "year": "2026",
-    "area": "韩国",
-    "poster": "https://dbzy5.com/upload/vod/20260621-1/8d489123895c0e51a18a9dd802928dc8.jpg",
-    "score": "5.0",
-    "remarks": "第6期",
-    "update_time": "2026-08-26 22:06:30"
   }
 ]

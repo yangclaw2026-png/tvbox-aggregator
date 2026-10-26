@@ -1,5 +1,17 @@
 [
   {
+    "id": 142404,
+    "name": "开“麦”大笑吧",
+    "type": "大陆综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/9d6d77e3c5e1130f3df0874c47962d54.jpg",
+    "score": "5.0",
+    "remarks": "20260826第30期：脱口秀新人闪亮登场",
+    "update_time": "2026-08-26 14:30:51"
+  },
+  {
     "id": 139152,
     "name": "密室大逃脱8 大神版",
     "type": "大陆综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第12集",
     "update_time": "2026-08-17 12:59:42"
-  },
-  {
-    "id": 134255,
-    "name": "半熟恋人 第五季",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260601-1/13027e973330fd298e326b7b8f0338c5.jpg",
-    "score": "5.0",
-    "remarks": "第20260816期特别加更",
-    "update_time": "2026-08-16 17:07:25"
   }
 ]

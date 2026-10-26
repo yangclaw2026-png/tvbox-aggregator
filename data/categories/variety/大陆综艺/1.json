@@ -1,5 +1,17 @@
 [
   {
+    "id": 146727,
+    "name": "天真一代 第1季",
+    "type": "大陆综艺",
+    "category": "真人秀",
+    "year": "2026",
+    "area": "大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260830-1/88572714ad20fd52cdf64d10b5fa4242.jpg",
+    "score": "5.0",
+    "remarks": "第9集",
+    "update_time": "2026-10-26 19:58:09"
+  },
+  {
     "id": 154031,
     "name": "走过万水千山",
     "type": "大陆综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "20260826特别策划7：减肥还是吃饭 这是一个好问题",
     "update_time": "2026-08-26 16:17:35"
-  },
-  {
-    "id": 142404,
-    "name": "开“麦”大笑吧",
-    "type": "大陆综艺",
-    "category": "真人秀",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/9d6d77e3c5e1130f3df0874c47962d54.jpg",
-    "score": "5.0",
-    "remarks": "20260826第30期：脱口秀新人闪亮登场",
-    "update_time": "2026-08-26 14:30:51"
   }
 ]

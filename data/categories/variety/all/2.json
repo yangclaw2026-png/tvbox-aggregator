@@ -1,5 +1,17 @@
 [
   {
+    "id": 137107,
+    "name": "沙龙梗",
+    "type": "日韩综艺",
+    "category": "综艺",
+    "year": "2026",
+    "area": "韩国",
+    "poster": "https://dbzy5.com/upload/vod/20260621-1/8d489123895c0e51a18a9dd802928dc8.jpg",
+    "score": "5.0",
+    "remarks": "第6期",
+    "update_time": "2026-08-26 22:06:30"
+  },
+  {
     "id": 111245,
     "name": "同床异梦2：你是我的命运",
     "type": "日韩综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第20260823期",
     "update_time": "2026-08-24 12:20:43"
-  },
-  {
-    "id": 69054,
-    "name": "拜托了冰箱 第二季",
-    "type": "日韩综艺",
-    "category": "真人秀,日韩综艺,综艺",
-    "year": "2024",
-    "area": "韩国",
-    "poster": "https://dbzy5.com/upload/vod/20250107-2/7687b6db8e8771db2ab33fc1b04f6937.jpg",
-    "score": "0.0",
-    "remarks": "第85期",
-    "update_time": "2026-08-23 23:36:16"
   }
 ]
