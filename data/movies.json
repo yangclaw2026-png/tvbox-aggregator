@@ -1,5 +1,190 @@
 [
   {
+    "id": 154294,
+    "name": "理智与情感",
+    "type": "剧情片",
+    "year": "2026",
+    "area": "英国,美国",
+    "language": "英语",
+    "category": "剧情",
+    "poster": "https://dbzy5.com/upload/vod/20261026-1/4db7cdf429267e844073071b53ea0fbe.webp",
+    "douban_id": 0,
+    "score": "5.0",
+    "remarks": "超清",
+    "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">　乔治亚时期英格兰，达什伍德先生去世后，遗孀与三名女儿失去庄园继承权，被迫迁居乡间简陋房屋。长女埃莉诺与次女玛丽安在拮据处境与社会压力下各自面对求婚、心碎与对真爱的探寻。</span><br style=\"color: rgb(17, 17, 17); font-family: Helvetica, Arial, sans-serif; font-size: 13px; white-space: normal; background-color: rgb(255, 255, 255);\"/><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">　　该片改编自简·奥斯汀1811年同名经典名著。</span></p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "正片$https://vodcnd16.0jtv2.com/20261026/9fN6wxH2/index.m3u8$$$正片$https://vodcnd16.0jtv2.com/share/3fOkC3EnsK",
+    "update_time": "2026-10-26 23:00:48",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 154870,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "超清"
+      }
+    ]
+  },
+  {
+    "id": 154296,
+    "name": "活久久",
+    "type": "爱情片",
+    "year": "2026",
+    "area": "大陆",
+    "language": "国语",
+    "category": "剧情,爱情",
+    "poster": "https://dbzy5.com/upload/vod/20261026-1/0c8109bddf046612b897a878c442c872.webp",
+    "douban_id": 38443833,
+    "score": "5.0",
+    "remarks": "超清",
+    "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">　改编自感动全网的“霍九九”真实故事：乐观开朗的律所女孩许倩（张艺凡 饰）与逗趣幽默的广告公司经理乔一泽（陈立农 饰）在网络因共同爱好结识并陷入爱河。在新婚后的蜜月旅行中，命运却开了一个最残忍的玩笑，爱情、事业、亲友的重压兜头而来。 爱笑的女孩为自己取下新名字“霍九九”，向生命宣战。这对年轻夫妻决定用一场浪漫又倔强的远行，去证明爱是否真的能抵达时间尽头，奏响一曲生命的摇滚乐章。不放弃，不放手。</span></p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "预告片$https://vodcnd16.0jtv2.com/20261025/Xf1yYUwt/index.m3u8$$$预告片$https://vodcnd16.0jtv2.com/share/2QGJkty21G",
+    "update_time": "2026-10-26 22:43:43"
+  },
+  {
+    "id": 154295,
+    "name": "我的幸福婚姻",
+    "type": "日本剧",
+    "year": "2026",
+    "area": "日本",
+    "language": "日语",
+    "category": "",
+    "poster": "https://dbzy5.com/upload/vod/20261026-1/fa57d966ce333990bc0bf7371a03870d.webp",
+    "douban_id": 0,
+    "score": "5.0",
+    "remarks": "第3集",
+    "content": "",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01集$https://vodcnd16.0jtv2.com/20261026/OEwpsTGS/index.m3u8#第02集$https://vodcnd16.0jtv2.com/20261026/f2hR3kZA/index.m3u8#第03集$https://vodcnd16.0jtv2.com/20261026/6lTZTb1p/index.m3u8$$$第01集$https://vodcnd16.0jtv2.com/share/vLRqOjgjEn#第02集$https://vodcnd16.0jtv2.com/share/i8zNA61yQ8#第03集$https://vodcnd16.0jtv2.com/share/baKtYsrpKC",
+    "update_time": "2026-10-26 22:21:52"
+  },
+  {
+    "id": 154293,
+    "name": "深夜食堂",
+    "type": "日本剧",
+    "year": "2009",
+    "area": "日本",
+    "language": "日语",
+    "category": "",
+    "poster": "https://dbzy5.com/upload/vod/20261026-1/ff54c77da1aa0f7bf38ae84a35cab057.webp",
+    "douban_id": 0,
+    "score": "5.0",
+    "remarks": "第1集",
+    "content": "",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01集$https://vodcnd16.0jtv2.com/20261026/SHyBGxZT/index.m3u8$$$第01集$https://vodcnd16.0jtv2.com/share/DoNWq66Rm0",
+    "update_time": "2026-10-26 22:17:11"
+  },
+  {
+    "id": 154292,
+    "name": "由你主动吻我吧",
+    "type": "日本剧",
+    "year": "2026",
+    "area": "日本",
+    "language": "日语",
+    "category": "",
+    "poster": "https://dbzy5.com/upload/vod/20261026-1/f8fb7c717ad84dd8ec569032418d1f92.webp",
+    "douban_id": 0,
+    "score": "5.0",
+    "remarks": "第1集",
+    "content": "",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01集$https://vodcnd16.0jtv2.com/20261026/S4DuQBXi/index.m3u8$$$第01集$https://vodcnd16.0jtv2.com/share/LLbTk7KQ0e",
+    "update_time": "2026-10-26 22:13:58",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 154865,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "剧集"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 162611,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至第02集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 168647,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第2集"
+      }
+    ]
+  },
+  {
+    "id": 154291,
+    "name": "驯养守则",
+    "type": "国产剧",
+    "year": "2026",
+    "area": "大陆",
+    "language": "国语",
+    "category": "",
+    "poster": "https://dbzy5.com/upload/vod/20261026-1/56920d6151c16aa0d9259cb154102c1e.webp",
+    "douban_id": 0,
+    "score": "5.0",
+    "remarks": "第2集",
+    "content": "",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01集$https://vodcnd16.0jtv2.com/20261026/xZSwGTqS/index.m3u8#第02集$https://vodcnd16.0jtv2.com/20261026/TtGK8kA1/index.m3u8$$$第01集$https://vodcnd16.0jtv2.com/share/H73URtb1jA#第02集$https://vodcnd16.0jtv2.com/share/5VXfLhZs8c",
+    "update_time": "2026-10-26 22:11:10"
+  },
+  {
+    "id": 152085,
+    "name": "寻踪者 第四季",
+    "type": "欧美剧",
+    "year": "2026",
+    "area": "美国",
+    "language": "英语",
+    "category": "犯罪",
+    "poster": "https://dbzy5.com/upload/vod/20261005-1/b9caf35c6c8b4d1b80dfab962e0ec9d1.jpg",
+    "douban_id": 38215466,
+    "score": "5.0",
+    "remarks": "第4集",
+    "content": "<p>暂无简介</p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01集$https://vodcnd17.0jtv2.com/20261005/tcBwwclG/index.m3u8#第02集$https://vodcnd17.0jtv2.com/20261012/JyBPZUcV/index.m3u8#第03集$https://vodcnd17.0jtv2.com/20261019/iwahKUxP/index.m3u8#第04集$https://vodcnd16.0jtv2.com/20261026/PLP5gxEv/index.m3u8# $$$第01集$https://vodcnd17.0jtv2.com/share/Gh3NUnNd5o#第02集$https://vodcnd17.0jtv2.com/share/PpsEcZSPDS#第03集$https://vodcnd17.0jtv2.com/share/MV8uS7xMcw#第04集$https://vodcnd16.0jtv2.com/share/tFmAYQW3SL# ",
+    "update_time": "2026-10-26 21:59:14"
+  },
+  {
+    "id": 152086,
+    "name": "法警小队 第二季",
+    "type": "欧美剧",
+    "year": "2026",
+    "area": "美国",
+    "language": "英语",
+    "category": "剧情,动作,犯罪,西部",
+    "poster": "https://dbzy5.com/upload/vod/20261005-1/b29f4718c06444db4c36a1b2bdefe332.jpg",
+    "douban_id": 38377058,
+    "score": "5.0",
+    "remarks": "第4集",
+    "content": "<p>暂无简介</p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01集$https://vodcnd16.0jtv2.com/20261005/E2WYw1O5/index.m3u8#第02集$https://vodcnd17.0jtv2.com/20261013/81UIBNoX/index.m3u8#第03集$https://vodcnd17.0jtv2.com/20261019/igUSdeAa/index.m3u8#第04集$https://vodcnd16.0jtv2.com/20261026/KpgSVEYL/index.m3u8$$$第01集$https://vodcnd16.0jtv2.com/share/lUMnwu7aG9#第02集$https://vodcnd17.0jtv2.com/share/hEH8zVeMgD#第03集$https://vodcnd17.0jtv2.com/share/PvqTaFYC3R#第04集$https://vodcnd16.0jtv2.com/share/jJAz6E37DW",
+    "update_time": "2026-10-26 21:58:27"
+  },
+  {
+    "id": 154225,
+    "name": "Final Table",
+    "type": "韩剧",
+    "year": "2026",
+    "area": "韩国",
+    "language": "韩语",
+    "category": "",
+    "poster": "https://dbzy5.com/upload/vod/20261025-1/caa11386971b007527987b3154219efa.webp",
+    "douban_id": 37469809,
+    "score": "5.0",
+    "remarks": "第2集",
+    "content": "",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01集$https://vodcnd16.0jtv2.com/20261025/PAZsvUIq/index.m3u8#第02集$https://vodcnd16.0jtv2.com/20261026/7JLHR6rX/index.m3u8$$$第01集$https://vodcnd16.0jtv2.com/share/JFkk4L4k21#第02集$https://vodcnd16.0jtv2.com/share/fQydydsqr8",
+    "update_time": "2026-10-26 21:57:15"
+  },
+  {
     "id": 154282,
     "name": "未归",
     "type": "记录片",
@@ -14,7 +199,16 @@
     "content": "<p>《未归》是腾讯视频纪录片“AI灵境季”项目之一，是以流失海外的中国文物为主角，融合AI影像技术、历史文化与东方奇幻美学的系列纪录短剧。故事以年轻女孩林晚和朵朵的海外博物馆之旅为线索。当沉睡千年的文物突然苏醒，一场跨越时空的奇妙旅程就此展开。从商周青铜礼器到千年佛像，从精美绝伦的宫廷珍宝到承载文人风骨的书画典籍，每一件文物都有自己的性格、记忆与故事。它们或幽默风趣，或庄严深沉，带领观众穿越千年，重返华夏文明的璀璨岁月，见证古人的智慧、匠心与悲欢，也讲述那些辗转异乡、漂泊未归的漫长往事。作品以轻松幽默的对话打开历史，以恢宏奇幻的视觉重现文明，最终落脚于文物背后的故土情怀与文化记忆。未归的，不只是一件文物，而是一段从未中断的中国记忆。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.0jtv2.com/20261022/7GoPpZsE/index.m3u8#第02集$https://vodcnd16.0jtv2.com/20261022/ii1Lbpnp/index.m3u8#第03集$https://vodcnd16.0jtv2.com/20261022/3137lDDq/index.m3u8#第04集$https://vodcnd16.0jtv2.com/20261022/S8qIlPZK/index.m3u8#第05集$https://vodcnd17.0jtv2.com/20261026/0OU5eDGA/index.m3u8$$$第01集$https://vodcnd16.0jtv2.com/share/ml3A1gZ6sS#第02集$https://vodcnd16.0jtv2.com/share/WPHHrFTKPY#第03集$https://vodcnd16.0jtv2.com/share/5V8tr3bMFS#第04集$https://vodcnd16.0jtv2.com/share/X7bMIE0fPw#第05集$https://vodcnd17.0jtv2.com/share/0Zv3ZSiSsS",
-    "update_time": "2026-10-26 20:03:55"
+    "update_time": "2026-10-26 20:03:55",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 154869,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第5集"
+      }
+    ]
   },
   {
     "id": 146727,
@@ -31,7 +225,16 @@
     "content": "<p>暂无简介</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd17.0jtv2.com/20260830/i8MPLW8C/index.m3u8#第02集$https://vodcnd17.0jtv2.com/20260831/Ou79ynMp/index.m3u8#第03集$https://vodcnd16.0jtv2.com/20260907/peTNf1nc/index.m3u8#第04集$https://vodcnd16.0jtv2.com/20260914/5kbDVeco/index.m3u8#第05集$https://vodcnd17.0jtv2.com/20260921/Qd8UtvL7/index.m3u8#第06集$https://vodcnd16.0jtv2.com/20260928/OrEjOfTC/index.m3u8#第07集$https://vodcnd17.0jtv2.com/20261012/bMnGWtt5/index.m3u8#第08集$https://vodcnd17.0jtv2.com/20261019/TBJMD2Hc/index.m3u8#第09集$https://vodcnd17.0jtv2.com/20261026/U8R6Bp0W/index.m3u8$$$第01集$https://vodcnd17.0jtv2.com/share/xF8hZI9zIN#第02集$https://vodcnd17.0jtv2.com/share/b2DUjSKMps#第03集$https://vodcnd16.0jtv2.com/share/bCR1S7ouQn#第04集$https://vodcnd16.0jtv2.com/share/cD3B4q4hhv#第05集$https://vodcnd17.0jtv2.com/share/6oC4bisHD0#第06集$https://vodcnd16.0jtv2.com/share/T9WaERwRxz#第07集$https://vodcnd17.0jtv2.com/share/DL0YfB3iM7#第08集$https://vodcnd17.0jtv2.com/share/DHCcoXbEDW#第09集$https://vodcnd17.0jtv2.com/share/HvIzvtPgum",
-    "update_time": "2026-10-26 19:58:09"
+    "update_time": "2026-10-26 19:58:09",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 147069,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第9期"
+      }
+    ]
   },
   {
     "id": 154264,
@@ -241,7 +444,16 @@
     "content": "<p><span style=\"color: oklch(0.554 0.046 257.417); font-family: Poppins, ui-sans-serif, system-ui, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; background-color: #FFFFFF;\">背负冤案与枷锁的简童，为五百万自由契约拼命挣脱过往牢笼。温柔纯粹的萧珩携暖阳奔赴，赤诚告白予她片刻救赎，却在豪门算计与过往黑料中误会决裂。偏执阴鸷的沈修瑾深陷爱恨悖论，嘴上厌弃步步桎梏，暗中深陷占有欲无法自拔。神秘的凯恩以金钱为饵、狩猎为戏，肆意撕扯她的尊严。三段极致拉扯，一场蚀骨虐恋，简童深陷泥泞，在真心与利用、禁锢与自由之间，挣扎求生。</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd17.0jtv2.com/20261012/cLBkJPli/index.m3u8$$$全集完结$https://vodcnd17.0jtv2.com/share/HoxW5oleKI",
-    "update_time": "2026-10-21 23:18:11"
+    "update_time": "2026-10-21 23:18:11",
+    "play_sources": [
+      {
+        "source": "暴风资源",
+        "source_id": 170038,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "完结"
+      }
+    ]
   },
   {
     "id": 154032,
@@ -445,6 +657,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第5集"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 156616,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "更新至06集"
       }
     ]
   },
@@ -7920,7 +8139,16 @@
     "content": "<p>逃婚背叛，终迎因果审判！庄言斩断旧情，携手独立强大的陆烟，用自强与正义击碎阴谋，让恶人自食其果。这是一场真爱无畏、逆境重生的双向救赎。当世纪婚礼在警笛与星光中交错，两世交叠的“树洞”秘密轰然揭开，究竟谁才是执掌因果的幕后控局者？</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd17.ajupf.com/20261002/fKTx8fKX/index.m3u8$$$全集完结$https://vodcnd17.ajupf.com/share/uoeTc2xP6m",
-    "update_time": "2026-10-04 19:45:52"
+    "update_time": "2026-10-04 19:45:52",
+    "play_sources": [
+      {
+        "source": "暴风资源",
+        "source_id": 170078,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "完结"
+      }
+    ]
   },
   {
     "id": 151998,
@@ -7937,7 +8165,16 @@
     "content": "<p>庄言遭遇婚约背叛后选择退婚，与明艳飒爽的陆烟彼此倾心。恋综里他澄清过往误会，直面各路对手，拿到洗清自身冤屈的关键证据。姜宁放下旧情释然退场，安欣容认清是非。众人迎来夏晚与顾前的婚礼，就在婚礼仪式进行时，警察来到现场，即将揭开尘封多年的真相，正义的审判即将到来。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd17.ajupf.com/20261002/lpn18zO7/index.m3u8$$$全集完结$https://vodcnd17.ajupf.com/share/K95qMWbYIv",
-    "update_time": "2026-10-04 19:44:57"
+    "update_time": "2026-10-04 19:44:57",
+    "play_sources": [
+      {
+        "source": "暴风资源",
+        "source_id": 170071,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "完结"
+      }
+    ]
   },
   {
     "id": 151997,
@@ -12157,6 +12394,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 170106,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "完结"
       }
     ]
   },
@@ -16672,6 +16916,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 170090,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "完结"
       }
     ]
   },
@@ -16793,6 +17044,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 169990,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "完结"
       }
     ]
   },
@@ -16904,6 +17162,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 169987,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "完结"
       }
     ]
   },
@@ -17008,6 +17273,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 170097,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "完结"
       }
     ]
   },
@@ -17060,6 +17332,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 169988,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "完结"
       }
     ]
   },
@@ -68695,7 +68974,16 @@
     "content": "<p>改编自夏子煦的小说《蓝嘴唇》。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd15.ajupf.com/20260708/wiwuPOBF/index.m3u8#第02集$https://vodcnd15.ajupf.com/20260708/FM9rZCVW/index.m3u8#第03集$https://vodcnd15.ajupf.com/20260708/mFJKOFib/index.m3u8#第04集$https://vodcnd16.ajupf.com/20260715/5ztrm4Nz/index.m3u8#第05集$https://vodcnd16.ajupf.com/20260715/MnVlnbyS/index.m3u8#第06集$https://vodcnd16.ajupf.com/20260724/TJW2XhDI/index.m3u8#第07集$https://vodcnd16.ajupf.com/20260724/tuqF1poo/index.m3u8#第08集$https://vodcnd17.ajupf.com/20260801/MkGE9slc/index.m3u8#第09集$https://vodcnd17.ajupf.com/20260801/v4VblkQg/index.m3u8#第10集$https://vodcnd16.ajupf.com/20260806/Fldcw3Tf/index.m3u8#第11集$https://vodcnd16.ajupf.com/20260806/BE72v83Q/index.m3u8#第12集$https://vodcnd17.ajupf.com/20260813/fzAKKsbK/index.m3u8#第13集$https://vodcnd17.ajupf.com/20260813/c5GhRmd6/index.m3u8#第14集$https://vodcnd17.ajupf.com/20260822/UEt2sLC5/index.m3u8#第15集$https://vodcnd17.ajupf.com/20260822/49gmvLHn/index.m3u8#第16集$https://vodcnd17.ajupf.com/20260822/6TnAnaBv/index.m3u8$$$第01集$https://vodcnd15.ajupf.com/share/6XD985rQvw#第02集$https://vodcnd15.ajupf.com/share/bbCbMhhKzj#第03集$https://vodcnd15.ajupf.com/share/sMHON1ORcj#第04集$https://vodcnd16.ajupf.com/share/3YgoAnTdTj#第05集$https://vodcnd16.ajupf.com/share/CvPoBERdQt#第06集$https://vodcnd16.ajupf.com/share/Ec7iBxq1yu#第07集$https://vodcnd16.ajupf.com/share/t0FndMoP2X#第08集$https://vodcnd17.ajupf.com/share/qM9OTuOjID#第09集$https://vodcnd17.ajupf.com/share/Fy5G3SPZNY#第10集$https://vodcnd16.ajupf.com/share/aSTeaPA3i8#第11集$https://vodcnd16.ajupf.com/share/WJPLY3niI9#第12集$https://vodcnd17.ajupf.com/share/EMzCogwtFT#第13集$https://vodcnd17.ajupf.com/share/jHgofH3dKL#第14集$https://vodcnd17.ajupf.com/share/fOoUUG5f2W#第15集$https://vodcnd17.ajupf.com/share/2Y03wwKt7c#第16集$https://vodcnd17.ajupf.com/share/zYN8nChxCL",
-    "update_time": "2026-08-22 21:02:02"
+    "update_time": "2026-08-22 21:02:02",
+    "play_sources": [
+      {
+        "source": "量子资源",
+        "source_id": 145127,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
+      }
+    ]
   },
   {
     "id": 145324,
@@ -133801,158 +134089,5 @@
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "正片$https://vodcnd16.ajupf.com/20260727/e8GSPLFS/index.m3u8$$$正片$https://vodcnd16.ajupf.com/share/loSDBh4vYZ",
     "update_time": "2026-08-04 18:14:27"
-  },
-  {
-    "id": 142118,
-    "name": "彩虹住宅区 7/G",
-    "type": "剧情片",
-    "year": "2004",
-    "area": "印度",
-    "language": "泰米尔语",
-    "category": "剧情,喜剧,爱情",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/e395241a074fb3028eb3547888adad1e.jpg",
-    "douban_id": 26634825,
-    "score": "5.0",
-    "remarks": "正片",
-    "content": "<p>凯西尔是一位一事无成的年轻人，经常通过公开发脾气来发泄自己的挫败感。当家庭陷入困境的北印度女孩安妮莎搬进他的住宅区时，他很快决定用他的爱来追求她，但她一直拒绝他的主动。</p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "正片$https://vodcnd16.ajupf.com/20260727/gbWXrnVC/index.m3u8$$$正片$https://vodcnd16.ajupf.com/share/KlBreiMl1G",
-    "update_time": "2026-08-04 18:13:52"
-  },
-  {
-    "id": 142150,
-    "name": "洛杉矶狂潮VS休斯顿铁钻",
-    "type": "篮球",
-    "year": "2026",
-    "area": "美国",
-    "language": "英语",
-    "category": "体育",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/02fe4ec49d0ce99aedc4e66e095af720.jpg",
-    "douban_id": 0,
-    "score": "5.0",
-    "remarks": "正片",
-    "content": "<p>暂无简介</p><p><br/></p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "正片$https://vodcnd17.ajupf.com/20260804/Uknkeklp/index.m3u8$$$正片$https://vodcnd17.ajupf.com/share/wtuDVoKhEy",
-    "update_time": "2026-08-04 18:13:12"
-  },
-  {
-    "id": 142117,
-    "name": "腐败 1989",
-    "type": "剧情片",
-    "year": "1989",
-    "area": "印度",
-    "language": "北印度语",
-    "category": "剧情,动作,犯罪",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/96cd762283c561188cf05909f74f484c.jpg",
-    "douban_id": 5115389,
-    "score": "5.0",
-    "remarks": "正片",
-    "content": "<p>暂无简介</p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "正片$https://vodcnd16.ajupf.com/20260727/shQ6jOV6/index.m3u8$$$正片$https://vodcnd16.ajupf.com/share/kbEvTtrkMe",
-    "update_time": "2026-08-04 18:12:22"
-  },
-  {
-    "id": 142115,
-    "name": "艾乃哇尔",
-    "type": "剧情片",
-    "year": "2007",
-    "area": "印度",
-    "language": "北印度语",
-    "category": "剧情,爱情",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/54b8ffa3c37a6e76c0df4ab4738ce460.jpg",
-    "douban_id": 1981174,
-    "score": "7.4",
-    "remarks": "正片",
-    "content": "<p>影片关注的焦点是年轻的艺术家Anwar，为了逃避他不再认可的世俗，决定离开故土。Anwar的生活围绕着女友Mehru，良师益友 Master Pasha和好友Udit旋转。而当他这些最亲密的伙伴将其抛弃时，快乐的Anwar被震怒了。他心烦意乱，体内信仰被撼动。因无法面对现实，Anwar 跑离家乡，躲避在一幢破损的建筑物内，不料次日醒来发现自己的世界却已变的更加乱七八糟。误被认为是恐怖分子，被押监。Anwar忽觉自己身处一套展现现代印度真实一面，不同寻常的处境中。周围充斥着各种努力利用权势为自己谋利益的人，而自己也成为了全国民众的焦点。一位腐败的部长借此拉选票，两个指望再次盘活工作生涯的记者决定为了自己的利益聚焦Anwar。这是一部情感剧，关于一个需要被爱的普通人的故事。</p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "正片$https://vodcnd16.ajupf.com/20260727/m80Mo4g5/index.m3u8$$$正片$https://vodcnd16.ajupf.com/share/yYRYK0vkHL",
-    "update_time": "2026-08-04 18:11:13"
-  },
-  {
-    "id": 142149,
-    "name": "重度强迫症",
-    "type": "国产动漫",
-    "year": "2026",
-    "area": "中国大陆",
-    "language": "汉语普通话",
-    "category": "中国动漫",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/1ece6ede57016ddca145e3ae9e193f1b.jpg",
-    "douban_id": 0,
-    "score": "5.0",
-    "remarks": "第12集完结",
-    "content": "<p>暂无简介<br/></p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "第01集$https://vodcnd16.ajupf.com/20260804/vdDlV6s5/index.m3u8#第02集$https://vodcnd16.ajupf.com/20260804/K7y4Cvmz/index.m3u8#第03集$https://vodcnd16.ajupf.com/20260804/B9PsPoLU/index.m3u8#第04集$https://vodcnd16.ajupf.com/20260804/sSVDncz0/index.m3u8#第05集$https://vodcnd16.ajupf.com/20260804/LgE6nP4P/index.m3u8#第06集$https://vodcnd16.ajupf.com/20260804/sCCZP0Lx/index.m3u8#第07集$https://vodcnd16.ajupf.com/20260804/qkPtgJ3C/index.m3u8#第08集$https://vodcnd16.ajupf.com/20260804/0ri5glXW/index.m3u8#第09集$https://vodcnd16.ajupf.com/20260804/dmZRTeJH/index.m3u8#第10集$https://vodcnd16.ajupf.com/20260804/TMO0uBgv/index.m3u8#第11集$https://vodcnd16.ajupf.com/20260804/xvSOfC8m/index.m3u8#第12集$https://vodcnd16.ajupf.com/20260804/zKxU4bWz/index.m3u8$$$第01集$https://vodcnd16.ajupf.com/share/okuuyLLzx5#第02集$https://vodcnd16.ajupf.com/share/ePp6lRpMMz#第03集$https://vodcnd16.ajupf.com/share/Hw89LT6Elq#第04集$https://vodcnd16.ajupf.com/share/z6H9026FCJ#第05集$https://vodcnd16.ajupf.com/share/fPrxtbMLYh#第06集$https://vodcnd16.ajupf.com/share/gRrKi3a7kY#第07集$https://vodcnd16.ajupf.com/share/pLWIHUXZPJ#第08集$https://vodcnd16.ajupf.com/share/pYFL04gUma#第09集$https://vodcnd16.ajupf.com/share/NKSf4W1tDv#第10集$https://vodcnd16.ajupf.com/share/ej1VVrBjSb#第11集$https://vodcnd16.ajupf.com/share/PxZk7QaNX2#第12集$https://vodcnd16.ajupf.com/share/OURaw16CeF",
-    "update_time": "2026-08-04 18:05:43"
-  },
-  {
-    "id": 142148,
-    "name": "DMV三部曲VS芝加哥三雄",
-    "type": "篮球",
-    "year": "2026",
-    "area": "美国",
-    "language": "英语",
-    "category": "体育",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/b686e42179df3be8401f3bed63d6537f.jpg",
-    "douban_id": 0,
-    "score": "5.0",
-    "remarks": "正片",
-    "content": "<p>暂无简介</p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "正片$https://vodcnd17.ajupf.com/20260804/Rr3BQMWl/index.m3u8$$$正片$https://vodcnd17.ajupf.com/share/EFhlEwBlN5",
-    "update_time": "2026-08-04 17:55:32"
-  },
-  {
-    "id": 142134,
-    "name": "单独/共同",
-    "type": "剧情片",
-    "year": "2019",
-    "area": "菲律宾",
-    "language": "菲律宾语",
-    "category": "剧情,喜剧",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/3803f05e94c21a3983378e60ed726671.jpg",
-    "douban_id": 30465088,
-    "score": "5.0",
-    "remarks": "正片",
-    "content": "<p>大学恋人克里斯汀和拉夫在分手八年后重逢。克里斯汀曾是才华横溢的艺术系学生，如今却一事无成；而拉夫，这个曾经无人看好的人，如今却成了受人尊敬的贫民区医生。两人如今的生活截然不同，这次重逢让他们回想起青春岁月和……（展开全部）</p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "正片$https://vodcnd16.ajupf.com/20260727/Af8auOKe/index.m3u8$$$正片$https://vodcnd16.ajupf.com/share/NHMphmFmgU",
-    "update_time": "2026-08-04 17:50:29"
-  },
-  {
-    "id": 142132,
-    "name": "伏特加、啤酒和后悔",
-    "type": "剧情片",
-    "year": "2020",
-    "area": "菲律宾",
-    "language": "Tagalog,Fi",
-    "category": "剧情,爱情",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/7a8b895df9ab831221e9497bcbe16701.jpg",
-    "douban_id": 35138238,
-    "score": "5.0",
-    "remarks": "正片",
-    "content": "<p>暂无简介</p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "正片$https://vodcnd16.ajupf.com/20260727/yep6qhPg/index.m3u8$$$正片$https://vodcnd16.ajupf.com/share/6LL7bKEvt2",
-    "update_time": "2026-08-04 17:49:21"
-  },
-  {
-    "id": 99266,
-    "name": "信件漂流",
-    "type": "剧情片",
-    "year": "2016",
-    "area": "菲律宾",
-    "language": "菲律宾语,他加禄语",
-    "category": "剧情,爱情,冒险",
-    "poster": "https://dbzy5.com/upload/vod/20250715-1/e452a6484c9b6e10ad4c6c635467d68a.jpg",
-    "douban_id": 27064688,
-    "score": "5.0",
-    "remarks": "正片",
-    "content": "<p>一系列神秘的手绘明信片带领一位年轻女子走遍菲律宾寻找匿名作者。</p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "正片$https://vodcnd16.ajupf.com/20260727/XybjdL5U/index.m3u8#$$$正片$https://vodcnd16.ajupf.com/share/6TzMWlntAC##",
-    "update_time": "2026-08-04 17:48:43"
   }
 ]

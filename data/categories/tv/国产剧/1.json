@@ -1,5 +1,17 @@
 [
   {
+    "id": 154291,
+    "name": "驯养守则",
+    "type": "国产剧",
+    "category": "",
+    "year": "2026",
+    "area": "大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261026-1/56920d6151c16aa0d9259cb154102c1e.webp",
+    "score": "5.0",
+    "remarks": "第2集",
+    "update_time": "2026-10-26 22:11:10"
+  },
+  {
     "id": 154033,
     "name": "丞相今天也想退婚（AI剧）",
     "type": "国产剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第12集完结",
     "update_time": "2026-08-24 20:33:00"
-  },
-  {
-    "id": 145627,
-    "name": "紫荆楼：伐罪",
-    "type": "国产剧",
-    "category": "奇幻,冒险",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260824-1/6962e6982fa9eabbb1532515f4a3fa58.jpg",
-    "score": "5.0",
-    "remarks": "第12集完结",
-    "update_time": "2026-08-24 17:14:26"
   }
 ]

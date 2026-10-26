@@ -1,5 +1,17 @@
 [
   {
+    "id": 145627,
+    "name": "紫荆楼：伐罪",
+    "type": "国产剧",
+    "category": "奇幻,冒险",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260824-1/6962e6982fa9eabbb1532515f4a3fa58.jpg",
+    "score": "5.0",
+    "remarks": "第12集完结",
+    "update_time": "2026-08-24 17:14:26"
+  },
+  {
     "id": 145541,
     "name": "国运战场",
     "type": "国产剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第20集完结",
     "update_time": "2026-08-09 16:48:26"
-  },
-  {
-    "id": 141604,
-    "name": "长夜如歌",
-    "type": "国产剧",
-    "category": "剧情,爱情,短片,古装",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/00df5f3f6bf3c93c8dfea12695402c8c.jpg",
-    "score": "5.0",
-    "remarks": "第24集完结",
-    "update_time": "2026-08-09 11:20:11"
   }
 ]

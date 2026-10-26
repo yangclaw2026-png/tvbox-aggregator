@@ -1,5 +1,41 @@
 [
   {
+    "id": 154295,
+    "name": "我的幸福婚姻",
+    "type": "日本剧",
+    "category": "",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20261026-1/fa57d966ce333990bc0bf7371a03870d.webp",
+    "score": "5.0",
+    "remarks": "第3集",
+    "update_time": "2026-10-26 22:21:52"
+  },
+  {
+    "id": 154293,
+    "name": "深夜食堂",
+    "type": "日本剧",
+    "category": "",
+    "year": "2009",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20261026-1/ff54c77da1aa0f7bf38ae84a35cab057.webp",
+    "score": "5.0",
+    "remarks": "第1集",
+    "update_time": "2026-10-26 22:17:11"
+  },
+  {
+    "id": 154292,
+    "name": "由你主动吻我吧",
+    "type": "日本剧",
+    "category": "",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20261026-1/f8fb7c717ad84dd8ec569032418d1f92.webp",
+    "score": "5.0",
+    "remarks": "第1集",
+    "update_time": "2026-10-26 22:13:58"
+  },
+  {
     "id": 151908,
     "name": "溺爱男友养成法 ～从性关系到成为本命女孩的故事～",
     "type": "日本剧",
@@ -562,41 +598,5 @@
     "score": "5.0",
     "remarks": "第7集",
     "update_time": "2026-08-22 00:02:09"
-  },
-  {
-    "id": 138367,
-    "name": "致亲爱的丈夫~完美妻子的谎言~",
-    "type": "日本剧",
-    "category": "悬疑",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260704-1/1a1fcd32053ebcdcf98d6348545a2a9c.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-21 17:03:59"
-  },
-  {
-    "id": 143884,
-    "name": "等一下啦，春虎同学",
-    "type": "日本剧",
-    "category": "爱情,同性",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260814-1/7c12806d2e79ab7a2552c568f1575a5a.jpg",
-    "score": "5.0",
-    "remarks": "第2集",
-    "update_time": "2026-08-21 13:55:17"
-  },
-  {
-    "id": 145036,
-    "name": "心生 2026",
-    "type": "日本剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260821-1/8da468120bd1a48032dd7c558f643477.jpg",
-    "score": "5.0",
-    "remarks": "第7集完结",
-    "update_time": "2026-08-21 13:21:23"
   }
 ]

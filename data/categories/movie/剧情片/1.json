@@ -1,5 +1,17 @@
 [
   {
+    "id": 154294,
+    "name": "理智与情感",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2026",
+    "area": "英国,美国",
+    "poster": "https://dbzy5.com/upload/vod/20261026-1/4db7cdf429267e844073071b53ea0fbe.webp",
+    "score": "5.0",
+    "remarks": "超清",
+    "update_time": "2026-10-26 23:00:48"
+  },
+  {
     "id": 154264,
     "name": "冬日奇境",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-18 22:22:59"
-  },
-  {
-    "id": 144431,
-    "name": "再见UFO 再見UFO",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2019",
-    "area": "中国香港",
-    "poster": "https://dbzy5.com/upload/vod/20260818-1/53a906e6ac8616d93de3a8d5cf262556.jpg",
-    "score": "7.4",
-    "remarks": "正片",
-    "update_time": "2026-08-18 15:52:57"
   }
 ]

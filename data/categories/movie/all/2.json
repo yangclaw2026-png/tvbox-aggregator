@@ -1,5 +1,29 @@
 [
   {
+    "id": 150178,
+    "name": "婚礼告急",
+    "type": "喜剧片",
+    "category": "喜剧，爱情",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260917-1/d04c220f87af2b36e8149234d9cbdeaa.webp",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-09-17 22:58:10"
+  },
+  {
+    "id": 149118,
+    "name": "致命羁绊",
+    "type": "剧情片",
+    "category": "剧情 / 犯罪",
+    "year": "2026",
+    "area": "波兰",
+    "poster": "https://dbzy5.com/upload/vod/20260911-1/df02064916e61cda43e6b6bd72d97818.webp",
+    "score": "5.0",
+    "remarks": "第3集",
+    "update_time": "2026-09-17 22:55:23"
+  },
+  {
     "id": 148636,
     "name": "三十六计",
     "type": "纪录片",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-26 22:41:27"
-  },
-  {
-    "id": 146069,
-    "name": "体坛秘史：文斯·扬的人生剖白",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260826-1/386ed01615e78e7db72a407b8a8829c5.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-26 19:54:14"
-  },
-  {
-    "id": 133050,
-    "name": "哆啦A梦：新·大雄的海底鬼岩城",
-    "type": "动漫电影",
-    "category": "喜剧,科幻,动画,冒险",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260522-1/6ed696671b8e92950b5bd65ef31ed669.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-26 19:26:24"
   }
 ]

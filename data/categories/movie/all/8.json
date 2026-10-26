@@ -1,5 +1,29 @@
 [
   {
+    "id": 142345,
+    "name": "卑鄙的骗子",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2020",
+    "area": "菲律宾",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/cc4a7cbb2c8b6103de81e8c95b8253e2.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-05 17:20:23"
+  },
+  {
+    "id": 142316,
+    "name": "管你不想要",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2018",
+    "area": "菲律賓 Philippines",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/f109c5c89e94adf84650d6eb3c1733b6.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-05 17:04:41"
+  },
+  {
     "id": 142314,
     "name": "我的2个妈妈",
     "type": "喜剧片",
@@ -574,29 +598,5 @@
     "score": "6.6",
     "remarks": "正片",
     "update_time": "2026-08-05 14:10:31"
-  },
-  {
-    "id": 142291,
-    "name": "情断悔龙寺",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2024",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/fb7b933a0374b6e58b406b6046e43434.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-05 14:01:46"
-  },
-  {
-    "id": 142288,
-    "name": "心怀恶意",
-    "type": "惊悚片",
-    "category": "惊悚,恐怖",
-    "year": "2018",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/2f534eb2650e82e2269b92ab2d7b387c.jpg",
-    "score": "5.3",
-    "remarks": "正片",
-    "update_time": "2026-08-05 13:43:02"
   }
 ]

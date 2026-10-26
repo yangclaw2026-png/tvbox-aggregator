@@ -1,5 +1,17 @@
 [
   {
+    "id": 142342,
+    "name": "爱情事件",
+    "type": "剧情片",
+    "category": "剧情,爱情",
+    "year": "2015",
+    "area": "菲律宾",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/99b04d74f040f041504c9bffc220fbb6.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-05 17:02:54"
+  },
+  {
     "id": 95761,
     "name": "如此美丽的你",
     "type": "剧情片",
@@ -466,77 +478,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-04 18:16:09"
-  },
-  {
-    "id": 142118,
-    "name": "彩虹住宅区 7/G",
-    "type": "剧情片",
-    "category": "剧情,喜剧,爱情",
-    "year": "2004",
-    "area": "印度",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/e395241a074fb3028eb3547888adad1e.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-04 18:13:52"
-  },
-  {
-    "id": 142117,
-    "name": "腐败 1989",
-    "type": "剧情片",
-    "category": "剧情,动作,犯罪",
-    "year": "1989",
-    "area": "印度",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/96cd762283c561188cf05909f74f484c.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-04 18:12:22"
-  },
-  {
-    "id": 142115,
-    "name": "艾乃哇尔",
-    "type": "剧情片",
-    "category": "剧情,爱情",
-    "year": "2007",
-    "area": "印度",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/54b8ffa3c37a6e76c0df4ab4738ce460.jpg",
-    "score": "7.4",
-    "remarks": "正片",
-    "update_time": "2026-08-04 18:11:13"
-  },
-  {
-    "id": 142134,
-    "name": "单独/共同",
-    "type": "剧情片",
-    "category": "剧情,喜剧",
-    "year": "2019",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/3803f05e94c21a3983378e60ed726671.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-04 17:50:29"
-  },
-  {
-    "id": 142132,
-    "name": "伏特加、啤酒和后悔",
-    "type": "剧情片",
-    "category": "剧情,爱情",
-    "year": "2020",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/7a8b895df9ab831221e9497bcbe16701.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-04 17:49:21"
-  },
-  {
-    "id": 99266,
-    "name": "信件漂流",
-    "type": "剧情片",
-    "category": "剧情,爱情,冒险",
-    "year": "2016",
-    "area": "菲律宾",
-    "poster": "https://dbzy5.com/upload/vod/20250715-1/e452a6484c9b6e10ad4c6c635467d68a.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-04 17:48:43"
   }
 ]
