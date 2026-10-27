@@ -1,5 +1,17 @@
 [
   {
+    "id": 145373,
+    "name": "狮王：荣耀之战",
+    "type": "欧美剧",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260823-1/45b57217f4f7850e847dcd6d93d603c5.jpg",
+    "score": "5.0",
+    "remarks": "第4集完结",
+    "update_time": "2026-08-23 16:17:27"
+  },
+  {
     "id": 141730,
     "name": "杀手妈咪",
     "type": "韩剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第3集",
     "update_time": "2026-08-21 17:12:34"
-  },
-  {
-    "id": 141709,
-    "name": "我们的排练",
-    "type": "韩剧",
-    "category": "短片,同性",
-    "year": "2026",
-    "area": "韩国",
-    "poster": "https://dbzy5.com/upload/vod/20260801-1/27de8307b9d078cfbb5c8f9af7f9b041.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-21 17:05:33"
   }
 ]

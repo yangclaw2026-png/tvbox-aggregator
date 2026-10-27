@@ -1,5 +1,22 @@
 [
   {
+    "id": 152147,
+    "name": "恋爱博士",
+    "type": "韩剧",
+    "year": "2026",
+    "area": "韩国",
+    "language": "韩语",
+    "category": "剧情,爱情",
+    "poster": "https://dbzy5.com/upload/vod/20261006-1/cb98cc91b40e2bc7114c369f9c3b1e85.jpg",
+    "douban_id": 37746098,
+    "score": "5.0",
+    "remarks": "第7集",
+    "content": "<p>讲述高中时期曾是游泳运动员、因疾病失去一条腿的博士研究生朴民载（秋泳愚 饰）和失去职业道路方向、在彷徨中踏上新道路的硕士研究生林宥真（金所泫 饰）之间的爱情故事。</p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "第01集$https://vodcnd17.0jtv2.com/20261006/AMzjKL5g/index.m3u8#第02集$https://vodcnd16.0jtv2.com/20261007/ucKilDST/index.m3u8#第03集$https://vodcnd16.0jtv2.com/20261013/2GDnId6C/index.m3u8#第04集$https://vodcnd16.0jtv2.com/20261014/YPZMEmBb/index.m3u8#第05集$https://vodcnd16.0jtv2.com/20261020/h5VHcpNe/index.m3u8#第06集$https://vodcnd17.0jtv2.com/20261021/8yWMSLrh/index.m3u8#第07集$https://vodcnd16.0jtv2.com/20261027/asqIawbM/index.m3u8$$$第01集$https://vodcnd17.0jtv2.com/share/LJSLwrdoVO#第02集$https://vodcnd16.0jtv2.com/share/BZqjfX2ZVC#第03集$https://vodcnd16.0jtv2.com/share/vHyiZK6NPk#第04集$https://vodcnd16.0jtv2.com/share/r6ZMpvlbi0#第05集$https://vodcnd16.0jtv2.com/share/unVQCpf6NM#第06集$https://vodcnd17.0jtv2.com/share/RdD1k0Tvk7#第07集$https://vodcnd16.0jtv2.com/share/opcPcTfXFj",
+    "update_time": "2026-10-27 11:57:26"
+  },
+  {
     "id": 154294,
     "name": "理智与情感",
     "type": "剧情片",
@@ -113,6 +130,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第2集"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 157557,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "更新至02集"
       }
     ]
   },
@@ -550,7 +574,16 @@
     "content": "",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd17.0jtv2.com/20261007/gWlzwsR2/index.m3u8#第02集$https://vodcnd17.0jtv2.com/20261007/vZEgi5jd/index.m3u8#第03集$https://vodcnd16.0jtv2.com/20261015/q9DWSVeN/index.m3u8#第04集$https://vodcnd16.0jtv2.com/20261015/X7C7apTL/index.m3u8#第05集$https://vodcnd17.0jtv2.com/20261020/ERjS5e2y/index.m3u8#第06集$https://vodcnd17.0jtv2.com/20261021/yb1eMYDp/index.m3u8$$$第01集$https://vodcnd17.0jtv2.com/share/FigNdnETVE#第02集$https://vodcnd17.0jtv2.com/share/BeoI1i0FKa#第03集$https://vodcnd16.0jtv2.com/share/TKG9mJRTRr#第04集$https://vodcnd16.0jtv2.com/share/WHiWzc4xHz#第05集$https://vodcnd17.0jtv2.com/share/BH1GbVwwjC#第06集$https://vodcnd17.0jtv2.com/share/woKbCBsznn",
-    "update_time": "2026-10-21 17:58:09"
+    "update_time": "2026-10-21 17:58:09",
+    "play_sources": [
+      {
+        "source": "索尼资源",
+        "source_id": 156547,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "更新至07集"
+      }
+    ]
   },
   {
     "id": 149757,
@@ -39315,6 +39348,27 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第24集"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 222306,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第55集已完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 198181,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第55集已完结"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 162773,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第55集已完结"
       }
     ]
   },
@@ -119203,6 +119257,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第20集已完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 163811,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至第20集"
       }
     ]
   },
@@ -134072,22 +134133,5 @@
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "正片$https://vodcnd16.ajupf.com/20260727/ASPbgZze/index.m3u8$$$正片$https://vodcnd16.ajupf.com/share/vgVx3itvUR",
     "update_time": "2026-08-04 18:15:05"
-  },
-  {
-    "id": 142119,
-    "name": "怪形拓展纪录",
-    "type": "纪录片",
-    "year": "2024",
-    "area": "美国",
-    "language": "英语",
-    "category": "纪录片",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/b03e0aaf058f9de484758231dd5207c5.jpg",
-    "douban_id": 37270312,
-    "score": "5.0",
-    "remarks": "正片",
-    "content": "<p>这部纪录片由《异形2：拓展纪录》 （Aliens Expanded）团队打造， 聚焦于影史经典之作《怪形》（The Thing），以约翰·卡彭特本人主导的深入分析为核心。纪录片将包含卡彭特粉丝所期待的大量回忆、故事、事实、旁枝末节的深入探讨以及关于1982年电影《怪形》（The Thing）及其起源与影响的理论，涵盖2011年前传、电子游戏续作、角色扮演游戏、漫画、周边商品，以及约翰·W·坎贝尔的原著中篇小说《突变第三型》（Who Goes There?）等丰富内容。投诉 怪形拓展纪</p><p><br/></p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "正片$https://vodcnd16.ajupf.com/20260727/e8GSPLFS/index.m3u8$$$正片$https://vodcnd16.ajupf.com/share/loSDBh4vYZ",
-    "update_time": "2026-08-04 18:14:27"
   }
 ]
