@@ -1,5 +1,17 @@
 [
   {
+    "id": 154363,
+    "name": "克拉拉与太阳",
+    "type": "剧情片",
+    "category": "剧情,科幻",
+    "year": "2026",
+    "area": "英国,美国",
+    "poster": "https://dbzy5.com/upload/vod/20261027-1/aa3213638b342d750b052d5aaf0f62a1.webp",
+    "score": "5.0",
+    "remarks": "超清",
+    "update_time": "2026-10-27 19:40:50"
+  },
+  {
     "id": 154294,
     "name": "理智与情感",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-18 22:29:59"
-  },
-  {
-    "id": 144578,
-    "name": "胫擦之森 脛擦",
-    "type": "剧情片",
-    "category": "剧情,悬疑",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260818-1/de6582a5b0e97ebdb312a6c7ae53306d.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-18 22:22:59"
   }
 ]

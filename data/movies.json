@@ -1,5 +1,22 @@
 [
   {
+    "id": 154363,
+    "name": "克拉拉与太阳",
+    "type": "剧情片",
+    "year": "2026",
+    "area": "英国,美国",
+    "language": "英语",
+    "category": "剧情,科幻",
+    "poster": "https://dbzy5.com/upload/vod/20261027-1/aa3213638b342d750b052d5aaf0f62a1.webp",
+    "douban_id": 36392039,
+    "score": "5.0",
+    "remarks": "超清",
+    "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">人工智能机器人克拉拉（珍娜·奥尔特加 饰）被设计用于陪伴青少年，防止他们变得孤独。聪明但患有神秘疾病的乔西（米娅·塔里亚 饰）说服母亲（艾米·亚当斯 饰）买下它，克拉拉帮助这个家庭度过心碎时期，也在此过程中认识到人类爱的力量。</span></p>",
+    "play_from": "dbm3u8$$$dbyun",
+    "play_url": "抢先版$https://vodcnd16.0jtv2.com/20261027/0irM68Gb/index.m3u8$$$抢先版$https://vodcnd16.0jtv2.com/share/lVuPv4asW6",
+    "update_time": "2026-10-27 19:40:50"
+  },
+  {
     "id": 152147,
     "name": "恋爱博士",
     "type": "韩剧",
@@ -137,6 +154,27 @@
         "play_from": "snm3u8",
         "play_url": null,
         "remarks": "更新至02集"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 221739,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第2集"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 197614,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第2集"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 162204,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第2集"
       }
     ]
   },
@@ -9624,7 +9662,23 @@
     "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">一场大流感之后，希格认识的所有人都死了，他的妻子、亲人、朋友，还有这个世界上99.9%的人，全都死了。他与他的狗孤独地居住在一座废弃的飞机场的机棚中，唯一的邻居是一个热爱枪支的反人类者。飞机上的无线电收到了一串莫名的电波，表明这个世界中还有其他的幸存者存在。希格在犹豫挣扎之后，最终踏上了寻找友情走出孤独的冒险之旅……</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "正片$https://vodcnd16.ajupf.com/20260830/nH16EhDA/index.m3u8$$$正片$https://vodcnd16.ajupf.com/share/KE647mFt6f",
-    "update_time": "2026-09-29 23:10:24"
+    "update_time": "2026-09-29 23:10:24",
+    "play_sources": [
+      {
+        "source": "红牛资源",
+        "source_id": 193085,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "正片"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 157700,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "正片"
+      }
+    ]
   },
   {
     "id": 151246,
@@ -9675,7 +9729,30 @@
     "content": "<p>本片记录了胆大无畏的特技演员肯·卡特的追梦故事。上世纪70年代，他计划完成一项大胆特技：驾驶火箭车飞跃圣劳伦斯河，从加拿大冲向美国，一路上遭遇了各种荒诞棘手的难题。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "正片$https://vodcnd17.ajupf.com/20260927/yyg2aKfo/index.m3u8$$$正片$https://vodcnd17.ajupf.com/share/4pEfyMqRMj",
-    "update_time": "2026-09-29 23:09:43"
+    "update_time": "2026-09-29 23:09:43",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 219411,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "正片"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 195286,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "正片"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 159902,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "正片"
+      }
+    ]
   },
   {
     "id": 151270,
@@ -134116,22 +134193,5 @@
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "正片$https://vodcnd16.ajupf.com/20260727/Q5nhhNdp/index.m3u8$$$正片$https://vodcnd16.ajupf.com/share/6i8ChMJ3mA",
     "update_time": "2026-08-04 18:16:09"
-  },
-  {
-    "id": 142141,
-    "name": "写写爱",
-    "type": "喜剧片",
-    "year": "2019",
-    "area": "菲律宾",
-    "language": "他加禄语,菲律宾语",
-    "category": "喜剧,爱情",
-    "poster": "https://dbzy5.com/upload/vod/20260804-1/fa8ddc7511c470b27431edd371d42c51.jpg",
-    "douban_id": 37144855,
-    "score": "5.0",
-    "remarks": "正片",
-    "content": "<p>暂无简介</p>",
-    "play_from": "dbm3u8$$$dbyun",
-    "play_url": "正片$https://vodcnd16.ajupf.com/20260727/ASPbgZze/index.m3u8$$$正片$https://vodcnd16.ajupf.com/share/vgVx3itvUR",
-    "update_time": "2026-08-04 18:15:05"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 142329,
+    "name": "恶魔之口",
+    "type": "惊悚片",
+    "category": "惊悚,恐怖",
+    "year": "2026",
+    "area": "美国",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/74f68f5a6f5c06928ce00aaec6c4c403.jpg",
+    "score": "5.5",
+    "remarks": "正片",
+    "update_time": "2026-08-05 17:27:24"
+  },
+  {
     "id": 142345,
     "name": "卑鄙的骗子",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "4.3",
     "remarks": "正片",
     "update_time": "2026-08-05 14:16:48"
-  },
-  {
-    "id": 142294,
-    "name": "最终行动",
-    "type": "剧情片",
-    "category": "剧情,传记,历史",
-    "year": "2018",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/52aebe0845bb7c9f9ec5af178d9a75b9.jpg",
-    "score": "6.6",
-    "remarks": "正片",
-    "update_time": "2026-08-05 14:10:31"
   }
 ]

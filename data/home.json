@@ -1,5 +1,17 @@
 [
   {
+    "id": 154363,
+    "name": "克拉拉与太阳",
+    "type": "剧情片",
+    "category": "剧情,科幻",
+    "year": "2026",
+    "area": "英国,美国",
+    "poster": "https://dbzy5.com/upload/vod/20261027-1/aa3213638b342d750b052d5aaf0f62a1.webp",
+    "score": "5.0",
+    "remarks": "超清",
+    "update_time": "2026-10-27 19:40:50"
+  },
+  {
     "id": 152147,
     "name": "恋爱博士",
     "type": "韩剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "20261017",
     "update_time": "2026-10-19 11:23:40"
-  },
-  {
-    "id": 153293,
-    "name": "凤栖",
-    "type": "国产剧",
-    "category": "喜剧,爱情,奇幻,古装",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261015-1/d0b5de0cd47a8287139c9a857707ec54.webp",
-    "score": "5.0",
-    "remarks": "第14集",
-    "update_time": "2026-10-19 11:23:23"
   }
 ]

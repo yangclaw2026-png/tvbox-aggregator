@@ -1,5 +1,17 @@
 [
   {
+    "id": 154363,
+    "name": "克拉拉与太阳",
+    "type": "剧情片",
+    "category": "剧情,科幻",
+    "year": "2026",
+    "area": "英国,美国",
+    "poster": "https://dbzy5.com/upload/vod/20261027-1/aa3213638b342d750b052d5aaf0f62a1.webp",
+    "score": "5.0",
+    "remarks": "超清",
+    "update_time": "2026-10-27 19:40:50"
+  },
+  {
     "id": 154294,
     "name": "理智与情感",
     "type": "剧情片",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-09-19 23:14:12"
-  },
-  {
-    "id": 150335,
-    "name": "你我对抗全世界",
-    "type": "爱情片",
-    "category": "爱情",
-    "year": "2026",
-    "area": "法国",
-    "poster": "https://dbzy5.com/upload/vod/20260918-1/a656047c58e058866d285c20637dfbf6.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-09-18 17:47:38"
   }
 ]
