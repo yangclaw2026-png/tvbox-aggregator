@@ -1,5 +1,17 @@
 [
   {
+    "id": 144805,
+    "name": "街头世界斗士：表演导演之战",
+    "type": "日韩综艺",
+    "category": "歌舞,真人秀",
+    "year": "2026",
+    "area": "韩国",
+    "poster": "https://dbzy5.com/upload/vod/20260820-1/512acab33bec2b4bd88e8065c365f76a.jpg",
+    "score": "5.0",
+    "remarks": "第2集",
+    "update_time": "2026-08-26 22:07:23"
+  },
+  {
     "id": 137107,
     "name": "沙龙梗",
     "type": "日韩综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第16期",
     "update_time": "2026-08-24 12:45:02"
-  },
-  {
-    "id": 860,
-    "name": "Running Man SBS综艺",
-    "type": "日韩综艺",
-    "category": "综艺,日韩综艺",
-    "year": "2010",
-    "area": "韩国",
-    "poster": "https://dbzy5.com/upload/vod/20250109-5/eeeff1c44185ce8d11e980797acbacca.jpg",
-    "score": "5.0",
-    "remarks": "第20260823期",
-    "update_time": "2026-08-24 12:20:43"
   }
 ]

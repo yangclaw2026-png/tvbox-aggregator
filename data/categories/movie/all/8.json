@@ -1,5 +1,65 @@
 [
   {
+    "id": 142348,
+    "name": "愚蠢的爱",
+    "type": "喜剧片",
+    "category": "喜剧",
+    "year": "2017",
+    "area": "菲律宾",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/f392f50a31887220e524922a53817e3e.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-05 17:39:41"
+  },
+  {
+    "id": 141404,
+    "name": "十大避暑名城2026",
+    "type": "纪录片",
+    "category": "纪录片,自然,风光,人文",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260729-1/40ffa83cf6702160b3b207acc945fade.jpg",
+    "score": "5.0",
+    "remarks": "第10集完结",
+    "update_time": "2026-08-05 17:37:39"
+  },
+  {
+    "id": 142347,
+    "name": "Sid&amp;Aya：并非爱情故事",
+    "type": "喜剧片",
+    "category": "喜剧",
+    "year": "2018",
+    "area": "菲律宾",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/0ac9bdbccc28f0f2d1cbe65a303e9825.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-05 17:35:57"
+  },
+  {
+    "id": 142346,
+    "name": "无限生活",
+    "type": "喜剧片",
+    "category": "喜剧",
+    "year": "2018",
+    "area": "菲律宾",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/b4670af61779e68856f941f2ac91f17e.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-05 17:32:00"
+  },
+  {
+    "id": 142331,
+    "name": "阿喀琉斯归来",
+    "type": "动作片",
+    "category": "动作,爱情,犯罪,奇幻",
+    "year": "2026",
+    "area": "希腊,美国,德国,英国,法国",
+    "poster": "https://dbzy5.com/upload/vod/20260805-1/73b8a96d677fa9ce5cc61d85557a8790.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-05 17:28:40"
+  },
+  {
     "id": 142329,
     "name": "恶魔之口",
     "type": "惊悚片",
@@ -538,65 +598,5 @@
     "score": "5.0",
     "remarks": "正片",
     "update_time": "2026-08-05 14:40:50"
-  },
-  {
-    "id": 142299,
-    "name": "愚蠢的国家",
-    "type": "惊悚片",
-    "category": "惊悚",
-    "year": "2024",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/d7f03fbed71d981e2ea5e6b3306c1229.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-05 14:36:57"
-  },
-  {
-    "id": 142298,
-    "name": "僵尸泰德",
-    "type": "喜剧片",
-    "category": "喜剧,爱情,恐怖",
-    "year": "2018",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/bd12412f50445cd1e1752eb40d457f2e.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-05 14:31:42"
-  },
-  {
-    "id": 142297,
-    "name": "像男人一样死去 2022",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2022",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/5580bd6ce1a55a109aba50d43937efb2.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-05 14:27:19"
-  },
-  {
-    "id": 142296,
-    "name": "萤火虫之墓 2005",
-    "type": "剧情片",
-    "category": "剧情,战争",
-    "year": "2005",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/fa9b08b8947b70dbe7ac83b950dcb1c4.jpg",
-    "score": "8.0",
-    "remarks": "正片",
-    "update_time": "2026-08-05 14:22:53"
-  },
-  {
-    "id": 142295,
-    "name": "以吻之名",
-    "type": "剧情片",
-    "category": "剧情,爱情,奇幻",
-    "year": "2018",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260805-1/e56151be3c05bcb1c3314a6c4a6dda97.jpg",
-    "score": "4.3",
-    "remarks": "正片",
-    "update_time": "2026-08-05 14:16:48"
   }
 ]

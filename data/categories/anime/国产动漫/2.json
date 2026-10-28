@@ -1,5 +1,17 @@
 [
   {
+    "id": 144019,
+    "name": "毒医帝妃指南录",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260816-1/21eb3c1ccedc149c167573bb6fe34f97.jpg",
+    "score": "0.0",
+    "remarks": "第147集",
+    "update_time": "2026-08-27 17:24:51"
+  },
+  {
     "id": 134280,
     "name": "禅王渡尘",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第39集",
     "update_time": "2026-08-27 11:19:09"
-  },
-  {
-    "id": 357,
-    "name": "我真的不想当第一",
-    "type": "国产动漫",
-    "category": "中国动漫",
-    "year": "2024",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250109-5/43c72f3a79001bdd847dc82c84184509.jpg",
-    "score": "5.0",
-    "remarks": "第127集",
-    "update_time": "2026-08-27 11:18:16"
   }
 ]

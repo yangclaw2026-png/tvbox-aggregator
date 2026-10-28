@@ -1,5 +1,65 @@
 [
   {
+    "id": 154450,
+    "name": "深夜食堂6",
+    "type": "剧情片",
+    "category": "",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20261028-1/4c47bb9e7b6db8ed1a7133e61ea30e91.webp",
+    "score": "5.0",
+    "remarks": "第2集",
+    "update_time": "2026-10-28 19:40:21"
+  },
+  {
+    "id": 154448,
+    "name": "纸老虎",
+    "type": "恐怖片",
+    "category": "",
+    "year": "2026",
+    "area": "法国 . 美国.波兰 . 意大利",
+    "poster": "https://dbzy5.com/upload/vod/20261028-1/9997eb9f66054945c333007ff909dc3b.webp",
+    "score": "5.0",
+    "remarks": "超清",
+    "update_time": "2026-10-28 19:26:26"
+  },
+  {
+    "id": 154446,
+    "name": "可能的爱",
+    "type": "爱情片",
+    "category": "",
+    "year": "2026",
+    "area": "韩国",
+    "poster": "https://dbzy5.com/upload/vod/20261028-1/bd64856b15090829add0f465971a9427.webp",
+    "score": "5.0",
+    "remarks": "超清",
+    "update_time": "2026-10-28 19:15:24"
+  },
+  {
+    "id": 154445,
+    "name": "挺好的",
+    "type": "喜剧片",
+    "category": "",
+    "year": "2026",
+    "area": "大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261028-1/52badae6d970a1f044fe31a50ad2f943.jpg",
+    "score": "5.0",
+    "remarks": "超清",
+    "update_time": "2026-10-28 19:12:02"
+  },
+  {
+    "id": 154444,
+    "name": "燃烧吧！爸爸",
+    "type": "喜剧片",
+    "category": "",
+    "year": "2026",
+    "area": "大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261028-1/b89289d18faf73641247852647f9b096.webp",
+    "score": "5.0",
+    "remarks": "超清",
+    "update_time": "2026-10-28 18:14:44"
+  },
+  {
     "id": 154363,
     "name": "克拉拉与太阳",
     "type": "剧情片",
@@ -538,65 +598,5 @@
     "score": "6.0",
     "remarks": "抢先版",
     "update_time": "2026-09-27 19:30:18"
-  },
-  {
-    "id": 151023,
-    "name": "八面埋伏ี",
-    "type": "动作片",
-    "category": "动作,悬疑,武侠",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260923-1/84c6faaecf7bd56b2a8453a047eaa157.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-09-23 18:47:29"
-  },
-  {
-    "id": 151022,
-    "name": "沁河古堡",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260923-1/dd0683d6c575c957eb731dcb1ad1db66.jpg",
-    "score": "5.0",
-    "remarks": "第5集完结",
-    "update_time": "2026-09-23 16:25:19"
-  },
-  {
-    "id": 150821,
-    "name": "头号粉丝",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260921-1/0d7c7d551ec5ea04221257bd1bf0b6f1.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-09-21 19:48:48"
-  },
-  {
-    "id": 150724,
-    "name": "蓝色盒子",
-    "type": "剧情片",
-    "category": "剧情,惊悚",
-    "year": "2026",
-    "area": "美国,加拿大",
-    "poster": "https://dbzy5.com/upload/vod/20260920-1/9b99c6d9ea3e2da47fdfbc8590626b14.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-09-20 22:07:31"
-  },
-  {
-    "id": 150361,
-    "name": "拨乱行动",
-    "type": "动作片",
-    "category": "动作,惊悚",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260918-1/21ca7947c08a1799acb8351a2fca3ed3.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-09-19 23:14:12"
   }
 ]

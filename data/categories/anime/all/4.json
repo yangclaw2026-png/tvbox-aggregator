@@ -1,5 +1,17 @@
 [
   {
+    "id": 145964,
+    "name": "魔女叛变？我反手养成病娇炽焰天使",
+    "type": "国产动漫",
+    "category": "动画,都市,奇幻,热血,校园",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260826-1/e4c3555e339ae2f0247967fd7070da9b.jpg",
+    "score": "5.0",
+    "remarks": "第6集",
+    "update_time": "2026-08-26 14:22:51"
+  },
+  {
     "id": 138988,
     "name": "新攻壳机动队 攻殻機動隊",
     "type": "日本动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第90集完结",
     "update_time": "2026-08-25 21:21:16"
-  },
-  {
-    "id": 143419,
-    "name": "末世大航海：开局一块破木板",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260811-1/52cfb3f58f7e48a78f743631511570d0.jpg",
-    "score": "5.0",
-    "remarks": "第36集",
-    "update_time": "2026-08-25 17:36:31"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 154451,
+    "name": "那年那兔那些事 第二季",
+    "type": "国产动漫",
+    "category": "",
+    "year": "2015",
+    "area": "大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261028-1/e46040b8df48ddd8166944445152c1c1.webp",
+    "score": "5.0",
+    "remarks": "12",
+    "update_time": "2026-10-28 19:44:38"
+  },
+  {
     "id": 153874,
     "name": "你马甲掉了，幽皇陛下",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第163集",
     "update_time": "2026-08-27 17:37:34"
-  },
-  {
-    "id": 144019,
-    "name": "毒医帝妃指南录",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260816-1/21eb3c1ccedc149c167573bb6fe34f97.jpg",
-    "score": "0.0",
-    "remarks": "第147集",
-    "update_time": "2026-08-27 17:24:51"
   }
 ]

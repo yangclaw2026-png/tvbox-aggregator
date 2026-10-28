@@ -1,5 +1,17 @@
 [
   {
+    "id": 860,
+    "name": "Running Man SBS综艺",
+    "type": "日韩综艺",
+    "category": "综艺,日韩综艺",
+    "year": "2010",
+    "area": "韩国",
+    "poster": "https://dbzy5.com/upload/vod/20250109-5/eeeff1c44185ce8d11e980797acbacca.jpg",
+    "score": "5.0",
+    "remarks": "第20260823期",
+    "update_time": "2026-08-24 12:20:43"
+  },
+  {
     "id": 69054,
     "name": "拜托了冰箱 第二季",
     "type": "日韩综艺",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第8集",
     "update_time": "2026-08-20 11:01:53"
-  },
-  {
-    "id": 136217,
-    "name": "天才厨人",
-    "type": "大陆综艺",
-    "category": "剧情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260611-1/af1f9aee89855f997d9227538734ef2c.jpg",
-    "score": "5.0",
-    "remarks": "20260819第10期做饭直拍 灌汤黄鱼香甜诱人",
-    "update_time": "2026-08-19 18:58:01"
   }
 ]

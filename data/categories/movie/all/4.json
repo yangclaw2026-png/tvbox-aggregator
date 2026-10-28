@@ -1,5 +1,65 @@
 [
   {
+    "id": 145368,
+    "name": "入夜不再",
+    "type": "恐怖片",
+    "category": "惊悚 ，恐怖",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260823-1/c4128e6b666272ca3fa0c13f05b98771.jpg",
+    "score": "5.0",
+    "remarks": "抢先版",
+    "update_time": "2026-08-23 00:27:03"
+  },
+  {
+    "id": 145367,
+    "name": "第二届世界人形机器人运动会",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260822-1/ab92fa42fe33e28ca3b3c2ff085a4822.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-22 23:29:42"
+  },
+  {
+    "id": 144395,
+    "name": "梅关道",
+    "type": "纪录片",
+    "category": "纪录片",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260817-1/a0ab38aa301b921e8a1689c82f57c086.jpg",
+    "score": "5.0",
+    "remarks": "第5集",
+    "update_time": "2026-08-22 21:49:01"
+  },
+  {
+    "id": 145269,
+    "name": "爱恋成婚",
+    "type": "剧情片",
+    "category": "剧情",
+    "year": "2026",
+    "area": "印度",
+    "poster": "https://dbzy5.com/upload/vod/20260822-1/39d1f37a14135c375b1f4e987b2406c6.jpg",
+    "score": "5.0",
+    "remarks": "正片",
+    "update_time": "2026-08-22 15:52:04"
+  },
+  {
+    "id": 145247,
+    "name": "探寻全球，为爱溯源",
+    "type": "纪录片",
+    "category": "人文,纪录片",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260822-1/51d13e716b007350c936227c6e5f8998.jpg",
+    "score": "5.0",
+    "remarks": "第1集",
+    "update_time": "2026-08-22 15:19:25"
+  },
+  {
     "id": 145216,
     "name": "海绵宝宝：皮老板大电影 国语版",
     "type": "动漫电影",
@@ -538,65 +598,5 @@
     "score": "8.2",
     "remarks": "抢先版",
     "update_time": "2026-08-19 21:41:58"
-  },
-  {
-    "id": 44218,
-    "name": "瑞士军刀男",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2016",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20250108-6/ecec97522dddb651f70c500f43847d7b.jpg",
-    "score": "7.8",
-    "remarks": "正片",
-    "update_time": "2026-08-19 21:15:18"
-  },
-  {
-    "id": 144002,
-    "name": "牛来",
-    "type": "动漫电影",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260815-1/3cd8044e2b9fe964c57bc5c07e0d88f4.jpg",
-    "score": "5.0",
-    "remarks": "抢先版",
-    "update_time": "2026-08-19 17:20:26"
-  },
-  {
-    "id": 44959,
-    "name": "移山的父亲",
-    "type": "剧情片",
-    "category": "剧情",
-    "year": "2021",
-    "area": "罗马尼亚，瑞典",
-    "poster": "https://dbzy5.com/upload/vod/20250108-5/fffbb715a80b3fa7c06408030c90d6b3.jpg",
-    "score": "6.3",
-    "remarks": "正片",
-    "update_time": "2026-08-19 00:07:29"
-  },
-  {
-    "id": 144597,
-    "name": "凯尔西·库克：欢乐时光",
-    "type": "喜剧片",
-    "category": "喜剧",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260819-1/0ce4645085b945cd483facadae69c2bb.jpg",
-    "score": "5.0",
-    "remarks": "正片",
-    "update_time": "2026-08-19 00:05:36"
-  },
-  {
-    "id": 144596,
-    "name": "性格塑造第一季",
-    "type": "纪录片",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260818-1/6082bcd5663625f1f19aec6d35740779.jpg",
-    "score": "5.0",
-    "remarks": "第9集完结",
-    "update_time": "2026-08-18 23:49:00"
   }
 ]

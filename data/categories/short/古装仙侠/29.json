@@ -1,5 +1,17 @@
 [
   {
+    "id": 140476,
+    "name": "大乾圣太子是演技派",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260722-1/625e0886e1760a8476584860c33377bb.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-10 18:17:03"
+  },
+  {
     "id": 143122,
     "name": "山海双尊之鲅鱼公主",
     "type": "古装仙侠",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-09 21:47:46"
-  },
-  {
-    "id": 142993,
-    "name": "满级玛丽苏，手撕虐文剧本",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260809-1/106930e45ecbbdeb93d9f03e8e2f398a.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-09 21:47:14"
   }
 ]

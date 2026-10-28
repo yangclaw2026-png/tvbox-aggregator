@@ -1,5 +1,17 @@
 [
   {
+    "id": 143740,
+    "name": "八年质子归京，岂知天下已刻吾名",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260813-1/a678c2c8ba43bd7ef5500ad42c03b892.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-13 20:31:41"
+  },
+  {
     "id": 143737,
     "name": "月下帐心上君",
     "type": "古装仙侠",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-12 21:41:34"
-  },
-  {
-    "id": 143560,
-    "name": "从王府弃子到开国皇帝",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260812-1/92a31524a2523486aae5c192d11d1bd9.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-12 21:36:10"
   }
 ]

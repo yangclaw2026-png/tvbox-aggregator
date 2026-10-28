@@ -1,5 +1,17 @@
 [
   {
+    "id": 143419,
+    "name": "末世大航海：开局一块破木板",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260811-1/52cfb3f58f7e48a78f743631511570d0.jpg",
+    "score": "5.0",
+    "remarks": "第36集",
+    "update_time": "2026-08-25 17:36:31"
+  },
+  {
     "id": 143096,
     "name": "开局绑定系统：我在三角洲无限穿梭",
     "type": "国产动漫",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第20集",
     "update_time": "2026-08-24 13:44:15"
-  },
-  {
-    "id": 145539,
-    "name": "狼的谎言 动态漫画",
-    "type": "国产动漫",
-    "category": "动画,职场,恋爱,反转",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260824-1/91660627227dfd1560bdff0e11281fd8.jpg",
-    "score": "5.0",
-    "remarks": "第30集完结",
-    "update_time": "2026-08-24 13:40:35"
   }
 ]
