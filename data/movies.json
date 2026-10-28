@@ -348,6 +348,41 @@
         "play_from": "snm3u8",
         "play_url": null,
         "remarks": "HD国语"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 222473,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "正片"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 198348,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "正片"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 155034,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "超清"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 164060,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "HD"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 162941,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "正片"
       }
     ]
   },
@@ -796,6 +831,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "超清"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 164061,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "HD"
       }
     ]
   },
@@ -1517,6 +1559,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第7集"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 162572,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至第06集"
       }
     ]
   },
@@ -3583,6 +3632,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第2集"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 220456,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第4集"
       }
     ]
   },
@@ -10552,6 +10608,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至HD"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 164067,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "HD"
       }
     ]
   },
@@ -11912,7 +11975,16 @@
     "content": "<p>大学毕业生李知白遭好友欺骗，接手一家负债累累、濒临倒闭的砂县小吃店。面对巨额债务与顾客质疑，他没有逃避，而是凭借厨神系统和灵活经营扭转困局。创业途中，他用一碗碗热饭温暖失业程序员、环卫工和困境母子，也逐渐领悟美食的真正价值。最终，他赢得口碑、还清债务，从一无所有成长为有温度、有担当的青年创业者。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd17.ajupf.com/20260925/HoesAHji/index.m3u8$$$全集完结$https://vodcnd17.ajupf.com/share/jhfbQEkZDw",
-    "update_time": "2026-09-28 22:36:23"
+    "update_time": "2026-09-28 22:36:23",
+    "play_sources": [
+      {
+        "source": "暴风资源",
+        "source_id": 170440,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "完结"
+      }
+    ]
   },
   {
     "id": 151555,
@@ -68334,6 +68406,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "正片"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 164059,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "HD"
       }
     ]
   },
@@ -131467,6 +131546,13 @@
         "play_from": "snm3u8",
         "play_url": null,
         "remarks": "更新至07集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 148212,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第10集"
       }
     ]
   },
