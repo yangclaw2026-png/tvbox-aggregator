@@ -1,5 +1,17 @@
 [
   {
+    "id": 143385,
+    "name": "权臣夫君十五两",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260811-1/c17f8d8c8b66f7b10dcf4ed49b8385ea.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-23 14:49:47"
+  },
+  {
     "id": 145383,
     "name": "太子妃你的马甲藏不住了",
     "type": "古装仙侠",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-22 19:22:30"
-  },
-  {
-    "id": 145297,
-    "name": "哑王的话痨王妃",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260822-1/adc1117632779cb7c835d469acfdc73f.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-22 19:17:44"
   }
 ]

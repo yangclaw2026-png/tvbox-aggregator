@@ -1,5 +1,29 @@
 [
   {
+    "id": 154016,
+    "name": "黑暗机器",
+    "type": "日本动漫",
+    "category": "科幻 , 动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20261021-1/71e82b01d8ad11051dffc2439067bda7.webp",
+    "score": "5.0",
+    "remarks": "第3集",
+    "update_time": "2026-10-28 12:17:43"
+  },
+  {
+    "id": 153098,
+    "name": "假面骑士麦斯 仮面.(繁体）",
+    "type": "日本动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20261014-1/395fd7b67998e5cd94e7895fd496d8aa.jpg",
+    "score": "5.0",
+    "remarks": "第4集",
+    "update_time": "2026-10-28 12:15:54"
+  },
+  {
     "id": 127951,
     "name": "夜樱家的大作战 第2季",
     "type": "日本动漫",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第7集",
     "update_time": "2026-08-24 15:43:19"
-  },
-  {
-    "id": 125873,
-    "name": "Re：从零开始的异世界生活 第四季 夺还篇",
-    "type": "日本动漫",
-    "category": "剧情,动画,奇幻,冒险",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260318-1/cc0be59780eeab1fa167089361726107.jpg",
-    "score": "5.0",
-    "remarks": "第13集",
-    "update_time": "2026-08-24 14:20:42"
-  },
-  {
-    "id": 138386,
-    "name": "地狱模式 ～喜欢速通游戏的玩家在废设定异世界无双～ 第2季",
-    "type": "日本动漫",
-    "category": "动画,奇幻,冒险",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260704-1/0e2e34637b80a7d96d9b0df42cfc7818.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-24 14:17:35"
   }
 ]

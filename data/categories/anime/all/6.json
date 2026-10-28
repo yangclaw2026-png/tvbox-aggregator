@@ -1,5 +1,29 @@
 [
   {
+    "id": 138653,
+    "name": "相反的你和我 第二季",
+    "type": "日本动漫",
+    "category": "喜剧,爱情,动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260706-1/02625dfbb7311c885db4095f5d4f293e.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-24 13:39:36"
+  },
+  {
+    "id": 138657,
+    "name": "再见菈菈",
+    "type": "日本动漫",
+    "category": "动画,奇幻",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260706-1/16038983d956c9da81150fba40bd7d29.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-24 13:32:51"
+  },
+  {
     "id": 140065,
     "name": "恶女不才，请多关照.～雏宫蝶鼠换身传",
     "type": "日本动漫",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第104集",
     "update_time": "2026-08-23 12:29:17"
-  },
-  {
-    "id": 141720,
-    "name": "千金归来：我清算了枕边人",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260801-1/b83e82544832077ebeb2373d5b5d2078.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-23 12:12:31"
-  },
-  {
-    "id": 141609,
-    "name": "当上神明后，我带着信徒干翻了废土",
-    "type": "国产动漫",
-    "category": "漫剧,奇幻",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260731-1/e188cda999b90e9b49395ee38b3416c0.jpg",
-    "score": "5.0",
-    "remarks": "第9集",
-    "update_time": "2026-08-23 12:11:39"
   }
 ]

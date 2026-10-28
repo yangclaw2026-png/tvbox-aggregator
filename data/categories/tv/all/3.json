@@ -1,5 +1,17 @@
 [
   {
+    "id": 136457,
+    "name": "渐入心房",
+    "type": "泰国剧",
+    "category": "剧情,爱情,犯罪",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260614-1/4d28917610ef826977612351e34153fe.jpg",
+    "score": "5.0",
+    "remarks": "第21集",
+    "update_time": "2026-08-27 19:39:52"
+  },
+  {
     "id": 140681,
     "name": "大追踪〜警视厅SSBC强行犯系〜 第二季",
     "type": "日本剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第24集完结",
     "update_time": "2026-08-26 13:34:12"
-  },
-  {
-    "id": 136448,
-    "name": "阿松与阿暖",
-    "type": "国产剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260614-1/05af6d1f2239dab2971d264542a99230.jpg",
-    "score": "5.0",
-    "remarks": "第57集",
-    "update_time": "2026-08-26 12:56:17"
   }
 ]

@@ -1,5 +1,29 @@
 [
   {
+    "id": 148997,
+    "name": "镇魔司：万象诡藏",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260910-1/31f97b563314a2a4b19e08f76276815f.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-09-10 22:36:50"
+  },
+  {
+    "id": 148988,
+    "name": "十年质子",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260910-1/9c268d0cc68ef08c1da7f2c0b9b447e0.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-09-10 22:36:35"
+  },
+  {
     "id": 148998,
     "name": "长生狱主，一念镇九幽第六季",
     "type": "古装仙侠",
@@ -574,29 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-09-07 22:49:05"
-  },
-  {
-    "id": 148388,
-    "name": "娇莺：猎心沦陷",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260907-1/a7c024eced8e62a2ca85085745a8c1f3.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-09-07 22:48:33"
-  },
-  {
-    "id": 148370,
-    "name": "我在八零当团宠，人参妹妹是杠精",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260907-1/be63a6d52e786293cc8a4a486c3ba884.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-09-07 19:40:10"
   }
 ]

@@ -1,5 +1,17 @@
 [
   {
+    "id": 143386,
+    "name": "和死对头穿成帝后",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260811-1/f0b12d64387d359aaa6287b8c5e819f3.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-11 21:46:24"
+  },
+  {
     "id": 143384,
     "name": "心语昭昭予君安",
     "type": "古装仙侠",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-10 22:59:26"
-  },
-  {
-    "id": 143159,
-    "name": "贵妃执棋，善恶自有归处",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260810-1/67bb6deddc859e3b3ff2af143d064c5e.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-10 22:58:54"
   }
 ]

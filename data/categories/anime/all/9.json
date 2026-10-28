@@ -1,5 +1,29 @@
 [
   {
+    "id": 144538,
+    "name": "万族之劫",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260818-1/a4494fa8e236cd65ce9f93fc4707baec.jpg",
+    "score": "5.0",
+    "remarks": "第30集完结",
+    "update_time": "2026-08-18 19:22:04"
+  },
+  {
+    "id": 144403,
+    "name": "被系统误判的顶级厉诡",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260818-1/6420ff0bbda972f72e56f3a35f3226fe.jpg",
+    "score": "5.0",
+    "remarks": "第60集完结",
+    "update_time": "2026-08-18 12:35:27"
+  },
+  {
     "id": 141051,
     "name": "归零",
     "type": "国产动漫",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第55集完结",
     "update_time": "2026-08-12 11:29:10"
-  },
-  {
-    "id": 143336,
-    "name": "河小狸的动物趣闻馆",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260811-1/148703c9e5c425064d31ab9d57244be4.jpg",
-    "score": "5.0",
-    "remarks": "第60集完结",
-    "update_time": "2026-08-11 18:12:52"
-  },
-  {
-    "id": 139476,
-    "name": "灵御学院：从觉醒开始满级碾压",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260711-1/d7b2f71cac6c73633d0b5b8679595369.jpg",
-    "score": "5.0",
-    "remarks": "第22集",
-    "update_time": "2026-08-11 14:00:36"
   }
 ]

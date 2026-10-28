@@ -1,5 +1,29 @@
 [
   {
+    "id": 154016,
+    "name": "黑暗机器",
+    "type": "日本动漫",
+    "category": "科幻 , 动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20261021-1/71e82b01d8ad11051dffc2439067bda7.webp",
+    "score": "5.0",
+    "remarks": "第3集",
+    "update_time": "2026-10-28 12:17:43"
+  },
+  {
+    "id": 153098,
+    "name": "假面骑士麦斯 仮面.(繁体）",
+    "type": "日本动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20261014-1/395fd7b67998e5cd94e7895fd496d8aa.jpg",
+    "score": "5.0",
+    "remarks": "第4集",
+    "update_time": "2026-10-28 12:15:54"
+  },
+  {
     "id": 153874,
     "name": "你马甲掉了，幽皇陛下",
     "type": "国产动漫",
@@ -574,29 +598,5 @@
     "score": "0.0",
     "remarks": "第28集",
     "update_time": "2026-09-01 11:47:27"
-  },
-  {
-    "id": 147090,
-    "name": "无极道君",
-    "type": "国产动漫",
-    "category": "动画,动作,玄幻,搞笑",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260901-1/aca0770ffe19138258d7e42d4958c041.jpg",
-    "score": "5.0",
-    "remarks": "第10集",
-    "update_time": "2026-09-01 11:46:40"
-  },
-  {
-    "id": 138256,
-    "name": "班格梦想！无限大缪型",
-    "type": "日本动漫",
-    "category": "剧情,动画,音乐",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260703-1/c26b506eadbd33f64061e40efe29ae32.jpg",
-    "score": "5.0",
-    "remarks": "第11集",
-    "update_time": "2026-08-27 23:00:40"
   }
 ]

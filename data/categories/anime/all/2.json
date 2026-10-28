@@ -1,5 +1,29 @@
 [
   {
+    "id": 147090,
+    "name": "无极道君",
+    "type": "国产动漫",
+    "category": "动画,动作,玄幻,搞笑",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260901-1/aca0770ffe19138258d7e42d4958c041.jpg",
+    "score": "5.0",
+    "remarks": "第10集",
+    "update_time": "2026-09-01 11:46:40"
+  },
+  {
+    "id": 138256,
+    "name": "班格梦想！无限大缪型",
+    "type": "日本动漫",
+    "category": "剧情,动画,音乐",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260703-1/c26b506eadbd33f64061e40efe29ae32.jpg",
+    "score": "5.0",
+    "remarks": "第11集",
+    "update_time": "2026-08-27 23:00:40"
+  },
+  {
     "id": 138379,
     "name": "令和的斑小姐",
     "type": "日本动漫",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第26集",
     "update_time": "2026-08-27 11:36:48"
-  },
-  {
-    "id": 499,
-    "name": "丹道至尊",
-    "type": "国产动漫",
-    "category": "动作,动画,奇幻,中国动漫",
-    "year": "2023",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20250109-5/5000209d3d3873518e7aa498c2421897.jpg",
-    "score": "5.0",
-    "remarks": "第190集",
-    "update_time": "2026-08-27 11:36:48"
-  },
-  {
-    "id": 145030,
-    "name": "我家小师权不可能这么强",
-    "type": "国产动漫",
-    "category": "动作,动画,奇幻",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260821-1/c61381a78e0a3a98288d93b1ea46b14b.jpg",
-    "score": "5.0",
-    "remarks": "第7集",
-    "update_time": "2026-08-27 11:36:08"
   }
 ]

@@ -1,5 +1,77 @@
 [
   {
+    "id": 154413,
+    "name": "降世签到，傲视万古",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261028-1/7ce1dbe85f7758c04adf7aae88038a4b.webp",
+    "score": "5.0",
+    "remarks": "全集完结",
+    "update_time": "2026-10-28 12:20:24"
+  },
+  {
+    "id": 154016,
+    "name": "黑暗机器",
+    "type": "日本动漫",
+    "category": "科幻 , 动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20261021-1/71e82b01d8ad11051dffc2439067bda7.webp",
+    "score": "5.0",
+    "remarks": "第3集",
+    "update_time": "2026-10-28 12:17:43"
+  },
+  {
+    "id": 154412,
+    "name": "烬九州：第十九季",
+    "type": "AI短剧",
+    "category": "短剧",
+    "year": "2026",
+    "area": "大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261028-1/0c864c1875be65cd736a0d61f5a89abf.png",
+    "score": "5.0",
+    "remarks": "全集完结",
+    "update_time": "2026-10-28 12:17:31"
+  },
+  {
+    "id": 151968,
+    "name": "幻想水浒传",
+    "type": "日本剧",
+    "category": "动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20261003-1/cd94cd5049ea24dbd32962676e9ff26b.jpg",
+    "score": "5.0",
+    "remarks": "第4集",
+    "update_time": "2026-10-28 12:16:35"
+  },
+  {
+    "id": 153098,
+    "name": "假面骑士麦斯 仮面.(繁体）",
+    "type": "日本动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20261014-1/395fd7b67998e5cd94e7895fd496d8aa.jpg",
+    "score": "5.0",
+    "remarks": "第4集",
+    "update_time": "2026-10-28 12:15:54"
+  },
+  {
+    "id": 154411,
+    "name": "美女老婆很高冷，杀手老公专治不服",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "大陆",
+    "poster": "https://dbzy5.com/upload/vod/20261028-1/3c6f485b44073ddb74e558925a29fcbf.webp",
+    "score": "5.0",
+    "remarks": "全集完结",
+    "update_time": "2026-10-28 12:13:08"
+  },
+  {
     "id": 154398,
     "name": "26_27赛季NBA常规赛全场回放：活塞VS76人 20261026",
     "type": "篮球",
@@ -526,77 +598,5 @@
     "score": "5.0",
     "remarks": "全集完结",
     "update_time": "2026-10-20 23:01:03"
-  },
-  {
-    "id": 154010,
-    "name": "中华恐龙",
-    "type": "记录片",
-    "category": "纪录片",
-    "year": "2026",
-    "area": "大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261020-1/e46e455104b19542c5e2378878f3d8e5.webp",
-    "score": "5.0",
-    "remarks": "第2集",
-    "update_time": "2026-10-20 23:00:19"
-  },
-  {
-    "id": 154009,
-    "name": "继承人拯救计划",
-    "type": "AI短剧",
-    "category": "",
-    "year": "2026",
-    "area": "大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261020-1/e423fb57abf13a7417c3c68dc3bf315f.jpg",
-    "score": "5.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-20 22:58:26"
-  },
-  {
-    "id": 154008,
-    "name": "女儿升学宴审判前夫",
-    "type": "言情总裁",
-    "category": "",
-    "year": "2026",
-    "area": "大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261020-1/0b1171a89922abb9aab252df4add1940.webp",
-    "score": "5.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-20 22:55:29"
-  },
-  {
-    "id": 154007,
-    "name": "七零糟糠妻京城逆袭记",
-    "type": "现代都市",
-    "category": "",
-    "year": "2026",
-    "area": "大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261020-1/6e0cacd46055fd390eb10914fcc38a30.webp",
-    "score": "5.0",
-    "remarks": "全集完结",
-    "update_time": "2026-10-20 22:49:41"
-  },
-  {
-    "id": 154006,
-    "name": "换母疑云",
-    "type": "欧美剧",
-    "category": "",
-    "year": "2026",
-    "area": "大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261020-1/6e5ed5adfd993736c82843d78a22717f.webp",
-    "score": "5.0",
-    "remarks": "第2集",
-    "update_time": "2026-10-20 22:33:29"
-  },
-  {
-    "id": 154005,
-    "name": "秘室危情",
-    "type": "恐怖片",
-    "category": "",
-    "year": "2026",
-    "area": "大陆",
-    "poster": "https://dbzy5.com/upload/vod/20261020-1/95380ec61ef1ccddd5c723f42e4e52a5.webp",
-    "score": "5.0",
-    "remarks": "超清",
-    "update_time": "2026-10-20 22:30:45"
   }
 ]

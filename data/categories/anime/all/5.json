@@ -1,5 +1,29 @@
 [
   {
+    "id": 143096,
+    "name": "开局绑定系统：我在三角洲无限穿梭",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260810-1/2843b9fa5d83d65520ec26e8e0a8dfa4.jpg",
+    "score": "5.0",
+    "remarks": "第10集",
+    "update_time": "2026-08-25 17:35:52"
+  },
+  {
+    "id": 143123,
+    "name": "逆天萌兽：绝世妖女世无双",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260810-1/f23fa3fed4299d8dd029b2dd2b728a6e.jpg",
+    "score": "5.0",
+    "remarks": "第28集",
+    "update_time": "2026-08-25 17:35:09"
+  },
+  {
     "id": 142124,
     "name": "长生猫",
     "type": "国产动漫",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第30集完结",
     "update_time": "2026-08-24 13:40:35"
-  },
-  {
-    "id": 138653,
-    "name": "相反的你和我 第二季",
-    "type": "日本动漫",
-    "category": "喜剧,爱情,动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260706-1/02625dfbb7311c885db4095f5d4f293e.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-24 13:39:36"
-  },
-  {
-    "id": 138657,
-    "name": "再见菈菈",
-    "type": "日本动漫",
-    "category": "动画,奇幻",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260706-1/16038983d956c9da81150fba40bd7d29.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-24 13:32:51"
   }
 ]

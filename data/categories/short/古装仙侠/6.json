@@ -1,5 +1,17 @@
 [
   {
+    "id": 146175,
+    "name": "父子双雄，重振家族荣光",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260827-1/4e64d0c1d6b3d245e7882fea5c354caf.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-27 19:53:14"
+  },
+  {
     "id": 146177,
     "name": "末世：从丧尸开始进化",
     "type": "古装仙侠",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-26 22:01:04"
-  },
-  {
-    "id": 146091,
-    "name": "先生认定我是炮灰，我有十八皇兄撑腰",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260826-1/7165380ee89e206a5a3ae08c7812a5d9.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-26 21:56:07"
   }
 ]

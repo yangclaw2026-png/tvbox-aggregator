@@ -1,5 +1,17 @@
 [
   {
+    "id": 151968,
+    "name": "幻想水浒传",
+    "type": "日本剧",
+    "category": "动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20261003-1/cd94cd5049ea24dbd32962676e9ff26b.jpg",
+    "score": "5.0",
+    "remarks": "第4集",
+    "update_time": "2026-10-28 12:16:35"
+  },
+  {
     "id": 154295,
     "name": "我的幸福婚姻",
     "type": "日本剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第8集完结",
     "update_time": "2026-08-22 13:32:28"
-  },
-  {
-    "id": 139462,
-    "name": "老公要求我去出轨",
-    "type": "日本剧",
-    "category": "爱情,家庭",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260711-1/d38c062e9d8ad9b6375e4a6151d4a5d7.jpg",
-    "score": "5.0",
-    "remarks": "第7集",
-    "update_time": "2026-08-22 00:02:09"
   }
 ]

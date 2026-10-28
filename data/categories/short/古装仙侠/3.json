@@ -1,5 +1,17 @@
 [
   {
+    "id": 148277,
+    "name": "白天是夫君，晚上是秘密",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260906-1/92a212e9c2016e4415f46ae4b2c1b017.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-09-06 23:00:23"
+  },
+  {
     "id": 148292,
     "name": "穿越大乾我靠经商封皇商",
     "type": "古装仙侠",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-09-03 22:47:15"
-  },
-  {
-    "id": 147586,
-    "name": "读心王爷偏宠我",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260903-1/64566c3639d2360dd306b4b89dec56a5.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-09-03 22:42:53"
   }
 ]

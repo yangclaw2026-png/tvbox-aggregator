@@ -1,5 +1,17 @@
 [
   {
+    "id": 143737,
+    "name": "月下帐心上君",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260813-1/8e67f3c3101a45bd4dc94fb6b374c9c7.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-13 20:29:47"
+  },
+  {
     "id": 143735,
     "name": "檀香遇媚音：佛心王爷动凡情",
     "type": "古装仙侠",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-12 21:36:10"
-  },
-  {
-    "id": 143541,
-    "name": "从杂役逆袭成魔尊",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260812-1/9e100f2c9335a1b414420e1cdf7b9e7a.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-12 21:28:11"
   }
 ]

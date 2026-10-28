@@ -1,5 +1,17 @@
 [
   {
+    "id": 145201,
+    "name": "慵懒贵妃升职记",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260821-1/9609a5da6fadfbd5d5f4b54bd7aaa6cb.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-21 22:55:11"
+  },
+  {
     "id": 145200,
     "name": "卧底统御邪门，徒儿心性偏异",
     "type": "古装仙侠",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-21 17:15:05"
-  },
-  {
-    "id": 144881,
-    "name": "闺蜜穿成婆媳，王爷太子全都沦陷了",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260820-1/42e3bfb519c982306bb02fbcec4982e4.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-21 17:05:25"
   }
 ]

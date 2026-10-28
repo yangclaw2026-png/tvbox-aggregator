@@ -1,5 +1,29 @@
 [
   {
+    "id": 144377,
+    "name": "诡雾降临：拜见诡主我来打工",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260817-1/404f65d78d1037c9b3431f29c9469aa1.jpg",
+    "score": "5.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-17 22:45:57"
+  },
+  {
+    "id": 144376,
+    "name": "别查我老公，他身份不简单",
+    "type": "现代都市",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260817-1/1426f5d243d05eaec8c1fd503f58b91d.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-17 22:43:05"
+  },
+  {
     "id": 144375,
     "name": "他求我做贤后，我嫁了太子",
     "type": "古装仙侠",
@@ -574,29 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-17 18:56:25"
-  },
-  {
-    "id": 144322,
-    "name": "厂长赶我下岗，退休创业他高攀不起",
-    "type": "现代都市",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260817-1/08c88f8d1851a974b64250ec60e1aab9.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-17 18:54:37"
-  },
-  {
-    "id": 144323,
-    "name": "重生后果断分家：煤矿上的新生",
-    "type": "重生民国",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260817-1/ecb58ade1c9946514784f8142322f8bb.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-17 18:54:00"
   }
 ]

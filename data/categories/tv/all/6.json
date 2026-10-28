@@ -1,5 +1,17 @@
 [
   {
+    "id": 142642,
+    "name": "恋爱开运点",
+    "type": "泰国剧",
+    "category": "剧情,爱情,同性",
+    "year": "2026",
+    "area": "泰国",
+    "poster": "https://dbzy5.com/upload/vod/20260807-1/471a85a7bc85b3af21644a20d955b00c.jpg",
+    "score": "5.0",
+    "remarks": "第3集",
+    "update_time": "2026-08-21 17:12:34"
+  },
+  {
     "id": 141709,
     "name": "我们的排练",
     "type": "韩剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第5集完结",
     "update_time": "2026-08-15 21:44:52"
-  },
-  {
-    "id": 141495,
-    "name": "九门 2026",
-    "type": "国产剧",
-    "category": "剧情,奇幻,冒险",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260730-1/77efa6f3786267e0ff6e9259a733454f.jpg",
-    "score": "5.0",
-    "remarks": "第30集",
-    "update_time": "2026-08-15 20:50:52"
   }
 ]

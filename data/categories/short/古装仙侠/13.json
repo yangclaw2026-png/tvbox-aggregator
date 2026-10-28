@@ -1,5 +1,17 @@
 [
   {
+    "id": 145297,
+    "name": "哑王的话痨王妃",
+    "type": "古装仙侠",
+    "category": "短剧",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260822-1/adc1117632779cb7c835d469acfdc73f.jpg",
+    "score": "0.0",
+    "remarks": "全集完结",
+    "update_time": "2026-08-22 19:17:44"
+  },
+  {
     "id": 145292,
     "name": "青梅竹马阿贝贝",
     "type": "古装仙侠",
@@ -586,17 +598,5 @@
     "score": "0.0",
     "remarks": "全集完结",
     "update_time": "2026-08-21 22:57:47"
-  },
-  {
-    "id": 145201,
-    "name": "慵懒贵妃升职记",
-    "type": "古装仙侠",
-    "category": "短剧",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260821-1/9609a5da6fadfbd5d5f4b54bd7aaa6cb.jpg",
-    "score": "0.0",
-    "remarks": "全集完结",
-    "update_time": "2026-08-21 22:55:11"
   }
 ]

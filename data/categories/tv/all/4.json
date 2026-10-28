@@ -1,5 +1,17 @@
 [
   {
+    "id": 136448,
+    "name": "阿松与阿暖",
+    "type": "国产剧",
+    "category": "剧情",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260614-1/05af6d1f2239dab2971d264542a99230.jpg",
+    "score": "5.0",
+    "remarks": "第57集",
+    "update_time": "2026-08-26 12:56:17"
+  },
+  {
     "id": 141054,
     "name": "嘉米提-灵源战队（国语版）",
     "type": "欧美剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第33集完结",
     "update_time": "2026-08-23 20:16:45"
-  },
-  {
-    "id": 145442,
-    "name": "柯南势在必行 第三季",
-    "type": "欧美剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "美国",
-    "poster": "https://dbzy5.com/upload/vod/20260823-1/5c3aecfaeae36b437f189a0605eb8101.jpg",
-    "score": "5.0",
-    "remarks": "第1集",
-    "update_time": "2026-08-23 19:31:04"
   }
 ]

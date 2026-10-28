@@ -1,5 +1,29 @@
 [
   {
+    "id": 107091,
+    "name": "亡灵行者！从鱼人地下城开始 动态漫画",
+    "type": "国产动漫",
+    "category": "动画",
+    "year": "2025",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250927-1/bc22d113536ffde4024b6c2dae500045.jpg",
+    "score": "5.0",
+    "remarks": "第194集",
+    "update_time": "2026-08-22 11:50:30"
+  },
+  {
+    "id": 85004,
+    "name": "死灵法师！我即是天灾 动态漫画",
+    "type": "国产动漫",
+    "category": "中国动漫",
+    "year": "2025",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250413-1/6c027ee784228e6d968f4c1455877bf3.jpg",
+    "score": "0.0",
+    "remarks": "第286集",
+    "update_time": "2026-08-22 11:48:43"
+  },
+  {
     "id": 102544,
     "name": "系统送我避难所 第一季 动态漫画",
     "type": "国产动漫",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第50集完结",
     "update_time": "2026-08-18 19:28:22"
-  },
-  {
-    "id": 144538,
-    "name": "万族之劫",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260818-1/a4494fa8e236cd65ce9f93fc4707baec.jpg",
-    "score": "5.0",
-    "remarks": "第30集完结",
-    "update_time": "2026-08-18 19:22:04"
-  },
-  {
-    "id": 144403,
-    "name": "被系统误判的顶级厉诡",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260818-1/6420ff0bbda972f72e56f3a35f3226fe.jpg",
-    "score": "5.0",
-    "remarks": "第60集完结",
-    "update_time": "2026-08-18 12:35:27"
   }
 ]

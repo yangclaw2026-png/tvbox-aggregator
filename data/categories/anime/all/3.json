@@ -1,5 +1,29 @@
 [
   {
+    "id": 499,
+    "name": "丹道至尊",
+    "type": "国产动漫",
+    "category": "动作,动画,奇幻,中国动漫",
+    "year": "2023",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20250109-5/5000209d3d3873518e7aa498c2421897.jpg",
+    "score": "5.0",
+    "remarks": "第190集",
+    "update_time": "2026-08-27 11:36:48"
+  },
+  {
+    "id": 145030,
+    "name": "我家小师权不可能这么强",
+    "type": "国产动漫",
+    "category": "动作,动画,奇幻",
+    "year": "2026",
+    "area": "中国大陆",
+    "poster": "https://dbzy5.com/upload/vod/20260821-1/c61381a78e0a3a98288d93b1ea46b14b.jpg",
+    "score": "5.0",
+    "remarks": "第7集",
+    "update_time": "2026-08-27 11:36:08"
+  },
+  {
     "id": 143282,
     "name": "我的坟冢能滋养修为",
     "type": "国产动漫",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第6集",
     "update_time": "2026-08-26 14:22:51"
-  },
-  {
-    "id": 138988,
-    "name": "新攻壳机动队 攻殻機動隊",
-    "type": "日本动漫",
-    "category": "科幻,动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260708-1/7221c639d194e0107b22eff7e0bd009b.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-26 14:20:00"
-  },
-  {
-    "id": 138987,
-    "name": "奇招百出的维多利亚",
-    "type": "日本动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "日本",
-    "poster": "https://dbzy5.com/upload/vod/20260708-1/a96640ffc8c48e5d09ace4f7309d2589.jpg",
-    "score": "5.0",
-    "remarks": "第8集",
-    "update_time": "2026-08-26 14:14:13"
   }
 ]

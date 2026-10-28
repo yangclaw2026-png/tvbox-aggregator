@@ -1,5 +1,17 @@
 [
   {
+    "id": 151968,
+    "name": "幻想水浒传",
+    "type": "日本剧",
+    "category": "动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20261003-1/cd94cd5049ea24dbd32962676e9ff26b.jpg",
+    "score": "5.0",
+    "remarks": "第4集",
+    "update_time": "2026-10-28 12:16:35"
+  },
+  {
     "id": 152147,
     "name": "恋爱博士",
     "type": "韩剧",
@@ -586,17 +598,5 @@
     "score": "5.0",
     "remarks": "第4集完结",
     "update_time": "2026-09-29 23:00:51"
-  },
-  {
-    "id": 151363,
-    "name": "替身",
-    "type": "国产剧",
-    "category": "剧情",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260928-1/f5a96a6be1b5b2c18d4f27780782bbf1.webp",
-    "score": "5.0",
-    "remarks": "第1集",
-    "update_time": "2026-09-29 23:00:30"
   }
 ]

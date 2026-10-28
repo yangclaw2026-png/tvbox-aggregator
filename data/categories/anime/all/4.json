@@ -1,5 +1,29 @@
 [
   {
+    "id": 138988,
+    "name": "新攻壳机动队 攻殻機動隊",
+    "type": "日本动漫",
+    "category": "科幻,动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260708-1/7221c639d194e0107b22eff7e0bd009b.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-26 14:20:00"
+  },
+  {
+    "id": 138987,
+    "name": "奇招百出的维多利亚",
+    "type": "日本动漫",
+    "category": "动画",
+    "year": "2026",
+    "area": "日本",
+    "poster": "https://dbzy5.com/upload/vod/20260708-1/a96640ffc8c48e5d09ace4f7309d2589.jpg",
+    "score": "5.0",
+    "remarks": "第8集",
+    "update_time": "2026-08-26 14:14:13"
+  },
+  {
     "id": 134277,
     "name": "魔道重生的女武神",
     "type": "国产动漫",
@@ -574,29 +598,5 @@
     "score": "5.0",
     "remarks": "第36集",
     "update_time": "2026-08-25 17:36:31"
-  },
-  {
-    "id": 143096,
-    "name": "开局绑定系统：我在三角洲无限穿梭",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260810-1/2843b9fa5d83d65520ec26e8e0a8dfa4.jpg",
-    "score": "5.0",
-    "remarks": "第10集",
-    "update_time": "2026-08-25 17:35:52"
-  },
-  {
-    "id": 143123,
-    "name": "逆天萌兽：绝世妖女世无双",
-    "type": "国产动漫",
-    "category": "动画",
-    "year": "2026",
-    "area": "中国大陆",
-    "poster": "https://dbzy5.com/upload/vod/20260810-1/f23fa3fed4299d8dd029b2dd2b728a6e.jpg",
-    "score": "5.0",
-    "remarks": "第28集",
-    "update_time": "2026-08-25 17:35:09"
   }
 ]
