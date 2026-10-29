@@ -3452,6 +3452,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第3集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 168141,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第0集"
       }
     ]
   },
@@ -19938,7 +19945,16 @@
     "content": "<p><span style=\"color: #666666; font-family: Arial, sans-serif; font-size: 18px; background-color: #FFFFFF;\">本剧亮点在于用诗意片名包裹的细腻情感流动与氛围感营造 。 这部企鹅 AI 短剧共 63 集，以温柔笔触描绘一段如暖阳照进心底般的情感故事，整体基调舒缓治愈 。 角色间互动含蓄而有张力，情绪铺垫层层递进，没有激烈冲突却处处动人，叙事节奏如涓涓细流般自然流淌 。 适合偏好文艺气质 、 注重情绪体验的观众，转存到夸克网盘即可流畅观看全集并支持一键打包下载 。</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd17.ajupf.com/20260910/gjSsIynX/index.m3u8$$$全集完结$https://vodcnd17.ajupf.com/share/zVkJ9AQoA8",
-    "update_time": "2026-09-10 22:38:35"
+    "update_time": "2026-09-10 22:38:35",
+    "play_sources": [
+      {
+        "source": "量子资源",
+        "source_id": 164177,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
+      }
+    ]
   },
   {
     "id": 149008,
@@ -117413,7 +117429,16 @@
     "content": "<p>路小堇意外穿进一本万人迷修仙小说，成为书中只会痴恋男主、处处与原女主作对，最终落得凄惨下场的花痴大师姐。熟知完整剧情的她打定主意远离所有男性角色，安分低调苟住性命，避开所有必死剧情。可踏入宗门后她才发现，身边亲近之人全都暗藏诡异底色，温柔小师弟、温润大师兄乃至高高在上的师尊，竟然都是怪物。她无意间窥见众人隐藏的真面目，屡屡被对方察觉，一次次陷入险境险些丧命。屡次濒死过后路小堇彻底摆烂，索性当众发疯</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260630/6KTjblsE/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/EklfCApRy9",
-    "update_time": "2026-08-10 17:03:05"
+    "update_time": "2026-08-10 17:03:05",
+    "play_sources": [
+      {
+        "source": "量子资源",
+        "source_id": 145886,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
+      }
+    ]
   },
   {
     "id": 143108,
@@ -128572,6 +128597,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 164174,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
