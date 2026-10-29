@@ -1183,7 +1183,16 @@
     "content": "",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd17.0jtv2.com/20261003/AyiYqqtE/index.m3u8#第02集$https://vodcnd17.0jtv2.com/20261003/ZBNkWohy/index.m3u8#第03集$https://vodcnd17.0jtv2.com/20261006/byHths37/index.m3u8#第04集$https://vodcnd16.0jtv2.com/20261009/Z9bMEcny/index.m3u8#第05集$https://vodcnd16.0jtv2.com/20261009/DKVt9ylj/index.m3u8#第06集$https://vodcnd17.0jtv2.com/20261010/iJKZVAcT/index.m3u8#第07集$https://vodcnd17.0jtv2.com/20261011/uekQCIZl/index.m3u8#第08集$https://vodcnd17.0jtv2.com/20261014/IrHKhGEA/index.m3u8#第09集$https://vodcnd17.0jtv2.com/20261014/DhzN6Cmm/index.m3u8#第10集$https://vodcnd17.0jtv2.com/20261016/XFg1RQcR/index.m3u8#第11集$https://vodcnd17.0jtv2.com/20261017/JVccP7ev/index.m3u8#第12集$https://vodcnd16.0jtv2.com/20261018/57h0F4xO/index.m3u8#第13集$https://vodcnd17.0jtv2.com/20261021/76kskZRF/index.m3u8#20261022 上天入地“小分队”$https://vodcnd16.0jtv2.com/20261024/3ztfmwFt/index.m3u8$$$第01集$https://vodcnd17.0jtv2.com/share/RNjURvm2h7#第02集$https://vodcnd17.0jtv2.com/share/lS6n4LgDa4#第03集$https://vodcnd17.0jtv2.com/share/pHt9MZouAs#第04集$https://vodcnd16.0jtv2.com/share/Fa8rIePHlS#第05集$https://vodcnd16.0jtv2.com/share/S7Tgml1ew3#第06集$https://vodcnd17.0jtv2.com/share/ChBYrDzqym#第07集$https://vodcnd17.0jtv2.com/share/oiHtTOwTQT#第08集$https://vodcnd17.0jtv2.com/share/F2Ey7x3veT#第09集$https://vodcnd17.0jtv2.com/share/3xMqQccGd1#第10集$https://vodcnd17.0jtv2.com/share/Ez1bpfKREI#第11集$https://vodcnd17.0jtv2.com/share/gWFEJqWSWQ#第12集$https://vodcnd16.0jtv2.com/share/NPPKTe4hO7#第13集$https://vodcnd17.0jtv2.com/share/WbbtDDgpWD#20261022 上天入地“小分队”$https://vodcnd16.0jtv2.com/share/FkRDG8QZGO",
-    "update_time": "2026-10-24 15:06:47"
+    "update_time": "2026-10-24 15:06:47",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 152498,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第20261026期"
+      }
+    ]
   },
   {
     "id": 151929,
