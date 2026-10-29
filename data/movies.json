@@ -322,6 +322,13 @@
         "play_from": "snm3u8",
         "play_url": null,
         "remarks": "HD国语"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 170481,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至HD"
       }
     ]
   },
@@ -383,6 +390,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "正片"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 170480,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至HD"
       }
     ]
   },
@@ -1625,6 +1639,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第四期上"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 219617,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第五期下"
       }
     ]
   },
@@ -3398,6 +3419,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第3集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 166321,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第4集"
       }
     ]
   },
@@ -19644,6 +19672,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 164101,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
@@ -19722,6 +19757,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 164098,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
