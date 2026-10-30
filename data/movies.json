@@ -3942,6 +3942,13 @@
         "play_from": "snm3u8",
         "play_url": null,
         "remarks": "全10集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 164503,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "完结"
       }
     ]
   },
@@ -5056,6 +5063,13 @@
         "play_from": "snm3u8",
         "play_url": null,
         "remarks": "更新至14集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 166776,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第37集"
       }
     ]
   },
@@ -10217,6 +10231,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第8集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 163315,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "完结"
       }
     ]
   },
@@ -29969,6 +29990,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至20260827"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 70162,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至20261030"
       }
     ]
   },
@@ -33882,6 +33910,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至20260828"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 70151,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至20261030"
       }
     ]
   },
@@ -40466,6 +40501,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第38集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 151288,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第70集"
       }
     ]
   },
