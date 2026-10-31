@@ -1209,7 +1209,16 @@
     "content": "",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "20260930$https://vodcnd17.0jtv2.com/20261003/NuGpZWay/index.m3u8#20261001$https://vodcnd17.0jtv2.com/20261003/c4kFyBBo/index.m3u8#20261002$https://vodcnd17.0jtv2.com/20261003/94FbJkbx/index.m3u8#20261003$https://vodcnd17.0jtv2.com/20261003/dncdL2LC/index.m3u8#20261004$https://vodcnd16.0jtv2.com/20261006/CLFvkIWA/index.m3u8#20261005$https://vodcnd16.0jtv2.com/20261006/ftmia1QR/index.m3u8#20261006$https://vodcnd16.0jtv2.com/20261009/PhkCLBFU/index.m3u8#20261007$https://vodcnd16.0jtv2.com/20261009/W2KqGbqs/index.m3u8#20261008$https://vodcnd16.0jtv2.com/20261009/mVr95dYb/index.m3u8#20261009$https://vodcnd17.0jtv2.com/20261010/NL2KEni6/index.m3u8#20261010$https://vodcnd17.0jtv2.com/20261011/xedvOihA/index.m3u8#20261011$https://vodcnd17.0jtv2.com/20261013/c1PNtW81/index.m3u8#20261012$https://vodcnd17.0jtv2.com/20261013/c6JpnqsT/index.m3u8#20261013$https://vodcnd17.0jtv2.com/20261013/SEwwe8l8/index.m3u8#20261014$https://vodcnd17.0jtv2.com/20261014/joBUzCOg/index.m3u8#20261015$https://vodcnd17.0jtv2.com/20261017/syhHX1lD/index.m3u8#20261016$https://vodcnd17.0jtv2.com/20261017/7n0eZTtw/index.m3u8#20261017$https://vodcnd16.0jtv2.com/20261018/JaD53IEo/index.m3u8#20261018$https://vodcnd17.0jtv2.com/20261019/9aUcCmFn/index.m3u8#20261019$https://vodcnd17.0jtv2.com/20261021/Ldl489VH/index.m3u8#20261021心梗急救记心间$https://vodcnd17.ky32e.com/20261023/1qYfa4kF/index.m3u8#20261022中风急救记心间$https://vodcnd16.0jtv2.com/20261024/BkRzFac1/index.m3u8$$$20260930$https://vodcnd17.0jtv2.com/share/sq7B0yEFmD#20261001$https://vodcnd17.0jtv2.com/share/gWCWEzFqKt#20261002$https://vodcnd17.0jtv2.com/share/ifCG8yMAKp#20261003$https://vodcnd17.0jtv2.com/share/33sLvqwagn#20261004$https://vodcnd16.0jtv2.com/share/BXxIrfG38B#20261005$https://vodcnd16.0jtv2.com/share/yQyaRx4FMo#20261006$https://vodcnd16.0jtv2.com/share/JTHD6zBW7N#20261007$https://vodcnd16.0jtv2.com/share/WEKPLRXd04#20261008$https://vodcnd16.0jtv2.com/share/OXthazAHmW#20261009$https://vodcnd17.0jtv2.com/share/7X34uKXysh#20261010$https://vodcnd17.0jtv2.com/share/3tu5YXhFGW#20261011$https://vodcnd17.0jtv2.com/share/in5SdDX7my#20261012$https://vodcnd17.0jtv2.com/share/wsq8LasbPz#20261013$https://vodcnd17.0jtv2.com/share/xfRhktbRnY#20261014$https://vodcnd17.0jtv2.com/share/DDbwcjOZH2#20261015$https://vodcnd17.0jtv2.com/share/EVo406vLPk#20261016$https://vodcnd17.0jtv2.com/share/1J9YlfSPqA#20261017$https://vodcnd16.0jtv2.com/share/Aw2MY0YqS1#20261018$https://vodcnd17.0jtv2.com/share/MQIW750zCa#20261019$https://vodcnd17.0jtv2.com/share/baig0J4IN#20261021心梗急救记心间$https://vodcnd17.ky32e.com/share/jQEQdzkxSu#20261022中风急救记心间$https://vodcnd16.0jtv2.com/share/2Sq5hS1QOU",
-    "update_time": "2026-10-24 15:00:37"
+    "update_time": "2026-10-24 15:00:37",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 152496,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第202610130期"
+      }
+    ]
   },
   {
     "id": 153859,
@@ -5850,6 +5859,20 @@
         "play_from": "gsyun,gsm3u8",
         "play_url": "",
         "remarks": "第3集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 167020,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第4集"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 161257,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第4集"
       }
     ]
   },
@@ -6046,6 +6069,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第2集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 166781,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第4集"
       }
     ]
   },
@@ -6072,6 +6102,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第01集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 166806,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第4集"
       }
     ]
   },
@@ -6105,6 +6142,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第2集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 167015,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第4集"
       }
     ]
   },
@@ -97790,7 +97834,16 @@
     "content": "<p>多年前两情相悦，女子心甘情愿交付一切，却遭男人始乱终弃，受尽屈辱、身败名裂。一朝重逢，那一夜的海浪声犹在耳边，女子复仇心切，为渣男量身打造一场又一场鸿门宴。娴熟布置温柔陷井，出神入化的厨艺先抓住他的胃，再锁住他的心，还要得到他的身体。食欲与爱欲交缠难分，步步为营难抵意乱情迷。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "抢先版$https://vodcnd16.ajupf.com/20260816/ojq1bDIS/index.m3u8$$$抢先版$https://vodcnd16.ajupf.com/share/kaT7DEnNyb",
-    "update_time": "2026-08-16 22:50:23"
+    "update_time": "2026-08-16 22:50:23",
+    "play_sources": [
+      {
+        "source": "量子资源",
+        "source_id": 164526,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "HD"
+      }
+    ]
   },
   {
     "id": 144150,
