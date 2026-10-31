@@ -1048,6 +1048,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第3集"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 162550,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第3集"
       }
     ]
   },
@@ -4165,7 +4172,16 @@
     "content": "<p><span style=\"color: oklch(0.554 0.046 257.417); font-family: Poppins, ui-sans-serif, system-ui, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; background-color: #FFFFFF;\">侯府女沈岁宁久居冷院，一纸赐婚，她嫁入权倾朝野的摄政王府。世人皆笑她懵懂迟钝，殊不知她心思通透，拥有过人的洞察与记忆。她与身染顽疾的摄政王萧妄从彼此试探走向彼此信赖，携手拨开陈年迷雾，洗清长辈蒙尘旧事。历经风波考验，她拒绝唾手可得的自由，二人重行大礼，守一份烟火安稳，相伴余生。</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd17.ajupf.com/20261008/8bZplzAv/index.m3u8$$$全集完结$https://vodcnd17.ajupf.com/share/2cm0Y1IUUk",
-    "update_time": "2026-10-13 23:01:35"
+    "update_time": "2026-10-13 23:01:35",
+    "play_sources": [
+      {
+        "source": "暴风资源",
+        "source_id": 170638,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "完结"
+      }
+    ]
   },
   {
     "id": 152789,
@@ -14133,6 +14149,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 170656,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "完结"
       }
     ]
   },
@@ -16241,7 +16264,16 @@
     "content": "<p><span style=\"color: #666666; font-family: Arial, sans-serif; font-size: 18px; background-color: #FFFFFF;\">看完心里五味杂陈，古埃及的宿命感在这部一百六十集的AI短剧里被渲染得浓烈又深沉。法老与安卡之间由契约牵起的命运纠缠，跨越黄沙与王座，每一帧画面都浸透了权势与深情之间的拉扯。AI制作的异域宫殿与神庙场景极富视觉冲击力，把这段古老誓言背后的牺牲与守护烘托得如在眼前。故事走到深处，眼泪落下的那一刻，你会明白有些羁绊连时间都冲不散。夜深人静的时候点开这部慢慢品味，记得先存好资源再说。</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd17.ajupf.com/20260917/49bA9zGU/index.m3u8$$$全集完结$https://vodcnd17.ajupf.com/share/TAHI2LnfiY",
-    "update_time": "2026-09-17 22:52:32"
+    "update_time": "2026-09-17 22:52:32",
+    "play_sources": [
+      {
+        "source": "暴风资源",
+        "source_id": 170747,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "完结"
+      }
+    ]
   },
   {
     "id": 150050,
@@ -17186,6 +17218,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 170696,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "完结"
       }
     ]
   },
