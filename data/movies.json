@@ -1004,6 +1004,34 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第3集"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 222694,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第3集"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 198568,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第3集"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 163525,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至第03集"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 163162,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第3集"
       }
     ]
   },
@@ -1071,6 +1099,20 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第3集"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 222112,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第4集"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 197958,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第4集"
       }
     ]
   },
@@ -20267,6 +20309,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 164702,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
@@ -20371,6 +20420,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 164688,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
@@ -21402,6 +21458,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 164704,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
@@ -62104,6 +62167,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第07集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 158008,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第12集"
       }
     ]
   },
