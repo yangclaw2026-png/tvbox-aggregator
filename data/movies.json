@@ -989,7 +989,23 @@
     "content": "",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.0jtv2.com/20261026/xZSwGTqS/index.m3u8#第02集$https://vodcnd16.0jtv2.com/20261026/TtGK8kA1/index.m3u8$$$第01集$https://vodcnd16.0jtv2.com/share/H73URtb1jA#第02集$https://vodcnd16.0jtv2.com/share/5VXfLhZs8c",
-    "update_time": "2026-10-26 22:11:10"
+    "update_time": "2026-10-26 22:11:10",
+    "play_sources": [
+      {
+        "source": "索尼资源",
+        "source_id": 158613,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "更新至03集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 169325,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第3集"
+      }
+    ]
   },
   {
     "id": 152085,
@@ -62508,6 +62524,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第156集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 83604,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第165集"
       }
     ]
   },
