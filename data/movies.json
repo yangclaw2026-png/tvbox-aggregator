@@ -561,6 +561,20 @@
         "play_from": "lzm3u8",
         "play_url": null,
         "remarks": "已完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 198835,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 163428,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
       }
     ]
   },
@@ -819,6 +833,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第8集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 165490,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第9集"
       }
     ]
   },
@@ -1050,7 +1071,16 @@
     "content": "<p>暂无简介</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd17.0jtv2.com/20261005/tcBwwclG/index.m3u8#第02集$https://vodcnd17.0jtv2.com/20261012/JyBPZUcV/index.m3u8#第03集$https://vodcnd17.0jtv2.com/20261019/iwahKUxP/index.m3u8#第04集$https://vodcnd16.0jtv2.com/20261026/PLP5gxEv/index.m3u8# $$$第01集$https://vodcnd17.0jtv2.com/share/Gh3NUnNd5o#第02集$https://vodcnd17.0jtv2.com/share/PpsEcZSPDS#第03集$https://vodcnd17.0jtv2.com/share/MV8uS7xMcw#第04集$https://vodcnd16.0jtv2.com/share/tFmAYQW3SL# ",
-    "update_time": "2026-10-26 21:59:14"
+    "update_time": "2026-10-26 21:59:14",
+    "play_sources": [
+      {
+        "source": "暴风资源",
+        "source_id": 165487,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第5集"
+      }
+    ]
   },
   {
     "id": 152086,
@@ -1067,7 +1097,16 @@
     "content": "<p>暂无简介</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.0jtv2.com/20261005/E2WYw1O5/index.m3u8#第02集$https://vodcnd17.0jtv2.com/20261013/81UIBNoX/index.m3u8#第03集$https://vodcnd17.0jtv2.com/20261019/igUSdeAa/index.m3u8#第04集$https://vodcnd16.0jtv2.com/20261026/KpgSVEYL/index.m3u8$$$第01集$https://vodcnd16.0jtv2.com/share/lUMnwu7aG9#第02集$https://vodcnd17.0jtv2.com/share/hEH8zVeMgD#第03集$https://vodcnd17.0jtv2.com/share/PvqTaFYC3R#第04集$https://vodcnd16.0jtv2.com/share/jJAz6E37DW",
-    "update_time": "2026-10-26 21:58:27"
+    "update_time": "2026-10-26 21:58:27",
+    "play_sources": [
+      {
+        "source": "暴风资源",
+        "source_id": 166141,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第5集"
+      }
+    ]
   },
   {
     "id": 154225,
@@ -1510,6 +1549,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第4集"
+      },
+      {
+        "source": "茅台资源",
+        "source_id": 153896,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第4集"
       }
     ]
   },
@@ -12709,6 +12755,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第5集"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 218876,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第8集完结"
       }
     ]
   },
