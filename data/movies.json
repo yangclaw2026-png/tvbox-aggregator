@@ -423,6 +423,27 @@
         "play_from": "lzm3u8",
         "play_url": null,
         "remarks": "已完结"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 223070,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "全集完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 198947,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 163540,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
       }
     ]
   },
@@ -1852,6 +1873,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第05集"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 155557,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "全6集"
       }
     ]
   },
@@ -2000,6 +2028,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第3集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 168458,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第4集"
       }
     ]
   },
@@ -6917,6 +6952,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第4集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 165853,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第05集"
       }
     ]
   },
@@ -6985,6 +7027,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第4集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 165856,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第05集"
       }
     ]
   },
@@ -8047,6 +8096,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第2集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 165855,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第5集"
       }
     ]
   },
@@ -8080,6 +8136,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第2集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 165800,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第5集"
       }
     ]
   },
@@ -11488,7 +11551,37 @@
     "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">　　一个虔诚的杀手在杀人的工作、信仰和当父亲的责任之间挣扎，他要保护自己的孩子们，直面来袭的势力和濒临崩塌的信仰。</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "正片$https://vodcnd17.ajupf.com/20260928/Ixr8anoY/index.m3u8$$$正片$https://vodcnd17.ajupf.com/share/dhcIeg7ldo",
-    "update_time": "2026-09-29 22:59:37"
+    "update_time": "2026-09-29 22:59:37",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 219416,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "正片"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 195291,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "正片"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 163399,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至HD"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 159907,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "正片"
+      }
+    ]
   },
   {
     "id": 151368,
@@ -19354,6 +19447,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 164914,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
@@ -20427,6 +20527,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 164911,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
@@ -20926,6 +21033,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 164903,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
@@ -21493,6 +21607,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 164905,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
@@ -47434,6 +47555,13 @@
         "play_from": "snm3u8",
         "play_url": null,
         "remarks": "更新至10集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 159418,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第24集"
       }
     ]
   },
@@ -54466,6 +54594,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第44集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 111614,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第53集"
       }
     ]
   },
@@ -54904,6 +55039,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第152集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 142903,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第157集"
       }
     ]
   },
@@ -86731,6 +86873,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至20261012第16期"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 149239,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至20261102第19期"
       }
     ]
   },
@@ -94297,6 +94446,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第17集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 153363,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第33集"
       }
     ]
   },
