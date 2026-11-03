@@ -540,7 +540,44 @@
     "content": "<p><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">“我曾以为，只要拥有那份力量，就能守护一切。”</span><span style=\"color: #111111; font-family: Helvetica, Arial, sans-serif; font-size: 13px; background-color: #FFFFFF;\">位于迪南地区东北部，拥有强大军事力量的海兰德王国。隶属于该国少年兵部队的少年——主人公利柳与挚友乔伊，两人曾仰望同一片星空，同宿于一个帐篷，并坚信着同一个未来。只要这场战斗结束，只要天一亮，就能回到那个平凡的日常。然而这份心意终究徒劳，两人终究被卷入了由战火引导的命运漩涡之中。无力的少年们，获得了强大的力量。在 108 颗星辰格外璀璨的夜空下，怀抱着无解的问题，少年们，将遵循自己的信念启程前行。</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd16.0jtv2.com/20261003/FvgtIRYt/index.m3u8#第02集$https://vodcnd16.0jtv2.com/20261021/dq9cjJbc/index.m3u8#第03集$https://vodcnd16.0jtv2.com/20261021/8kiI2vvc/index.m3u8#第04集$https://vodcnd16.0jtv2.com/20261028/ecGaDNgs/index.m3u8$$$第01集$https://vodcnd16.0jtv2.com/share/wYi3YMdVl4#第02集$https://vodcnd16.0jtv2.com/share/shyZnIEypp#第03集$https://vodcnd16.0jtv2.com/share/V0VZef8PE3#第04集$https://vodcnd16.0jtv2.com/share/O9HlxJGSFA",
-    "update_time": "2026-10-28 12:16:35"
+    "update_time": "2026-10-28 12:16:35",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 221382,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第5集"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 159513,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至第05集"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 156252,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "更新至05集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 165199,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第5集"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 161847,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第5集"
+      }
+    ]
   },
   {
     "id": 153098,
@@ -1880,6 +1917,13 @@
         "play_from": "snm3u8",
         "play_url": null,
         "remarks": "全6集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 163286,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "完结"
       }
     ]
   },
