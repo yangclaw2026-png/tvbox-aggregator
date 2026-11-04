@@ -1982,6 +1982,27 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "完结"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 219179,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第6期完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 195055,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第6期完结"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 159672,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第6期完结"
       }
     ]
   },
@@ -3757,6 +3778,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第4集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 166124,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第5集"
       }
     ]
   },
