@@ -228,6 +228,20 @@
         "play_from": "lzm3u8",
         "play_url": null,
         "remarks": "更新至第02集"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 157639,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "更新至03集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 168811,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第3集"
       }
     ]
   },
@@ -246,7 +260,37 @@
     "content": "",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "20261028第1期：萨顶顶对话段睿：如果蔡磊好了 我想说“我好累 不干了$https://vodcnd17.0jtv2.com/20261028/qsxr0Hyj/index.m3u8$$$20261028第1期：萨顶顶对话段睿：如果蔡磊好了 我想说“我好累 不干了$https://vodcnd17.0jtv2.com/share/Muf4fiHccp",
-    "update_time": "2026-10-28 19:30:25"
+    "update_time": "2026-10-28 19:30:25",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 222396,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第2期"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 198271,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第2期"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 170098,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至20261104第2期"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 162864,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第2期"
+      }
+    ]
   },
   {
     "id": 154448,
@@ -505,6 +549,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第3集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 167790,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第4集"
       }
     ]
   },
@@ -12586,6 +12637,13 @@
         "play_from": "gsyun,gsm3u8",
         "play_url": "",
         "remarks": "第6集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 161419,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "完结"
       }
     ]
   },
@@ -38837,6 +38895,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第09集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 151373,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第18集"
       }
     ]
   },
@@ -47235,6 +47300,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第8集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 154867,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第17集"
       }
     ]
   },
@@ -47674,6 +47746,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第157集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 31455,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第166集"
       }
     ]
   },
@@ -47992,6 +48071,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第23集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 147779,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第42集"
       }
     ]
   },
@@ -48283,6 +48369,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第17集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 152258,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第35集"
       }
     ]
   },
