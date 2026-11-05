@@ -1406,7 +1406,16 @@
     "content": "<p>无</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "第01集$https://vodcnd17.0jtv2.com/20261003/X7VfyHzS/index.m3u8#第02集$https://vodcnd17.0jtv2.com/20261004/c5STVOMp/index.m3u8#第03集$https://vodcnd17.0jtv2.com/20261010/eyL4PsBP/index.m3u8#第04集$https://vodcnd17.0jtv2.com/20261011/c4KOWXkB/index.m3u8#第05集$https://vodcnd17.0jtv2.com/20261017/1GCUrUo7/index.m3u8#第06集$https://vodcnd16.0jtv2.com/20261018/DUqqq9da/index.m3u8#第07集$https://vodcnd17.0jtv2.com/20261025/b00kCgL0/index.m3u8#第08集$https://vodcnd16.0jtv2.com/20261025/izj4yXFd/index.m3u8$$$第01集$https://vodcnd17.0jtv2.com/share/bpkZ5DiHOI#第02集$https://vodcnd17.0jtv2.com/share/2wdhuTWKIn#第03集$https://vodcnd17.0jtv2.com/share/Y93CWjpkZZ#第04集$https://vodcnd17.0jtv2.com/share/L5IFTkR5uG#第05集$https://vodcnd17.0jtv2.com/share/uPkOub6Odn#第06集$https://vodcnd16.0jtv2.com/share/GIFsK0KTBM#第07集$https://vodcnd17.0jtv2.com/share/UKwhc9kPAf#第08集$https://vodcnd16.0jtv2.com/share/T7PGy0j4in",
-    "update_time": "2026-10-25 18:49:07"
+    "update_time": "2026-10-25 18:49:07",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 152400,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "第2026131期"
+      }
+    ]
   },
   {
     "id": 154033,
@@ -3542,6 +3551,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第3集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 166477,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第5集"
       }
     ]
   },
