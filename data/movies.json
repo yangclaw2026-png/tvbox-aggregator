@@ -348,7 +348,44 @@
     "content": "",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "预告片$https://vodcnd16.0jtv2.com/20261028/f7WWdxLS/index.m3u8$$$预告片$https://vodcnd16.0jtv2.com/share/5acLQsLSHo",
-    "update_time": "2026-10-28 19:15:24"
+    "update_time": "2026-10-28 19:15:24",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 223449,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "正片"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 199324,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "正片"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 171647,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至高清"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 171646,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至HD"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 163917,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "正片"
+      }
+    ]
   },
   {
     "id": 154445,
@@ -6590,6 +6627,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第3集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 166501,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第4集"
       }
     ]
   },
@@ -72749,7 +72793,16 @@
     "content": "<p><span style=\"color: #222222; font-family: -apple-system, BlinkMacSystemFont, \">商界大佬宋棠刚在纳斯达克敲钟上市，一觉醒来竟穿进甜宠文，成了男主蔺晏沉的炮灰初恋女配！原主死缠烂打、陷害女主，最终落得公司破产、跳河自尽的凄惨结局。熟知剧情的宋棠表示，男人哪有搞钱香？她果断提分手，一心搞事业拯救家族危机。可明明巴不得甩掉她的男主怎么回事？怎么她越想跑，他反而追得越紧了？</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd17.ajupf.com/20260814/2ycWJxaJ/index.m3u8#$$$全集完结$https://vodcnd17.ajupf.com/share/3bQcLnMiMG#",
-    "update_time": "2026-08-22 18:20:05"
+    "update_time": "2026-08-22 18:20:05",
+    "play_sources": [
+      {
+        "source": "红牛资源",
+        "source_id": 199286,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 145254,
@@ -132371,7 +132424,16 @@
     "content": "<p><span style=\"color: #222222; font-family: -apple-system, BlinkMacSystemFont, \">江浅，祖传兽医。新帝裴瓒一道圣旨封她为贵妃，进宫后才发现满宫嫔妃全是妖怪。原来裴瓒是龙身人命的天神下凡，为让江浅帮忙治理后宫，裴瓒答应等自己死后让江浅当太后。为让裴瓒早点“死”，江浅卯足劲干活给妖怪治病、帮陛下斗晋王、应付裴瓒暧昧撩拨，日子又甜又闹。后来江浅才知，裴瓒召她入宫是为改她命薄如纸的命格。直到她寿终正寝升天成仙，才在天庭重新撞进裴瓒怀里——原来神仙也会痴等一人，从人间到九天。 集数：71集</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260710/r9iw42m8/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/nHQdMIl7Kh",
-    "update_time": "2026-08-05 22:15:55"
+    "update_time": "2026-08-05 22:15:55",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 155615,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 142383,
