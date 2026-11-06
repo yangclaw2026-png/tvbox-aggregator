@@ -4537,7 +4537,16 @@
     "content": "<p><span style=\"color: oklch(0.554 0.046 257.417); font-family: Poppins, ui-sans-serif, system-ui, sans-serif, &quot;Apple Color Emoji&quot;, &quot;Segoe UI Emoji&quot;, &quot;Segoe UI Symbol&quot;, &quot;Noto Color Emoji&quot;; background-color: #FFFFFF;\">现代一家四口集体穿越大晋贫困农家，偏心奶奶为凑长孙科考盘缠，竟把他们关起来饿到奄奄一息。农业专家老爹、糕点大师老妈、非遗博主姐姐、学霸弟弟，四人赤手空拳地狱开局。一家人齐心协力，老妈开了县城最大的糕点铺，老爹机缘巧合之下，得了圣上赏赐的庄园，姐姐凭借智慧带领全村致富，弟弟也努力学习一路升学，一家人的日子越过越好。</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd17.ajupf.com/20260926/X4BbSmcm/index.m3u8$$$全集完结$https://vodcnd17.ajupf.com/share/vdTIOOPucy",
-    "update_time": "2026-10-13 23:04:30"
+    "update_time": "2026-10-13 23:04:30",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 155652,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "全集完结"
+      }
+    ]
   },
   {
     "id": 153076,
