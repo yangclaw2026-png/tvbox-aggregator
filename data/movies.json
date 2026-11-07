@@ -384,6 +384,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "正片"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 159029,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "HD中字"
       }
     ]
   },
@@ -118392,6 +118399,13 @@
         "play_from": "lzm3u8",
         "play_url": null,
         "remarks": "HD"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 152674,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "HD中字"
       }
     ]
   },
