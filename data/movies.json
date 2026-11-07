@@ -391,6 +391,13 @@
         "play_from": "snm3u8",
         "play_url": null,
         "remarks": "HD中字"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 165606,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "HD"
       }
     ]
   },
@@ -16898,7 +16905,16 @@
     "content": "<p><span style=\"color: #666666; font-family: Arial, sans-serif; font-size: 18px; background-color: #FFFFFF;\">这部AI短剧把穿越种田与王爷情缘拍出了别样风味，一口气更新到143集让人追得过瘾。《穿越农女捡个王爷来种田第二季》延续前作故事线，讲述女主在古代乡村靠双手发家致富并收获真爱的历程，全篇节奏明快不拖沓。剧情聚焦农耕经营与身份反差带来的戏剧冲突，男女主从互相试探到并肩作战的情感递进自然流畅，主线清晰且爽点密集，特别适合喜欢古风种田题材和AI制作短剧的观众，转存到夸克网盘马上就能看全集还能打包下载。</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd17.ajupf.com/20260917/xUBq5Kod/index.m3u8$$$全集完结$https://vodcnd17.ajupf.com/share/CuEw8V45Nr",
-    "update_time": "2026-09-17 22:50:14"
+    "update_time": "2026-09-17 22:50:14",
+    "play_sources": [
+      {
+        "source": "量子资源",
+        "source_id": 165560,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
+      }
+    ]
   },
   {
     "id": 150059,
@@ -16932,7 +16948,16 @@
     "content": "<p><span style=\"color: #666666; font-family: Arial, sans-serif; font-size: 18px; background-color: #FFFFFF;\">这部112集的AI短剧以细腻情感刻画见长，是近期都市情感题材中的诚意之作。《月色落忱》通过男女主之间复杂纠葛展现现代亲密关系的拉扯与治愈，剧情没有狗血误会堆砌而是靠人物动机推动发展。两人从疏离到交心的过程充满张力，关键转折点处理得克制又动人，整体氛围感远超同类作品，特别适合喜欢慢热情感线和高质量AI制作的观众，转存进网盘就能在线观看、还能打包下载慢慢品味。</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd17.ajupf.com/20260917/Q77iDWfA/index.m3u8$$$全集完结$https://vodcnd17.ajupf.com/share/hBu0BCbzyt",
-    "update_time": "2026-09-17 22:49:11"
+    "update_time": "2026-09-17 22:49:11",
+    "play_sources": [
+      {
+        "source": "量子资源",
+        "source_id": 165557,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
+      }
+    ]
   },
   {
     "id": 150063,
@@ -18882,6 +18907,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 165552,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
