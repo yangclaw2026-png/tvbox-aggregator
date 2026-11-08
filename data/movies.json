@@ -2809,6 +2809,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 165763,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
@@ -4600,7 +4607,16 @@
     "content": "<p>现代一家四口集体穿越大晋贫困农家，偏心奶奶为凑长孙科考盘缠，竟把他们关起来饿到奄奄一息。农业专家老爹、糕点大师老妈、非遗博主姐姐、学霸弟弟，四人赤手空拳地狱开局。斗极品亲戚，后山挖野菜建秘密基地，做手工，步步筹谋闹分家。一家人齐心协力，种田、经商、读书，闯出属于自家的富贵人生。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd17.ajupf.com/20261008/olctls6S/index.m3u8$$$全集完结$https://vodcnd17.ajupf.com/share/6jo1SByFRq",
-    "update_time": "2026-10-13 23:03:10"
+    "update_time": "2026-10-13 23:03:10",
+    "play_sources": [
+      {
+        "source": "量子资源",
+        "source_id": 165761,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
+      }
+    ]
   },
   {
     "id": 153075,
@@ -8532,6 +8548,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 165750,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
@@ -9116,7 +9139,16 @@
     "content": "<p>普通女孩花卷的小吃店午夜会穿越至古代。她凭借现代特色美食打开古市场，从一碗泡面起步，对抗当地餐饮垄断势力。携手将军陆明礼与伙伴一同打拼，搭建跨时空餐饮事业。时隔五年，同学聚会时她洗清过往偷窃的冤屈。获御赐“天下第一厨”牌匾，于古今两个世界都收获成就。剧集融合美食穿越商战，剧情紧凑看点十足。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd17.ajupf.com/20261002/y6hmsRYV/index.m3u8$$$全集完结$https://vodcnd17.ajupf.com/share/3hmmfgr3KR",
-    "update_time": "2026-10-05 21:44:39"
+    "update_time": "2026-10-05 21:44:39",
+    "play_sources": [
+      {
+        "source": "量子资源",
+        "source_id": 165754,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
+      }
+    ]
   },
   {
     "id": 152092,
