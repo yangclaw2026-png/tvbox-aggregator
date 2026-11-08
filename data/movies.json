@@ -331,7 +331,30 @@
     "content": "",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "预告片$https://vodcnd16.0jtv2.com/20261028/d5nZMKPP/index.m3u8$$$预告片$https://vodcnd16.0jtv2.com/share/lXuQSU2MNg",
-    "update_time": "2026-10-28 19:20:21"
+    "update_time": "2026-10-28 19:20:21",
+    "play_sources": [
+      {
+        "source": "光速资源",
+        "source_id": 223545,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "抢先版"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 199420,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "抢先版"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 164013,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "抢先版"
+      }
+    ]
   },
   {
     "id": 154446,
@@ -63968,6 +63991,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第6集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 154180,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第15集"
       }
     ]
   },
