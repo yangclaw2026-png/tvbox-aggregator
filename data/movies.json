@@ -353,6 +353,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "抢先版"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 171893,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至HD"
       }
     ]
   },
