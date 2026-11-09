@@ -9211,6 +9211,13 @@
         "play_from": "snm3u8",
         "play_url": null,
         "remarks": "更新至40集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 148768,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第48集"
       }
     ]
   },
@@ -47951,6 +47958,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第12集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 154862,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第23集"
       }
     ]
   },
