@@ -2255,6 +2255,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第4集"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 157610,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "更新至05集"
       }
     ]
   },
@@ -7410,6 +7417,13 @@
         "play_from": "lzm3u8",
         "play_url": null,
         "remarks": "更新至第05集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 163263,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第7集"
       }
     ]
   },
@@ -14723,6 +14737,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 171969,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "完结"
       }
     ]
   },
@@ -22493,6 +22514,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 171955,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "完结"
       }
     ]
   },
