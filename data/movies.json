@@ -1837,6 +1837,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第9集"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 161187,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "更新至第12集"
       }
     ]
   },
@@ -43320,6 +43327,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第20260901期"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 31580,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "更新至20261110期"
       }
     ]
   },
