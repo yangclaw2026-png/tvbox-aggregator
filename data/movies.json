@@ -75410,6 +75410,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第20260827期"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 42045,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "更新至261112期"
       }
     ]
   },
