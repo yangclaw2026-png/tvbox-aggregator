@@ -328,7 +328,16 @@
     "content": "",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "预告片$https://vodcnd16.0jtv2.com/20261028/ssbhBAAC/index.m3u8$$$ 预告片$https://vodcnd16.0jtv2.com/share/SWN3F2dnVi",
-    "update_time": "2026-10-28 19:26:26"
+    "update_time": "2026-10-28 19:26:26",
+    "play_sources": [
+      {
+        "source": "暴风资源",
+        "source_id": 172674,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至TC"
+      }
+    ]
   },
   {
     "id": 154447,
@@ -7003,6 +7012,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至第4期"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 163334,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第8期"
       }
     ]
   },
@@ -8702,7 +8718,16 @@
     "content": "<p>穿越大周，特种兵陈玄沦为将军府后厨杂役。他凭借前世精湛厨艺，意外获得大夫人与二夫人的赏识，自此步步为营，从微末一步步走向巅峰。眼见这世道弱肉强食、大周风雨飘摇，朝堂之上奸佞当道，他偏要逆天改命，以一己之力搅动天下风云，誓要将这腐朽世道彻底改写！</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd17.ajupf.com/20261002/Zo5oHIe7/index.m3u8$$$全集完结$https://vodcnd17.ajupf.com/share/ge2tsbmuot",
-    "update_time": "2026-10-05 22:48:27"
+    "update_time": "2026-10-05 22:48:27",
+    "play_sources": [
+      {
+        "source": "暴风资源",
+        "source_id": 172544,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "完结"
+      }
+    ]
   },
   {
     "id": 152128,
@@ -12483,7 +12508,16 @@
     "content": "<p>陆家与沈家指腹为婚，大婚之日陆家长子却逃婚而去。为保全两家颜面，陆父逼二公子陆时瑾代兄迎娶。陆时瑾满心抗拒，却不知眼前这位从容淡定的新妇，正是他十四岁那年御花园中惊鸿一瞥的少女。沈婉原本只想挑个“好拿捏”的相公安稳度日，却不想这位被兄长甩锅的丈夫竟日日将她捧在手心。可当逃婚的大哥回京，一句“婚约本该是我的”，让陆时瑾当场红了眼，死死攥住沈婉的手不放。这是一场阴差阳错的替娶，也是一次心甘情愿的沉沦。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd17.ajupf.com/20260925/Np3IJTtl/index.m3u8$$$全集完结$https://vodcnd17.ajupf.com/share/FQHbqNLvdD",
-    "update_time": "2026-09-28 23:00:43"
+    "update_time": "2026-09-28 23:00:43",
+    "play_sources": [
+      {
+        "source": "暴风资源",
+        "source_id": 172655,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "完结"
+      }
+    ]
   },
   {
     "id": 151575,
@@ -12500,7 +12534,16 @@
     "content": "<p>又是AI短剧？但这回画面质感和叙事节奏真不一样。剧名透着一种万物有灵的东方意境，故事讲的是主角能听见天地万物的声音，在层层谜局中循声追索真相。77集的体量铺得很开，每一集都在给前面的伏笔做回应，看到后面才明白开头那些看似闲笔的声响全是关键线索。AI生成的角色神态细腻，配合音效营造出的氛围感很强，尤其适合喜欢悬疑又带点玄学色彩的观众。整部剧看下来像在解一道音律谜题，越往深处越有味道。存到网盘里慢慢品，别错过每一声细节。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd17.ajupf.com/20260925/WGMaHdTY/index.m3u8$$$全集完结$https://vodcnd17.ajupf.com/share/2cHfIg6n11",
-    "update_time": "2026-09-28 23:00:00"
+    "update_time": "2026-09-28 23:00:00",
+    "play_sources": [
+      {
+        "source": "暴风资源",
+        "source_id": 172657,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "完结"
+      }
+    ]
   },
   {
     "id": 151574,
@@ -13225,7 +13268,16 @@
     "content": "<p>主角团奔赴圣魔城营救云知意，陈极煽动民愤制造混乱，借机救人，却被困圣魔城大阵。众人历经死战，在夏皇子接应下成功突围，退守轮回宗。陈极改良轮回圣经，隔空捞出夏皇神魂。各大魔宗齐聚镇苍之地，企图破除封印入侵玄天大陆。主角团深夜潜入敌营，绑架多名魔宗圣子、圣女作为筹码。封印破碎、接引之门被毁，魔修围攻轮回宗，众人靠人质数次脱险，逃亡血神府遗迹。绝境之中，寿元将尽的血神老祖现身退敌，赠予众人血神古池传承！</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd17.ajupf.com/20260924/hS0K5ddu/index.m3u8$$$全集完结$https://vodcnd17.ajupf.com/share/XCfXnGYdIc",
-    "update_time": "2026-09-27 22:58:42"
+    "update_time": "2026-09-27 22:58:42",
+    "play_sources": [
+      {
+        "source": "暴风资源",
+        "source_id": 172671,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "完结"
+      }
+    ]
   },
   {
     "id": 151340,
@@ -13361,7 +13413,16 @@
     "content": "<p>楚少野身负血仇，觉醒本命灵兽无垢狐，被世人嘲讽笃定其终身无法突破三阶，可楚少野偏要逆天改命！随着冒险深入，他惊觉小狐狸竟藏九阶神兽之资，路边捡的仓鼠是寻宝神宠，变异百花狸更通吉凶占卜！昔日嘲他者，皆成他登顶万灵大陆的踏脚石。兄弟热血并肩，护佑至亲周全，楚少野誓要踏碎凌霄，带着满级神兽团杀穿全场，他要让所有人明白，谁才是万灵之主！</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd17.ajupf.com/20260923/Y4dz5PIW/index.m3u8$$$全集完结$https://vodcnd17.ajupf.com/share/G2byJ6LRy5",
-    "update_time": "2026-09-26 22:58:18"
+    "update_time": "2026-09-26 22:58:18",
+    "play_sources": [
+      {
+        "source": "暴风资源",
+        "source_id": 172654,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "完结"
+      }
+    ]
   },
   {
     "id": 146394,
@@ -118801,7 +118862,16 @@
     "content": "<p><span style=\"color: #222222; font-family: -apple-system, BlinkMacSystemFont, \">《当时只道是卿卿》这个名字听着就带着点都市婚姻里的暗涌，杨泽和赵夕汐的组合，怕是要从体面夫妻演成面具夫妻。豪门</span><a target=\"_blank\" href=\"https://www.kandianying.tv/tag/qianjin/\" title=\"View all posts in 千金\" style=\"box-sizing: border-box; color: rgb(35, 35, 35); transition: 0.3s ease-in; box-shadow: rgb(255, 82, 43) 0px -1px 0px 0px inset; font-family: -apple-system, BlinkMacSystemFont, \">千金</a><span style=\"color: #222222; font-family: -apple-system, BlinkMacSystemFont, \">这个标签摆在这里，</span><a target=\"_blank\" href=\"https://www.kandianying.tv/tag/xianhunhoulai/\" title=\"View all posts in 先婚后爱\" style=\"box-sizing: border-box; color: rgb(35, 35, 35); transition: 0.3s ease-in; box-shadow: rgb(255, 82, 43) 0px -1px 0px 0px inset; font-family: -apple-system, BlinkMacSystemFont, \">先婚后爱</a><span style=\"color: #222222; font-family: -apple-system, BlinkMacSystemFont, \">的设定里，估计藏着不少身份落差和算计，体面崩塌只是时间问题。杨泽这个角色，怕是在外人面前维持着完美丈夫的样子，私下却处处试探赵夕汐的底线。赵夕汐嫁进杨家，肯定不是简单的爱情故事，继母的挑剔、家族的审视，每一步都是试探。杨泽表面上维护她，实则可能也在利用她的</span><a target=\"_blank\" href=\"https://www.kandianying.tv/tag/qianjin/\" title=\"View all posts in 千金\" style=\"box-sizing: border-box; color: rgb(35, 35, 35); transition: 0.3s ease-in; box-shadow: rgb(255, 82, 43) 0px -1px 0px 0px inset; font-family: -apple-system, BlinkMacSystemFont, \">千金</a><span style=\"color: #222222; font-family: -apple-system, BlinkMacSystemFont, \">身份巩固自己的地位。最烦的是那种表面帮腔、背后捅刀的助理，明着说&quot;夫人别太辛苦&quot;，转头就把她的话曲解给老爷子听。家宴上赵夕汐的一个小失误，被杨泽不动声色地圆过去，却让继母的眼神更加阴鸷。观众会想看赵夕汐怎么在这场婚姻博弈里站稳脚跟。她表面顺从，暗地里可能也在布局，毕竟</span><a target=\"_blank\" href=\"https://www.kandianying.tv/tag/qianjin/\" title=\"View all posts in 千金\" style=\"box-sizing: border-box; color: rgb(35, 35, 35); transition: 0.3s ease-in; box-shadow: rgb(255, 82, 43) 0px -1px 0px 0px inset; font-family: -apple-system, BlinkMacSystemFont, \">千金</a><span style=\"color: #222222; font-family: -apple-system, BlinkMacSystemFont, \">不是白当的。杨泽越是用利益绑住她，两人之间那种欲言又止的张力就越浓。看着她如何在豪门夹缝中周旋，又如何在杨泽偶尔流露的真心中动摇，这才是最让人容易一口气看下去的地方。放在同类短剧里看，它更偏向用人物关系和节奏变化来留住观众。</span></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd15.ajupf.com/20260701/SqNAar0Y/index.m3u8$$$全集完结$https://vodcnd15.ajupf.com/share/vUWfe4XaEJ",
-    "update_time": "2026-08-10 18:14:41"
+    "update_time": "2026-08-10 18:14:41",
+    "play_sources": [
+      {
+        "source": "暴风资源",
+        "source_id": 150839,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "完结"
+      }
+    ]
   },
   {
     "id": 140468,
