@@ -43144,7 +43144,16 @@
     "content": "<p>暂无简介</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd17.ajupf.com/20260815/JjGTMeL3/index.m3u8#$$$全集完结$https://vodcnd17.ajupf.com/share/LtiiaKZWhb#",
-    "update_time": "2026-08-26 22:25:49"
+    "update_time": "2026-08-26 22:25:49",
+    "play_sources": [
+      {
+        "source": "量子资源",
+        "source_id": 166536,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
+      }
+    ]
   },
   {
     "id": 146103,
@@ -60414,6 +60423,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第20260912期"
+      },
+      {
+        "source": "索尼资源",
+        "source_id": 144867,
+        "play_from": "snm3u8",
+        "play_url": null,
+        "remarks": "更新至20261114期"
       }
     ]
   },
