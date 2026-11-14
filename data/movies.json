@@ -47376,7 +47376,16 @@
     "content": "<p>科尔·里德是富豪蒂布的贴身保镖，但一场意外袭击让蒂布丧命，科尔也被诬陷为凶手，全境通缉</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "正片$https://vodcnd16.ajupf.com/20260826/gosyn82d/index.m3u8#$$$正片$https://vodcnd16.ajupf.com/share/I0rgPrWGRC",
-    "update_time": "2026-08-26 14:18:09"
+    "update_time": "2026-08-26 14:18:09",
+    "play_sources": [
+      {
+        "source": "暴风资源",
+        "source_id": 158588,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至HD（普通话）"
+      }
+    ]
   },
   {
     "id": 139897,
