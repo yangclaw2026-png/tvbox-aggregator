@@ -17255,6 +17255,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 166555,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
@@ -24078,6 +24085,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 166559,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
@@ -67530,6 +67544,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第20261010期"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 177567,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第261114期"
       }
     ]
   },
