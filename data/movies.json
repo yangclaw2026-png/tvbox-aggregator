@@ -18131,6 +18131,13 @@
         "play_from": "lzm3u8",
         "play_url": null,
         "remarks": "已完结"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 173119,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "完结"
       }
     ]
   },
@@ -85448,7 +85455,16 @@
     "content": "<p>爷爷盖比特向孙子詹姆斯介绍了一个看似神奇的木偶匹诺曹，希望他们成为最好的朋友。然而，詹姆斯没有意识到匹诺曹天真而极端的天性，当他把匹诺曹带入现实世界、介绍给他人类社会时，这个木偶开始了一场“清除所有坏事物”的血腥十字军式行动。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "抢先版$https://vodcnd16.ajupf.com/20260820/uReXJYkE/index.m3u8$$$抢先版$https://vodcnd16.ajupf.com/share/ARPJC3uJna",
-    "update_time": "2026-08-20 17:21:12"
+    "update_time": "2026-08-20 17:21:12",
+    "play_sources": [
+      {
+        "source": "茅台资源",
+        "source_id": 141146,
+        "play_from": "mtm3u8,mtyun",
+        "play_url": null,
+        "remarks": "超清"
+      }
+    ]
   },
   {
     "id": 144945,
