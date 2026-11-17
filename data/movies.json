@@ -745,6 +745,13 @@
         "play_from": "subyun,subm3u8",
         "play_url": null,
         "remarks": "第5集"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 197257,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第7集"
       }
     ]
   },
