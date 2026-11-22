@@ -7882,7 +7882,16 @@
     "content": "<p>秦枫在校期间始终独立上进，依靠课余兼职补贴日常开销，认真完成学业。机缘之下，他得知自己来自实业家族，多年简朴的生活，是长辈希望他沉淀心性的特意安排。经过一系列综合历练考核，秦枫正式加入家族企业开展工作。他秉持务实的做事态度，梳理业务流程，和理念契合的伙伴携手拓展事业版图。面对家族留存下来的过往谜团，秦枫一边专注于企业经营，一边理性探寻往事脉络，在实践之中不断成长，扛起属于自己的责任。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd17.ajupf.com/20261004/6XVz4NmH/index.m3u8$$$全集完结$https://vodcnd17.ajupf.com/share/WAmg5gfZui",
-    "update_time": "2026-10-06 22:38:33"
+    "update_time": "2026-10-06 22:38:33",
+    "play_sources": [
+      {
+        "source": "量子资源",
+        "source_id": 167660,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
+      }
+    ]
   },
   {
     "id": 152275,
@@ -8028,7 +8037,16 @@
     "content": "<p>楚惊凰重生在天衍宗收徒大会，长老递来玉牌时她当场嘶吼退退退！转头扑向飘着烤肉香的角落——逍遥宗两位师兄正私烤灵猪。见入宗有烤肉吃，她当场秒签契约。这咸鱼宗门全员画风清奇，大乘师叔种地五十年颗粒无收，剑修烧秃山头，体修砸出斑秃峰。大师姐温柔护她修炼，丹修二师兄递来见面礼，师尊更是绝世天才梵音，逍遥宗全员独宠小师妹一人。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd17.ajupf.com/20261004/PwFSmJQg/index.m3u8$$$全集完结$https://vodcnd17.ajupf.com/share/bjkMkmQ6z7",
-    "update_time": "2026-10-06 22:29:03"
+    "update_time": "2026-10-06 22:29:03",
+    "play_sources": [
+      {
+        "source": "量子资源",
+        "source_id": 167661,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
+      }
+    ]
   },
   {
     "id": 152268,
@@ -8386,7 +8404,16 @@
     "content": "<p>大学生柴依依意外落入陌生海域，醒来就被海中最强的人鱼首领兰野捡回家。来到雄多雌少、危机暗涌的兽世，她本想先站稳脚跟，却被面冷心软的人鱼捧成掌心宝。珍珠成箱送，人鱼纱任她挑，海边小楼为她建，恨不得日日捧在怀中。她原以为余生只剩甜蜜，谁知追求者接连登场，明里示好，暗里风波不断。直到兽神给她一次返回原世界的机会——一边是熟悉的故乡，一边是倾尽所有守护她的人鱼。这一次，她会怎么选？</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd17.ajupf.com/20261004/9xyvooJC/index.m3u8$$$全集完结$https://vodcnd17.ajupf.com/share/bL9c8jhLkw",
-    "update_time": "2026-10-06 22:01:38"
+    "update_time": "2026-10-06 22:01:38",
+    "play_sources": [
+      {
+        "source": "量子资源",
+        "source_id": 167657,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
+      }
+    ]
   },
   {
     "id": 152248,
@@ -14721,6 +14748,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 167603,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
@@ -20939,6 +20973,20 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至HD"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 218033,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "正片"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 158526,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "正片"
       }
     ]
   },
@@ -62819,6 +62867,13 @@
         "play_from": "snm3u8",
         "play_url": null,
         "remarks": "更新至27集"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 140195,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至第34集"
       }
     ]
   },
