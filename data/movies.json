@@ -14840,6 +14840,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 168225,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
@@ -14977,6 +14984,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 168226,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
@@ -15573,6 +15587,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 168217,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
@@ -17510,7 +17531,16 @@
     "content": "<p>真公主月无心重生之后被迫替嫁，嫁给陷入昏迷的摄政王苍玄霄。看似痴傻黏人的王爷实则心思深沉、重情重义，二人彼此信任携手同行。他们一步步揭开侯府当年调换真假公主的阴谋，令假公主月如意原形毕露，又破除太后与月侯爷的算计。月无心洗刷过往冤屈，与父皇、太子兄长相认，齐心化解外部祸患。在并肩斗争中她完成自我蜕变，收获真挚的姻缘，迎来圆满结局。</p><p><br/></p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd17.ajupf.com/20260917/ItUF6K1I/index.m3u8$$$全集完结$https://vodcnd17.ajupf.com/share/Kwv0foW84a",
-    "update_time": "2026-09-17 22:39:32"
+    "update_time": "2026-09-17 22:39:32",
+    "play_sources": [
+      {
+        "source": "量子资源",
+        "source_id": 168195,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
+      }
+    ]
   },
   {
     "id": 150068,
@@ -17552,6 +17582,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 168194,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
@@ -25239,6 +25276,13 @@
         "play_from": "lzm3u8",
         "play_url": null,
         "remarks": "已完结"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 150047,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "完结"
       }
     ]
   },
