@@ -3330,6 +3330,13 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 168266,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
@@ -9791,7 +9798,16 @@
     "content": "<p>孤女沈小鱼失去十二岁前记忆，被沈家收养后遭老鸨设局送上靖王慕清渊床榻，又被沈家卖给二婚男人。慕清渊相救带回将军府，两人渐生情愫。随着头疾医治，沈小鱼身世揭开——她竟是被调包的真公主。她与慕清渊并肩破局，终封青禾公主赐婚成眷属。</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd17.ajupf.com/20261001/mfQnaoef/index.m3u8$$$全集完结$https://vodcnd17.ajupf.com/share/qDXHk197Ss",
-    "update_time": "2026-10-04 22:58:56"
+    "update_time": "2026-10-04 22:58:56",
+    "play_sources": [
+      {
+        "source": "量子资源",
+        "source_id": 168250,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
+      }
+    ]
   },
   {
     "id": 152050,
@@ -76697,6 +76713,34 @@
         "play_from": "bfzym3u8",
         "play_url": null,
         "remarks": "更新至HD"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 216114,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "正片"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 191989,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "正片"
+      },
+      {
+        "source": "暴风资源",
+        "source_id": 158003,
+        "play_from": "bfzym3u8",
+        "play_url": null,
+        "remarks": "更新至HD"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 156607,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "正片"
       }
     ]
   },
