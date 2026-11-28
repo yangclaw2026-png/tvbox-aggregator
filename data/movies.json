@@ -4683,6 +4683,27 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第06集"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 225314,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第15集已完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 201188,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第15集已完结"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 165779,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第15集已完结"
       }
     ]
   },
@@ -14220,6 +14241,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 168479,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
@@ -15001,6 +15029,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 168486,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
@@ -15251,6 +15286,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 168487,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
@@ -15741,6 +15783,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 168480,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
@@ -17670,7 +17719,16 @@
     "content": "<p>暂无简介</p>",
     "play_from": "dbm3u8$$$dbyun",
     "play_url": "全集完结$https://vodcnd17.ajupf.com/20260917/rE0ZEMQ8/index.m3u8$$$全集完结$https://vodcnd17.ajupf.com/share/QdWlWggOTU",
-    "update_time": "2026-09-17 22:38:56"
+    "update_time": "2026-09-17 22:38:56",
+    "play_sources": [
+      {
+        "source": "量子资源",
+        "source_id": 168458,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
+      }
+    ]
   },
   {
     "id": 150065,
@@ -18377,6 +18435,13 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "全集完结"
+      },
+      {
+        "source": "量子资源",
+        "source_id": 168452,
+        "play_from": "lzm3u8",
+        "play_url": null,
+        "remarks": "已完结"
       }
     ]
   },
@@ -18886,6 +18951,27 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第19集"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 225336,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第63集已完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 201210,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第63集已完结"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 165802,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第63集已完结"
       }
     ]
   },
@@ -42401,6 +42487,27 @@
         "play_from": "mtm3u8,mtyun",
         "play_url": null,
         "remarks": "第17集"
+      },
+      {
+        "source": "光速资源",
+        "source_id": 225337,
+        "play_from": "gsyun,gsm3u8",
+        "play_url": "",
+        "remarks": "第60集已完结"
+      },
+      {
+        "source": "红牛资源",
+        "source_id": 201211,
+        "play_from": "hnm3u8",
+        "play_url": null,
+        "remarks": "第60集已完结"
+      },
+      {
+        "source": "速播资源",
+        "source_id": 165801,
+        "play_from": "subyun,subm3u8",
+        "play_url": null,
+        "remarks": "第60集已完结"
       }
     ]
   },
